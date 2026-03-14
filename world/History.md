@@ -190,6 +190,20 @@ Scholars who have accessed adjacent records describe the interaction between the
 
 ---
 
+## The Ironfield Surge
+
+**Status:** *[Documented — regional archive]*
+
+**Summary:** Late Third Era records from the Ironfield valley district document a synchronized emergence event from a Class II dungeon that overwhelmed the local hunter population. Approximately 12,000 Carrion Birds and Giant Insects emerged in what local records describe as a single continuous wave lasting approximately eighteen hours. MOD intervention was required to neutralize the swarm and establish perimeter containment.
+
+Post-event analysis identified no mechanical explanation for the synchronization. Standard Class II dungeons operate in pulse cycles that would prevent output of this density without a structural escalation event, yet no escalation signatures were observed in pre-event surveys. The dungeon was reclassified to Class III following the event.
+
+**Significance:** The Ironfield Surge is the earliest well-documented case of unexplained monster emergence synchronization. It is cited in MOD Dungeon Surveyor training as the primary historical example of survey blindspot failure — the dungeon had been assessed as stable six weeks before the breach. The case contributed to current protocols requiring continuous passive monitoring rather than quarterly manual assessment for all Class II and above dungeons.
+
+**Cross-Reference:** `systems/Monsters.md` — Lesser Monsters, Notable Case; Dungeon System, Dungeon Classification
+
+---
+
 # Fourth Era
 
 ---
@@ -229,6 +243,22 @@ Caste's commanders attributed her unit's survival to her exceptional medical ski
 **Significance:** Orvielle Caste's posthumous identification is the most openly documented Vitality Sigil case in historical record. Her case is used in MOD training materials as an example of how Sigil bearer identification can be delayed indefinitely when the bearer's conventional skills are sufficient to explain observed outcomes. Her unit's survival records are still referenced in field medicine literature. House Dravenmore added her lineage to their private genealogical registry within a week of the identification.
 
 **Cross-Reference:** `systems/Sigils.md` — Sigil of Vitality
+
+---
+
+## The Ashenmoor Colossus
+
+**Status:** *[Documented — field records archived]*
+
+**Summary:** Campaign records from the Ashenmoor Campaigns document Dire Giant Specimen AD-7, an aberrant Dire Monster encountered in the Ashenmoor region and responsible for eleven confirmed settlement destructions across a period of several weeks before engagement. Physical measurements conducted post-neutralization exceeded all prior Dire Giant records by approximately 40%, and the size discrepancy could not be explained by known Dire tier growth mechanics.
+
+A coordinated A-rank team achieved neutralization after three failed engagements. The fourth engagement required deliberate terrain exploitation tactics to compensate for the specimen's resistance to frontal assault. Two hunters were killed during the failed engagements; none were lost in the final operation.
+
+The Registry's classification note for Specimen AD-7 reads: *[Aberrant — Cause Undetermined]*. No biological explanation for the size variance was established. MOD theoretical researchers have suggested the synchronization of nearby dungeon pulse activity during the same period may have introduced an anomalous essence density into the regional environment. The theory is not formally documented.
+
+**Significance:** The Ashenmoor Colossus case is cited in MOD field operations training as a precedent for escalating engagement protocols when Dire tier specimens exceed measurable physical norms. It established the current policy of requiring post-neutralization physical documentation for any Dire specimen exhibiting anomalous behavioral or physiological characteristics.
+
+**Cross-Reference:** `systems/Monsters.md` — Dire Monsters, Notable Case; Dungeon System, Ashenmoor Campaign Escalations
 
 ---
 
@@ -342,6 +372,28 @@ MOD classified the location as a natural phenomenon requiring continued monitori
 
 ---
 
+# Fifth Era
+
+---
+
+## The Dreaming of Valcrest
+
+**Status:** *[Classified — containment confirmed, outcome sealed]*
+
+**Summary:** Fifth Era administrative records from the Valcrest district document a surge in unexplained comatose incidents across a two-week period — residents who entered sleep and did not wake. Seventeen civilians and three hunters were affected before MOD engagement was authorized. Physical examination of affected individuals revealed no pathological cause; victims were physically stable but cognitively unreachable.
+
+MOD identified the cause as a Keystone-class Dream/Nightmare specimen, designated Specimen NKS-1, operating in the district. Standard engagement protocols were assessed as insufficient; the specimen operated in non-physical engagement space resistant to conventional attacks. The engagement team consisted of four hunters with documented psychic resistance and one Mindscape Gaze bearer serving as primary combatant.
+
+Engagement duration as measured externally: 4 hours, 11 minutes. Engagement duration as reported subjectively, averaged across the team: 14 days. Specimen was neutralized. All seventeen affected civilians recovered, with varying degrees of memory loss covering recent weeks. The three hunters did not recover. MOD classification of the hunters' permanent condition: [Psychic Displacement — Sealed].
+
+**Institutional Response:** The Valcrest incident established current protocols for Dream/Nightmare Keystone engagement, including mandatory Mindscape-adjacent Gaze bearer participation. The psychic displacement outcome for the three hunters is cited in MOD training materials on acceptable engagement trade-offs for Keystone-class containment, without details.
+
+**Significance:** The Dreaming of Valcrest is the primary documented case for Dream/Nightmare Keystone Monster engagement. It is the origin case for the policy requiring subjective-duration disclosure in Keystone engagement after-action reports, and for the classification of Mindscape Gaze bearers as essential personnel for this monster type.
+
+**Cross-Reference:** `systems/Monsters.md` — Keystone Monsters: Dream/Nightmare, The Dreaming of Valcrest; `systems/Gazes.md` — Ethereal Gaze of Mindscape
+
+---
+
 # Sixth Era
 
 ---
@@ -359,6 +411,22 @@ Physical consequence: Approximately 4,000 km² of reality remain temporally frac
 **Significance:** The Sixth Era Collapse represents the clearest historical example of extinction-level forbidden magic catastrophe. Reality Fabrication is now the highest-classified forbidden magic with absolute research ban and death sentence for any attempt to replicate or theorize on the mechanism.
 
 **Cross-Reference:** `systems/Arcane.md` — Forbidden Magic: Reality Fabrication; `systems/Dimensions.md` — Temporal Fracture Zones (restricted access)
+
+---
+
+## The Caldenmere Void Reacher
+
+**Status:** *[Classified — specimen status unresolved]*
+
+**Summary:** Sixth Era MOD field observations document a Spatial Keystone Monster — Void Reacher class — operating in the Caldenmere Plateau region coincident with the dimensional instability preceding the Reality Fabrication Catastrophe. The specimen was observed opening spatial apertures in populated areas, displacing and killing several hunters and civilians who entered or were pulled through them. Standard engagement was attempted twice; both teams suffered casualties and failed to close to engagement range before the specimen repositioned.
+
+Whether the Void Reacher's presence was a symptom of pre-existing dimensional stress in the region or a contributing cause to the instability exploited by Archmongers Thessalyn and Korven was not conclusively established. The specimen ceased appearing in the area following the Sixth Era Collapse. Investigation into its current location or status has never produced a confirmed sighting.
+
+**Institutional Response:** MOD maintains an active search designation for the Caldenmere Void Reacher at low priority. Current status: [Active Search — Low Priority / Presumed Displaced by Collapse event]. Eternal Guard's working assumption is that the temporal fracture zone displaced the specimen to an inaccessible region or timeline. No formal closure of the search file has been authorized.
+
+**Significance:** The Caldenmere Void Reacher is the only Keystone-class specimen in Hyperion's modern record that was never neutralized and whose current location is unknown. Its unresolved status is a standing footnote in MOD's Spatial Keystone engagement protocols — specifically cited as justification for the requirement that all Spatial engagements include Hexline architecture specialists capable of closing apertures rather than simply monitoring them.
+
+**Cross-Reference:** `systems/Monsters.md` — Keystone Monsters: Space, The Caldenmere Void Reacher; The Sixth Era Collapse (above)
 
 ---
 
