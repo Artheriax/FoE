@@ -38,6 +38,7 @@ there are dual or even triple gazes.
 ## Evolution Lineage Reference
 
 **Complete Lineages:**
+
 - Destruction → Cataclysm → (Absolute: Oblivion)
 - Harmony → Imperviousness* → (no Absolute link)
 - Kinesis → Omnikinesis → (no Absolute link)
@@ -75,6 +76,7 @@ or dissect the bearer to understand the source of their power.
 The Monster Oversight Division maintains the most comprehensive registry of verified Gaze bearers in Hyperion. All individuals confirmed to possess a Gaze, regardless of tier, are registered and monitored through the Bureau of Phenomenal Capacity (BPC). Registration provides legal protection but also mandates periodic evaluations and restrictions on ability use.
 
 **Amplitude Ratings** for Gaze bearers are adjusted accordingly:
+
 - Standard Gazes: +2 to +4 ratings
 - Supreme Gazes: +5 to +7 ratings
 - Absolute Gazes: Classified (theoretical)

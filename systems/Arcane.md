@@ -250,18 +250,21 @@ Arcane practitioners serve critical roles across MOD operations and civilian inf
 ### School-Specific Roles
 
 **Luminancy (Holy Magic)**
+
 - Medical operations: Field healing, disease treatment, resurrection consultation
 - Sanctioning authority: Guilt determination, purification rituals, soul consultation
 - Infrastructure: Holy grounds consecration, corruption suppression
 - Civilian applications: Healing temples, faith-based counseling
 
 **Umbraturgy (Unholy Magic)**
+
 - MOD oversight: Advanced surveillance operations, intelligence extraction
 - Criminal investigation: Deep interrogation, psychological manipulation (regulated)
 - Military applications: Tactical darkness deployment, morale disruption
 - Regulatory status: Enhanced licensure requirements; practitioners monitored for corruption risk
 
 **Elemental Magic (All Six Schools)**
+
 - Pyromancy: Industrial heating, metallurgical forging, tactical fire support
 - Cryomancy: Essence containment (frozen storage facilities), evidence preservation, extreme climate research
 - Fulminancy: Hexline Tower operation and maintenance, power generation, technological interference suppression
@@ -270,6 +273,7 @@ Arcane practitioners serve critical roles across MOD operations and civilian inf
 - Umbrakinesis: Elite hunter support, stealth operations, shadow-phase reconnaissance
 
 **Keystone Magic**
+
 - Temporal Magic: Highly restricted; used only in Eternal Guard consultation for historical validation
 - Spatial Magic: Hexline system (Archon Dravenmore active oversight), interdimensional containment, pocket dimension management
 - Cosmic Magic: Strategic starfall support for elite hunters, gravitic manipulation for containment structures
