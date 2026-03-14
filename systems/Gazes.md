@@ -84,6 +84,8 @@ The Monster Oversight Division maintains the most comprehensive registry of veri
 
 Individuals suspected of possessing unregistered Gazes are subject to mandatory MOD evaluation. Resistance to evaluation is grounds for facility commitment under the Threshold Directive of 245 Eastern Era.
 
+**Registered Bearers (current):** Approximately 150,000 confirmed Standard Gaze bearers across all twelve types are on active Registry record — roughly 12,500 per type on average, with some types documented more widely than others depending on historical identification rates. Approximately 3,000 confirmed Supreme bearers carry individual standing files. Absolute-tier confirmed mortal cases exist but are classified above Registry access level; MOD's accessible records reflect zero confirmed Absolute bearers. Ethereal tier remains unconfirmed within Registry records.
+
 **Incidents and Oversight:** Gazes have been responsible for 23 documented major incidents affecting population centers. All major incidents resulted in revised containment protocols and/or enforcement of sanctuary placement for problematic bearers.
 
 ---
@@ -295,7 +297,7 @@ infinite void.
 
 # Supreme Gazes
 
-**MOD Note:** Only 47 confirmed Supreme Gaze bearers exist in the current registry. Each represents a documented evolutionary event (racial advancement or spontaneous mutation) and remains under permanent MOD oversight. Supreme tier activation incidents average 8 per decade and require immediate specialized response teams.
+**MOD Note:** Approximately 3,000 confirmed Supreme Gaze bearers exist in the current registry — rare enough that each carries an individual standing file, but common enough that confirmation is no longer an institutional event in itself. Each represents a documented evolutionary event (racial advancement or spontaneous mutation) and remains under permanent MOD oversight. Supreme tier activation incidents average several dozen per decade and require immediate specialized response teams.
 
 **Evolution Threshold:** Standard Gazes may evolve to Supreme upon bearer transformation to higher race (Celestial, Primordial, etc.). Supreme evolution cannot be induced and selection criteria remain unknown.
 
@@ -387,7 +389,7 @@ for every person who looks upon them.
 
 # Absolute Gazes
 
-**MOD Classification:** No verified mortal bearers of Absolute Gazes exist in current MOD records. All documented Absolute Gazes are attributed to the Higher Ones—cosmic entities existing outside normal power hierarchies. Theoretical bearers would exceed MOD containment capacity and likely trigger emergency protocols at Eternal Guard oversight level.
+**MOD Classification:** No Absolute Gaze bearer files exist within MOD's accessible Registry. Confirmed mortal bearers do exist — Eternal Guard working estimates place the active population at approximately 150 individuals across all Absolute Gaze types — but every such case is classified above MOD access level at Eternal Guard authority and does not appear in Registry records. MOD's official position, accurate within the limits of its access, remains: no confirmed mortal Absolute bearers in current MOD records. Containment of any confirmed case would exceed standard MOD capacity; all engagement authority is reserved to the Eternal Guard.
 
 **Academic Status:** Absolute Gazes remain the subject of intense theological and academic debate. Some deny their existence entirely, classifying historical accounts as mythology. Others treat their potential existence as fundamental to understanding cosmic balance.
 

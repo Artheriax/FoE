@@ -1,6 +1,6 @@
 # World Overview
 
-Of the many worlds woven into the tapestry of the multiverse, Hyperion stands as a bastion of both the ancient and the modern, a realm where magic fuels technology and the echoes of primordial forces shape the destiny of all who dwell within. It is a world of immense scale and complexity, bound by the fundamental law of growth: that all living beings may increase their power by gathering energy from the monsters that plague the land.
+Of the many worlds woven into the tapestry of the multiverse, Hyperion stands as a bastion of both the ancient and the modern, a realm where magic fuels technology and the echoes of primordial forces shape the destiny of all who dwell within. Hyperion is approximately twice the size of a standard inhabited world, home to a population of roughly 15 billion — 6 billion Human and 9 billion distributed across the full range of magical and non-magical races. It is a world of immense scale and complexity, bound by the fundamental law of growth: that all living beings may increase their power by gathering energy from the monsters that plague the land.
 
 These monsters are categorized by their affinities and threats. From the common Lesser Monsters like goblins and wolves to the elemental Blaze, Frost, Shock, Terra, Radiant, and Umbral Monsters, each presents a stepping stone on the path to power. The mighty Dire Monsters offer raw energy, while the enigmatic Keystone Monsters, masters of rare concepts like time or space, hold the coveted Keystone Essences. Holy and Unholy Monsters represent the cosmic struggle between light and darkness, their essences reflecting this eternal conflict.
 
@@ -45,6 +45,18 @@ On Hyperion itself, the mortal races carve out their lives. The Astrae, rare and
 
 *→ `world/Races.md` — Mortal Races | Middle Races | Dark Elves*
 *→ `organizations/Organizations.md` — MOD Racial Registration Framework | Hunter Registry*
+
+---
+
+## Civilization and Technology
+
+Hyperion's settled regions are defined by a clean, functional aesthetic that emerged from centuries of Techno-Magic refinement. Urban centers favor white concrete and light-reactive stonework; aetheric draw stations distributed across residential and commercial districts provide reliable clean energy to all connected settlements. Intra-city transit runs on attunement rail — magnetic-aetheric lines that move without combustion and without the dimensional overhead of the Hexline network. Green space is integrated deliberately into civic architecture.
+
+The standard of living in established cities is high. Clean energy is normalized, structures are built for permanence and natural light, and the infrastructure supporting daily life is maintained by a combination of Human Techno-Magic engineering and conventional civil systems developed over centuries of settled civilization. Hyperion's cities do not look like places at war with their environment.
+
+The frontier is different. Beyond established settlement perimeters, dungeon proximity, monster emergence risk, and the limits of MOD containment coverage create conditions that no amount of infrastructure corrects for. Hunting as a profession exists precisely because the frontier cannot be made safe by architecture alone.
+
+*→ `world/Races.md` — Humans | Techno-Magic Infrastructure*
 
 ---
 

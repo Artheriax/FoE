@@ -29,7 +29,7 @@ MOD's headquarters is a fortified city-scale complex whose precise location and 
 
 #### The Hunter Registry
 
-The Registry maintains the active database of all registered hunters: rank, race, arcane affiliation, Amplitude assessment, Gaze and Sigil status, combat record, and breach response history. As of the current registration cycle, the Registry holds approximately 344,000 active hunter files. An additional estimated 80,000–120,000 unregistered individuals with hunter capabilities operate outside MOD oversight in contested or remote territories; pursuit of registration compliance in those regions is an ongoing Registry enforcement priority.
+The Registry maintains the active database of all registered hunters: rank, race, arcane affiliation, Amplitude assessment, Gaze and Sigil status, combat record, and breach response history. As of the current registration cycle, the Registry holds approximately 180 million active hunter files. An additional estimated 30–35 million individuals with hunter capabilities operate outside MOD oversight in contested or remote territories; pursuit of registration compliance in those regions is an ongoing Registry enforcement priority.
 
 Registration requires a full assessment of physical and mental Source grades, arcane affinity, and any identified passive abilities. Failure to report a power breakthrough for re-assessment is a sanctionable offense under Registration Code, Section 3.
 
@@ -45,7 +45,7 @@ The alphanumeric Rank (E–X) is both a competency certification and an operatio
 | S | Strategic asset | Continental recognition; standing breach response designation |
 | X | Exceptional | Direct Eternal Guard coordination on sealed-classification engagements |
 
-An A-rank hunter holds regional strategic significance. S-rank hunters are tracked individually by The Bastion independent of guild affiliation. X-rank hunters are a standing population of fewer than twenty confirmed individuals at any given time; their assignments are coordinated at a level above standard MOD chain of command.
+An A-rank hunter holds regional strategic significance. S-rank hunters are tracked individually by The Bastion independent of guild affiliation. X-rank hunters are a standing population of fewer than fifty confirmed individuals at any given time; their assignments are coordinated at a level above standard MOD chain of command.
 
 #### Field Operations Division
 
@@ -69,7 +69,7 @@ The Ironfield Surge (Third Era) is the foundational case in Dungeon Division tra
 
 #### Arcane Registry
 
-The licensing and oversight body for all arcane practitioners. The Arcane Registry holds files on approximately 12,400 registered practitioners as of the current registration period, covering amplitude rating (Novice through Archmage), spell school affiliation, restricted school status, and research history.
+The licensing and oversight body for all arcane practitioners. The Arcane Registry holds files on approximately 45 million registered practitioners as of the current registration period, covering amplitude rating (Novice through Archmage), spell school affiliation, restricted school status, and research history.
 
 Practitioners are required to register prior to public practice. Arcane activity that falls within or adjacent to any forbidden school triggers mandatory Registry notification and review. Registry authority extends to the issuance of research licenses for restricted study areas and the revocation of practice credentials for violations of Arcane Code.
 

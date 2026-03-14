@@ -12,7 +12,7 @@ Magical aptitude is not innate—any sentient being can learn to practice magic.
 
 The Monster Oversight Division maintains comprehensive records on all registered spell-casters and arcane practitioners across Hyperion. Registration occurs upon demonstrated competency (typically casting spells consistently at Lesser or Greater tiers) or when a practitioner registers voluntarily for institutional work.
 
-- **Registered Practitioners:** ~12,400 active spell-casters tracked by primary school and secondary specialties
+- **Registered Practitioners:** ~45 million active spell-casters tracked by primary school and secondary specialties — approximately 38 million Novice/Apprentice tier, 6 million Journeyman/Adept, 850,000 Expert/Master, and roughly 2,200 practitioners who have received formal Archmage-level recognition
 - **Amplitude Ratings:** Skill classification from Novice (experimental Lesser spells) to Archmage (masters of Keystone schools). Unlike Gaze amplitude, arcane amplitude reflects measured casting capacity and theoretical knowledge, not mystical power.
 - **Regulatory Framework:** High-tier practitioners (Keystone school users) require MOD licensing and periodic evaluation. Forbidden magic practitioners are subject to immediate apprehension and termination of citizenship rights.
 - **Institutional Roles:** Luminancy practitioners in medical and sanctioning operations; Fulminancy specialists in Hexline Tower maintenance; Terra Magic users in infrastructure development; Umbraturgy practitioners subject to enhanced oversight.

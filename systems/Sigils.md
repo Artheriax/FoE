@@ -52,6 +52,8 @@ Registered bearers receive a secondary Amplitude score reflecting their Sigil's 
 
 The Registry is also monitored by a classified internal division. Certain Sigil types --- most notably Adaptation variants --- trigger automatic secondary surveillance under protocols the MOD does not publicly acknowledge. Bearers of Absolute and Ethereal Sigils are listed in sealed files accessible only to senior directors and, reportedly, the Eternal Guards.
 
+**Registered Bearers (current):** Approximately 60,000 confirmed Standard-tier Sigil bearers are on active Registry record across all six types — roughly 10,000 per type on average, though distribution varies. Approximately 1,500 confirmed Supreme-tier bearers carry individual standing files. Absolute and Ethereal cases are sealed at Eternal Guard authority and do not appear in accessible Registry records; to the general Registry, they remain effectively unconfirmed.
+
 ---
 
 ## Sigil Evolution
@@ -70,7 +72,7 @@ No documented case exists of a Sigil evolving past its natural tier ceiling thro
 
 - **Supreme Sigils:** These represent a mastery over the body's functions, allowing for rapid regeneration, preternatural reflexes, and the ability to permanently adapt to even the most hostile environments.
 
-- **Absolute Sigils:** These Sigils begin to defy biology entirely, granting immunity to external forces, halting aging, and even anchoring the soul itself against metaphysical attack. They are considered mythical in the modern era.
+- **Absolute Sigils:** These Sigils begin to defy biology entirely, granting immunity to external forces, halting aging, and even anchoring the soul itself against metaphysical attack. Confirmed mortal bearers exist — Eternal Guard working estimates suggest approximately 30 active Absolute Sigil bearers globally — but all such cases are sealed above MOD Registry access. To the general Registry, they remain effectively mythical.
 
 - **Ethereal Sigils:** The theoretical pinnacle of physical existence. These Sigils would not just enhance the body but redefine its relationship with reality itself, granting immunity to cosmic laws, true immortality, and an evolutionary adaptability that responds to any threat instantly.
 
