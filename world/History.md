@@ -104,7 +104,7 @@ The devil house formally withdrew from all further action involving the bearer. 
 
 **Significance:** This case is the origin of all current Eternal Guard protocol regarding infernal contracts and confirmed Soul Anchoring bearers. The ruling issued afterward remains in effect and has been cited in contract law forty-three times since: *Soul Anchoring bearers are exempt from all infernal contractual provisions, prospective and retrospective, as the required mechanism for enforcement cannot be applied to them.*
 
-**Cross-Reference:** `systems/Sigils.md` — Absolute Sigil of Soul Anchoring; `organizations/Organizations.md` — The Eternal Guard; Institutional Precedents, The Compact Defiant Adjudication
+**Cross-Reference:** `systems/Sigils.md` — Absolute Sigil of Soul Anchoring; `organizations/Organizations.md` — The Eternal Guard; Institutional Precedents, The Compact Defiant Adjudication; `world/Dimensions.md` — Gehenna
 
 ---
 
@@ -320,7 +320,7 @@ Across numerous documented cases, Ghastward was documented as having precise kno
 
 **Significance:** Ghastward represents a case of Gaze bearer operating in specialized institutional context (spiritual/religious framework) without contemporary Gaze-focused framework. Her reputation and integration into local spiritual tradition was sufficiently complete that MOD identification was never pursued during her lifetime. She is venerated in Shepherd sect traditions.
 
-**Cross-Reference:** `systems/Gazes.md` — Gaze of Spirits, historical bearer section
+**Cross-Reference:** `systems/Gazes.md` — Gaze of Spirits, historical bearer section; `world/Dimensions.md` — Dreamveil
 
 ---
 
@@ -352,7 +352,7 @@ The practitioner survived the attempted entity contact but underwent metabolic a
 
 **Significance:** This case represents the intermediate outcome between successful possession (Third Era) and failed contact. The practitioner's survival as an anchor suggests that complete entity possession may not be inevitable with Deep Umbraturgy contact, but partial transformation/anchor status may be irreversible.
 
-**Cross-Reference:** `systems/Arcane.md` — Forbidden Magic: Shadow Magic (Deep Umbraturgy); `organizations/Organizations.md` — The Eternal Guard
+**Cross-Reference:** `systems/Arcane.md` — Forbidden Magic: Shadow Magic (Deep Umbraturgy); `organizations/Organizations.md` — The Eternal Guard; `world/Dimensions.md` — Dreamveil
 
 ---
 
@@ -390,7 +390,7 @@ Engagement duration as measured externally: 4 hours, 11 minutes. Engagement dura
 
 **Significance:** The Dreaming of Valcrest is the primary documented case for Dream/Nightmare Keystone Monster engagement. It is the origin case for the policy requiring subjective-duration disclosure in Keystone engagement after-action reports, and for the classification of Mindscape Gaze bearers as essential personnel for this monster type.
 
-**Cross-Reference:** `systems/Monsters.md` — Keystone Monsters: Dream/Nightmare, The Dreaming of Valcrest; `systems/Gazes.md` — Ethereal Gaze of Mindscape
+**Cross-Reference:** `systems/Monsters.md` — Keystone Monsters: Dream/Nightmare, The Dreaming of Valcrest; `systems/Gazes.md` — Ethereal Gaze of Mindscape; `world/Dimensions.md` — Dreamveil
 
 ---
 
@@ -410,7 +410,7 @@ Physical consequence: Approximately 4,000 km² of reality remain temporally frac
 
 **Significance:** The Sixth Era Collapse represents the clearest historical example of extinction-level forbidden magic catastrophe. Reality Fabrication is now the highest-classified forbidden magic with absolute research ban and death sentence for any attempt to replicate or theorize on the mechanism.
 
-**Cross-Reference:** `systems/Arcane.md` — Forbidden Magic: Reality Fabrication; `systems/Dimensions.md` — Temporal Fracture Zones (restricted access); `organizations/Organizations.md` — The Eternal Guard; Institutional Precedents
+**Cross-Reference:** `systems/Arcane.md` — Forbidden Magic: Reality Fabrication; `world/Dimensions.md` — The Aether (Sixth Era Collapse); `organizations/Organizations.md` — The Eternal Guard; Institutional Precedents
 
 ---
 
@@ -476,7 +476,7 @@ Dravenmore achieved Archmage status recognition and was granted lifetime institu
 
 **Significance:** Archon Dravenmore represents the highest level of institutional integration for an Archmage-tier practitioner. His contributions to infrastructure are considered vital to MOD continuity and civilization stability. His classified research attempts suggest cognitive interest in forbidden mechanics despite institutional restrictions.
 
-**Cross-Reference:** `systems/Arcane.md` — Keystone Magic Practitioners, Archon Dravenmore; Forbidden Magic: Nil Space Magic
+**Cross-Reference:** `systems/Arcane.md` — Keystone Magic Practitioners, Archon Dravenmore; Forbidden Magic: Nil Space Magic; `world/Dimensions.md` — The Aether | Nil Space
 
 ---
 
