@@ -4,9 +4,9 @@ Of the many worlds woven into the tapestry of the multiverse, Hyperion
 stands as a bastion of both the ancient and the modern, a realm where
 magic fuels technology and the echoes of primordial forces shape the
 destiny of all who dwell within. It is a world of immense scale and
-complexity, bound by the fundamental law of ascension: that all living
-beings may evolve into superior forms by gathering energy from the
-monsters that plague the land.
+complexity, bound by the fundamental law of growth: that all living
+beings may increase their power by gathering energy from the monsters
+that plague the land.
 
 These monsters are categorized by their affinities and threats. From the
 common Lesser Monsters like goblins and wolves to the elemental Blaze,
@@ -17,7 +17,7 @@ like time or space, hold the coveted Keystone Essences. Holy and Unholy
 Monsters represent the cosmic struggle between light and darkness, their
 essences reflecting this eternal conflict.
 
-The energy harvested from these creatures is the currency of evolution.
+The energy harvested from these creatures is the currency of power.
 Neutral monsters yield Energy Fragments, while those with an affinity
 grant Core Essences. The rarest of all, the Keystone Essences, are keys
 to unlocking transformations beyond ordinary limits.
@@ -28,9 +28,8 @@ The inhabitants of Hyperion are diverse, but not all are born equal. A
 rigid, cosmic hierarchy of races defines the potential of every being,
 from the lowly Human to the god-like Celestial. This hierarchy is not
 merely a measure of strength but a boundary of existence. Most races
-have a maximum potential form, a ceiling of power they cannot breach
-without undergoing a special evolution to change their very species.
-This process is perilous; a Forced Evolution, caused by absorbing too
+have a maximum potential form, a ceiling of power they cannot breach.
+This process is perilous; a Forced Growth, caused by absorbing too
 much energy at once, carries the dire risks of death or being
 permanently trapped in a stunted form.
 
@@ -80,7 +79,7 @@ Oversight Division (MOD), the secondary government of Hyperion. It
 registers hunters and ranks them within their current race from E to X,
 evaluating their Skills, Magic, Knowledge, Equipment, Allies, and most
 importantly, their Amplitude---their potential for growth before their
-next evolution.
+next breakthrough.
 
 ## Gazes and Sigils
 

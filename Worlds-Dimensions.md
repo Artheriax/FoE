@@ -131,8 +131,8 @@ while in the same nation, vast, untouched forests are tended by elves
 living in cities grown from living trees. The landscape is incredibly
 diverse, featuring everything from sun-scorched deserts and frozen
 tundras to floating islands and deep, monster-infested jungles. This
-world is the stage for evolution, where beings hunt monsters for Essence
-to ascend to greater forms. Governed by the Monster Oversight Division
+world is the stage for power growth, where beings hunt monsters for Essence
+to increase their Amplitude. Governed by the Monster Oversight Division
 (MOD) and crisscrossed by the glowing energy pathways of Hexlines,
 Hyperion is a land of endless opportunity, conflict, and discovery.
 

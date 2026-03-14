@@ -247,7 +247,7 @@ Ascendants are beings of limitless potential who exist outside the
 control of any other entity. They begin their existence as members of a
 standard race, with no outward signs of their true nature. Unlike
 others, they do not have a maximum potential form; they continuously
-evolve and grow stronger, forever pushing beyond known limits. Their
+grow stronger, forever pushing beyond known limits. Their
 path is unpredictable and incredibly rare, making them wild cards in the
 cosmic balance. Some believe an Ascendant may one day challenge or even
 surpass the Eternarcs themselves.
@@ -350,10 +350,10 @@ often signifies a divine intervention of great importance.
 Draconian
 
 Draconians are powerful beings with the innate ability to transform into
-dragons. This is a fixed evolutionary path; their strength and abilities
+dragons. This is a fixed path of growth; their strength and abilities
 in both forms are determined by the type of dragon they are linked to
-(e.g., frost, blaze, terra). They cannot naturally evolve beyond this
-form unless a special, rare evolution triggers a complete change of
+(e.g., frost, blaze, terra). They cannot naturally progress beyond this
+form unless they undergo a special transformation to change their
 race.
 
 Demon
@@ -380,7 +380,7 @@ justice.
 
 Umbraxan
 
-Umbraxans are an evolution of the Voidlings, born from the enigmatic
+Umbraxans are a variant of the Voidlings, born from the enigmatic
 Void dimension. They possess a deeper connection to the Void\'s energies
 and are more aggressive and powerful than their peaceful predecessors.
 They are skilled warriors who use the Void\'s power for combat and
@@ -404,7 +404,7 @@ Aetherians are a race closely resembling humans but with a natural
 connection to the Aether, granting them minor reality-manipulating
 abilities. Their most distinctive feature is their brightly glowing
 eyes, which shine in colors like blue, pink, or green. While not as
-powerful as their evolved Aetherion cousins, they are still advanced
+powerful as their Aetherion cousins, they are still advanced
 magic-wielders, often seen as scholars and innovators within the cosmic
 community.
 

@@ -9,7 +9,7 @@ military engine that maintains the delicate equilibrium between the
 civilized races of Hyperion and the ever-present threat of monster
 outbreaks from Dungeons. While individual nations and city-states have
 their own governments for day-to-day affairs, the MOD\'s authority on
-all matters related to monster hunting, evolution, and inter-dimensional
+all matters related to monster hunting, power growth, and inter-dimensional
 incursions is absolute. Its influence is a constant across Hyperion,
 from the neon-lit spires of techno-arcanic metropolises to the most
 remote village bordering a Dungeon zone.
@@ -31,10 +31,10 @@ Its primary purposes are:
     contain outbreaks before they threaten population centers.
 
 -   Research: To study monsters, their essences, and the phenomenon of
-    evolution to better understand and combat the threat.
+    power growth to better understand and combat the threat.
 
 -   Balance: To prevent any single entity or nation from accumulating
-    enough power through evolution to destabilize the world order.
+    enough power through growth to destabilize the world order.
 
 Structure and Operation
 
@@ -48,7 +48,7 @@ Every hunter must be registered with the MOD. Registration involves a
 thorough assessment of one\'s Race, skills, magic affinity, equipment,
 and most importantly, their Amplitude (potential for growth within their
 current race). This determines their starting Rank (D to X). Hunters are
-legally required to report any evolution event for re-assessment.
+legally required to report any power breakthrough for re-assessment.
 
 The Ranking System
 
@@ -79,7 +79,7 @@ unpredictable variables that need to be controlled.
 Guilds
 
 Guilds are the lifeblood of Hyperion\'s economy and the primary vehicle
-for ambitious individuals to pursue evolution. Licensed by the MOD, they
+for ambitious individuals to pursue greater power. Licensed by the MOD, they
 range from massive corporations to small, specialized collectives.
 
 Major Guilds
@@ -101,7 +101,7 @@ reliable, repeatable results over high-risk, high-reward endeavors.
 
 -   Public Perception: Seen as professional, reliable, and a little
     soulless. They are the \"safe choice\" for a hunter career, but
-    critics call them evolutionary factories that stifle individual
+    critics call them power-hungry institutions that stifle individual
     creativity and risk-taking.
 
 Solaris Vanguard
@@ -152,17 +152,17 @@ The Geode Crawlers
     primary source of rare minerals and earth-attuned Core Essences.
 
 -   Culture: Practical, sturdy, and no-nonsense. Their members are often
-    sturdy Humans with earth-based evolutions.
+    sturdy Humans with earth-based affinities.
 
 Stormseekers
 
 -   Specialization: Shock and Blaze Monsters. They thrive in volatile,
     high-energy environments like volcanic rift Dungeons or eternal
-    storm cells. Many are Draconians or evolved beings with
+    storm cells. Many are Draconians or beings with
     lightning/storm affinities.
 
 -   Culture: Reckless, thrill-seeking, and fiercely competitive. They
-    believe that true evolution comes from confronting raw, untamed
+    believe that true power comes from confronting raw, untamed
     power head-on.
 
 The Crimson Gauntlet
@@ -174,4 +174,4 @@ The Crimson Gauntlet
 
 -   Culture: Seen as the brutish laborers of the guild world. Not
     glamorous, but it provides a steady income and combat experience for
-    those starting out or who have hit an evolutionary plateau.
+    those starting out or who have hit a power plateau.

@@ -179,6 +179,13 @@ Forces are not \"spells\" but the fundamental expressions of a Higher
 One\'s will. They are not learned; they are wielded. A mortal attempting
 to channel even a fraction of this power would be instantly unmade.
 
+-   The One: The confluence of all Higher Ones, embodying absolute cosmic
+    authority and the totality of divine power.
+
+-   The Outer One: Force of the Beyond, the spaces outside the known
+    universe, the creation of the Aether and all things alien and
+    incomprehensible.
+
 -   The Destroying One: Force of Entropy, Annihilation, Unmaking.
 
 -   The Creating One: Force of Genesis, Potential, Manifestation.
@@ -191,7 +198,7 @@ to channel even a fraction of this power would be instantly unmade.
 -   The Intervening One: Force of Aberration, the Unforeseen Variable,
     Divine Intervention.
 
--   The Observing One: Force of Record, Unchanged Memory, Silent
+-   The Observing One (Phariah): Force of Record, Unchanged Memory, Silent
     Witness.
 
 -   The Nonexistent One: Force of Erasure, the Un-Concept, the Void
@@ -199,6 +206,9 @@ to channel even a fraction of this power would be instantly unmade.
 
 -   The Nameless One: Force of Anonymity, the Forgotten Detail, Identity
     Theft on a cosmic scale.
+
+-   The Forgotten One: Force of Oblivion, the erased from all memory and
+    record, existing only as an absence.
 
 Forbidden/Unusable Magic
 

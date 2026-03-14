@@ -1,7 +1,7 @@
 # Introduction to Gazes
 
 In the world of Hyperion, power is not always measured in the energy one
-collects or the evolution one achieves. Sometimes, it is bestowed at
+collects or the power one achieves. Sometimes, it is bestowed at
 birth, a latent potential waiting behind the eyes. These rare and innate
 abilities are known as Gazes.
 
@@ -229,7 +229,7 @@ impossible colors cracking across the surface.
 
 ## Supreme Gaze of Imperviousness
 
-An evolution of a defensive Gaze not listed among the standards, this
+A superior form of a defensive Gaze not listed among the standards, this
 power nullifies all incoming energy, magic, and even conceptual attacks
 within the user\'s line of sight, creating a perfect defense.
 

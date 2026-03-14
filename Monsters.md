@@ -1,4 +1,4 @@
-Monsters
+﻿Monsters
 
 Introduction
 
@@ -6,7 +6,7 @@ Monsters are the fundamental source of power and conflict on Hyperion.
 They are not merely beasts but manifestations of raw energy and
 elemental forces, often spilling into the mortal realm from unstable
 dimensional rifts known as Dungeons. Hunting them is the primary method
-for beings to gather the Essence needed for evolution.
+for beings to gather the Essence needed to increase their power.
 
 Lesser Monsters
 
@@ -241,5 +241,4 @@ Behavior & Essence
     sought-after resource. These are not simple orbs but unique,
     crystallized concepts (e.g., a shifting hourglass, a fragment of a
     star map, a swirling vortex of thought). Absorbing such an essence
-    is incredibly dangerous but can grant evolution paths toward races
-    like the Aetherian or beyond.
+    is incredibly dangerous but can grant access to greater power within their current form or unlock rare abilities.
