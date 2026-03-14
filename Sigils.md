@@ -24,25 +24,13 @@ any normal biology should allow.
 
 ## Categories of Sigils
 
--   Standard Sigils: These enhance the body\'s core attributes:
-    strength, speed, senses, endurance, and adaptability. They are the
-    foundation of physical superiority.
+- **Standard Sigils:** These enhance the body's core attributes: strength, speed, senses, endurance, and adaptability. They are the foundation of physical superiority.
 
--   Supreme Sigils: These represent a mastery over the body\'s
-    functions, allowing for rapid regeneration, preternatural reflexes,
-    and the ability to permanently adapt to even the most hostile
-    environments.
+- **Supreme Sigils:** These represent a mastery over the body's functions, allowing for rapid regeneration, preternatural reflexes, and the ability to permanently adapt to even the most hostile environments.
 
--   Absolute Sigils: These Sigils begin to defy biology entirely,
-    granting immunity to external forces, halting aging, and even
-    anchoring the soul itself against metaphysical attack. They are
-    considered mythical.
+- **Absolute Sigils:** These Sigils begin to defy biology entirely, granting immunity to external forces, halting aging, and even anchoring the soul itself against metaphysical attack. They are considered mythical.
 
--   Ethereal Sigils: The theoretical pinnacle of physical existence.
-    These Sigils would not just enhance the body but redefine its
-    relationship with reality itself, granting immunity to cosmic laws,
-    true immortality, and an evolutionary adaptability that responds to
-    any threat instantly.
+- **Ethereal Sigils:** The theoretical pinnacle of physical existence. These Sigils would not just enhance the body but redefine its relationship with reality itself, granting immunity to cosmic laws, true immortality, and an evolutionary adaptability that responds to any threat instantly.
 
 To be born with a Sigil is to be destined for physical greatness. In the
 MOD, a Sigil bearer\'s rank within their racial tier is almost always

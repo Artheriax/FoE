@@ -35,27 +35,13 @@ there are dual or even triple gazes.
 
 ## Categories of Gazes
 
--   Standard Gazes: While rare, these are the most commonly documented
-    types. Each grants a specific, powerful ability tied to perception,
-    manipulation, or destruction.
+- **Standard Gazes:** While rare, these are the most commonly documented types. Each grants a specific, powerful ability tied to perception, manipulation, or destruction.
 
--   Supreme Gazes: These are magnitudes more powerful than standard
-    Gazes. Only a handful of individuals in a generation may possess
-    one, and their abilities can affect large areas or groups of people.
-    Their appearance is often seen as an omen of great change or
-    conflict.
+- **Supreme Gazes:** These are magnitudes more powerful than standard Gazes. Only a handful of individuals in a generation may possess one, and their abilities can affect large areas or groups of people. Their appearance is often seen as an omen of great change or conflict.
 
--   Absolute Gazes: These are the stuff of legends, powers thought to be
-    wielded only by the Higher Ones themselves. To possess an Absolute
-    Gaze is to hold a sliver of cosmic authority. No verified mortal
-    bearer of an Absolute Gaze exists in current MOD records; they are
-    considered historical or mythological.
+- **Absolute Gazes:** These are the stuff of legends, powers thought to be wielded only by the Higher Ones themselves. To possess an Absolute Gaze is to hold a sliver of cosmic authority. No verified mortal bearer of an Absolute Gaze exists in current MOD records; they are considered historical or mythological.
 
--   Ethereal Gazes: The most enigmatic of all. Many scholars debate if
-    they are real or mere theoretical constructs. Their proposed
-    functions are meta in nature, interacting with the very system of
-    Gazes themselves or the fabric of reality on a conceptual level.
-    Sightings are unconfirmed and treated as rumor or heresy.
+- **Ethereal Gazes:** The most enigmatic of all. Many scholars debate if they are real or mere theoretical constructs. Their proposed functions are meta in nature, interacting with the very system of Gazes themselves or the fabric of reality on a conceptual level. Sightings are unconfirmed and treated as rumor or heresy.
 
 Possessing a Gaze is a double-edged sword. It grants immense power but
 also makes one a target for factions who would seek to control, exploit,
