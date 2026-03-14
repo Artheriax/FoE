@@ -104,7 +104,7 @@ The devil house formally withdrew from all further action involving the bearer. 
 
 **Significance:** This case is the origin of all current Eternal Guard protocol regarding infernal contracts and confirmed Soul Anchoring bearers. The ruling issued afterward remains in effect and has been cited in contract law forty-three times since: *Soul Anchoring bearers are exempt from all infernal contractual provisions, prospective and retrospective, as the required mechanism for enforcement cannot be applied to them.*
 
-**Cross-Reference:** `systems/Sigils.md` — Absolute Sigil of Soul Anchoring
+**Cross-Reference:** `systems/Sigils.md` — Absolute Sigil of Soul Anchoring; `organizations/Organizations.md` — The Eternal Guard; Institutional Precedents, The Compact Defiant Adjudication
 
 ---
 
@@ -140,7 +140,7 @@ MOD investigation identified the disturbance as correlating with a Seduction Gaz
 
 **Significance:** This case is the origin case for all current Deep Umbraturgy (Shadow Magic) regulations and Eternal Guard protocols on Void entity possession.
 
-**Cross-Reference:** `systems/Arcane.md` — Forbidden Magic: Shadow Magic (Deep Umbraturgy); The Veiled Operations (this section)
+**Cross-Reference:** `systems/Arcane.md` — Forbidden Magic: Shadow Magic (Deep Umbraturgy); The Veiled Operations (this section); `organizations/Organizations.md` — The Eternal Guard; The Umbra Shroud
 
 ---
 
@@ -186,7 +186,7 @@ Scholars who have accessed adjacent records describe the interaction between the
 
 **Significance:** The only empirical data point on dual-Sigil coexistence. Its sealed status means the practical implications — whether dual Standard Sigils are viable long-term — remain theoretically open. House Dravenmore's continued tracking of the bearer's lineage suggests they believe the answer is worth pursuing.
 
-**Cross-Reference:** `systems/Sigils.md` — Dual Sigils
+**Cross-Reference:** `systems/Sigils.md` — Dual Sigils; `organizations/Organizations.md` — House Dravenmore
 
 ---
 
@@ -222,7 +222,7 @@ During apprehension by Eternal Guard forces, Callax achieved a sustained power m
 
 **Significance:** The Callax case is foundational to all current Eternal Guard protocols on forbidden magic and the only documented instance of successful soul-based power amplification through human sacrifice in Hyperion's official record.
 
-**Cross-Reference:** `systems/Arcane.md` — Forbidden Magic: Soul Forging
+**Cross-Reference:** `systems/Arcane.md` — Forbidden Magic: Soul Forging; `organizations/Organizations.md` — The Eternal Guard; Institutional Precedents, The Callax Protocols
 
 ---
 
@@ -242,7 +242,7 @@ Caste's commanders attributed her unit's survival to her exceptional medical ski
 
 **Significance:** Orvielle Caste's posthumous identification is the most openly documented Vitality Sigil case in historical record. Her case is used in MOD training materials as an example of how Sigil bearer identification can be delayed indefinitely when the bearer's conventional skills are sufficient to explain observed outcomes. Her unit's survival records are still referenced in field medicine literature. House Dravenmore added her lineage to their private genealogical registry within a week of the identification.
 
-**Cross-Reference:** `systems/Sigils.md` — Sigil of Vitality
+**Cross-Reference:** `systems/Sigils.md` — Sigil of Vitality; `organizations/Organizations.md` — House Dravenmore
 
 ---
 
@@ -274,7 +274,7 @@ Cassian died at age 67 from complications attributed to magical exhaustion from 
 
 **Significance:** Cassian's rapid-deployment healing protocols saved over 3,000 lives during the Ashenmoor period and established the baseline for all modern magical field medicine practices. Modern MOD medical divisions cite Cassian's work as the origin of emergency response standardization.
 
-**Cross-Reference:** `systems/Arcane.md` — Luminancy Practitioners, Healer Cassian of the Ashenmoor
+**Cross-Reference:** `systems/Arcane.md` — Luminancy Practitioners, Healer Cassian of the Ashenmoor; `organizations/Organizations.md` — House Dravenmore
 
 ---
 
@@ -352,7 +352,7 @@ The practitioner survived the attempted entity contact but underwent metabolic a
 
 **Significance:** This case represents the intermediate outcome between successful possession (Third Era) and failed contact. The practitioner's survival as an anchor suggests that complete entity possession may not be inevitable with Deep Umbraturgy contact, but partial transformation/anchor status may be irreversible.
 
-**Cross-Reference:** `systems/Arcane.md` — Forbidden Magic: Shadow Magic (Deep Umbraturgy)
+**Cross-Reference:** `systems/Arcane.md` — Forbidden Magic: Shadow Magic (Deep Umbraturgy); `organizations/Organizations.md` — The Eternal Guard
 
 ---
 
@@ -410,7 +410,7 @@ Physical consequence: Approximately 4,000 km² of reality remain temporally frac
 
 **Significance:** The Sixth Era Collapse represents the clearest historical example of extinction-level forbidden magic catastrophe. Reality Fabrication is now the highest-classified forbidden magic with absolute research ban and death sentence for any attempt to replicate or theorize on the mechanism.
 
-**Cross-Reference:** `systems/Arcane.md` — Forbidden Magic: Reality Fabrication; `systems/Dimensions.md` — Temporal Fracture Zones (restricted access)
+**Cross-Reference:** `systems/Arcane.md` — Forbidden Magic: Reality Fabrication; `systems/Dimensions.md` — Temporal Fracture Zones (restricted access); `organizations/Organizations.md` — The Eternal Guard; Institutional Precedents
 
 ---
 
@@ -490,7 +490,7 @@ No accessible records describe the incident's nature, location, duration, or res
 
 **Significance:** The existence and classification level of the Sleeper Incident suggests a Gaze manifestation of unusual scale and consequence. The ongoing dormancy maintenance protocols indicate the situation is considered potentially recurring rather than resolved.
 
-**Cross-Reference:** `systems/Gazes.md` — Ethereal Gaze of Mindscape, Case Origin documentation
+**Cross-Reference:** `systems/Gazes.md` — Ethereal Gaze of Mindscape, Case Origin documentation; `organizations/Organizations.md` — The Eternal Guard
 
 ---
 
