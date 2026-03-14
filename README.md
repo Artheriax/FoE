@@ -12,6 +12,7 @@ Worldbuilding documentation for *Fragments of Eternity*, a fantasy RPG setting b
 | [world/Overview.md](world/Overview.md) | High-level primer on Hyperion, the MOD, the cosmic structure, and power systems |
 | [world/Races.md](world/Races.md) | All races from Entity Zero and the Higher Ones down to Humans, with hierarchy and descriptions |
 | [world/Dimensions.md](world/Dimensions.md) | Every realm and dimension: Luminara, Gehenna, Dreamveil, Nihility, and more |
+| [world/History.md](world/History.md) | Significant historical events organized by Era: battles, adjudications, cataclysms, and persons of record |
 
 ### Systems
 | File | Contents |

@@ -15,7 +15,8 @@ FoE/
 ├── world/
 │   ├── Overview.md                    # High-level world primer (Hyperion, MOD, cosmology)
 │   ├── Races.md                       # All races, hierarchy, and detailed descriptions
-│   └── Dimensions.md                  # All realms and dimensions
+│   ├── Dimensions.md                  # All realms and dimensions
+│   └── History.md                     # Significant historical events, organized by Era
 ├── systems/
 │   ├── Arcane.md                      # Magic schools, Forces, Forbidden Magic, Enchantments
 │   ├── Gazes.md                       # Ocular abilities (Standard → Ethereal)
