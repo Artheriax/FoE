@@ -52,9 +52,25 @@ Whether these were the same individual is debated. The physical descriptions are
 
 The cause is unknown. The leading theories are a Keystone Monster emergence of unusual scale, an attempted dimensional gate construction that failed catastrophically, or deliberate interference by an entity that has not been identified or documented since.
 
-**Known Presence:** *"The Fixed Point"* is recorded in one surviving account of the Fracturing as present at the event's peak, passing through the area of maximum dimensional instability without apparent difficulty. The account notes, specifically, that the instability *"did not apply to her."*
+**Known Presence:** *"The Fixed Point"* is recorded in one surviving account of the Fracturing as present at the event's peak, passing through the area of maximum dimensional instability without apparent difficulty. The account notes, specifically, that the instability *"did not apply to her."* Additionally, isolated records reference a figure described as possessing "the eyes that saw only the truth of things," later scholars speculate this may reference an early Gaze manifestation.
 
-**Cross-Reference:** `systems/Sigils.md` — Ethereal Sigil of Reality Immunity
+**Cross-Reference:** `systems/Sigils.md` — Ethereal Sigil of Reality Immunity; `systems/Gazes.md` — Absolute and Ethereal tiers
+
+---
+
+## The Collapse of the Crimson Tower
+
+**Status:** *[Pre-Record] [Contested]*
+
+**Summary:** Historical records from the period preceding the current Era system reference the Crimson Tower of Valdas, a defensive structure of apparent strategic and magical significance. The tower's destruction is documented in at least five regional historical traditions, but with conflicting accounts of cause and timing. Some sources describe a military siege; others describe sudden, catastrophic structural failure; one account references the tower *"ceasing to exist"* with no intermediate destruction phase.
+
+The most detailed surviving account — preserved in an Elvish historical archive — describes the tower's dissolution as the work of an individual identified only as *"Karthyn, by whom things become unmade."* The account is fragmentary and its reliability is contested by modern historians.
+
+**Known Presence:** Karthyn, identified in the chronicle as bearing an ocular power of entropic force. Her documented final act was the tower's dissolution, reportedly *"to prevent its seizure by those who would misuse it."*
+
+**Significance:** If the account is reliable, Karthyn represents one of the earliest documented Gaze bearers in Hyperion's historical record. Her case, should it be verified, would predate the Era system's understanding of how Gazes function and manifest.
+
+**Cross-Reference:** `systems/Gazes.md` — Gaze of Destruction, historical bearer section
 
 ---
 
@@ -79,6 +95,54 @@ The devil house formally withdrew from all further action involving the bearer. 
 ---
 
 # Third Era
+
+---
+
+## The Veiled Operations
+
+**Status:** *[Classified — adjacent records accessible]*
+
+**Summary:** A Siren of the Red Quarters, documented in partial records as an entertainer with inexplicable success in extracting intelligence from high-ranking military and political figures across a thirty-year career. The individual's methods were never directly scrutinized by MOD oversight—in part because the intelligence extracted was consistently accurate and useful to established power structures, and in part because documentation trails were kept compartmentalized by design.
+
+The operative disappeared during the Fracturing of the Eastern Rift period without formal investigation. Partial records suggest voluntary departure rather than forced removal, though the exact circumstances remain unclear.
+
+**Known Presence:** Documented through MOD internal communications as possessing a psychological Gaze of unusual potency. The exact nature was noted in sealed assessments as "diplomatically sensitive" and never formally classified beyond "Known" status.
+
+**Significance:** The Veiled represents one of the earliest documented instances of MOD knowledge of a Gaze bearer being deliberately compartmentalized to prevent political interference. Her success and the lack of institutional response raises questions about the extent to which MOD cooperates with power structures when a Gaze bearer's abilities serve established interests.
+
+**Cross-Reference:** `systems/Gazes.md` — Gaze of Seduction, Supreme Gaze of Enchantment
+
+---
+
+## The Investigation of Malachar
+
+**Status:** *[Pre-Record] [Contested]*
+
+**Summary:** Records from the Order of Severance reference an individual known as Malachar the Marred, documented in their archives as an instrument of judgment against oath-breakers and oath-violators. Contemporary accounts describe victims being "overwhelmed by the weight of their own cruelty," which later scholars have speculated indicates a Gaze-based psychological mechanism rather than physical action.
+
+Malachar's documented disappearance coincides with the Fracturing of the Eastern Rift. No subsequent records place the individual in any confirmed location.
+
+**Known Presence:** Malachar, identified in Order records as bearing an ocular power keyed to psychological torment and judgment. The Order's own assessment: *"an instrument more than a person."*
+
+**Significance:** Malachar's case represents theological and institutional interpretation of Gaze abilities through the lens of religious doctrine. The Order of Severance's continued file maintenance suggests they believe resurrection or reemergence is possible.
+
+**Cross-Reference:** `systems/Gazes.md` — Gaze of Torment, historical bearer section
+
+---
+
+## Terthas Clearseeing
+
+**Status:** *[Documented — historical archive]*
+
+**Summary:** Records from the Third Era identify Terthas Clearseeing as the first documented Revelation-Gaze bearer to be formally registered with MOD oversight. His forty-three year career as Chief Investigator for the Council of Oversight resulted in exceptional case resolution rates. Terthas' methodology was documented as exceptionally thorough and precise, attributed by contemporaries to his "exceptional insight and attention to detail."
+
+Post-retirement, MOD analysis of his case archives indicated that his investigation success rate exceeded statistical probability across multiple categories, particularly in cases involving deception, hidden mechanisms, or illusion-type obfuscation. His ability to perceive truth through layers of concealment aligned precisely with Revelation Gaze mechanics.
+
+Terthas retired at age 72 and died of natural causes. His successor inherited substantially fewer unsolved cases than typical.
+
+**Significance:** Terthas Clearseeing is the foundational case for MOD documentation standards on Revelation-Gaze bearers in institutional roles. His archives provided significant training material on how detection-focused Gazes integrate into investigative work.
+
+**Cross-Reference:** `systems/Gazes.md` — Gaze of Revelation, historical bearer section
 
 ---
 
@@ -116,6 +180,68 @@ Caste's commanders attributed her unit's survival to her exceptional medical ski
 
 ---
 
+## The Ashenmoor Medic: Serene of the Ashenveil
+
+**Status:** *[Documented — scholarly reconstruction]*
+
+**Summary:** Court and administrative records from the Ashenmoor period reference an individual identified as Serene of the Ashenveil, operating as medic and spiritual counselor during the Ashenmoor Campaigns. Contemporary accounts describe her presence as producing effects inconsistent with medical treatment alone — soldiers described as "afflicted by the horrors of combat" and "unable to function from battle fatigue" were noted as recovering emotional equilibrium when she attended them.
+
+Serene's field journals and personal correspondence, preserved by House Dravenmore, provide her own interpretation: she believed she was simply a good listener. Modern Gaze scholars reexamining her archived records have speculated that her effects align with a Harmony Gaze manifestation.
+
+**Significance:** Serene represents a case of Gaze ability being interpreted through the social and professional lens of the era — medic and counselor — without any contemporary recognition that her effectiveness exceeded normal professional capability. She died peacefully at age 89, reportedly seeing *"the light beyond"* in her final moments. Her legacy in Ashenmoor spiritual tradition is substantial.
+
+**Cross-Reference:** `systems/Gazes.md` — Gaze of Harmony, historical bearer section
+
+---
+
+## Ghastward of Ashenveil
+
+**Status:** *[Documented — spiritual records maintained by independent orders]*
+
+**Summary:** A spiritual medium and guide operating in the Ashenveil region during the Sixth Era, documented in secular records as conducting paranormal investigations and death-cause analysis for families seeking closure. Her methods were attributed colloquially to "supernatural sensitivity" or "spiritual gift" — contemporary observers did not formalize her abilities with technical terminology.
+
+Across numerous documented cases, Ghastward was documented as having precise knowledge of death circumstances that were not immediately obvious. Families who had engaged her services consistently reported accurate information that resolved confusion or established facts that forensic investigation later confirmed. She died at age 81 reportedly seeing *"the light beyond"* in her final moments, suggesting spiritual peace.
+
+**Known Presence:** Modern Gaze scholarship examining historical records has identified Ghastward as probable Spirits Gaze bearer. Her consistent ability to perceive spiritual entities and past echoes aligns precisely with documented Spirits Gaze mechanics.
+
+**Significance:** Ghastward represents a case of Gaze bearer operating in specialized institutional context (spiritual/religious framework) without contemporary Gaze-focused framework. Her reputation and integration into local spiritual tradition was sufficiently complete that MOD identification was never pursued during her lifetime. She is venerated in Shepherd sect traditions.
+
+**Cross-Reference:** `systems/Gazes.md` — Gaze of Spirits, historical bearer section
+
+---
+
+## Corven Markward and the Treaty Negotiations
+
+**Status:** *[Documented — military archive]*
+
+**Summary:** Historical military records from the Fifth Era document the Treaty Negotiations of Ashenmoor as a significant diplomatic milestone ending a sustained regional conflict. Within days of the treaty signing, the Warlord Meckris — the primary negotiating party for one faction — was assassinated by a single arrow fired from a range military analysts deemed impossible.
+
+Investigation into the assassination identified the archer as an individual registered in MOD records as Corven Markward, an elite marksman of exceptional technical skill. Court documents indicate MOD conducted formal investigation and registered Markward as a Kinesis Gaze bearer post-event. Markward's exceptional skill, previously attributed to training and natural ability, was retroactively understood to involve Gaze-channeled precision and trajectory manipulation.
+
+Markward provided testimony that the shot was technically possible but would have required perfect conditions, perfect aim, and perfect timing. He maintained that his exceptional skill was exceptional *because* he consistently achieved perfect conditions.
+
+**Significance:** Corven Markward represents a historically consequential assassination conducted by a Gaze bearer. His case is used in MOD enforcement training as an example of how technical skill and Gaze ability can be simultaneously present such that neither fully explains outcomes. His actions ultimately contributed to regional peace, complicating moral and institutional assessment.
+
+**Cross-Reference:** `systems/Gazes.md` — Gaze of Kinesis, historical bearer section
+
+---
+
+## The Valley of Ashemark Incident
+
+**Status:** *[Classified — evidence only]*
+
+**Summary:** Post-event analysis of a significant geographical anomaly: a valley in the Ashemark region displaying characteristics consistent with Supreme Gaze activation (Cataclysm). Physical evidence — canyon formation patterns, energy scarring, debris distribution — precisely matches theoretical Cataclysm Gaze effects under high activation intensity.
+
+No living witnesses survived to provide testimony. Reconstruction based on physical evidence suggests a Destruction-tier Gaze bearer underwent evolution to Cataclysm during conditions of extreme stress or dimensional instability. The evolved power activated at full potency. The resulting discharge carved a permanent geographical feature.
+
+MOD classified the location as a natural phenomenon requiring continued monitoring station presence.
+
+**Significance:** The Valley of Ashemark represents the clearest physical evidence that Gaze evolution from Standard to Supreme tier can occur spontaneously, independent of racial advancement. The location's sustained energy anomalies make it valuable for Gaze research and theoretical development.
+
+**Cross-Reference:** `systems/Gazes.md` — Gaze of Destruction, Supreme Gaze of Cataclysm, Case Origin documentation
+
+---
+
 # Seventh Era
 
 ---
@@ -136,6 +262,34 @@ Ashcrast subsequently rejected a Sentinel assignment offered by the MOD's Enforc
 
 ---
 
+## The Stormcalm Trials
+
+**Status:** *[Documented — Classified implications]*
+
+**Summary:** An authorized hunter advancement testing event conducted under MOD supervision. During the trials' final environmental stress scenario, a Kinesis-Gaze bearer underwent unexpected Gaze evolution, transitioning from Standard to Supreme tier (Omnikinesis) mid-trial under extreme conditions. The trial continued to conclusion without formal incident, though the subject's performance after evolution exponentially exceeded established benchmarks.
+
+MOD documented the evolution as a successful case study in Gaze advancement mechanics. The subject completed hunter registration and subsequently maintained public records as a professional air-quality consultant and Rank A hunter specializing in weather management contracts.
+
+**Significance:** The Stormcalm Trials provide one of the clearest documented examples of Standard-to-Supreme Gaze evolution occurring in real-time under controlled observation. The event is used by MOD Gaze research divisions as evidence that Standard-to-Supreme evolution correlates with extreme environmental or psychological stress.
+
+**Cross-Reference:** `systems/Gazes.md` — Gaze of Kinesis, Supreme Gaze of Omnikinesis
+
+---
+
+## The Sleeper Incident
+
+**Status:** *[Highly Classified — sealed records only]*
+
+**Summary:** MOD records reference an event designated only as "the Sleeper Incident" from the Seventh Era period. The incident's documentation is restricted to sealed psychological evaluation files and a brief Eternal Guard memorandum noting the situation as *"managed"* and *"ongoing dormancy maintained."*
+
+No accessible records describe the incident's nature, location, duration, or resolution. Contemporary communications reference "civilian population stability" protocols being invoked, suggesting broad-area impact. Oblique references in sealed files suggest the incident involved consciousness-level phenomena affecting multiple individuals simultaneously.
+
+**Significance:** The existence and classification level of the Sleeper Incident suggests a Gaze manifestation of unusual scale and consequence. The ongoing dormancy maintenance protocols indicate the situation is considered potentially recurring rather than resolved.
+
+**Cross-Reference:** `systems/Gazes.md` — Ethereal Gaze of Mindscape, Case Origin documentation
+
+---
+
 # Modern Era
 
 Events within living memory or institutional record of the current MOD structure. These are generally well-documented at the surface level. Deeper records are frequently classified.
@@ -152,9 +306,9 @@ The posthumous reconstruction of the operative's movement patterns, assembled by
 
 MOD records note that the Stormstep had twice been offered legitimate MOD contracts during their operational career. Both offers were declined. The record does not speculate on this.
 
-**Significance:** The Stormstep is the most frequently cited historical Agility bearer who was never, during their lifetime, identified as one. The case is used internally by both the MOD's recruitment division and the Umbra Shroud to illustrate the same point in opposite directions.
+**Significance:** The Stormstep is the most frequently cited historical Agility bearer (and Gaze bearer more broadly) who was never, during their lifetime, identified as one. The case is used internally by both the MOD's recruitment division and the Umbra Shroud to illustrate the same point in opposite directions: MOD uses it as evidence of identification failure; Umbra uses it as evidence of independence maintained in the face of institutional pressure.
 
-**Cross-Reference:** `systems/Sigils.md` — Sigil of Agility
+**Cross-Reference:** `systems/Sigils.md` — Sigil of Agility; `systems/Gazes.md` — Gaze of Predation
 
 ---
 
@@ -170,4 +324,4 @@ The suppression held until her personnel file was opened following her retiremen
 
 **Significance:** The Voss case is the primary legal precedent on the question of whether a Sigil bearer's undisclosed passive ability retroactively affects the procedural validity of their professional work. MOD's legal division cites it in both directions depending on which outcome is being argued. No consensus position has been reached.
 
-**Cross-Reference:** `systems/Sigils.md` — Sigil of Senses
+**Cross-Reference:** `systems/Sigils.md` — Sigil of Senses; `systems/Gazes.md` — Gaze of Inner Thought, Gaze of Revelation
