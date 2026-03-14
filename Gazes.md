@@ -1,0 +1,431 @@
+# Introduction to Gazes
+
+In the world of Hyperion, power is not always measured in the energy one
+collects or the evolution one achieves. Sometimes, it is bestowed at
+birth, a latent potential waiting behind the eyes. These rare and innate
+abilities are known as Gazes.
+
+A Gaze is not a learned skill or a magical spell; it is a fundamental
+part of an individual\'s soul, manifesting as a unique ocular
+phenomenon. The eyes of a bearer are often, but not always, physically
+altered---shimmering with unnatural colors, displaying unusual pupil
+shapes, or glowing with an inner light that corresponds to their power.
+The activation of a Gaze is typically a conscious act, requiring focus
+and intent, though powerful emotions can sometimes trigger them
+involuntarily.
+
+The origin of Gazes is one of Hyperion\'s greatest mysteries. Some
+theological scholars believe they are blessings---or curses---from the
+Higher Ones, fragments of cosmic power embedded in a mortal soul. Arcane
+theorists propose they are spontaneous mutations in the spiritual DNA, a
+random confluence of energy that occurs at conception. Others whisper
+they are echoes from past lives or bleed-over from other dimensions.
+What is known for certain is that they are incredibly rare, cannot be
+replicated by technology or magic, and their appearance is entirely
+unpredictable.
+
+The MOD maintains a strict registry of all documented Gazes, and bearing
+one significantly increases a hunter\'s Amplitude rating, marking them
+as an individual of exceptional potential.
+
+There is a small chance of gazes to also change or evolve, become
+stronger or weaker when the user evolves into the next race. The user
+must already possess a gaze. In some cases too little documentation
+there are dual or even triple gazes.
+
+## Categories of Gazes
+
+-   Standard Gazes: While rare, these are the most commonly documented
+    types. Each grants a specific, powerful ability tied to perception,
+    manipulation, or destruction.
+
+-   Supreme Gazes: These are magnitudes more powerful than standard
+    Gazes. Only a handful of individuals in a generation may possess
+    one, and their abilities can affect large areas or groups of people.
+    Their appearance is often seen as an omen of great change or
+    conflict.
+
+-   Absolute Gazes: These are the stuff of legends, powers thought to be
+    wielded only by the Higher Ones themselves. To possess an Absolute
+    Gaze is to hold a sliver of cosmic authority. No verified mortal
+    bearer of an Absolute Gaze exists in current MOD records; they are
+    considered historical or mythological.
+
+-   Ethereal Gazes: The most enigmatic of all. Many scholars debate if
+    they are real or mere theoretical constructs. Their proposed
+    functions are meta in nature, interacting with the very system of
+    Gazes themselves or the fabric of reality on a conceptual level.
+    Sightings are unconfirmed and treated as rumor or heresy.
+
+Possessing a Gaze is a double-edged sword. It grants immense power but
+also makes one a target for factions who would seek to control, exploit,
+or dissect the bearer to understand the source of their power.
+
+# Standard Gazes
+
+## Gaze of Destruction
+
+Believed to be a fracture of the Destroying One\'s essence made
+manifest, this Gaze channels pure entropic force. It does not burn or
+freeze; it simply unmakes. The bearer is often feared as a natural
+calamity, and many with this Gaze struggle with isolation or a
+destructive temperament, as their very sight can accidentally cause
+harm.
+
+The iris resembles cracked obsidian or cooled lava, with veins of deep,
+fiery red or orange pulsing within the fractures. The sclera might be
+perpetually bloodshot.
+
+## Gaze of Harmony
+
+A rare blessing thought to be a gift from the Creating One or the
+Nephryx, this Gaze radiates a field of soothing energy. It can align
+discordant frequencies, be they in a wounded body, a conflicted mind, or
+even malfunctioning machinery. Healers and diplomats with this Gaze are
+highly sought after.
+
+The eyes glow with a soft, warm light, like a gentle sunrise. The color
+is often a calming gold, soft blue, or soothing green. The pupils might
+seem to slowly shift and swirl like a calming whirlpool.
+
+## Gaze of Kinesis
+
+This Gaze imposes the user\'s will upon the kinetic energy of the world.
+It is not true telekinesis but a precise manipulation of force and
+trajectory. Those who possess it often become unparalleled marksmen,
+duelists, or artisans, able to perform impossible feats of physics with
+a mere glance.
+
+The iris appears as a series of concentric, silvery rings, like a
+targeting reticle. These rings may spin slowly or adjust focus
+independently of each other.
+
+## Gaze of Torment
+
+A cruel Gaze that connects directly to the pain centers of a target\'s
+mind. It doesn\'t create new pain but amplifies and recalls every
+physical and emotional agony the target has ever experienced. Many
+bearers of this Gaze are tormented themselves, either shunned for their
+power or corrupted by it.
+
+The eyes are a deep, bruised purple or sickly yellow. The pupils are
+vertically slit, like a serpent\'s, and seem to absorb the light around
+them, creating a sunken, hollow look.
+
+## Gaze of Inner Thought
+
+This Gaze acts as a passive receiver of surface thoughts and strong
+emotions. It is not true telepathy but rather an overhearing of the
+mental \"noise\" others project. While useful, it can be mentally
+exhausting, forcing the user to constantly filter the internal
+monologues of everyone around them.
+
+The iris shimmers with a faint, pearlescent sheen, constantly shifting
+in color like an oil slick. It gives the eyes a wet, perceptive look.
+
+## Gaze of Revelation
+
+This Gaze pierces deception in all its forms. It can see through
+illusions, discern magical auras, reveal hidden mechanisms, and, most
+unsettlingly, sense when someone is lying by perceiving the subtle
+dissonance between their words and intent. It is the ultimate tool for
+an investigator.
+
+The pupils are perfectly clear and crystal-like, refracting light into
+tiny rainbows. Looking into them feels like being seen completely, with
+nowhere to hide.
+
+## Gaze of Spirits
+
+This Gaze permanently opens a user\'s sight to the Spirit World
+(Dreamveil). They see ghosts, echoes of past events, and spiritual
+entities walking alongside the living. It is a lonely power, as they are
+forever seeing a world others cannot, often leading to them being
+mistaken for mad.
+
+The eyes are pale and milky, like mist or quartz. Faint, ethereal
+shapes---wispy figures or fleeting lights---can sometimes be seen moving
+deep within them.
+
+## Gaze of Seduction
+
+This Gaze emits a subtle psychic pheromone that bypasses logic and
+appeals directly to primal desire. It is not mind control but an
+overwhelming amplification of attraction and charm. Those affected find
+the user irresistibly fascinating and agreeable.
+
+The eyes are captivatingly vibrant, often in shades of deep amethyst,
+crimson, or emerald. The pupils are wide and inviting, and the light
+seems to dance within them, promising pleasure and attention.
+
+## Gaze of Predation
+
+An instinctual Gaze that allows the user to perform a constant,
+subconscious analysis of their surroundings. It highlights structural
+weaknesses, tells when an opponent is off-balance, and identifies the
+perfect moment to strike. It is common among elite hunters and
+assassins.
+
+The eyes are those of a sharp predator---bright yellow, green, or amber
+with sharp, black, vertically slit pupils. They are constantly moving,
+tracking, and assessing.
+
+## Gaze of Madness
+
+A terrifying Gaze that projects chaotic, dissonant psychic energy into a
+target\'s mind. It overloads their senses with conflicting information,
+inducing intense hallucinations, paranoia, and a break from rational
+thought. Prolonged exposure can cause permanent psychological damage.
+
+The iris is a chaotic swirl of clashing, violent colors---blood red,
+electric blue, and sickly green---that never settles. The pupils are
+irregular and shift shape unpredictably.
+
+## Gaze of Illusion
+
+This Gaze does not change reality but hijacks the visual and auditory
+processing centers of those who meet it. It can make the user appear
+different, hide objects, or create entire false scenes. Masters of this
+Gaze can make armies see phantoms or make a bustling street appear
+empty.
+
+The eyes are beautiful but impossible to focus on. Their color and shape
+seem to change depending on the angle of view or the light, never quite
+settling on a single form.
+
+## Gaze of Binding
+
+This Gaze imposes a concept of \"stasis\" upon a target. It can lock
+their muscles in place, seal their magical energy, or even bind a
+spiritual entity to an object. The effect is temporary but absolute for
+its duration.
+
+The iris looks like a complex, interlocking magical seal or mandala. The
+glyphs are silver or gold and slowly rotate within the eye.
+
+## Gaze of Emptiness
+
+The antithesis of the Gaze of Harmony, this Gaze projects a void of
+absolute apathy and despair. It drains color, sound, and hope from the
+world around it, sapping the will to fight, to live, or to care about
+anything. It is a weapon that wins battles without throwing a punch.
+
+The eyes are completely devoid of light and color---a flat, matte black
+or deep, starless grey. Looking into them feels like staring into an
+infinite void.
+
+# Supreme Gazes
+
+## Supreme Gaze of Cataclysm
+
+The evolved form of Destruction. Where the standard Gaze unmakes a
+person, the Supreme Gaze can erase a city block or carve a canyon with a
+look. Its activation is often accompanied by tremors and a sound like
+shattering reality.
+
+The cracked obsidian iris is now replaced with what looks like a
+miniature neutron star---a fiercely glowing core with energy arcs of
+impossible colors cracking across the surface.
+
+## Supreme Gaze of Imperviousness
+
+An evolution of a defensive Gaze not listed among the standards, this
+power nullifies all incoming energy, magic, and even conceptual attacks
+within the user\'s line of sight, creating a perfect defense.
+
+The eyes become like polished, flawless diamonds. They reflect
+everything perfectly, showing no inner light or color of their own.
+
+## Supreme Gaze of Omnikinesis
+
+Mastery over all motion, from the molecular vibration of heat to the
+orbital path of a moon. The user can freeze a volley of arrows in air,
+accelerate a pebble to relativistic speeds, or calm a storm with a
+glance.
+
+The concentric rings of the Kinesis Gaze are now countless, filling the
+entire eye with a mesmerizing, ever-shifting pattern of silver and blue
+lines, like a celestial clockwork.
+
+## Supreme Gaze of Eternal Torment
+
+This Gaze doesn\'t just recall pain; it traps the target\'s
+consciousness in a personalized, recursive hell of their own worst
+memories and fears, making seconds feel like eons of suffering.
+
+The serpent-like pupils are now gone, replaced by a swirling vortex of
+dark, negative colors that seems to pull the viewer\'s soul inward.
+
+## Supreme Gaze of Omniscience
+
+This Gaze elevates Inner Thought to its apex. The user doesn\'t just
+hear surface thoughts; they perceive intent, knowledge, memories, and
+even potential future actions of everyone in a vast radius, overloading
+them with near-divine awareness.
+
+The eyes become vast and depthless, appearing to contain a galaxy of
+swirling stars and nebulae within them, representing the infinite data
+they process.
+
+## Supreme Gaze of Enchantment
+
+Absolute seduction and persuasion. This Gaze makes the Gaze of Seduction
+look like a cheap trick. Those who meet it have their will completely
+subsumed by the user\'s, becoming utterly devoted thralls with a single
+look.
+
+The eyes are painfully beautiful, glowing with a heartachingly perfect
+light. They are the exact eyes the viewer most desires to see, different
+for every person who looks upon them.
+
+# Absolute Gazes
+
+## Absolute Gaze of Oblivion
+
+Wielded by the Destroying One. This Gaze does not destroy matter; it
+erases the concept of the target from existence. The target is removed
+from the past, present, and future. No one remembers they ever existed,
+and all evidence of their life vanishes.
+
+True eyes of void. They are not black, but the absence of everything---a
+hole in reality where eyes should be.
+
+## Absolute Gaze of Infinity
+
+Wielded by the Creating One or The One. This Gaze perceives and can
+manipulate the threads of time, space, and causality on a universal
+scale. It can rewind time, create alternate realities, or unmake laws of
+physics.
+
+The eyes contain an ever-expanding, perfect model of the entire cosmos
+within them, with galaxies being born and dying in the space of a blink.
+
+## Absolute Gaze of Absolute Truth
+
+Wielded by the Judging One. This Gaze forces universal truth upon any
+who meet it. Liars are forced to speak only truth, illusions shatter,
+and beings are confronted with the unchangeable facts of their existence
+and actions.
+
+The eyes are made of pure, blinding white light. There are no pupils or
+irises, only two points of absolute, judgmental luminance.
+
+## Absolute Gaze of Soul Sovereignty
+
+Wielded by higher cosmic entities. This Gaze sees the soul itself and
+can command it. The user can enslave, liberate, reshape, or devour souls
+with a thought, commanding all life energies and consciousness.
+
+The eyes are shifting, ethereal, and translucent, like looking through a
+window into the Astral Plane. Within them, countless faint soul-lights
+flicker and move.
+
+## Absolute Gaze of Reality Fabrication
+
+The pinnacle of the Illusion Gaze. This Gaze does not hijack perception;
+it rewrites local reality. If the user gazes at a barren field and
+imagines a forest, a forest becomes real. The effect is permanent unless
+dispelled by an equal power.
+
+The eyes are a constantly changing mosaic of every color and pattern
+imaginable, flickering with impossible geometries and unrealized
+possibilities.
+
+## Absolute Gaze of Mindscape
+
+This Gaze allows the user to project their consciousness into the minds
+of entire populations simultaneously, creating a shared dream or
+nightmare that they control absolutely. They can communicate with a
+world or drive it mad in an instant.
+
+The pupils are vast, deep, and reflective, like still water at night.
+Anyone who looks into them sees their own reflection, but it moves
+independently of them.
+
+## Absolute Gaze of Cosmic Judgment
+
+The final form of the Judging One\'s power. This Gaze can instantly
+assess a being\'s entire life, their essence, and their impact on the
+cosmic balance, and deliver an immediate, unappealable sentence of
+annihilation or salvation.
+
+One eye is the blinding white of Absolute Truth, the other is the void
+of Oblivion. Together, they represent the binary choice of judgment.
+
+# Ethereal Gazes
+
+## Ethereal Gaze of Mimicry
+
+The rarest of adaptive Gazes. Upon seeing another Gaze in use, the
+user\'s own eyes can temporarily reconfigure their metaphysical
+structure to copy its exact frequency, granting its power for a short
+time. Mastery allows for holding multiple copied Gazes at once.
+
+The eyes are a neutral, soft grey. When active, they flash and morph,
+perfectly mirroring the appearance of the Gaze they are copying.
+
+## Ethereal Gaze of Null
+
+The ultimate counter. This Gaze emits a field of absolute neutralization
+that cancels the effect of any other Gaze within its line of sight. It
+reduces Supreme and Absolute powers to mere eye color, making the user
+the ultimate equalizer.
+
+The eyes are a flat, dull, leaden grey. They appear utterly mundane and
+unremarkable, as they project a field that enforces mundanity. Yet when
+not used the user\'s eyes appear normal.
+
+## Ethereal Gaze of Convergence
+
+This Gaze allows the user to fuse the effects of multiple Gazes they
+possess into a single, new effect. For example, combining Gaze of
+Destruction and Gaze of Binding to create a look that disintegrates only
+what is moving.
+
+The eyes appear as a swirling, beautiful chaos of colors and patterns,
+with different layers representing different Gazes shifting in and out
+of focus.
+
+## Ethereal Gaze of Eternity
+
+This Gaze allows the user to perceive the infinite threads of
+time---past, present, and all possible futures---simultaneously. It
+grants near-perfect foresight but at the cost of being permanently
+detached from the \"now.\"
+
+The eyes are a mesmerizing, slow-moving whirlpool of silver and blue.
+Within them, fleeting images of past events and future possibilities can
+be glimpsed.
+
+## Ethereal Gaze of Dominion
+
+This Gaze exerts ultimate mental and spiritual authority. By locking
+eyes with a single individual, the user can extend their will through
+that connection to dominate the minds of everyone that individual can
+see, creating a chain of control that can subjugate entire cities.
+
+The iris is a golden crown, intricate and awe-inspiring. The pupils are
+deep and commanding, promising both absolute order and absolute
+subservience.
+
+## Ethereal Gaze of Transcendence
+
+This Gaze temporarily elevates the user\'s existence beyond physical and
+spiritual laws, granting momentary abilities like true intangibility,
+invulnerability, or localized reality manipulation, making them a
+pseudo-higher being for a fleeting moment.
+
+The eyes become impossible to perceive directly. They are surrounded by
+a shimmering, fractal haze of light, and looking at them causes
+disorientation and awe.
+
+## Ethereal Gaze of Echoes
+
+This Gaze perceives the \"echoes\" of past actions, thoughts, and
+energies that linger on people and places. The user can not only see
+these echoes but can interact with them, \"replaying\" past events or
+even altering the echo to change its effect on the present (e.g.,
+undoing a past curse by altering its echo).
+
+The eyes are faint and translucent, like a ghostly overlay. Within them,
+faint afterimages of events constantly play out on a loop.
