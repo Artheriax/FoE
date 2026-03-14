@@ -8,16 +8,26 @@ This is a **documentation-only project** containing worldbuilding/lore for a fan
 
 ## File Structure
 
-- `Arcane.md` - Magic systems, schools, enchantments, forbidden magics
-- `Characters.md` - Character profiles (Sersey, main protagonists)
-- `Gazes.md` - Ocular abilities (Gaze system: Standard, Supreme, Absolute, Ethereal)
-- `Lore.md` - World overview, race hierarchy, Higher Ones, Entity Zero/Artem origin story, main story arcs
-- `Monsters.md` - Monster types (Lesser, Dire, Elemental, Holy/Unholy, Keystone)
-- `Races.md` - Playable races and their hierarchy
-- `Sigils.md` - Magical marks (enhancement types)
-- `Sources.md` - Source references
-- `Teams.Guilds.md` - Organizations (MOD, major/minor guilds)
-- `Worlds-Dimensions.md` - World settings and dimensional cosmology
+```
+FoE/
+├── README.md                          # Index and navigation guide
+├── AGENTS.md                          # This file
+├── world/
+│   ├── Overview.md                    # High-level world primer (Hyperion, MOD, cosmology)
+│   ├── Races.md                       # All races, hierarchy, and detailed descriptions
+│   └── Dimensions.md                  # All realms and dimensions
+├── systems/
+│   ├── Arcane.md                      # Magic schools, Forces, Forbidden Magic, Enchantments
+│   ├── Gazes.md                       # Ocular abilities (Standard → Ethereal)
+│   ├── Sigils.md                      # Physical enhancement marks (Standard → Ethereal)
+│   ├── Power-Sources.md               # Vitalis, Psyche, and Aeterium (power sources)
+│   └── Monsters.md                    # All monster categories and essence types
+├── organizations/
+│   └── Organizations.md               # MOD structure, guilds (major and minor)
+└── stories/
+    ├── Characters.md                  # Character profiles (Sersey and main cast)
+    └── Story-Arcs.md                  # Plot summaries for all stories and spin-offs
+```
 
 ## Commands
 
@@ -30,13 +40,16 @@ This is a **documentation-only project** containing worldbuilding/lore for a fan
 ## Documentation Style
 
 - Each markdown file covers a distinct category of worldbuilding
-- Files use hierarchical headings for organization
+- Files use hierarchical headings (`#`, `##`, `###`, `####`) for organization
+- Section dividers (`---`) separate major sections within a file
+- Bold labels (e.g., **Description:**, **Nature:**) are used for consistent field formatting
 - No code blocks or programming language syntax in documentation
 - Pure prose/worldbuilding content
 
 ## Important Conventions
 
-- Cross-reference between related files (e.g., Gazes.md links to Sigils.md concepts)
+- Cross-reference between related files (e.g., `systems/Gazes.md` links to `systems/Sigils.md` concepts)
 - Maintain consistent terminology across files (e.g., "MOD" for Monster Oversight Division)
 - The lore follows a consistent cosmology: Mortal Realm (Hyperion) → Spirit/Dark/Holy/Unholy realms → Divine tier
-- Character stories (Sersey, Nyari, Gaelira) are documented in Lore.md with separate character profiles in Characters.md
+- Character stories (Sersey, Nyari, Gaelira) are in `stories/Story-Arcs.md`; character profiles are in `stories/Characters.md`
+- `systems/Power-Sources.md` covers Vitalis, Psyche, and Aeterium — distinct from monster Essences (covered in `systems/Monsters.md`)
