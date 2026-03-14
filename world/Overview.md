@@ -6,9 +6,18 @@ These monsters are categorized by their affinities and threats. From the common 
 
 The energy harvested from these creatures is the currency of power. Neutral monsters yield Energy Fragments, while those with an affinity grant Core Essences. The rarest of all, the Keystone Essences, are keys to unlocking transformations beyond ordinary limits.
 
+*→ `systems/Monsters.md` — Monster Classification and Tier Overview*
+*→ `systems/Power-Sources.md` — Essence Integration and Source Supplementation*
+
+---
+
 ## The Hierarchy of Races
 
 The inhabitants of Hyperion are diverse, but not all are born equal. A rigid, cosmic hierarchy of races defines the potential of every being, from the lowly Human to the god-like Celestial. This hierarchy is not merely a measure of strength but a boundary of existence. Most races have a maximum potential form, a ceiling of power they cannot breach. This process is perilous; a Forced Growth, caused by absorbing too much energy at once, carries the dire risks of death or being permanently trapped in a stunted form.
+
+*→ `world/Races.md` — Race Hierarchy | Detailed Race Descriptions*
+
+---
 
 ## The Higher Ones
 
@@ -16,26 +25,58 @@ At the apex of all existence are the Higher Ones, cosmic entities whose function
 
 Beneath them exist races of immense power: the Eternarcs, cosmic overseers and regulators; the fallen Nebular Tyrants, hunted by the unyielding Eternal Guards; and the Ascendants, beings of limitless potential who defy all known limits. Next stand the Primordials, embodiments of fundamental universal concepts, and the Celestials, the traditional gods who rule over specific domains from their divine realms.
 
+*→ `world/Races.md` — Higher Ones | Supreme Races | Ascendants | Celestials*
+*→ `systems/Power-Sources.md` — Entity Zero | Source Scale: Mortal to Cosmic*
+
+---
+
 ## Spiritual Spectrum
 
 The spiritual spectrum is held by the Nephryx, peaceful guides; their opposites, the hate-driven Maltheryx; the serene Seraphon, healers of the soul; and the Xenysian, mediators who can project their spirits into Dreamveil to communicate with the departed.
 
+*→ `world/Races.md` — Spiritual Races*
+*→ `world/Dimensions.md` — Dreamveil*
+
+---
+
 ## Mortal Races
 
-On Hyperion itself, the mortal races carve out their lives. The Astrae, rare and revered elves marked with glowing sigils, are seen as holy offspring. The Elves of Hyperion, all female and born from the sacred Trees of Life, live in harmony with nature. Humans, or Arcanians, lack innate magic but have mastered Technology, a fusion of science and arcane energy that allows them to compete. The Kitsune, with their animal ears and potent pheromones are free-spirited natives of the wilds. And the Vampires, immortal and powerful, are divided into three great Houses: the manipulative Noctaris, the warlike Morvayne, and the scholarly Dravenmore, each scheming to increase their influence over mortal society.
+On Hyperion itself, the mortal races carve out their lives. The Astrae, rare and revered beings marked with glowing sigils, are seen as holy offspring and receive priority Assessment Unit review upon every MOD registration. The Elves of Hyperion, all female and born from the sacred Trees of Life, live in harmony with nature. The Dark Elves, a divergent bloodline severed from the Trees of Life, occupy dimensional margins and shadow-adjacent territories, their natural affinity running toward Umbraturgy and void magic rather than the nature enchantments of their kin. Humans lack innate magic but have mastered Techno-Magic, a fusion of science and arcane energy that allows them to compete at the highest registered ranks. Arcanians, a distinct race of natural mages, constitute the largest racial category in MOD's Arcane Registry. The Kitsune, with their animal ears and potent pheromones, are free-spirited natives of the wilds. And the Vampires, immortal and powerful, are divided into three great Houses: the manipulative Noctaris, the warlike Morvayne, and the scholarly Dravenmore, each with significant influence over mortal and institutional society.
+
+*→ `world/Races.md` — Mortal Races | Middle Races | Dark Elves*
+*→ `organizations/Organizations.md` — MOD Racial Registration Framework | Hunter Registry*
+
+---
 
 ## The MOD
 
-Governing this dangerous world of hunters and monsters is the Monster Oversight Division (MOD), the secondary government of Hyperion. It registers hunters and ranks them within their current race from E to X, evaluating their Skills, Magic, Knowledge, Equipment, Allies, and most importantly, their Amplitude---their potential for growth before their next breakthrough.
+Governing this dangerous world of hunters and monsters is the Monster Oversight Division (MOD), the secondary government of Hyperion. It registers hunters and ranks them within their current race from E to X, evaluating their Skills, Magic, Knowledge, Equipment, Allies, and most importantly, their Amplitude — their potential for growth before their next breakthrough. Above MOD on sealed matters sits the Eternal Guard, an authority whose interventions are rare, consequential, and not subject to public review.
+
+*→ `organizations/Organizations.md` — MOD Internal Division Structure | The Eternal Guard*
+
+---
 
 ## Gazes and Sigils
 
-A person's potential is not defined by race alone. Some are born with Sigils, physical marks that enhance their bodies to superhuman levels, from Sigils of Agility to the mythical Ethereal Sigils of Transcendent Adaptation. Even rarer are the Gazes, ocular abilities of immense power. Ranging from the Gaze of Destruction to the Gaze of Binding, these eyes can shape reality itself. Supreme, Absolute, and Ethereal Gazes are legends, powers thought to be wielded only by the Higher Ones.
+A person's potential is not defined by race alone. Some develop Sigils, physical marks that enhance their bodies to superhuman levels, from the Standard Sigils of Agility and Fortitude to the vanishingly rare Ethereal tier. Even rarer are the Gazes, innate ocular abilities of immense power ranging from the Gaze of Destruction to the Gaze of Binding. Supreme Gazes are rare but documented, with confirmed mortal bearers active in the current Registry. Absolute and Ethereal Gazes exist at the edge of institutional acknowledgment — the subject of sealed files, scholarly debate, and Eternal Guard authority.
+
+*→ `systems/Sigils.md` — Standard through Ethereal Tiers | MOD Classification*
+*→ `systems/Gazes.md` — Standard through Ethereal Tiers | MOD Registry Overview*
+
+---
 
 ## Travel and Exploration
 
-The vastness of Hyperion is navigated via Hexlines, a system of magical fast travel. Those seeking power often form Guilds and small Strike Teams to tackle dungeons, the mysterious sources from which monsters spawn. For blessings and boons, many turn to Temples dedicated to the Celestials or Primordials, whose favor can grant specific enhancements.
+The vastness of Hyperion is navigated via Hexlines, a system of magical fast travel developed by Archon Dravenmore and maintained under a lifetime MOD contract — the only such agreement in the Registry's history. Those seeking power often form Guilds and small Strike Teams to tackle dungeons, the mysterious sources from which monsters spawn. For blessings and boons, many turn to Temples dedicated to the Celestials or Primordials, whose favor can grant specific enhancements.
+
+*→ `world/Dimensions.md` — The Aether (Hexline Infrastructure)*
+*→ `organizations/Organizations.md` — Major Guilds | House Dravenmore*
+*→ `systems/Monsters.md` — Dungeon System*
+
+---
 
 ## The Cosmic Structure
 
-The cosmos of Hyperion is a structure of interconnected dimensions. The Mortal realm is Hyperion itself. Above it lies the Divine, containing the mythical Nexus of Divinity, and the Holy realm of Luminara. The Spirit world is Dreamveil. Below rests the Dark realm of The Void and the Unholy pits of Gehenna. Special dimensions include The Aether, the space between realms; Mournveil, the archive of dead souls; Memoire, the archive of memories; and the terrifying prisons of Nihility and the mythic Nil Space, said to be contained by the enigmatic Wall of Nihility.
+The cosmos of Hyperion is a structure of interconnected dimensions. The Mortal realm is Hyperion itself. Above it lies the Divine, containing the mythical Nexus of Divinity, and the Holy realm of Luminara. The Spirit world is Dreamveil. Below rests the Dark realm of The Void and the Unholy pits of Gehenna. Special dimensions include The Aether, the substrate that connects all realms and underpins the Hexline network; Mournveil, the archive of dead souls; Memoire, the archive of memories; and the terrifying prisons of Nihility and Nil Space, separated from all creation by the enigmatic Wall of Nihility — a boundary no researcher has studied and returned to document.
+
+*→ `world/Dimensions.md` — Dimensional Access Framework | All Entries*
