@@ -58,6 +58,20 @@ The cause is unknown. The leading theories are a Keystone Monster emergence of u
 
 ---
 
+## Theoretical Reference: Nihility Magic Manifestation
+
+**Status:** *[Pre-Record] [Speculation]*
+
+**Summary:** Academic speculation by multiple independent Gaze and Arcane scholars suggests that the Cataclysm of Yggdra may have involved catastrophic Nihility Magic manifestation, based on the pattern of dimensional damage and the complete historical *absence* of recorded cause despite multiple detailed eyewitness accounts of the event itself.
+
+The theory: A practitioner of Nihility Magic successfully activated the school, resulting in their own complete historical erasure *and* secondary dimensional destabilization affecting a continental region. The aftermath of the cataclysm was documented; the cause was not—consistent with Nihility Magic mechanisms.
+
+**Institutional Response:** MOD classification on Nihility Magic speculation in relation to the Cataclysm is sealed. Archon Dravenmore's correspondence contains one reference to *"potential precedent for cascading erasure effects"* now classified SECRET. Any attempt to correlate documented Cataclysm evidence with Nihility Magic theory triggers automatic Eternal Guard review and research suspension.
+
+**Cross-Reference:** `systems/Arcane.md` — Forbidden Magic: Nihility Magic
+
+---
+
 ## The Collapse of the Crimson Tower
 
 **Status:** *[Pre-Record] [Contested]*
@@ -114,6 +128,22 @@ The operative disappeared during the Fracturing of the Eastern Rift period witho
 
 ---
 
+## Shadow Magic Case I: Ashenveil Disturbance
+
+**Status:** *[Classified — partial reconstruction]*
+
+**Summary:** Mid-Third Era institutional records document a localized reality distortion event in the Ashenveil district, characterized by dimensional instability lasting approximately three months. The distortion created zones where physical laws behaved inconsistently—gravity varied unpredictably, temporal sequences became nonlinear in localized areas, and affected residents reported persistent psychological distortions.
+
+MOD investigation identified the disturbance as correlating with a Seduction Gaze bearer's (the subject of the Veiled Operations) documented attempt to access Void entities for expanded ability manifestation. The attempt resulted in entity possession and involuntary anchor behavior—the bearer became a conduit for Void entity manifestation into Hyperion's dimensional space.
+
+**Institutional Response:** Eternal Guard intervention terminated the possession and entity anchor; casualties documented at ~400 affected individuals in permanent psychological states. The bearer was extracted and subsequently contained. Current status: sealed file; location unknown; possibly deceased or institutionalized.
+
+**Significance:** This case is the origin case for all current Deep Umbraturgy (Shadow Magic) regulations and Eternal Guard protocols on Void entity possession.
+
+**Cross-Reference:** `systems/Arcane.md` — Forbidden Magic: Shadow Magic (Deep Umbraturgy); The Veiled Operations (this section)
+
+---
+
 ## The Investigation of Malachar
 
 **Status:** *[Pre-Record] [Contested]*
@@ -160,6 +190,28 @@ Scholars who have accessed adjacent records describe the interaction between the
 
 ---
 
+# Fourth Era
+
+---
+
+## The Callax Abomination: Soul Forging Case Origin
+
+**Status:** *[Classified — incident report archived, practitioner execution confirmed]*
+
+**Summary:** Arcane scholar Mage Callax of Nethermore developed and systematized techniques for soul fragmentation and essence extraction around mid-Fourth Era. The practice produced artificially amplified magical capacity for practitioners, achieved through consuming the fragmented souls of sacrificial victims.
+
+Documented victims: 47 identified individuals across a three-year active period before apprehension. Survivors of failed extraction attempts were left in permanent cataleptic states. Callax's personal research journals, sealed in Eternal Guard archives, suggest development of the technique was intentional and methodical, not accidental.
+
+During apprehension by Eternal Guard forces, Callax achieved a sustained power manifestation of exceptional intensity—described in after-action reports as dangerous enough to require 9 simultaneous Eternal Guard containment specialists. Execution was conducted using celestial fire protocol.
+
+**Institutional Response:** Soul Forging was retroactively classified as a forbidden school with extinction-level severity. All extant theoretical materials were destroyed. Any recorded discussion of the technique was sealed. Practitioners are executed on sight without trial. Institutional policy: *"No discussion; no study; no exception."*
+
+**Significance:** The Callax case is foundational to all current Eternal Guard protocols on forbidden magic and the only documented instance of successful soul-based power amplification through human sacrifice in Hyperion's official record.
+
+**Cross-Reference:** `systems/Arcane.md` — Forbidden Magic: Soul Forging
+
+---
+
 # Mid-Era
 
 The "Mid-Era" designation is informal and used to cover documented events that fall within the current Era numbering system but cannot be assigned a specific Era without access to classified MOD archival records. Events in this section are well-documented in open sources but lack Era-level precision.
@@ -177,6 +229,38 @@ Caste's commanders attributed her unit's survival to her exceptional medical ski
 **Significance:** Orvielle Caste's posthumous identification is the most openly documented Vitality Sigil case in historical record. Her case is used in MOD training materials as an example of how Sigil bearer identification can be delayed indefinitely when the bearer's conventional skills are sufficient to explain observed outcomes. Her unit's survival records are still referenced in field medicine literature. House Dravenmore added her lineage to their private genealogical registry within a week of the identification.
 
 **Cross-Reference:** `systems/Sigils.md` — Sigil of Vitality
+
+---
+
+## Healer Cassian of the Ashenmoor: Luminancy Pioneer
+
+**Status:** *[Documented — institutional records]*
+
+**Summary:** Military medical records from the Ashenmoor Campaigns document the service of Healer Cassian, a Luminancy practitioner specializing in Greater Restoration magic. Across three years of intensive field deployment, Cassian's unit recorded healing success rates statistically impossible under conventional magical theory—soldiers reaching the healer in critical condition had an 84% survival rate, compared to 12% average for comparable injuries handled by standard magical or conventional medical protocols.
+
+Cassian's personal methodology, documented in surviving training manuals, emphasized rapid triage, intensive Greater Restoration casting, and uninterrupted follow-up care. After the Campaigns concluded, Cassian spent twelve years formalized with House Dravenmore as an advisor, systematizing healing protocols that are still the foundation of MOD emergency response medical procedures.
+
+Cassian died at age 67 from complications attributed to magical exhaustion from sustained years of high-intensity casting.
+
+**Significance:** Cassian's rapid-deployment healing protocols saved over 3,000 lives during the Ashenmoor period and established the baseline for all modern magical field medicine practices. Modern MOD medical divisions cite Cassian's work as the origin of emergency response standardization.
+
+**Cross-Reference:** `systems/Arcane.md` — Luminancy Practitioners, Healer Cassian of the Ashenmoor
+
+---
+
+## Glaciarch Frostweaver: Cryomancy Theory
+
+**Status:** *[Documented — theoretical archives]*
+
+**Summary:** Mid-Era arcane records document the work of Glaciarch Frostweaver, a Cryomancy theorist who pioneered the absolute zero field preservation technique now used across MOD institutional storage facilities. Frostweaver's research (conducted in collaboration with House Dravenmore) produced the mathematical frameworks and practical implementation protocols for storing volatile essences, dangerous artifacts, and temporally sensitive specimens in states of complete stasis.
+
+Frostweaver's original work predates modern Keystone Essence containment protocols by three decades. Most contemporary Cryomancy practitioners base their advanced work on Frostweaver's theoretical foundations.
+
+Frostweaver's death date and circumstances are not documented in accessible historical records, suggesting late-life involvement in classified research programs.
+
+**Significance:** The absolute zero field technology represents the primary infrastructure underpinning MOD's ability to contain high-tier essences and dangerous magical artifacts. Frostweaver's theoretical work is foundational to all modern advanced Cryomancy application.
+
+**Cross-Reference:** `systems/Arcane.md` — Elemental Magic Practitioners: Glaciarch Frostweaver
 
 ---
 
@@ -226,6 +310,22 @@ Markward provided testimony that the shot was technically possible but would hav
 
 ---
 
+## Shadow Magic Case II: Maltheryx Anchor Mutation
+
+**Status:** *[Classified — containment ongoing]*
+
+**Summary:** Mid-Fifth Era institutional records document an individual documented only as "Subject Meridian" who attempted to commune with and draw power from Void entities via Deep Umbraturgy (Shadow Magic). Unlike the Third Era Veiled Operations case which resulted in possession and dimensional distortion, this case resulted in partial mutation and anchor transformation.
+
+The practitioner survived the attempted entity contact but underwent metabolic and physiological transformation—documented as "becoming an anchor/beacon for Maltheryx incursions." Subsequent history shows the individual became a living conduit for Void entity manifestations, with the practitioner's own consciousness remaining compartmentalized but unable to prevent entity emergence.
+
+**Institutional Response:** Subject was captured and contained by Eternal Guard forces. Current status: Institutionalized in classified containment facility with 24-hour supervised isolation protocols. No contact permitted with outside populations. Containment breach protocols are maintained at highest security level.
+
+**Significance:** This case represents the intermediate outcome between successful possession (Third Era) and failed contact. The practitioner's survival as an anchor suggests that complete entity possession may not be inevitable with Deep Umbraturgy contact, but partial transformation/anchor status may be irreversible.
+
+**Cross-Reference:** `systems/Arcane.md` — Forbidden Magic: Shadow Magic (Deep Umbraturgy)
+
+---
+
 ## The Valley of Ashemark Incident
 
 **Status:** *[Classified — evidence only]*
@@ -239,6 +339,26 @@ MOD classified the location as a natural phenomenon requiring continued monitori
 **Significance:** The Valley of Ashemark represents the clearest physical evidence that Gaze evolution from Standard to Supreme tier can occur spontaneously, independent of racial advancement. The location's sustained energy anomalies make it valuable for Gaze research and theoretical development.
 
 **Cross-Reference:** `systems/Gazes.md` — Gaze of Destruction, Supreme Gaze of Cataclysm, Case Origin documentation
+
+---
+
+# Sixth Era
+
+---
+
+## The Sixth Era Collapse: Reality Fabrication Catastrophe
+
+**Status:** *[Highly Classified — incident documentation sealed]*
+
+**Summary:** Arcane practitioners Archmongers Thessalyn and Korven conducted an unauthorized Reality Fabrication experiment during the Sixth Era, attempting to retroactively alter a single historical event related to Hexline Tower construction failure. Instead of a localized rewrite, the attempt created 47 intersecting and progressively destabilized parallel timelines. The resulting timeline collapse cascade produced an existential space rupture affecting approximately three continental zones.
+
+Physical consequence: Approximately 4,000 km² of reality remain temporally fractured and dimensionally unstable. Expeditions into the affected zones consistently result in severe temporal psychosis in survivors, making standard research and recovery operations impossible.
+
+**Institutional Response:** Both practitioners were executed immediately upon identification. All research materials were destroyed across institutional records. Cross-timeline study protocols became permanently classified. Eternal Guard maintained permanent quarantine of the fractured zone with a standing order: no expeditions authorized under any circumstances.
+
+**Significance:** The Sixth Era Collapse represents the clearest historical example of extinction-level forbidden magic catastrophe. Reality Fabrication is now the highest-classified forbidden magic with absolute research ban and death sentence for any attempt to replicate or theorize on the mechanism.
+
+**Cross-Reference:** `systems/Arcane.md` — Forbidden Magic: Reality Fabrication; `systems/Dimensions.md` — Temporal Fracture Zones (restricted access)
 
 ---
 
@@ -273,6 +393,22 @@ MOD documented the evolution as a successful case study in Gaze advancement mech
 **Significance:** The Stormcalm Trials provide one of the clearest documented examples of Standard-to-Supreme Gaze evolution occurring in real-time under controlled observation. The event is used by MOD Gaze research divisions as evidence that Standard-to-Supreme evolution correlates with extreme environmental or psychological stress.
 
 **Cross-Reference:** `systems/Gazes.md` — Gaze of Kinesis, Supreme Gaze of Omnikinesis
+
+---
+
+## Archon Dravenmore: Hexline System Architecture
+
+**Status:** *[Documented — Lifetime Contract]*
+
+**Summary:** Spatial Magic practitioner Archon Dravenmore is recognized as the principal architect and designer of the Hexline system spanning all major continental cities. His life's work, beginning in late Seventh Era and continuing into the Modern Era, produced the theoretical framework and practical implementation for stable dimensional gates enabling rapid transit infrastructure across Hyperion.
+
+Dravenmore achieved Archmage status recognition and was granted lifetime institutional contract with MOD, making him irreplaceable in terms of Hexline maintenance, expansion, and theoretical development. His work is considered the foundation of modern magical infrastructure.
+
+**Institutional Notes:** Dravenmore proposed theoretical research into Nil Space Magic (prohibited study) in sealed Seventh Era correspondence. Research was terminated; practitioner was reassigned to permanent Hexline system oversight. Correspondence remains classified SECRET. Any continuation of Nil Space research is classified as capital offense.
+
+**Significance:** Archon Dravenmore represents the highest level of institutional integration for an Archmage-tier practitioner. His contributions to infrastructure are considered vital to MOD continuity and civilization stability. His classified research attempts suggest cognitive interest in forbidden mechanics despite institutional restrictions.
+
+**Cross-Reference:** `systems/Arcane.md` — Keystone Magic Practitioners, Archon Dravenmore; Forbidden Magic: Nil Space Magic
 
 ---
 
