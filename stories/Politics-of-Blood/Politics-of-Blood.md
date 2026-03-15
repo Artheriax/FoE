@@ -24,4 +24,4 @@ Gaelira returns home from her life alongside Sersey and Nyari to fulfill what he
 
 **Note:** A third party — the Keepers of Nil, operating through a House Velmira operative — was also attempting to acquire the scroll during these events. The operative failed and filed a report identifying Gaelira as the bearer who walked out with it. This becomes relevant in Book V of Sersey's Journey.
 
-**Cross-Reference:** `organizations/Keepers-of-Nil.md` — House Velmira, Carix; `organizations/MOD.md` — Project Crimson; `world/History.md` — The Scroll Retrieval Attempt
+**Cross-Reference:** `organizations/Keepers-of-Nil.md` — House Velmira, Carix; `organizations/MOD.md` — Project Crimson; `world/history/Modern-Era.md` — The Scroll Retrieval Attempt

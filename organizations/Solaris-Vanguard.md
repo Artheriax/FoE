@@ -19,7 +19,7 @@ The oldest surviving guild in continuous operation, founded in the aftermath of 
 
 **The Irenmere Sentinels:** Two Holy-tier monsters observed defending the Pass alongside Valdren Ashcrast during the Seventh Era siege were approached by a Vanguard research team following the battle. Their behavior during the siege was assessed as benign; the engagement was concluded without neutralization. This remains an anomaly in the Vanguard's operational record and an ongoing subject of internal study.
 
-**Cross-Reference:** `systems/Monsters.md` — Holy Monsters, The Irenmere Sentinels; `world/History.md` — Siege of Irenmere Pass
+**Cross-Reference:** `systems/Monsters.md` — Holy Monsters, The Irenmere Sentinels; `world/history/Seventh-Era.md` — Siege of Irenmere Pass
 
 ---
 
@@ -29,4 +29,4 @@ The Vanguard's founding predates MOD by a significant margin. It was not created
 
 The Vanguard's relationship with the Keepers of Nil is complicated by Seraphiel Oswin's departure. The Vanguard has taken no official position on Oswin's continued affiliation. In internal communications, the subject is described as "Oswin's ongoing leave assignment."
 
-**Cross-Reference:** `organizations/Keepers-of-Nil.md` — Seraphiel Oswin; `world/History.md` — The Cataclysm of Yggdra
+**Cross-Reference:** `organizations/Keepers-of-Nil.md` — Seraphiel Oswin; `world/history/Pre-Record.md` — The Cataclysm of Yggdra

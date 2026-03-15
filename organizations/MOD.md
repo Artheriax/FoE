@@ -59,7 +59,7 @@ The auditing and investigative division. Internal Review's mandate covers compli
 
 Internal Review operates in numbered cycles; each cycle corresponds to a rotating senior caseload period. Maelen Voss held a senior analyst position in Internal Review's 22nd Cycle, producing an unmatched case-resolution record across thirty years before her Senses Sigil status was disclosed following her retirement. The procedural review of her prior casework — not disputing factual outcomes, but auditing identification methodology — has not yet concluded. Internal Review's legal division cites the Voss case as standing precedent on the question of retroactive procedural validity, without a consensus resolution.
 
-**Cross-Reference:** `systems/Sigils.md` — Sigil of Senses; `world/History.md` — The Voss Suppression Case
+**Cross-Reference:** `systems/sigils/Standard-Sigils.md` — Sigil of Senses; `world/history/Modern-Era.md` — The Voss Suppression Case
 
 ### Dungeon Division
 
@@ -69,7 +69,7 @@ Notable sealed holdings include the investigation file for the Ashenveil Shadow 
 
 The Ironfield Surge (Third Era) is the foundational case in Dungeon Division training for survey blindspot failure. It contributed to the protocol shift from quarterly manual Dungeon assessment to continuous passive monitoring for all Class II and above sites.
 
-**Cross-Reference:** `systems/Monsters.md` — Dungeon System; `world/History.md` — The Ironfield Surge
+**Cross-Reference:** `systems/Monsters.md` — Dungeon System; `world/history/Third-Era.md` — The Ironfield Surge
 
 ### Arcane Registry
 
@@ -99,7 +99,7 @@ The Division's position on the Wall of Nihility is documented: no meaningful res
 
 The Theoretical Division has a partial overlap with the Eternal Guard's research mandate in the domain of pre-record phenomena and sealed entity studies. The operational boundary between them is not publicly defined.
 
-**Cross-Reference:** `systems/Arcane.md` — Forbidden Magic; `systems/Power-Sources.md` — Entity Zero
+**Cross-Reference:** `systems/arcane/Forbidden.md` — All Schools; `systems/Power-Sources.md` — Entity Zero
 
 ### Project Crimson
 
@@ -143,13 +143,13 @@ MOD regulatory authority operates on a tiered system of disclosed obligations an
 
 Several MOD legal and procedural rulings are actively cited in ongoing policy debates without consensus resolution:
 
-- **The Voss Suppression Case** — Whether a Sigil bearer's undisclosed passive ability retroactively compromises the procedural validity of their professional work. Internal Review cites it in both directions. No ruling. *→ `world/History.md` — The Voss Suppression Case*
+- **The Voss Suppression Case** — Whether a Sigil bearer's undisclosed passive ability retroactively compromises the procedural validity of their professional work. Internal Review cites it in both directions. No ruling. *→ `world/history/Modern-Era.md` — The Voss Suppression Case*
 
-- **The Compact Defiant Adjudication** — Whether an Absolute Soul Anchoring Sigil constitutes grounds for infernal contract exemption under MOD contract law. Panel ruling: affirmative. Precedent has not been challenged since. *→ `systems/Sigils.md` — Soul Anchoring Sigil; `world/History.md` — The Compact Defiant Adjudication*
+- **The Compact Defiant Adjudication** — Whether an Absolute Soul Anchoring Sigil constitutes grounds for infernal contract exemption under MOD contract law. Panel ruling: affirmative. Precedent has not been challenged since. *→ `systems/sigils/Absolute-Sigils.md` — Soul Anchoring; `world/history/Second-Era.md` — The Compact Defiant Adjudication*
 
-- **The Callax Protocols** — Origin case for MOD classification of Soul Forging as an extinction-level forbidden practice, with practitioners subject to execution on identification rather than trial. Eternal Guard authority invoked at case conclusion. *→ `systems/Arcane.md` — Forbidden Magic: Soul Forging; `world/History.md` — The Callax Abomination*
+- **The Callax Protocols** — Origin case for MOD classification of Soul Forging as an extinction-level forbidden practice, with practitioners subject to execution on identification rather than trial. Eternal Guard authority invoked at case conclusion. *→ `systems/arcane/Forbidden.md` — Soul Forging; `world/history/Fourth-Era.md` — The Callax Abomination*
 
-- **The Valcrest Engagement Standards** — Origin case for mandatory subjective-duration disclosure in Keystone engagement after-action reports. Three hunters classified [Psychic Displacement — Sealed]; cited in training materials on acceptable engagement trade-offs without detail. *→ `systems/Monsters.md` — Keystone Monsters: Dream/Nightmare; `world/History.md` — The Dreaming of Valcrest*
+- **The Valcrest Engagement Standards** — Origin case for mandatory subjective-duration disclosure in Keystone engagement after-action reports. Three hunters classified [Psychic Displacement — Sealed]; cited in training materials on acceptable engagement trade-offs without detail. *→ `systems/Monsters.md` — Keystone Monsters: Dream/Nightmare; `world/history/Fifth-Era.md` — The Dreaming of Valcrest*
 
 ---
 

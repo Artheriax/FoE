@@ -42,7 +42,7 @@ The events in this tier predate all records and all dimensions. The Eternal Guar
 The Wall of Nihility itself is described in Power-Sources scholarship as an inverted substrate boundary: not a location inside the dimensional hierarchy, but the point at which the hierarchy ends.
 
 *→ `systems/Power-Sources.md` — Entity Zero | The Wall of Nihility*
-*→ `stories/Characters.md` — Artem (full timeline table)*
+*→ `stories/characters/Artem.md` — Full profile*
 *→ `stories/Origins/Origins.md` — Full account*
 *→ `organizations/Keepers-of-Nil.md` — Institutional response to Artem's emergence*
 
@@ -66,9 +66,9 @@ The Crimson Tower at Valdas is the most documented Pre-Record structure whose de
 **The Fracturing of the Eastern Rift** *[Pre-Record]*
 A major dimensional boundary event. Physical evidence suggests a significant tear in the dimensional fabric of the region now called the Eastern territories. Whether this is a cause or consequence of other Pre-Record events is unknown; most theoretical models treat it as a consequence.
 
-*→ `world/History.md` — Pre-Record section (full entries)*
-*→ `systems/Arcane.md` — Forbidden Magic: Nihility Magic*
-*→ `systems/Gazes.md` — Gaze of Destruction (Karthyn the Undoing)*
+*→ `world/history/Pre-Record.md` — Full entries*
+*→ `systems/arcane/Forbidden.md` — Nihility Magic*
+*→ `systems/gazes/Standard-Gazes.md` — Gaze of Destruction (Karthyn the Undoing)*
 
 ---
 
@@ -81,8 +81,8 @@ The Second Era represents the start of the documented institutional record. Eras
 **The Compact Defiant Adjudication**
 An individual holding a Devil-signed infernal contract contested the binding before MOD authorities on grounds that their Absolute Sigil of Soul Anchoring rendered contract fulfillment physically impossible. The MOD panel ruled affirmatively — the Sigil overrode the contractual obligation. This ruling remains the only affirmative decision of its kind and has not been successfully challenged. It established the foundational precedent that Sigil-based physical impossibility constitutes a valid defense against infernal contract enforcement.
 
-*→ `world/History.md` — Second Era: The Compact Defiant Adjudication*
-*→ `systems/Sigils.md` — Absolute Tier: Soul Anchoring*
+*→ `world/history/Second-Era.md` — The Compact Defiant Adjudication*
+*→ `systems/sigils/Absolute-Sigils.md` — Soul Anchoring*
 *→ `world/Dimensions.md` — Gehenna (infernal contract interface)*
 
 ---
@@ -108,9 +108,9 @@ First Revelation Gaze bearer registered by what would become the MOD. Served for
 **The Ironfield Surge**
 Approximately twelve thousand Lesser monsters emerged simultaneously from what was classified as a low-activity dungeon — the single largest Lesser emergence on record. Six weeks of prior survey failed to detect precursor activity. Dungeon reclassified following the event. Protocol origin case for dungeon pulse cycle monitoring.
 
-*→ `world/History.md` — Third Era section (full entries)*
-*→ `systems/Gazes.md` — Gaze of Seduction | Gaze of Revelation*
-*→ `systems/Arcane.md` — Forbidden Magic: Shadow Magic / Deep Umbraturgy*
+*→ `world/history/Third-Era.md` — Full entries*
+*→ `systems/gazes/Standard-Gazes.md` — Gaze of Seduction | Gaze of Revelation*
+*→ `systems/arcane/Forbidden.md` — Shadow Magic / Deep Umbraturgy*
 *→ `systems/Monsters.md` — The Ironfield Surge | Dungeon System*
 
 ---
@@ -124,8 +124,8 @@ The Fourth Era is defined institutionally by the Callax Abomination — the even
 **The Callax Abomination: Soul Forging Case Origin**
 Mage Callax, operating under sealed institutional affiliation, practiced Soul Forging across a three-year active period, producing forty-seven documented victims. The Eternal Guard intervened directly — one of the earliest documented interventions where the Eternal Guard acted on a mortal-plane case without MOD coordination. Callax was executed without trial. Soul Forging was classified as extinction-level forbidden magic; the standing protocol executes confirmed practitioners on discovery without appeal.
 
-*→ `world/History.md` — Fourth Era: The Callax Abomination*
-*→ `systems/Arcane.md` — Forbidden Magic: Soul Forging*
+*→ `world/history/Fourth-Era.md` — The Callax Abomination*
+*→ `systems/arcane/Forbidden.md` — Soul Forging*
 *→ `organizations/Organizations.md` — The Eternal Guard | Callax Protocols*
 
 ---
@@ -157,10 +157,10 @@ Bearer of the Gaze of Kinesis. Responsible for the assassination of Warlord Meck
 **Shadow Magic Case II: Maltheryx Anchor Mutation**
 A practitioner of Shadow Magic was exposed to Maltheryx-adjacent dimensional space under uncontrolled conditions. Subject Meridian was retrieved and contained; the mutation to their Psyche structure was not reversible. Active research ongoing under seal.
 
-*→ `world/History.md` — Mid-Era section (full entries)*
-*→ `systems/Sigils.md` — Sigil of Vitality (Orvielle Caste)*
+*→ `world/history/Mid-Era.md` — Full entries*
+*→ `systems/sigils/Standard-Sigils.md` — Sigil of Vitality (Orvielle Caste)*
 *→ `systems/Power-Sources.md` — Anomalous Cases: Healer Cassian*
-*→ `systems/Gazes.md` — Supreme Gaze of Cataclysm (case origin)*
+*→ `systems/gazes/Supreme-Gazes.md` — Gaze of Cataclysm (case origin)*
 
 ---
 
@@ -176,7 +176,7 @@ A Dream-class Keystone specimen (designated NKS-1) was encountered in the Valcre
 **The Northern Face Temporal Weaver**
 A Time-class Keystone engagement resulting in fourteen MOD personnel displaced across temporal substrates; six placed in permanent care. First documented case requiring temporal displacement response protocols.
 
-*→ `world/History.md` — Fifth Era section (full entries)*
+*→ `world/history/Fifth-Era.md` — Full entries*
 *→ `systems/Monsters.md` — Keystone: Dream-class (NKS-1) | Keystone: Time-class*
 *→ `world/Dimensions.md` — Dreamveil (Dream-adjacent substrate)*
 *→ `organizations/Organizations.md` — Institutional Precedents: Valcrest Engagement Standards*
@@ -198,8 +198,8 @@ Practitioners Thessalyn and Korven, bearing the Absolute or evolved Illusion Gaz
 **The Caldenmere Void Reacher**
 A Space-class Keystone specimen that was never successfully neutralized. Presumed displaced by the dimensional disruption of the Sixth Era Collapse. Its current location is unknown; the engagement file is open.
 
-*→ `world/History.md` — Sixth Era section (full entries)*
-*→ `systems/Gazes.md` — Supreme/Absolute Gaze of Reality Fabrication*
+*→ `world/history/Sixth-Era.md` — Full entries*
+*→ `systems/gazes/Supreme-Gazes.md` — Gaze of Reality Fabrication*
 *→ `world/Dimensions.md` — The Aether (Sixth Era Collapse Aetheric fracture)*
 *→ `systems/Monsters.md` — Keystone: Space-class (Caldenmere Void Reacher)*
 
@@ -223,9 +223,9 @@ Beginning in the late Seventh Era and extending into the Modern, the preeminent 
 **The Sleeper Incident**
 An Absolute-tier Mindscape Gaze event. Details are sealed. MOD records acknowledge the incident; the Eternal Guard has assumed ongoing engagement authority. The incident is listed as active.
 
-*→ `world/History.md` — Seventh Era section (full entries)*
-*→ `systems/Sigils.md` — Sigil of Fortitude (Valdren Ashcrast)*
-*→ `systems/Gazes.md` — Supreme Gaze of Omnikinesis (case origin)*
+*→ `world/history/Seventh-Era.md` — Full entries*
+*→ `systems/sigils/Standard-Sigils.md` — Sigil of Fortitude (Valdren Ashcrast)*
+*→ `systems/gazes/Supreme-Gazes.md` — Gaze of Omnikinesis (case origin)*
 *→ `world/Dimensions.md` — The Aether (Hexline infrastructure)*
 *→ `organizations/Organizations.md` — House Dravenmore | The Eternal Guard*
 
@@ -246,7 +246,7 @@ MOD analyst Maelen Voss suppressed a documented Sigil of Senses throughout a thi
 **Sersey's Present**
 The current moment. Artem walks out of the Wall of Nihility. The Echo Breakers are active. Several sealed incidents from prior eras — the Sleeper Incident, the Caldenmere Void Reacher file, the Sixth Era Collapse quarantine — remain unresolved. New questions are accumulating faster than answers.
 
-*→ `world/History.md` — Modern Era section (full entries)*
-*→ `stories/Characters.md` — Sersey | Artem | Echo Breakers*
+*→ `world/history/Modern-Era.md` — Full entries*
+*→ `stories/characters/Sersey.md` | `stories/characters/Artem.md`*
 *→ `stories/Story-Arcs.md` — Sersey's Journey*
 *→ `organizations/Organizations.md` — MOD Internal Review: Voss Suppression Case*

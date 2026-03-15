@@ -18,7 +18,7 @@ Minor guilds operate under MOD licensing with fewer compliance requirements than
 - **Culture:** Reckless, competitive, and thrill-seeking. The Stormcalm Trials (Seventh Era), which produced the first documented Kinesis Gaze evolution to Omnikinesis, included a Stormseeker engagement team. The connection between that engagement and the evolution event is noted in the MOD incident report without comment.
 - **MOD Relationship:** Compliance varies by contract. Operationally useful enough that Field Operations does not prioritize pursuing their irregularities.
 
-**Cross-Reference:** `systems/Monsters.md` — Shock Elemental; Blaze Elemental; `world/History.md` — The Stormcalm Trials
+**Cross-Reference:** `systems/Monsters.md` — Shock Elemental; Blaze Elemental; `world/history/Seventh-Era.md` — The Stormcalm Trials
 
 ---
 

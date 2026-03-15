@@ -48,7 +48,7 @@ The Intervening One is a being of unpredictable will. It does not weave fate or 
 
 The Observing One, also known as Phariah, is the ultimate historian. It exists to watch, record, and collect all knowledge without ever intervening or allowing itself to be seen. Legends say it was once a powerful being that defied cosmic law and was punished by the Judging One to forever observe without acting. It is the silent eyes of the higher forces, a passive recorder of all that has ever happened. Some believe it decides what is remembered and what is erased from reality itself.
 
-Petitioners have been known to attempt access to Phariah's archive — the most comprehensive record of Hyperion's history in existence. The extent to which any have succeeded is, appropriately, not in any accessible record. *→ `world/History.md` — Pre-Record Events*
+Petitioners have been known to attempt access to Phariah's archive — the most comprehensive record of Hyperion's history in existence. The extent to which any have succeeded is, appropriately, not in any accessible record. *→ `world/history/Pre-Record.md` — Pre-Record Events*
 
 ### The Nonexistent One
 
@@ -191,7 +191,7 @@ The Nephryx are benevolent, peaceful spiritual beings. They exist as ethereal pr
 
 Maltheryx are rare and dangerous spirits born from immense, unresolved hatred and a thirst for vengeance. They are the dark counterpart to the Nephryx. These vengeful spirits manifest in the physical world to torment and destroy those they believe wronged them, often through haunting, possession, or spreading corruption. They are creatures of pure malice, difficult to control or destroy, and represent the catastrophic consequences of hatred that persists beyond death.
 
-The Shadow Magic Case I Ashenveil Disturbance and Shadow Magic Case II Maltheryx Anchor Mutation document the outcomes of attempted mortal contact with Maltheryx-class entities. Both produced containment-level consequences. The name of the second case type is taken directly from this race. *→ `world/History.md` — Shadow Magic Case I; Shadow Magic Case II | `systems/Arcane.md` — Forbidden Magic: Shadow Magic (Deep Umbraturgy)*
+The Shadow Magic Case I Ashenveil Disturbance and Shadow Magic Case II Maltheryx Anchor Mutation document the outcomes of attempted mortal contact with Maltheryx-class entities. Both produced containment-level consequences. The name of the second case type is taken directly from this race. *→ `world/history/Third-Era.md` — Shadow Magic Case I | `world/history/Mid-Era.md` — Shadow Magic Case II | `systems/arcane/Forbidden.md` — Shadow Magic (Deep Umbraturgy)*
 
 ### Seraphon
 
@@ -211,7 +211,7 @@ Aetherions are the pinnacle of the Aetherian race, supreme masters of the Aether
 
 Devils are cunning, malevolent beings from Gehenna (Hell) who exclusively appear male. Unlike chaotic demons, devils rely on intellect, manipulation, and infernal contracts. They appear as horned, refined humanoids, often dressed elegantly to deceive and persuade mortals into signing magical pacts that always hide disastrous fine print. They are masters of long-term schemes and political intrigue, thriving on the corruption of souls rather than mindless destruction.
 
-The Compact Defiant Adjudication (Second Era) established the legal precedent that Soul Anchoring Sigil bearers are exempt from infernal contractual provisions — a ruling that arose directly from a Devil house's attempt to enforce a soul extraction contract. The ruling has been cited in contract law forty-three times since and has never been successfully challenged. *→ `world/History.md` — The Compact Defiant Adjudication | `systems/Sigils.md` — Absolute Sigil of Soul Anchoring*
+The Compact Defiant Adjudication (Second Era) established the legal precedent that Soul Anchoring Sigil bearers are exempt from infernal contractual provisions — a ruling that arose directly from a Devil house's attempt to enforce a soul extraction contract. The ruling has been cited in contract law forty-three times since and has never been successfully challenged. *→ `world/history/Second-Era.md` — The Compact Defiant Adjudication | `systems/sigils/Absolute-Sigils.md` — Soul Anchoring*
 
 ### Arch-Angel
 
@@ -231,7 +231,7 @@ Demons are chaotic beings from Gehenna (Hell) who delight in the forbidden and r
 
 Angels are celestial beings who reside among mortals on worlds rich with holy magic, like regions of Hyperion. They are humanoid with large feathered wings and often a faint ethereal glow. They are natural wielders of holy magic, making them formidable opponents to dark creatures like demons and vampires. While powerful, they are not invincible and rely on their magic, making them vulnerable to anti-magic measures. They often ally with races like the Arcanians to uphold justice.
 
-The Solaris Vanguard maintains documented historical relationships with Angel populations in Hyperion; several Angels hold long-standing guild memberships. Their Luminancy affinity makes them natural allies for Radiant and Holy monster engagement operations. *→ `organizations/Organizations.md` — Solaris Vanguard | `systems/Arcane.md` — Luminancy*
+The Solaris Vanguard maintains documented historical relationships with Angel populations in Hyperion; several Angels hold long-standing guild memberships. Their Luminancy affinity makes them natural allies for Radiant and Holy monster engagement operations. *→ `organizations/Organizations.md` — Solaris Vanguard | `systems/arcane/Holy-Unholy.md` — Luminancy*
 
 ### Umbraxan
 
@@ -261,7 +261,7 @@ The Elves of Hyperion are a graceful, all-female race born from sacred Trees of 
 
 Elven Gaze manifestations historically cluster around harmony, spiritual, and perception-based categories. Several of the most significant Gaze bearers in the historical record are Elven: Karthyn the Undoing (Destruction Gaze, Pre-Record), Serene of the Ashenveil (probable Harmony Gaze, Mid-Era), Ghastward of Ashenveil (probable Spirits Gaze, Mid-Era). Whether this reflects genuinely elevated incidence or the superior recordkeeping of long-lived Elven Tree archives is a question the Assessment Unit has not formally resolved. The Solaris Vanguard's historical composition and culture skew Elven; the guild was founded in the aftermath of the Cataclysm of Yggdra by individuals who had survived it.
 
-The oldest surviving document referencing the Second Weave is held in a sealed archive of an Elven Tree of Life. It has not been made available to MOD. *→ `world/History.md` — The Second Weave; The Cataclysm of Yggdra | `systems/Gazes.md` — Gaze of Harmony; Gaze of Spirits | `organizations/Organizations.md` — Solaris Vanguard*
+The oldest surviving document referencing the Second Weave is held in a sealed archive of an Elven Tree of Life. It has not been made available to MOD. *→ `world/history/Pre-Record.md` — The Second Weave; The Cataclysm of Yggdra | `systems/gazes/Standard-Gazes.md` — Gaze of Harmony; Gaze of Spirits | `organizations/Organizations.md` — Solaris Vanguard*
 
 ### Dark Elf
 
@@ -277,7 +277,7 @@ The most significant consequence of this separation is biological. Elves are bor
 
 **In Hyperion:** Dark Elves who engage with MOD structures most commonly do so through the Umbra Shroud. The guild's invite-only recruitment, operational secrecy, and specialization in threat categories where Dark Elf abilities are most applicable make the affiliation practical. Dark Elves who register with MOD directly do so at below-average rates; the Assessment Unit's files on Dark Elf Gaze bearer incidence are acknowledged internally as incomplete.
 
-*→ `world/Races.md` — Elf; Astrae | `organizations/Organizations.md` — The Umbra Shroud | `systems/Arcane.md` — Umbraturgy | `systems/Gazes.md` — Gaze Registration*
+*→ `world/Races.md` — Elf; Astrae | `organizations/Organizations.md` — The Umbra Shroud | `systems/arcane/Holy-Unholy.md` — Umbraturgy | `systems/Gazes.md` — Gaze Registration*
 
 ### Vampire
 
@@ -285,9 +285,9 @@ Vampires are an immortal race sustained by consuming blood, which grants them en
 
 **House Noctaris** functions as a manipulative aristocracy — patient, politically entrenched, preferring to rule through economic and informational leverage rather than direct force. They have infiltrated political and corporate structures across Hyperion over centuries and are the most institutionally opaque of the three houses.
 
-**House Morvayne** builds and maintains power through demonstrated force. They take contracts, hold territory, and make their presence known. The Third Era Dual Sigil Incident involved a Morvayne vassal — the only confirmed case of dual-Sigil coexistence in documented history. Valdren Ashcrast declined a Morvayne contract offer following the Siege of Irenmere Pass. Both records suggest Morvayne actively acquires exceptional individuals. *→ `world/History.md` — The Dual Sigil Incident; Siege of Irenmere Pass*
+**House Morvayne** builds and maintains power through demonstrated force. They take contracts, hold territory, and make their presence known. The Third Era Dual Sigil Incident involved a Morvayne vassal — the only confirmed case of dual-Sigil coexistence in documented history. Valdren Ashcrast declined a Morvayne contract offer following the Siege of Irenmere Pass. Both records suggest Morvayne actively acquires exceptional individuals. *→ `world/history/Third-Era.md` — The Dual Sigil Incident | `world/history/Seventh-Era.md` — Siege of Irenmere Pass*
 
-**House Dravenmore** are mystic scholars, focused on understanding and perfecting the vampire condition through research. Their genealogical registry of Sigil bearers is the most complete private record in existence. Archon Dravenmore — the preeminent Spatial Magic practitioner of the Seventh Era, architect of the Hexline System, and the only individual to hold a lifetime MOD contract — was a Dravenmore vampire. Their institutional relationship with MOD's Assessment Unit, though not in any public document, has persisted across multiple eras. *→ `organizations/Organizations.md` — House Dravenmore | `world/History.md` — Archon Dravenmore: Hexline System Architecture*
+**House Dravenmore** are mystic scholars, focused on understanding and perfecting the vampire condition through research. Their genealogical registry of Sigil bearers is the most complete private record in existence. Archon Dravenmore — the preeminent Spatial Magic practitioner of the Seventh Era, architect of the Hexline System, and the only individual to hold a lifetime MOD contract — was a Dravenmore vampire. Their institutional relationship with MOD's Assessment Unit, though not in any public document, has persisted across multiple eras. *→ `organizations/Organizations.md` — House Dravenmore | `world/history/Seventh-Era.md` — Archon Dravenmore: Hexline System Architecture*
 
 Vampire immortality interacts with the Sigil and Gaze manifestation timeline in ways that are not fully understood. The strain threshold for Sigil awakening may compound differently across centuries than across decades. House Dravenmore's research on this question is not published. *→ `systems/Sigils.md` — Sigil Strain | `systems/Power-Sources.md` — Physical Source*
 
@@ -295,7 +295,7 @@ Vampire immortality interacts with the Sigil and Gaze manifestation timeline in 
 
 Arcanians are humans who possess the innate ability to use magic. Physically indistinguishable from baseline Humans, their talent sets them apart and allows them to compete in a world filled with magical threats and wonders. They are the primary practitioners of magic within human society and are often found in guilds, military units, or as independent mages-for-hire.
 
-Within MOD's Arcane Registry of approximately 12,400 registered practitioners, Arcanians constitute the largest single racial category. Unlike some long-lived races, Arcanian practitioners operate within a standard human lifespan, producing higher institutional turnover and, historically, more diverse innovation in applied magic. Healer Cassian — whose field healing protocols remain the foundation of MOD emergency response medical procedures — is documented in Arcanian practitioner records. *→ `systems/Arcane.md` — MOD Arcane Registry Overview | `world/History.md` — Healer Cassian of the Ashenmoor*
+Within MOD's Arcane Registry of approximately 12,400 registered practitioners, Arcanians constitute the largest single racial category. Unlike some long-lived races, Arcanian practitioners operate within a standard human lifespan, producing higher institutional turnover and, historically, more diverse innovation in applied magic. Healer Cassian — whose field healing protocols remain the foundation of MOD emergency response medical procedures — is documented in Arcanian practitioner records. *→ `systems/Arcane.md` — MOD Arcane Registry Overview | `world/history/Mid-Era.md` — Healer Cassian of the Ashenmoor*
 
 ### Kitsune
 
@@ -307,4 +307,4 @@ Kitsune register with MOD at standard rates but rarely pursue Dungeon-focused hu
 
 Humans are the technologically adept race of Hyperion, lacking innate magic but mastering science and engineering to an unmatched degree. Their crowning achievement is Techno-Magic, a fusion of technology and arcane energy that powers their cities, vehicles, and weapons. Their ambition, adaptability, and innovative spirit have made them a major political and economic force, though they often rely on magical races like Arcanians or Angels to deal with supernatural threats.
 
-By raw numbers, Humans constitute the largest registered hunter population in MOD's Registry. The Techno-Magic advantage equalizes capability gaps against magically superior races in many engagement scenarios: well-equipped Human hunters regularly operate at ranks that pure biological assessment would not predict. Their shorter lifespans compared to most other races produce a distinctive career arc — faster advancement windows and a cultural relationship with risk that diverges significantly from longer-lived races. Valdren Ashcrast is the most widely cited Human hunter in MOD's Sigil identification training materials. *→ `world/History.md` — Siege of Irenmere Pass | `systems/Sigils.md` — Sigil of Fortitude*
+By raw numbers, Humans constitute the largest registered hunter population in MOD's Registry. The Techno-Magic advantage equalizes capability gaps against magically superior races in many engagement scenarios: well-equipped Human hunters regularly operate at ranks that pure biological assessment would not predict. Their shorter lifespans compared to most other races produce a distinctive career arc — faster advancement windows and a cultural relationship with risk that diverges significantly from longer-lived races. Valdren Ashcrast is the most widely cited Human hunter in MOD's Sigil identification training materials. *→ `world/history/Seventh-Era.md` — Siege of Irenmere Pass | `systems/sigils/Standard-Sigils.md` — Sigil of Fortitude*

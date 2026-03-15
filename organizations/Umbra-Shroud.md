@@ -19,7 +19,7 @@ The Shroud specializes in engagement categories that other guilds decline: Umbra
 
 **The Ashenveil Deep Breach (Third Era):** The Shroud's origin operation in documented record — the engagement result established both the guild's reputation and current protocols for Unholy contamination zone management. The Ashenveil Breach Aftermath — the contamination zone requiring ongoing isolation — is a Shroud-adjacent holding, though the precise terms of their involvement in its ongoing management are not in MOD's public operational filings.
 
-**Cross-Reference:** `systems/Monsters.md` — Unholy Monsters; Dungeon System, The Ashenveil Deep Breach; `world/History.md` — Shadow Magic Case I
+**Cross-Reference:** `systems/Monsters.md` — Unholy Monsters; Dungeon System, The Ashenveil Deep Breach; `world/history/Third-Era.md` — Shadow Magic Case I
 
 **The Ashenveil Shadow:** The Umbral Shadow investigation file held by MOD's Dungeon Division was partially sourced from materials the Shroud provided before MOD's formal engagement. The Shroud has not commented on what it knows about the Shadow's origin that it has not provided to MOD.
 
@@ -27,7 +27,7 @@ The Shroud specializes in engagement categories that other guilds decline: Umbra
 
 **The Stormstep:** The Umbra Shroud claimed affiliation with the Stormstep within a week of the operative's death announcement, after seven years of unsuccessful MOD pursuit. The timing of that claim — and what it implies about when the Shroud knew — has not been addressed publicly.
 
-**Cross-Reference:** `world/History.md` — The Stormstep Operations; `systems/Sigils.md` — Sigil of Agility
+**Cross-Reference:** `world/history/Modern-Era.md` — The Stormstep Operations; `systems/sigils/Standard-Sigils.md` — Sigil of Agility
 
 ---
 

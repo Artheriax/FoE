@@ -88,4 +88,4 @@ One of Hyperion's oldest active organizations. Not registered with MOD. Founded 
 
 **Full record:** `organizations/Keepers-of-Nil.md`
 
-**Cross-Reference:** `world/History.md` — First Mortal Documentation of the Wall of Nihility; The Establishment of the Keepers of Nil; The Scroll Retrieval Attempt; `world/Dimensions.md` — Wall of Nihility
+**Cross-Reference:** `world/history/Pre-Record.md` — First Mortal Documentation of the Wall of Nihility | `world/history/Second-Era.md` — The Establishment of the Keepers of Nil | `world/history/Modern-Era.md` — The Scroll Retrieval Attempt; `world/Dimensions.md` — Wall of Nihility

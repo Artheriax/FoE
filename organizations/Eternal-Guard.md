@@ -20,15 +20,15 @@ Whether the mortal-plane Eternal Guard is an operational extension of the cosmic
 
 The Eternal Guard's documented interventions accessible through adjacent records:
 
-- **The Callax Case (Fourth Era):** Invoked Eternal Guard authority at case conclusion. Practitioners executed; all research materials destroyed across institutional records. Issued the standing classification of Soul Forging as extinction-level forbidden, with practitioners subject to execution on identification without trial. This classification has not been revisited. *→ `systems/Arcane.md` — Forbidden Magic: Soul Forging; `world/History.md` — The Callax Abomination*
+- **The Callax Case (Fourth Era):** Invoked Eternal Guard authority at case conclusion. Practitioners executed; all research materials destroyed across institutional records. Issued the standing classification of Soul Forging as extinction-level forbidden, with practitioners subject to execution on identification without trial. This classification has not been revisited. *→ `systems/arcane/Forbidden.md` — Soul Forging; `world/history/Fourth-Era.md` — The Callax Abomination*
 
-- **The Sixth Era Collapse:** Executed both practitioners upon identification. Maintained permanent quarantine of the 4,000 km² temporal fracture zone. Standing order: no expeditions authorized under any circumstances. No documented challenge to the order has been filed or accepted. *→ `systems/Arcane.md` — Forbidden Magic: Reality Fabrication; `world/History.md` — The Sixth Era Collapse*
+- **The Sixth Era Collapse:** Executed both practitioners upon identification. Maintained permanent quarantine of the 4,000 km² temporal fracture zone. Standing order: no expeditions authorized under any circumstances. No documented challenge to the order has been filed or accepted. *→ `systems/arcane/Forbidden.md` — Reality Fabrication; `world/history/Sixth-Era.md` — The Sixth Era Collapse*
 
-- **Sealed Research Authority:** All research into Entity Zero, the Wall of Nihility, and Nil Space Magic is sealed at Eternal Guard authority. Theoretical Division staff who have approached proximity research on these areas have been removed from active assignment. *→ `systems/Power-Sources.md` — Entity Zero; `systems/Arcane.md` — Forbidden Magic; `world/Dimensions.md` — Wall of Nihility*
+- **Sealed Research Authority:** All research into Entity Zero, the Wall of Nihility, and Nil Space Magic is sealed at Eternal Guard authority. Theoretical Division staff who have approached proximity research on these areas have been removed from active assignment. *→ `systems/Power-Sources.md` — Entity Zero; `systems/arcane/Forbidden.md` — All Schools; `world/Dimensions.md` — Wall of Nihility*
 
 - **Absolute and Ethereal Tier Files:** Gaze and Sigil bearer files at Absolute tier and above require senior Eternal Guard authorization to access within the Assessment Unit. Active file count: [Sealed].
 
-- **The Sleeper Incident (Seventh Era, ongoing):** Engagement in progress. X-rank only. All documentation sealed at Eternal Guard authority. The operation has not concluded. *→ `systems/Gazes.md` — Ethereal Gaze of Mindscape; `systems/Monsters.md` — Keystone Monsters: Mind*
+- **The Sleeper Incident (Seventh Era, ongoing):** Engagement in progress. X-rank only. All documentation sealed at Eternal Guard authority. The operation has not concluded. *→ `systems/gazes/Absolute-Gazes.md` — Mindscape; `systems/Monsters.md` — Keystone Monsters: Mind*
 
 ---
 

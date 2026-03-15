@@ -36,7 +36,7 @@ Full record: [Politics-of-Blood/Politics-of-Blood.md](Politics-of-Blood/Politics
 
 Covers: Gaelira's arranged marriage into a vampire house; discovery of *The Soul of the First* scroll; the three-sided conflict between the vampire house, MOD's Project Crimson, and Gaelira herself; her engineering of a mutual dissolution; departure with the scroll. Closes with the Keepers of Nil receiving a report placing the scroll with Gaelira — which becomes the thread that opens Book V.
 
-**Cross-Reference:** `organizations/Keepers-of-Nil.md` — House Velmira, Carix; `organizations/MOD.md` — Project Crimson; `world/History.md` — The Scroll Retrieval Attempt
+**Cross-Reference:** `organizations/Keepers-of-Nil.md` — House Velmira, Carix; `organizations/MOD.md` — Project Crimson; `world/history/Modern-Era.md` — The Scroll Retrieval Attempt
 
 ---
 

@@ -58,7 +58,7 @@ Vael leads through patience rather than authority. They do not issue orders. The
 
 Small detail that those who work with Vael eventually notice: they still speak in the register of someone who genuinely expects to be surprised by new information. After millennia, the curiosity has not become performance.
 
-**Cross-Reference:** `world/History.md` — First Mortal Documentation of the Wall; The Establishment of the Keepers of Nil
+**Cross-Reference:** `world/history/Pre-Record.md` — First Mortal Documentation of the Wall; `world/history/Second-Era.md` — The Establishment of the Keepers of Nil
 
 ---
 
@@ -88,7 +88,7 @@ No one has pressed him further, partly out of professional regard and partly bec
 
 His operational value is the intersection of infernal contract law and intelligence methodology. He was the one who identified that the scroll *The Soul of the First* had most likely passed into specific vampire house holdings, tracked its probable transfer chain, and planned the retrieval operation that ultimately failed to recover it before Gaelira walked out with it. His annotated post-operation assessment — which identified Gaelira by name and documented the second layer's activation — is the intelligence document that eventually led the Keepers to Sersey's group.
 
-**Cross-Reference:** `world/History.md` — The Scroll Retrieval Attempt; `stories/Story-Arcs.md` — FoE: Politics of Blood
+**Cross-Reference:** `world/history/Modern-Era.md` — The Scroll Retrieval Attempt; `stories/Story-Arcs.md` — FoE: Politics of Blood
 
 ---
 
@@ -110,7 +110,7 @@ House Velmira quietly diverted a portion of its intelligence network toward Keep
 
 The operative deployed to recover *The Soul of the First* from the vampire house in the Politics of Blood incident was acting under House Velmira's authorization. Their failure — specifically the identification of Gaelira as an Astrae bearer who had unlocked the scroll's second layer and exited under her own terms — produced the most significant intelligence the Keepers had received in over a century. Carix's post-operation assessment was based on the House Velmira operative's filed report.
 
-**Cross-Reference:** `world/History.md` — The Scroll Retrieval Attempt; `stories/Story-Arcs.md` — FoE: Politics of Blood
+**Cross-Reference:** `world/history/Modern-Era.md` — The Scroll Retrieval Attempt; `stories/Story-Arcs.md` — FoE: Politics of Blood
 
 ---
 
@@ -124,7 +124,7 @@ Their joining predates several current members and postdates several who are no 
 
 It is Dask who, during the group's first meeting with Sersey's party in Book V, pauses mid-conversation to ask Sersey two questions that do not fit the current discussion. The way they look at her after she answers is the look of someone recalculating in real time. They have spent decades building the theoretical framework for what the scroll described — *his fragments still seek those who carry his mark of adaptation* — and finding an active Adaptation Sigil bearer in the room had not been part of any operational scenario they had prepared for. Dask handles the moment professionally. Their voice does not change. Sersey notices the shift anyway.
 
-**Cross-Reference:** `systems/Sigils.md` — Sigil of Adaptation; `stories/Story-Arcs.md` — Book V: The Wall That Remembers
+**Cross-Reference:** `systems/sigils/Standard-Sigils.md` — Sigil of Adaptation; `stories/Story-Arcs.md` — Book V: The Wall That Remembers
 
 ---
 

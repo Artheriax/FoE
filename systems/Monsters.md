@@ -100,7 +100,7 @@ Beings of absolute cold and ice, originating from glacial dungeons, high mountai
 - **Examples:** Ice Elementals, Wendigos, Frost Trolls, Yeti, Winter Wolves, Frozen Wraiths.
 - **Behavior:** Not necessarily aggressive, but their mere presence lowers the temperature to deadly levels. They are patient hunters, using blizzards and icy terrain to ambush prey.
 - **Essence:** They leave behind Frost Core Essences, crystalline shards that radiate intense cold.
-- **Notable Specimen — The Glacial Sovereign of Narmheld** *(Fourth Era)* — An Ice Elemental that occupied the Narmheld mountain pass for what local records suggest was several decades. Notable for its ability to animate lesser Frost creatures as extensions of itself — a behavior not observed in any other documented Frost specimen. Neutralized during the early Ashenmoor Campaigns by Glaciarch Frostweaver's team as part of a northern pass clearance operation. Cross-Reference: *systems/Arcane.md — Cryomancy; world/History.md — Glaciarch Frostweaver*.
+- **Notable Specimen — The Glacial Sovereign of Narmheld** *(Fourth Era)* — An Ice Elemental that occupied the Narmheld mountain pass for what local records suggest was several decades. Notable for its ability to animate lesser Frost creatures as extensions of itself — a behavior not observed in any other documented Frost specimen. Neutralized during the early Ashenmoor Campaigns by Glaciarch Frostweaver's team as part of a northern pass clearance operation. Cross-Reference: *systems/arcane/Elemental.md — Cryomancy; world/history/Mid-Era.md — Glaciarch Frostweaver*.
 
 ### Terra Monsters
 
@@ -120,7 +120,7 @@ Embodiments of lightning, storm, and raw electromagnetic energy. They are born f
 - **Examples:** Lightning Drakes, Storm Elementals, Thunderbirds, Jellyfish-like Floaters that generate charge, Volt-Hounds.
 - **Behavior:** Erratic, unpredictable, and blindingly fast. Their attacks are swift and shocking, often prioritizing disruption and paralysis.
 - **Essence:** They drop Shock Core Essences, buzzing spheres or forks of captured lightning.
-- **Notable Specimen — "Stormcore" (Specimen Vel-7)** *(Seventh Era)* — A Lightning Drake recovered alive during the Stormcalm Trials for study in conjunction with Kinesis evolution research. Held in MOD controlled conditions for fourteen months before being neutralized upon containment failure. Findings from the study period contributed to Fulminancy practitioner training revisions. Full research notes: [Sealed — Arcane Division]. Cross-Reference: *systems/Arcane.md — Fulminancy; world/History.md — The Stormcalm Trials*.
+- **Notable Specimen — "Stormcore" (Specimen Vel-7)** *(Seventh Era)* — A Lightning Drake recovered alive during the Stormcalm Trials for study in conjunction with Kinesis evolution research. Held in MOD controlled conditions for fourteen months before being neutralized upon containment failure. Findings from the study period contributed to Fulminancy practitioner training revisions. Full research notes: [Sealed — Arcane Division]. Cross-Reference: *systems/arcane/Elemental.md — Fulminancy; world/history/Seventh-Era.md — The Stormcalm Trials*.
 
 ### Radiant Monsters
 
@@ -162,7 +162,7 @@ Holy Monsters present a threat assessment challenge distinct from all other tier
 Documentation of Holy Monster communication is contested. In three separate historical incidents, individual specimens were reported to have transmitted meaning to hunters — not in language, but as direct impression. None of these accounts are officially credited in the Registry. All three reporting hunters were subject to standard post-encounter psychological evaluation. Results: [Sealed].
 
 **Notable Case — The Irenmere Sentinels** *(Seventh Era)*
-During the Siege of Irenmere Pass, a pair of Divine Lions were documented in the vicinity of the pass fortifications. Field reports submitted by Valdren Ashcrast's unit note that the lions did not participate in combat but were observed pacing the perimeter of the defensive line throughout the 31-hour engagement. They withdrew immediately upon the siege's conclusion. No engagement was made. MOD classification of the sighting: [Acknowledged — Under Review]. Cross-Reference: *systems/Sigils.md — Fortitude, Valdren Ashcrast; world/History.md — Siege of Irenmere Pass*.
+During the Siege of Irenmere Pass, a pair of Divine Lions were documented in the vicinity of the pass fortifications. Field reports submitted by Valdren Ashcrast's unit note that the lions did not participate in combat but were observed pacing the perimeter of the defensive line throughout the 31-hour engagement. They withdrew immediately upon the siege's conclusion. No engagement was made. MOD classification of the sighting: [Acknowledged — Under Review]. Cross-Reference: *systems/sigils/Standard-Sigils.md — Fortitude, Valdren Ashcrast; world/history/Seventh-Era.md — Siege of Irenmere Pass*.
 
 ### Unholy Monsters
 
@@ -180,7 +180,7 @@ Unholy Monsters carry a secondary hazard designation beyond their physical threa
 Revenant-class Undead carry an additional flag in the Registry: **re-emergence risk**. Unlike standard undead, Revenants neutralized without essence extraction have, in documented cases, reconsolidated at their original neutralization site within 48 to 72 hours at reduced power. Standard protocol mandates full essence extraction prior to disengagement from Revenant engagement sites.
 
 **Notable Case — The Ashenveil Breach Aftermath** *(Third Era)*
-Following the Ashenveil Deep Breach, MOD field teams documented a secondary emergence of Corrupted Beasts in areas surrounding the original breach site — despite the breach dungeon having been sealed. Analysis concluded that residual Unholy essence concentration from the initial engagement had reached sufficient density to trigger spontaneous emergence. The area was designated a Type II Contamination Zone and remained under restricted access for [duration sealed]. This incident established the foundational evidence base for current post-engagement contamination assessment protocols. Cross-Reference: *world/History.md — Shadow Magic Case I: Ashenveil Disturbance*.
+Following the Ashenveil Deep Breach, MOD field teams documented a secondary emergence of Corrupted Beasts in areas surrounding the original breach site — despite the breach dungeon having been sealed. Analysis concluded that residual Unholy essence concentration from the initial engagement had reached sufficient density to trigger spontaneous emergence. The area was designated a Type II Contamination Zone and remained under restricted access for [duration sealed]. This incident established the foundational evidence base for current post-engagement contamination assessment protocols. Cross-Reference: *world/history/Third-Era.md — Shadow Magic Case I: Ashenveil Disturbance*.
 
 ---
 
@@ -205,7 +205,7 @@ Classification: [Sealed — Standing Order K14]. Available summary (S-rank and a
 
 Monsters that can warp space to create portals or crush enemies with gravity. Spatial Keystone specimens are the most tactically dangerous class for standard response teams due to their ability to instantaneously reposition, create traversal barriers, and alter local gravitational fields during engagement. Void Reachers in particular exhibit documented behavior of opening one-way spatial apertures mid-combat — hunters who have entered these apertures have not returned.
 
-Standard engagement protocol for Spatial specimens includes a minimum of two Spatial Magic practitioners on the Strike Team, whose primary function is aperture monitoring and closure. Archon Dravenmore's Hexline architecture is credited with reducing Spatial specimen fatalities since adoption. Cross-Reference: *systems/Arcane.md — Spatial Magic; world/History.md — Archon Dravenmore*.
+Standard engagement protocol for Spatial specimens includes a minimum of two Spatial Magic practitioners on the Strike Team, whose primary function is aperture monitoring and closure. Archon Dravenmore's Hexline architecture is credited with reducing Spatial specimen fatalities since adoption. Cross-Reference: *systems/arcane/Keystone.md — Spatial Magic; world/history/Seventh-Era.md — Archon Dravenmore*.
 
 **Documented Case — The Caldenmere Void Reacher** *(Sixth Era)*
 A Void Reacher was documented operating in the Caldenmere Plateau region, coinciding with increased dimensional instability later linked to the Reality Fabrication Catastrophe. Whether the specimen's presence was a symptom of pre-existing dimensional stress or a contributing cause was not conclusively resolved. **It was never neutralized.** MOD records indicate it ceased appearing in the area following the Sixth Era Collapse. Current status: [Active Search — Low Priority / Presumed Displaced].
@@ -222,7 +222,7 @@ Classification: [Sealed]. A Star-Born Horror was documented in the same operatio
 Monsters that attack directly with psychic energy, causing madness or seizing control of the mind. Psionic Keystone specimens pose a classification challenge unique in the Registry: **hunter assessment post-engagement cannot be considered fully reliable**. All hunters engaging a Mind-tier Keystone specimen are subject to mandatory 72-hour cognitive sequestration and evaluation before any field report is accepted. This protocol was established following an incident in which a post-engagement hunter report was determined, through cross-referencing with external observer accounts, to have been substantially fabricated — not through deliberate dishonesty, but through involuntary memory reconstruction.
 
 **Documented Case — The Sleeper Incident** *(Seventh Era, Ongoing)*
-Classification: [Sealed — Ongoing Status]. A Psionic Keystone specimen designated The Sleeper is currently the subject of a contained monitoring operation. All Registry details beyond the existence of this designation are sealed at X-rank access. MOD public communication on this matter: none. Cross-Reference: *systems/Gazes.md — Mindscape Gaze; world/History.md — The Sleeper Incident*.
+Classification: [Sealed — Ongoing Status]. A Psionic Keystone specimen designated The Sleeper is currently the subject of a contained monitoring operation. All Registry details beyond the existence of this designation are sealed at X-rank access. MOD public communication on this matter: none. Cross-Reference: *systems/gazes/Absolute-Gazes.md — Mindscape; world/history/Seventh-Era.md — The Sleeper Incident*.
 
 ### Dream/Nightmare — Sandmen, Nightmare Architects
 
