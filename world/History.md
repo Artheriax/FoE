@@ -88,6 +88,24 @@ The most detailed surviving account — preserved in an Elvish historical archiv
 
 ---
 
+## The First Mortal Documentation of the Wall of Nihility
+
+**Status:** *[Pre-Record] [Contested]*
+
+**Summary:** The Wall of Nihility's first formal documentation by mortal-adjacent observers does not appear in any single surviving source. What exists instead is a cluster of Pre-Record references — scattered across at least six independent cultural archives — describing an encounter with an absolute boundary: a structure with no visible architect, no entry points, and no response to any form of probing. The descriptions are consistent enough across cultural distance to suggest the same phenomenon, and the collective physical evidence indicates a Pre-Record date for the Wall's presence in its current state.
+
+The most complete surviving account, held in an archive whose location and condition are both classified by the Eternal Guard, describes a figure encountering the Wall and recording the observation with what the account characterizes as *"the patience of someone who expected to return to the question."* The figure is not named. The account notes that they asked the question "why" before leaving, which the annalist considered significant enough to include.
+
+Scholars have since identified this account's subject as most likely Vael — the founder of what would become the Keepers of Nil — based on cross-reference with Second Era records. The identification is unconfirmed and the Keepers have offered no response to it.
+
+**Significance:** The Wall's Pre-Record documentation establishes that it predates every known institutional framework in Hyperion. No architect has ever been identified. The leading theory, developed and maintained exclusively by the Keepers of Nil, is that the Wall was constructed deliberately, by parties with access to power above the mortal institutional tier, for a specific purpose — and that the absence of explanation is intentional rather than incidental.
+
+MOD's response to this theory is the zero-engagement policy.
+
+**Cross-Reference:** `world/Dimensions.md` — Wall of Nihility; `organizations/Keepers-of-Nil.md` — Overview, Vael
+
+---
+
 # Second Era
 
 The Second Era designation is applied retroactively to a period preceding the current MOD framework. Record quality is variable. The Eternal Guards maintained their own archives from this period, portions of which have been released in limited form.
@@ -105,6 +123,22 @@ The devil house formally withdrew from all further action involving the bearer. 
 **Significance:** This case is the origin of all current Eternal Guard protocol regarding infernal contracts and confirmed Soul Anchoring bearers. The ruling issued afterward remains in effect and has been cited in contract law forty-three times since: *Soul Anchoring bearers are exempt from all infernal contractual provisions, prospective and retrospective, as the required mechanism for enforcement cannot be applied to them.*
 
 **Cross-Reference:** `systems/Sigils.md` — Absolute Sigil of Soul Anchoring; `organizations/Organizations.md` — The Eternal Guard; Institutional Precedents, The Compact Defiant Adjudication; `world/Dimensions.md` — Gehenna
+
+---
+
+## The Establishment of the Keepers of Nil
+
+**Status:** *[Pre-Record / Second Era] [Unverified — organization not registered with any institutional body]*
+
+**Summary:** The Keepers of Nil do not appear in any institutional record as an organization. What appears instead is a pattern: across the Pre-Record and early Era periods, isolated scholarly and investigative figures — from different races, different communities, with no documented connection to each other — began producing independent research on the Wall of Nihility that asked the same question from different directions. The question was always the same: *why does it exist?*
+
+The convergence of these individuals into a single organized body is attributed, by the limited sources that acknowledge the Keepers at all, to an Ascendant scholar known as Vael, who had been the first — or among the first — to formally document the Wall and had spent the intervening Pre-Record-to-Second-Era period finding everyone else who had not stopped asking either. The founding was not a moment. It was a recognition: the question was too large for one researcher, too long for one mortal lifespan, and too important to leave to institutions that had decided to stop looking.
+
+The founding membership was small. The decision to admit only immortals was practical before it was principled: the research horizon the question required could not be served by mortal lifespans, and the institutional risk of the organization's existence made continuity a survival requirement. That the founding included members from races that standard institutional structures excluded — including, from an early date, a devil and eventually a demon — was not ideological. It was the recognition that the question did not belong to any single community.
+
+**Significance:** The Keepers of Nil represent the oldest continuously operating non-institutional organization in Hyperion's accessible historical record. Their research archive on the Wall of Nihility is more comprehensive than any institutional equivalent — which, given MOD's zero-engagement policy, is not a high bar — but their conclusions regarding the Wall's purpose and contents represent the closest thing to an independent theoretical framework that exists outside sealed Eternal Guard archives. Whether those conclusions are correct has not been tested against external evidence until the Modern Era.
+
+**Cross-Reference:** `organizations/Keepers-of-Nil.md` — Full organizational record; `world/History.md` — First Mortal Documentation of the Wall of Nihility; `world/Dimensions.md` — Wall of Nihility
 
 ---
 
@@ -529,3 +563,23 @@ The suppression held until her personnel file was opened following her retiremen
 **Significance:** The Voss case is the primary legal precedent on the question of whether a Sigil bearer's undisclosed passive ability retroactively affects the procedural validity of their professional work. MOD's legal division cites it in both directions depending on which outcome is being argued. No consensus position has been reached.
 
 **Cross-Reference:** `systems/Sigils.md` — Sigil of Senses; `systems/Gazes.md` — Gaze of Inner Thought, Gaze of Revelation
+
+---
+
+## The Scroll Retrieval Attempt
+
+**Status:** *[Unregistered — no MOD incident report filed; documented in Keepers of Nil internal archive only]*
+
+**Summary:** An operative working under House Velmira's authorization — and, through that house, under the Keepers of Nil's operational direction — was deployed to a vampire noble household during the events later documented privately as the "Politics of Blood" incident. The operative's objective was the recovery of a scroll titled *The Soul of the First*, which the Keepers' research had identified as likely containing material relevant to their long-running investigation into the Wall of Nihility.
+
+The scroll is ancient, its provenance disputed, and its surface-layer text describes in general terms the foundational mythology of the Higher Ones and their relationship to a mortal whose essence preceded them. The Keepers had known of its existence and general contents for some time. The reason for the retrieval attempt at this specific moment was Sorin Dask's assessment that the scroll contained a second, hidden layer of text protected by divine seals — seals that could only be activated by Astrae perception — and that the vampire house's recent acquisition of an Astrae through a marriage arrangement represented the first realistic opportunity in the scroll's documented history to learn what the second layer said.
+
+The operative failed to retrieve the scroll. The Astrae in question — Gaelira — accessed the secondary archive independently, read the scroll in full, activated the divine seals without external direction, and exited the household under her own terms with the scroll in her possession. The operative filed a report identifying Gaelira by name, confirming that the second layer had been read, and noting that she had left the household without institutional affiliation or obvious destination.
+
+The Keepers did not immediately pursue. Carix's assessment, distributed to active members, was that Gaelira had demonstrated the operational acuity to identify and exit three simultaneous competing interests without compromising any of her own objectives. A direct pursuit would likely produce the same result as the vampire house's attempt to retain her: failure, at higher cost, with less information.
+
+They waited. They tracked. When Gaelira's location became associated with a registered hunter group with an Adaptation Sigil bearer among its members, the decision to make contact was unanimous.
+
+**Significance:** The Scroll Retrieval Attempt is the event through which the Keepers of Nil became aware of Gaelira and, subsequently, of Sersey's Adaptation Sigil. Carix considers it the most operationally useful failure in the organization's modern history.
+
+**Cross-Reference:** `organizations/Keepers-of-Nil.md` — Carix, House Velmira; `stories/Story-Arcs.md` — FoE: Politics of Blood; `stories/Story-Arcs.md` — Book V: The Wall That Remembers

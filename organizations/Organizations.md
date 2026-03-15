@@ -250,3 +250,20 @@ The Shroud specializes in engagement categories that other guilds decline: Umbra
 
 - **Specialization:** Dire and Lesser Monster mass clearance. Handles MOD contracts for settlement-perimeter sweeps and infrastructure corridor maintenance.
 - **Culture:** Operational and unglamorous. High volume, low profile. Their casualty rates exceed any major guild's in absolute terms; their contract completion rates are comparable.
+
+---
+
+## Non-Registered Organizations
+
+### Keepers of Nil
+
+One of Hyperion's oldest active organizations. Not registered with MOD. Not a guild, not a research body in any institutional sense. Founded in the Second Era around a question that every institution eventually stopped asking: *why does the Wall of Nihility exist?*
+
+Membership is restricted to immortals. Current active membership is fewer than thirty. The organization maintains a research archive on the Wall and its theoretical contents that exceeds any institutional equivalent by a significant margin, in part because the zero-engagement policy means the institutional equivalent is effectively empty.
+
+They are not a threat organization. They are not a political body. They are not well-known. They are, as of the Modern Era, the organization closest to knowing what the Wall was built to hold — and the first to be present when it no longer holds it.
+
+**Full record:** `organizations/Keepers-of-Nil.md`
+
+**Cross-Reference:** `world/History.md` — First Mortal Documentation of the Wall of Nihility; The Establishment of the Keepers of Nil; The Scroll Retrieval Attempt; `world/Dimensions.md` — Wall of Nihility
+
