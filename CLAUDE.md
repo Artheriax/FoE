@@ -269,7 +269,7 @@ When starting a session:
 - **Wall of Nihility**: Inverted substrate boundary; one sealed Ethereal claimant (status unknown); zero-engagement research policy enforced
 - **Absolute Gazes/Sigils**: All sealed; official MOD records show zero confirmed mortal bearers; Absolute framing is that confirmed mortal bearers exist but access is above MOD level
 - **Keepers of Nil**: Oldest non-registered organization; membership restricted to immortals; closest to understanding the Wall
-- **Artem**: Adaptation Sigil bearer (Ethereal tier); reserved for later lore expansion per user request
+- **Artem**: Ethereal Sigil of Transcendent Adaptation; Gazes of Null, Mimicry, and Convergence (all Ethereal; three simultaneous Gazes is an undocumented anomaly); heterochromia — Null eye permanent/unchanging, Mimicry eye shifts with active pattern; predates Hyperion; walks out of the Wall in Book V. Full character entry in `stories/Characters.md`; full story in `stories/Origins/Origins.md`
 
 ---
 
