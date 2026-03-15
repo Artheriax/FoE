@@ -7,6 +7,7 @@ Worldbuilding documentation for *Fragments of Eternity*, a fantasy RPG setting b
 ## Quick Navigation
 
 ### World
+
 | File | Contents |
 |------|----------|
 | [world/Overview.md](world/Overview.md) | High-level primer on Hyperion, the MOD, the cosmic structure, and power systems |
@@ -15,6 +16,7 @@ Worldbuilding documentation for *Fragments of Eternity*, a fantasy RPG setting b
 | [world/History.md](world/History.md) | Significant historical events organized by Era: battles, adjudications, cataclysms, and persons of record |
 
 ### Systems
+
 | File | Contents |
 |------|----------|
 | [systems/Arcane.md](systems/Arcane.md) | Magic schools (Holy, Unholy, Elemental, Keystone), Forces, Forbidden Magic, Enchantments |
@@ -24,15 +26,29 @@ Worldbuilding documentation for *Fragments of Eternity*, a fantasy RPG setting b
 | [systems/Monsters.md](systems/Monsters.md) | All monster categories: Lesser, Dire, Elemental, Holy/Unholy, Keystone |
 
 ### Organizations
+
 | File | Contents |
 |------|----------|
-| [organizations/Organizations.md](organizations/Organizations.md) | The MOD (structure, ranking, enforcement) and major/minor guilds |
+| [organizations/Organizations.md](organizations/Organizations.md) | Index: all institutions, guilds, and regulatory bodies |
+| [organizations/MOD.md](organizations/MOD.md) | Magic Oversight Division — full structure, ranking system, divisions, and enforcement |
+| [organizations/Eternal-Guard.md](organizations/Eternal-Guard.md) | Cosmic oversight authority; supersedes MOD on extinction-level and sealed phenomena |
+| [organizations/House-Dravenmore.md](organizations/House-Dravenmore.md) | Noble research house; foremost Sigil genealogy registry and MOD advisory body |
+| [organizations/Keepers-of-Nil.md](organizations/Keepers-of-Nil.md) | Immortal non-registered organization; closest known study of the Wall of Nihility |
+| [organizations/Aethelgard-Consortium.md](organizations/Aethelgard-Consortium.md) | Largest hunter guild; primary MOD contract delegate |
+| [organizations/Solaris-Vanguard.md](organizations/Solaris-Vanguard.md) | Oldest active guild; founded in the Age of Yggdra |
+| [organizations/Umbra-Shroud.md](organizations/Umbra-Shroud.md) | Specialized guild with Dark Elf affiliation and institutional exemptions |
+| [organizations/Minor-Guilds.md](organizations/Minor-Guilds.md) | Smaller registered guilds and independent factions |
 
 ### Stories & Characters
+
 | File | Contents |
 |------|----------|
 | [stories/Characters.md](stories/Characters.md) | Character profiles (Sersey and main cast) |
-| [stories/Story-Arcs.md](stories/Story-Arcs.md) | Plot summaries: Sersey's Journey (3 books), Origins (prequel), and two spin-offs |
+| [stories/Story-Arcs.md](stories/Story-Arcs.md) | Plot index: Sersey's Journey (5 books), Origins (prequel), and two spin-offs |
+| [stories/Serseys-Journey/](stories/Serseys-Journey/) | Main 5-book series following Sersey's awakening through the Wall |
+| [stories/Origins/Origins.md](stories/Origins/Origins.md) | Prequel — Artem and the Adaptation Sigil |
+| [stories/Nyaris-Rise-of-Fame/Nyaris-Rise-of-Fame.md](stories/Nyaris-Rise-of-Fame/Nyaris-Rise-of-Fame.md) | Spin-off — Nyari's path to renown |
+| [stories/Politics-of-Blood/Politics-of-Blood.md](stories/Politics-of-Blood/Politics-of-Blood.md) | Spin-off — noble house intrigue |
 
 ---
 
