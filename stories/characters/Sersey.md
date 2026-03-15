@@ -37,6 +37,16 @@ She is smart and knows she is smart, which helps and also sometimes makes the st
 
 She does not talk about the chronic fatigue or the headaches or the sense that something inside her is wrong. Nyari probably knows more than Sersey has said directly. Gaelira almost certainly knows more than she has acknowledged.
 
+### The Relationship with Thorne
+
+Sersey's relationship with Thorne develops through proximity, shared crisis, and the specific quality of attention that two people who do not easily extend trust learn to direct at each other. His life-debt to her is the formal anchor; what grows around it is something neither of them planned for.
+
+His mind is the only one her Gaze does not shred. This is not romantic language — it is operational fact. But it is also, in its own way, the most intimate thing she can offer someone: the knowledge that his presence makes her functional, that his steadiness is the anchor she did not know she needed.
+
+She gravitates toward him in crowds. She trusts his assessments. She lets him call stops when she will not stop herself. She does not name what he is to her. She does not need to. The naming will come. For now, the standing-beside-each-other is enough.
+
+*Full romance arc: `stories/Serseys-Journey/Romance-Arc-Sersey-Thorne.md`*
+
 ### Goal
 
 To become the best elven hunter. Not the best hunter who happens to be an elf — the best elven hunter, specifically, because the distinction matters to her and because she knows exactly what room she is trying to prove herself in. Whether that framing is useful or whether it is a weight she is carrying unnecessarily is a question she has not gotten to yet.

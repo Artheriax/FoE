@@ -25,6 +25,16 @@ She craves connection in a way she spent too long approaching from the wrong dir
 
 She finds Kaelen interesting in the specific way that privately contained people become interesting to someone who processes the world through watching people. She has not pushed. She has noticed. There is a difference.
 
+### The Relationship with Kaelen
+
+Nyari's relationship with Kaelen is built on observation, quiet attention, and the specific quality of connection that develops between two people who are both, in their own ways, positioned outside the default.
+
+She watches him the way she watches everyone — with attention, with curiosity, with the specific quality of someone who processes the world through watching people. But with him, the watching is different. It is not strategic. It is not calculated. It is simply... interested. She wants to know what he is thinking. She wants to know what he hears when he listens to the spirits. She wants to know what it is like to be permanently aware of things that no one else can perceive.
+
+She does not ask these questions. She does not push. She simply sits beside him in silence, and allows the silence to be enough.
+
+*Full romance arc: `stories/Serseys-Journey/Romance-Arc-Nyari-Kaelen.md`*
+
 ### Goal
 
 Stay. After everything she built and left and rebuilt and left again, the goal has resolved to something almost embarrassingly simple: be here, with these people, in the thing that is real. She is not interested in scaling it up or making it mean something to a larger audience. She found what she was looking for. She intends to keep it.

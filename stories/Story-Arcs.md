@@ -14,7 +14,12 @@ An index of all stories set in Hyperion. Each entry links to its individual file
 | II | [A Clash of Echoes](Serseys-Journey/Book-II-A-Clash-of-Echoes.md) | Uncontrolled Gaze; Orchid quest; team assembled |
 | III | [The Land That Remembers](Serseys-Journey/Book-III-The-Land-That-Remembers.md) | Return to elven lands; Sigil active; Tree corruption arc |
 | IV | [The Long Way Back](Serseys-Journey/Book-IV-The-Long-Way-Back.md) | Forced rest; Nyari rejoins; Gaelira rejoins; team becomes whole |
+| Interlude | [The Quiet Between](Serseys-Journey/Interlude-The-Quiet-Between.md) | Team integration; scroll research; bonds deepen |
 | V | [The Wall That Remembers](Serseys-Journey/Book-V-The-Wall-That-Remembers.md) | Keepers of Nil; the Wall; Artem walks out |
+
+**Romance Arcs:**
+- [Sersey & Thorne](Serseys-Journey/Romance-Arc-Sersey-Thorne.md) — Development of the relationship between Sersey and Thorne across all five books
+- [Nyari & Kaelen](Serseys-Journey/Romance-Arc-Nyari-Kaelen.md) — Development of the relationship between Nyari and Kaelen across all five books
 
 ---
 

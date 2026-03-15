@@ -25,6 +25,16 @@ He cares about the group in a way that runs deep and expresses sideways. He moni
 
 The fact that he spends every break period running projection drills he never has field time for suggests he intends to remain somewhere the field exists. He stays because, privately, he prefers this to waiting in a MOD base for the next assignment. He would not say that. He would say he is still on contract. Both things are true and the first is more significant.
 
+### The Relationship with Nyari
+
+Kaelen's relationship with Nyari is built on observation, quiet attention, and the specific quality of connection that develops between two people who are both, in their own ways, positioned outside the default.
+
+He is not accustomed to being watched. He is not accustomed to being the subject of someone's attention. Nyari's curiosity is unfamiliar. He does not resist it. He does not encourage it. He simply allows it to exist. He registers the warmth of her presence. He registers the honesty of her tails. He registers the specific quality of attention she directs at him — not at the group, not at the dynamic, at him.
+
+He does not know what to do with this. He does not need to know. He simply allows it to exist.
+
+*Full romance arc: `stories/Serseys-Journey/Romance-Arc-Nyari-Kaelen.md`*
+
 ### Goal
 
 Keep the group intact — not as a mission objective but as the ambient aim of someone who knows what it looks like when the invisible seams between people come undone, and would rather prevent that than watch it happen. What he is doing here specifically, beyond contract, is a question he has not finished answering.

@@ -33,6 +33,20 @@ He is not cold. He is precise. The difference matters, and in the field it matte
 
 Sersey is the only one who consistently makes it through the wall. He does not overthink why. The fact does not require analysis; it requires acknowledgment, and he is not afraid of doing either.
 
+### The Relationship with Sersey
+
+Thorne's relationship with Sersey is built from proximity, precision, and the specific quality of attention that develops between two people who have survived the same crises. His life-debt to her is the formal anchor; what grows around it is something he has not examined because he does not need to examine it.
+
+He stands beside her. Not behind her (that would be protection she did not ask for). Not in front of her (that would be leadership she does not need). Beside her. The position of equals.
+
+He adjusts his approach to account for her needs without being asked. He positions himself between her and the worst of the psychic noise. He calls stops when she will not stop herself. He provides presence when she needs it and space when she needs that instead.
+
+When he thinks about the future — the next contract, the next problem, the next thing that needs a solution — she is in it. Not as a variable. As a constant.
+
+He has not named what she is to him. He does not need to. The naming will come. For now, the standing-beside-her is enough.
+
+*Full romance arc: `stories/Serseys-Journey/Romance-Arc-Sersey-Thorne.md`*
+
 ### Goal
 
 Do the work. Most of what Thorne wants exists at the scale of the next contract, the next problem, the next thing that needs a solution and is currently pointed in the direction of someone he is responsible for. His definition of responsible is broader than most people's. The life-debt to Sersey is the formal version of something that would have existed regardless.
