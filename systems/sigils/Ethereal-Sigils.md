@@ -4,7 +4,7 @@ Ethereal Sigils are not enhancements or redefinitions. They are statements about
 
 Only one confirmed living Ethereal Sigil bearer exists in any accessible record. The others either predate documentation, are classified beyond accessible registry tiers, or exist in records that have themselves been classified.
 
-*-> `systems/Sigils.md` — Index: Origin Theories | Sigil Awakening | MOD Classification | Evolution | Tier Overview*
+*→ `systems/Sigils.md` — Index: Origin Theories | Sigil Awakening | MOD Classification | Evolution | Tier Overview*
 
 ---
 
@@ -71,3 +71,5 @@ This makes them functionally independent of any planetary support system, which 
 The only confirmed bearer, Artem, demonstrates adaptations that the current magical-scientific framework cannot fully categorize. His body has incorporated properties of void physics developed during his time in Nihility. It carries resistances to erasure mechanics that should not exist in biological matter. Several of its current configurations appear to have emerged during periods when his consciousness was distributed too thinly to track the changes as they occurred — adaptations that happened in the absence of an observer, including the observer who was experiencing them. He does not have a complete inventory of what his own body is capable of, which he finds professionally interesting and occasionally inconvenient.
 
 The Adaptation lineage is unique among Sigil progressions in one specific respect: there is no documented Absolute Sigil of Adaptation. Every other lineage has a clear Standard → Supreme → Absolute → Ethereal chain. Adaptation has a gap. The scholarly theory — held primarily by researchers who have connected enough classified sources to see the lineage clearly — is that Adaptation cannot be *capped*. An Absolute Sigil requires a defined ceiling: a specific pinnacle of immunity, strength, or protection. Adaptation refuses that ceiling by definition. A Sigil that adapts without limit cannot be crystallized into a fixed Absolute form. It either remains within the Standard-to-Supreme range, or it breaks directly through to the Ethereal, bypassing the Absolute tier entirely. **Artem's** existence is the **only** data point. For now, he is both the proof and the case study.
+
+---

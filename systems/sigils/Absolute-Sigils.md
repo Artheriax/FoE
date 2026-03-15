@@ -6,7 +6,7 @@ The MOD's registry lists fewer confirmed Absolute Sigil bearers across all of re
 
 **Registered Bearers (estimated):** Eternal Guard working estimates suggest approximately 30 active Absolute Sigil bearers globally. All such cases are sealed above MOD Registry access. To the general Registry, they remain effectively mythical.
 
-*-> `systems/Sigils.md` — Index: Origin Theories | Sigil Awakening | MOD Classification | Evolution | Tier Overview*
+*→ `systems/Sigils.md` — Index: Origin Theories | Sigil Awakening | MOD Classification | Evolution | Tier Overview*
 
 ---
 
@@ -71,3 +71,5 @@ The legal implications are significant and unresolved. No devil's contract has e
 The most precise historical documentation of Soul Anchoring comes from a sealed adjudication case from the Second Era records of the Eternal Guards, released in partial form approximately four centuries ago. The case involves a bearer identified only as "the Compact Defiant" — a devil house attempting contract enforcement via soul extraction against a bearer who had defaulted on an infernal agreement. The extraction mechanism engaged. The soul did not move. The entity conducting the extraction was, in the words of the adjudication record, *"removed from the causal chain"* — a phrase that is never further defined in any surviving portion of the document. The Compact Defiant survived the encounter. The devil house formally withdrew from all further action involving the bearer and sealed its own records on the matter.
 
 The adjudication ruling issued afterward is the origin case for all current Eternal Guard protocol regarding infernal contracts and confirmed Anchoring bearers, and it remains in effect. It reads: *Soul Anchoring bearers are exempt from all infernal contractual provisions, prospective and retrospective, as the required mechanism for enforcement cannot be applied to them.* The ruling has been cited in contract law forty-three times since. The Compact Defiant's identity was sealed in the original record. What is recorded is that they lived to a chosen end, and left instructions that their Sigil documentation be destroyed rather than archived. The Eternal Guards honored the request in the formal registry. Whether the Observing One's record was likewise honored is a theological question several scholars have pursued without result.
+
+---

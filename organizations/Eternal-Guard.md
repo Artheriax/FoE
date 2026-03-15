@@ -35,3 +35,5 @@ The Eternal Guard's documented interventions accessible through adjacent records
 ## Institutional Character
 
 The Eternal Guard does not publish statements, hold press positions, or respond to institutional inquiries. When it communicates, it communicates through rulings, seals, and the termination of access. The operational logic of its documented interventions — insofar as that logic is legible — is consistently consequentialist: the action that produces the least catastrophic available outcome, regardless of procedural preference or individual cost. This is not a philosophy the Eternal Guard has articulated. It is a pattern that can be observed across the record of its interventions.
+
+*→ `organizations/Organizations.md` — Institutional Summary | `world/Races.md` — Eternarcs; Eternal Guard | `world/history/Fourth-Era.md` — The Callax Abomination | `world/history/Sixth-Era.md` — The Sixth Era Collapse*

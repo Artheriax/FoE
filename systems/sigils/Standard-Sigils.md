@@ -2,7 +2,7 @@
 
 **MOD Classification:** Approximately 60,000 confirmed Standard-tier Sigil bearers are on active Registry record across all six types — roughly 10,000 per type on average, though distribution varies. These enhance the body's core attributes: strength, speed, senses, endurance, and adaptability. They are the foundation of physical superiority.
 
-*-> `systems/Sigils.md` — Index: Origin Theories | Sigil Awakening | MOD Classification | Evolution | Tier Overview*
+*→ `systems/Sigils.md` — Index: Origin Theories | Sigil Awakening | MOD Classification | Evolution | Tier Overview*
 
 ---
 

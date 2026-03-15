@@ -6,7 +6,7 @@
 
 **Regulatory Framework:** Any confirmed discovery of an Absolute Gaze bearer triggers automatic escalation to Eternal Guard authority. MOD authority is explicitly limited to advisory capacity in such scenarios.
 
-*-> `systems/Gazes.md` — Index: Evolution Lineage | MOD Registry Overview | Tier Overview*
+*→ `systems/Gazes.md` — Index: Evolution Lineage | MOD Registry Overview | Tier Overview*
 
 ---
 

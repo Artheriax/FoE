@@ -2,7 +2,7 @@
 
 Covering Echo Magic, the art of permanent enchantment, institutional applications of all arcane schools, and theoretical magic debates within the scholarly community.
 
-*-> `systems/Arcane.md` — Index: MOD Registry Overview | All Schools | Forbidden Magic*
+*→ `systems/Arcane.md` — Index: MOD Registry Overview | All Schools | Forbidden Magic*
 
 ---
 

@@ -4,7 +4,7 @@
 
 **Evolution Threshold:** Standard Gazes may evolve to Supreme upon bearer transformation to higher race (Celestial, Primordial, etc.). Supreme evolution cannot be induced and selection criteria remain unknown.
 
-*-> `systems/Gazes.md` — Index: Evolution Lineage | MOD Registry Overview | Tier Overview*
+*→ `systems/Gazes.md` — Index: Evolution Lineage | MOD Registry Overview | Tier Overview*
 
 ---
 

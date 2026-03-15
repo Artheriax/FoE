@@ -6,7 +6,7 @@
 
 **Cultural Impact:** Extended public discussion of Ethereal Gazes is discouraged by MOD guidance to "prevent mass hysteria and unfounded fear responses." Several high-profile researchers have faced institutional pressure following public claims of Ethereal Gaze verification.
 
-*-> `systems/Gazes.md` — Index: Evolution Lineage | MOD Registry Overview | Tier Overview*
+*→ `systems/Gazes.md` — Index: Evolution Lineage | MOD Registry Overview | Tier Overview*
 
 ---
 

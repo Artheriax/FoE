@@ -17,13 +17,13 @@ Her progress has stalled. She has the fundamentals — years of field experience
 
 Sersey carries two gifts her body cannot currently hold. Neither has awakened. Both are already causing damage.
 
-#### Dormant Gaze of Inner Thought
+### Dormant Gaze of Inner Thought
 
 The Gaze has not activated in any formal sense — no registration, no documented manifestation, no controlled access. What it produces instead is passive interference. Sersey absorbs surface-level psychic noise from those around her: partial emotional impressions, the edge of thoughts she was never meant to hear, the faint shape of feelings that do not belong to her. She has no framework for what she is experiencing and no way to filter it. Extended time in crowded places leaves her with headaches she attributes to fatigue. She finds prolonged social interaction with people she does not fully trust disproportionately exhausting, though she could not articulate why.
 
 She has compensated by keeping her circle small and her walls high. It works, mostly. Nyari and Gaelira are inside the wall. Almost no one else is.
 
-#### Dormant Sigil of Adaptation
+### Dormant Sigil of Adaptation
 
 A faint distortion is occasionally visible across her shoulders and upper spine — heat-haze texture, not quite a mark, not quite absent. The Sigil is attempting to reshape her body into something that can hold more: enough to sustain the Gaze, enough to break through the ceiling on her growth, enough to become the kind of vessel her potential actually requires. It is not succeeding yet. In the meantime, the attempt reads as chronic strain — low-grade internal pressure, unpredictable spikes of fatigue, a persistent sense that her body is burning more than it should for what it produces. She is used to pushing through it. She does not know there is a name for what she is pushing through.
 

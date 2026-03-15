@@ -4,7 +4,7 @@ Forms of magic so dangerous or antithetical to reality that their use is banned 
 
 Any practitioner confirmed to use forbidden magic is subject to immediate apprehension and termination of citizenship rights. Several schools carry death-on-sight orders.
 
-*-> `systems/Arcane.md` — Index: MOD Registry Overview | All Schools | Forbidden Magic*
+*→ `systems/Arcane.md` — Index: MOD Registry Overview | All Schools | Forbidden Magic*
 
 ---
 

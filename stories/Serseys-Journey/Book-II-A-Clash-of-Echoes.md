@@ -4,6 +4,8 @@
 
 *Sersey's Gifts: Gaze of Inner Thought (Active, Uncontrolled) → Controlled*
 
+**Premise:** The Gaze is awake and won't turn off. Every mind in range lands in Sersey's simultaneously, and there is no framework for what she is experiencing. The mission is control — assembling the people she needs, going through the places required, and finding a way to hold the thing that opened without warning before it opens her apart. The team that comes out the other side is the one that will be needed for everything after.
+
 ---
 
 - **Ch. 1–4:** Sersey's new reality is torture. The Gaze never shuts off; every lie, lust, fear, and secret in any crowd screams at her. She cannot sleep, cannot eat, cannot stand being near people she doesn't trust. Thorne is the only mind she can tolerate — there is something in the quality of how he thinks that doesn't shred her. She knows this is not sustainable. She also knows she cannot go back to what she was.
@@ -20,7 +22,7 @@
 
 ---
 
-**Echo Breakers — founding roster:**
+### Echo Breakers — Founding Roster
 - Sersey
 - Thorne
 - Lyra (Voidling scholar)

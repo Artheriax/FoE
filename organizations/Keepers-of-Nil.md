@@ -1,7 +1,5 @@
 # Keepers of Nil
 
----
-
 ## Overview
 
 The Keepers of Nil are one of Hyperion's oldest active organizations, predating MOD, the current guild system, and most of the institutional structures that govern the modern world. They are not hunters. They are not researchers in any registered sense. They are not a political body. They are a persistent question given organizational form:

@@ -10,7 +10,7 @@ A confirmed Supreme Sigil designation by the MOD changes a hunter's status perma
 
 **Registered Bearers (current):** Approximately 1,500 confirmed Supreme-tier bearers carry individual standing files.
 
-*-> `systems/Sigils.md` — Index: Origin Theories | Sigil Awakening | MOD Classification | Evolution | Tier Overview*
+*→ `systems/Sigils.md` — Index: Origin Theories | Sigil Awakening | MOD Classification | Evolution | Tier Overview*
 
 ---
 
@@ -59,3 +59,5 @@ The MOD's fastest-documented response times on record all belong to confirmed Re
 **Lore:** There is an adaptation that the Supreme-tier achieves that the Standard Sigil never manages: the bearer stops being aware of the work being done. Where a Standard Adaptation bearer experiences active discomfort as the Sigil calibrates, a Supreme bearer simply wakes up one morning in a hostile environment and notices, almost incidentally, that nothing is bothering them. The process has become as unconscious as breathing was before it stopped being necessary.
 
 Explorers in Hyperion's long-range and dimensional incursion programs prize Environmental Adaptation bearers above almost any other asset for extended operations. Several of the most significant expansions of charted dimensional territory in the last century were led or survived primarily because of a confirmed Environmental Adaptation bearer in the team. The MOD's off-record assessment of these bearers for deep-void operations has never been publicly acknowledged but is an open institutional secret among senior handlers.
+
+---

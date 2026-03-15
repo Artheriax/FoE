@@ -2,7 +2,7 @@
 
 The two primary metaphysical schools — Luminancy drawing from Luminara and the essence of creation, Umbraturgy drawing from Gehenna and the Void. They are anathema to each other in application, though both remain fully registered and regulated within MOD's Arcane Registry.
 
-*-> `systems/Arcane.md` — Index: MOD Registry Overview | All Schools | Forbidden Magic*
+*→ `systems/Arcane.md` — Index: MOD Registry Overview | All Schools | Forbidden Magic*
 
 ---
 

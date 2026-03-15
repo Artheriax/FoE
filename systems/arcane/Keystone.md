@@ -4,7 +4,7 @@ Keystone Magic is not a school but a classification for spells that manipulate r
 
 High-tier practitioners require MOD licensing and periodic evaluation. Keystone school users represent the most heavily regulated category within the Arcane Registry.
 
-*-> `systems/Arcane.md` — Index: MOD Registry Overview | All Schools | Forbidden Magic*
+*→ `systems/Arcane.md` — Index: MOD Registry Overview | All Schools | Forbidden Magic*
 
 ---
 

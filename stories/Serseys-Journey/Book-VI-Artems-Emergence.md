@@ -24,12 +24,14 @@
 
 ---
 
-**Artem's Discovered Abilities:**
+### Artem's Discovered Abilities
 
 - **Sigil of Transcendent Adaptation (Ethereal):** Evolved from Standard Sigil of Adaptation during millions of years in the Wall. Adapts to any threat faster than damage can accumulate. Grants baseline resilience that exceeds any recorded measurement.
 - **Gaze of Null (Ethereal):** Grey eye. Perceives and deactivates any Gaze-based ability temporarily. Does not remove the ability; simply turns it off.
 - **Gaze of Mimicry (Ethereal):** Shifting eye. Copies any Gaze from observation alone. Functions at the same level as the original. Requires comprehension, not sustained exposure.
 - **Gaze of Convergence (Ethereal):** Merges mimicked Gazes with each other or with the Gaze of Null, producing more powerful compound effects. No documented equivalent.
 - **Nihility Affinity:** Resonance with the Wall of Nihility's fundamental nature. Grants access to Wall of Nihility magic and Nil space magic. Mechanism not yet understood.
+
+---
 
 **Cross-Reference:** `stories/characters/Artem.md` — Full character profile | `stories/Origins/Origins.md` — Artem's origin story | `systems/gazes/Ethereal-Gazes.md` — Ethereal Gazes | `systems/sigils/Ethereal-Sigils.md` — Ethereal Sigils | `systems/arcane/Forbidden.md` — Nihility Magic | `organizations/Keepers-of-Nil.md` — Keepers of Nil | `organizations/MOD.md` — Magic Oversight Division

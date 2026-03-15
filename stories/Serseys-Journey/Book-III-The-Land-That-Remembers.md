@@ -19,3 +19,7 @@
 - **Ch. 16–18:** The dungeon is reached and engaged. The fight is not clean — the contaminated zone has altered the local monster population in ways that require constant tactical adjustment, which is exactly what the Sigil is suited for, adapting her responses in real time to threats that keep changing. Thorne and the rest of the team hold the perimeter. Sersey takes the dungeon core. She does it in the dark, in the deep forest, in a place she grew up adjacent to and was never quite allowed inside. She does it alone because the terrain makes that the correct call, and because some part of her needs to.
 
 - **Ch. 19–20:** The contamination breaks. The recovery will take time, but the Trees are no longer under active threat. The community's response to the outcome is complicated — gratitude crossed with the discomfort of a group that had to be rescued by someone they underestimated. Sersey does not stay long enough for it to resolve into anything clean. She says what she came to say to her mother, which is not much, but is more than she managed when she left. The Echo Breakers depart. The title "best elven hunter" is not spoken by anyone. It doesn't need to be.
+
+---
+
+**Cross-Reference:** `world/Races.md` — Elf; Trees of Life | `stories/characters/Sersey.md` — Background; Goal | `systems/arcane/Forbidden.md` — Unholy Magic

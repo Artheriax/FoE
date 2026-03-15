@@ -2,7 +2,7 @@
 
 The manipulation of the world's fundamental forces. Power is drawn from internal reserves or by drawing energy from the environment. Six schools cover the primary natural forces, each with distinct military, industrial, and civilian applications.
 
-*-> `systems/Arcane.md` — Index: MOD Registry Overview | All Schools | Forbidden Magic*
+*→ `systems/Arcane.md` — Index: MOD Registry Overview | All Schools | Forbidden Magic*
 
 ---
 

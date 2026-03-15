@@ -2,7 +2,7 @@
 
 Events within living memory or institutional record of the current MOD structure. These are generally well-documented at the surface level. Deeper records are frequently classified.
 
-*-> `world/History.md` — Full Era Index*
+*→ `world/History.md` — Full Era Index*
 
 ---
 
@@ -47,6 +47,7 @@ The suppression held until her personnel file was opened following her retiremen
 Slave traders operating in network corridors typically employ unregistered Gaze wielders bearing Standard and Supreme-tier abilities — particularly Gazes of Seduction, Madness, Binding, Emptiness (Standard tier), and Enchantment (Supreme tier) — to establish control chains. These Gazes are deliberately not registered with MOD, maintaining operational invisibility. Victims are frequently transported through jurisdictional boundaries where MOD enforcement authority is weakest or contested.
 
 MOD's internal response has historically been characterized by:
+
 - Insufficient resources dedicated to trafficking investigations (classified as "low institutional priority")
 - Jurisdictional disputes with local governing bodies over enforcement authority
 - Difficulty prosecuting cases where the victim was unregistered as a hunter (MOD classification: "civilian matter")
@@ -59,6 +60,8 @@ The most recent comprehensive audit (Fifth Era reconstruction, status sealed) id
 The emergence of Gaze wielders working for trafficking syndicates — specifically those bearing Supreme-tier Gazes that could command premium hunter salaries — indicates that the profit margins of the slavery trade exceed the appeal of legitimate employment for certain ability-bearing individuals. MOD has not established a credible response framework for this phenomenon.
 
 **Cross-Reference:** `organizations/MOD.md` — Institutional Limitations and Mandate Boundaries; `world/Races.md` — Social Status and Exploitation Vectors; `systems/gazes/Supreme-Gazes.md` — Supreme Gaze Bearer Registry Issues
+
+---
 
 ## The Scroll Retrieval Attempt
 
@@ -77,3 +80,5 @@ They waited. They tracked. When Gaelira's location became associated with a regi
 **Significance:** The Scroll Retrieval Attempt is the event through which the Keepers of Nil became aware of Gaelira and, subsequently, of Sersey's Adaptation Sigil. Carix considers it the most operationally useful failure in the organization's modern history.
 
 **Cross-Reference:** `organizations/Keepers-of-Nil.md` — Carix, House Velmira; `stories/Story-Arcs.md` — FoE: Politics of Blood; `stories/Story-Arcs.md` — Book V: The Wall That Remembers
+
+---

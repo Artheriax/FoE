@@ -1,6 +1,6 @@
 # Sixth Era
 
-*-> `world/History.md` — Full Era Index*
+*→ `world/History.md` — Full Era Index*
 
 ---
 
