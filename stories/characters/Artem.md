@@ -1,7 +1,7 @@
 # Artem
 
 - **Race:** Human (pre-universe origin; classification approximate)
-- **Age:** Incalculable; appears mid-thirties
+- **Age:** 25; 3 million years if you count the time in the Wall
 
 ### Timeline
 

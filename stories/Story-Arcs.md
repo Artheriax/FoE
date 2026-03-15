@@ -15,9 +15,11 @@ An index of all stories set in Hyperion. Each entry links to its individual file
 | III | [The Land That Remembers](Serseys-Journey/Book-III-The-Land-That-Remembers.md) | Return to elven lands; Sigil active; Tree corruption arc |
 | IV | [The Long Way Back](Serseys-Journey/Book-IV-The-Long-Way-Back.md) | Forced rest; Nyari rejoins; Gaelira rejoins; team becomes whole |
 | Interlude | [The Quiet Between](Serseys-Journey/Interlude-The-Quiet-Between.md) | Team integration; scroll research; bonds deepen |
-| V | [The Wall That Remembers](Serseys-Journey/Book-V-The-Wall-That-Remembers.md) | Keepers of Nil; the Wall; Artem walks out |
+| V | [The Wall That Remembers](Serseys-Journey/Book-V-The-Wall-That-Remembers.md) | Keepers of Nil; journey into Nihility; the Wall; Artem walks out |
+| VI | [Artem's Emergence](Serseys-Journey/Book-VI-Artems-Emergence.md) | Return from Nihility; Artem meets the modern world; the search begins |
 
 **Romance Arcs:**
+
 - [Sersey & Thorne](Serseys-Journey/Romance-Arc-Sersey-Thorne.md) — Development of the relationship between Sersey and Thorne across all five books
 - [Nyari & Kaelen](Serseys-Journey/Romance-Arc-Nyari-Kaelen.md) — Development of the relationship between Nyari and Kaelen across all five books
 
@@ -30,6 +32,8 @@ An index of all stories set in Hyperion. Each entry links to its individual file
 Full record: [Origins/Origins.md](Origins/Origins.md)
 
 Covers: Artem's world and accidental displacement to the pre-universe state; his time with Entity Zero and the formation of the cosmos; the Higher Ones' jealousy and his imprisonment in the Wall of Nihility; his millennia inside the Wall and the development of his Ethereal Sigil and Gazes; his escape and the nature of who he still is beneath everything else.
+
+**Continuation:** [Book VI: Artem's Emergence](Serseys-Journey/Book-VI-Artems-Emergence.md) — What happens after Artem walks out of the Wall; the journey through Nihility; his search for Entity Zero; his integration into the modern world
 
 ---
 

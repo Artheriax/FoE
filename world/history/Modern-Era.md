@@ -38,6 +38,28 @@ The suppression held until her personnel file was opened following her retiremen
 
 ---
 
+## The Unregistered Trade Network
+
+**Status:** *[Classified — MOD acknowledgment; enforcement authority unclear; institutional denial standard]*
+
+**Summary:** A persistent institutional failure within MOD oversight: the existence and operational continuity of organized trafficking networks that exploit rare-race individuals, particularly females of species with inherent value in regulated or illicit markets. Primary targets include Elves, Voidlings, Astrae, Kitsune, Demons, Angels, Dark Elves, and Vampires.
+
+Slave traders operating in network corridors typically employ unregistered Gaze wielders bearing Standard and Supreme-tier abilities — particularly Gazes of Seduction, Madness, Binding, Emptiness (Standard tier), and Enchantment (Supreme tier) — to establish control chains. These Gazes are deliberately not registered with MOD, maintaining operational invisibility. Victims are frequently transported through jurisdictional boundaries where MOD enforcement authority is weakest or contested.
+
+MOD's internal response has historically been characterized by:
+- Insufficient resources dedicated to trafficking investigations (classified as "low institutional priority")
+- Jurisdictional disputes with local governing bodies over enforcement authority
+- Difficulty prosecuting cases where the victim was unregistered as a hunter (MOD classification: "civilian matter")
+- Pressure from noble houses and organized crime syndicates with stakes in the trade
+
+The most recent comprehensive audit (Fifth Era reconstruction, status sealed) identified an estimated 12,000+ active trafficking victims across Hyperion's major population centers, with new acquisitions occurring at a rate of 300-400 individuals per month. The actual figure is likely significantly higher. No updated audit has been permitted for seven years.
+
+**Significance:** The unregistered Gaze trafficking network represents the single largest institutional failure in MOD's mandate across the Modern Era. Scholars note that it persists precisely because it exploits the boundary between MOD's formal authority (hunters and registered abilities) and civilian law enforcement (which is typically underfunded and locally corrupt). The network operates in the gap.
+
+The emergence of Gaze wielders working for trafficking syndicates — specifically those bearing Supreme-tier Gazes that could command premium hunter salaries — indicates that the profit margins of the slavery trade exceed the appeal of legitimate employment for certain ability-bearing individuals. MOD has not established a credible response framework for this phenomenon.
+
+**Cross-Reference:** `organizations/MOD.md` — Institutional Limitations and Mandate Boundaries; `world/Races.md` — Social Status and Exploitation Vectors; `systems/gazes/Supreme-Gazes.md` — Supreme Gaze Bearer Registry Issues
+
 ## The Scroll Retrieval Attempt
 
 **Status:** *[Unregistered — no MOD incident report filed; documented in Keepers of Nil internal archive only]*

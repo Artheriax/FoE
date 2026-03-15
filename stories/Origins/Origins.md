@@ -92,18 +92,4 @@ When the Wall finally couldn't maintain the distinction between "prisoner" and "
 
 ---
 
-## The Still-Human Core
-
-This is the element that makes everything work. Artem is, by any objective measure, one of the most powerful entities in existence. His Sigil has become the Ethereal Sigil of Transcendent Adaptation. His Gazes --- the Gaze of Mimicry and Gaze of Null, born from the Wall's attempts to copy and negate him --- operate on a level beyond documented limits. On top of that he has the Ethereal Gaze of Convergence, the ability to merge multiple gazes together to create new types of powers. His ability to have multiple gazes also influences his appearance; he has heterochromia: one eye is grey and looks ordinary unless the Gaze of Null is actively engaged, while the other shifts to exactly match the appearance of whatever Gaze he is mimicking. He can combine mimicked Gazes with each other through the Gaze of Convergence to produce more powerful variants, or combine a mimicked Gaze with Null through Convergence for precise compound effects. He predates the laws of reality. Devil contracts have a loophole he can walk through by existing.
-
-None of this changes the fact that he is still, fundamentally, the researcher.
-
-He still reaches for notebooks. He keeps a small journal now --- not because he needs it, his memory is perfect, but because the act of writing things down is how his mind processes. It's muscle memory from before he even understood what muscles were made of. When he encounters something new, his first instinct is to measure it. When he encounters something confusing, his first instinct is to ask questions, not to overpower it.
-
-He gets cold in winter. His Sigil doesn't bother adapting unless the cold becomes physiologically threatening, and it never does, so he just... experiences being cold. He doesn't mind. It is simply a fact of being in a body.
-
-He is unfamiliar with modern context in the specific sense of someone who missed thousands of years of it. He was imprisoned before the MOD, before the guild system, before most of the races in their current forms existed. He was perfectly capable with people before the Wall and he is still perfectly capable with people now. What he does not have is the accumulated institutional knowledge of what is expected here, in this era, in this particular configuration of guilds and regulations and social precedents. He is learning it the way he learns everything: by observing, noting, and adjusting.
-
-He hates the Higher Ones. Not as a cosmic grudge or a philosophical position --- as something clean, settled, and specific. They built a structure designed to unmake him and told Entity Zero he was sleeping peacefully while it ran. He knows their natures better than they know themselves --- they were made from him. He knows exactly which fragment of his soul became The One's protectiveness, which became The Observing One's detachment, which became The Judging One's uncompromising morality. That knowledge does not soften the hatred. It clarifies it.
-
-He's also capable of wonder. This is the thing that surprises people who encounter him. After everything --- the void, the eons, the Wall --- he can still stop in the middle of a street and stare at something mundane with complete absorption. A market. A crowd. A child doing something inexplicable. He treats the world he inspired as the most interesting research subject he's ever encountered, because it is.
+*For what happens next, see `stories/Serseys-Journey/Book-VI-Artems-Emergence.md`*

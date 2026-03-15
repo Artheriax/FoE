@@ -145,6 +145,7 @@ The quiet between is over.
 ## Cross-References
 
 **Character Development:**
+
 - Sersey's processing of elven lands: `stories/characters/Sersey.md`
 - Thorne's operational assessment: `stories/characters/Thorne.md`
 - Nyari's integration into the group: `stories/characters/Nyari.md`
@@ -154,10 +155,12 @@ The quiet between is over.
 - Rook's technical development: `stories/characters/Rook.md`
 
 **Romance Arcs:**
+
 - Sersey & Thorne: `stories/Serseys-Journey/Romance-Arc-Sersey-Thorne.md`
 - Nyari & Kaelen: `stories/Serseys-Journey/Romance-Arc-Nyari-Kaelen.md`
 
 **Plot Threads:**
+
 - The scroll's significance: `stories/Politics-of-Blood/Politics-of-Blood.md`
 - The Keepers of Nil: `organizations/Keepers-of-Nil.md`
 - The Wall of Nihility: `world/Dimensions.md`

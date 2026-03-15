@@ -99,15 +99,33 @@ The Division's position on the Wall of Nihility is documented: no meaningful res
 
 The Theoretical Division has a partial overlap with the Eternal Guard's research mandate in the domain of pre-record phenomena and sealed entity studies. The operational boundary between them is not publicly defined.
 
-**Cross-Reference:** `systems/arcane/Forbidden.md` — All Schools; `systems/Power-Sources.md` — Entity Zero
-
-### Project Crimson
-
-An intelligence operation running under MOD authorization at a classification level that does not appear in public regulatory filings. Project Crimson's operational mandate overlaps with the Assessment Unit's tracking function but operates with significantly less procedural constraint — its operatives acquire intelligence assets, including individuals and artifacts, through methods that the Assessment Unit's regulatory framework would not permit.
-
-Project Crimson's involvement in the Politics of Blood incident — deploying an operative to recover *The Soul of the First* with no protective obligation toward the Astrae bearer present — is the most recent documented instance of the project's operational posture. The agent's mission was retrieval. Individual collateral damage did not appear in operational parameters. MOD's official position, to the extent it has one, is that Project Crimson's filings are classified above the level at which a public position can be taken.
-
 **Cross-Reference:** `stories/Story-Arcs.md` — FoE: Politics of Blood; `organizations/Keepers-of-Nil.md` — Research Holdings
+
+---
+
+## Institutional Limitations and Mandate Boundaries
+
+MOD's authority, despite its breadth, operates within hard jurisdictional boundaries that create persistent enforcement gaps.
+
+**Regulatory Authority Gaps:**
+
+- **Civilian trafficking networks:** Unregistered individuals exploited by trafficking syndicates fall outside MOD's formal mandate, which centers on registered hunters and their activities. Local law enforcement has primary authority but frequently lacks institutional resources, funding, and motivation to pursue cases involving victims outside their jurisdiction.
+
+- **Unregistered ability bearers:** Individuals with Gazes, Sigils, or arcane aptitude who do not register with MOD cannot be formally prosecuted for their use — they are classified as civilians in violation of civil law, not MOD regulation. This creates a legal blindspot exploited by trafficking operations employing unregistered Gaze wielders (typically bearing Standard and Supreme-tier Gazes like Seduction, Madness, Binding, Emptiness, and Enchantment) to maintain control chains.
+
+- **Cross-jurisdictional trafficking:** Victims transported across regional boundaries encounter inconsistent legal frameworks, disputed enforcement authority, and gaps in institutional cooperation. MOD's ability to coordinate with regional governments on trafficking suppression is limited by political relationships and the reality that several major territories benefit economically from slave trade networks.
+
+**The Unregistered Trade Reality:**
+
+MOD's internal audits acknowledge an estimated 12,000+ active trafficking victims across major population centers, with particular targeting of Elves, Voidlings, Astrae, Kitsune, Demons, Angels, Dark Elves, and Vampires — species with inherent market value in legitimate employment and illicit acquisition. The prevalence of these cases versus institutional response suggests a systematic enforcement failure rather than a novel problem.
+
+MOD's official response has been characterized by low institutional priority designation, jurisdictional deflection to local authorities, and reclassification of trafficking cases as "civilian matters" when victims are unregistered. Several MOD internal reports have noted the contradiction: the organization's mandate includes preventing power-based exploitation, yet it declines enforcement authority when the exploitation occurs outside the registered hunter framework.
+
+**Significance for Operations:**
+
+This gap has direct operational consequences. An unregistered Gaze wielder can operate continuously within MOD jurisdiction without identification. An unregistered victim can be held indefinitely by a trafficker operating in jurisdictional gaps. The boundary between MOD authority and civilian jurisdiction — intended as a limit on institutional overreach — functions as a practical immunity for organized trafficking networks.
+
+**Cross-Reference:** `world/history/Modern-Era.md` — The Unregistered Trade Network; `world/Races.md` — Social Status and Exploitation Vectors
 
 ---
 
