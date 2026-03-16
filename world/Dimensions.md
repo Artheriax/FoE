@@ -16,6 +16,10 @@ Hyperion exists within a structured dimensional hierarchy spanning from the divi
 
 - Nexus of Divinity
 
+### Judgment Tier
+
+- Eventide (Seat of the Eternal Guard)
+
 ### Holy Tier
 
 - Luminara (Heaven)
@@ -81,6 +85,28 @@ Some cosmological theorists have proposed that the Nexus and Entity Zero represe
 *→ `world/Races.md` — Higher Ones | Celestials | Eternarcs*
 *→ `organizations/Organizations.md` — The Eternal Guard*
 *→ `systems/Power-Sources.md` — Entity Zero*
+
+---
+
+## Judgment Realm
+
+### Eventide (Seat of the Eternal Guard)
+
+- **Nature:** Home of the Eternal Guard
+- **Accessibility:** Sealed at Eternal Guard authority. No documented outside access exists. Individuals brought to Eventide arrive under warrant — they do not find it.
+- **MOD Classification:** Not in MOD records. Its existence is not part of any accessible Theoretical Research Division file. Academic references to an Eternal Guard "seat of operations" treat it as theoretical.
+
+Eventide is where the Eternal Guard lives. Not where they operate from — where they live. Every being recruited into the Guard is offered it as home, and the islands have been inhabited long enough that they carry the accumulated weight of that: buildings made personal over centuries, relationships formed across lifetimes that would be impossible anywhere else, the specific texture of a place that has been genuinely lived in by people who had nowhere else to go.
+
+The sky holds the quality of deep twilight — violet-indigo, stars always visible, the light not yet fully departed but carrying no warmth. There is no sun. No horizon glows. The light comes from cold silver veins running through the stone of the islands themselves, and it provides perfect visibility without heat. The islands are ancient dark stone, worn smooth by time that has no mortal unit — massive formations drifting on currents with no identifiable source. Not harsh. Not unwelcoming. Simply old, in a way that makes everything else feel provisional by comparison.
+
+Architecture is spare without being austere. Wide flat structures, deliberate arches, no ornamentation beyond what function and proportion require. The beauty is mathematical rather than decorative: the beauty of something built to last rather than to impress. Where Luminara ascends in spires of perpetual dawn, Eventide is built wide and permanent against a sky that will not change. Where Luminara is a paradise, Eventide is something quieter and more specific — a home for people who required a new one.
+
+Between the islands run channels of still water. They do not flow. Their surfaces hold the violet sky and silver stone in perfect reflection without distortion. The air carries no temperature in either direction. The silence is distinct from the silence of The Void, which is absence, and from the silence of Nihility, which is erasure. It is the silence of a place where the people who live there have learned, over a very long time, that they do not need to fill it.
+
+*→ `organizations/Eternal-Guard.md` — The Eternal Guard*
+*→ `world/Races.md` — Higher Ones (The Judging One)*
+*→ `world/Dimensions.md` — Nexus of Divinity | Luminara*
 
 ---
 

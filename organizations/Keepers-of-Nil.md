@@ -154,6 +154,6 @@ The archive is not held in a single location.
 
 **Project Crimson:** Competing institutional interest in *The Soul of the First* created the Keepers' most significant recent operational complication. Project Crimson is not aware of the Keepers as a distinct organization. Their appearance in Project Crimson operational reports is as "unknown third party" in the Politics of Blood incident — a designation that has not been upgraded despite Carix's post-operation report being more informative about Project Crimson than the reverse.
 
-**Eternal Guard:** No documented interaction. The Eternal Guard's records on Vael are noted as incomplete in their own internal archive flagging system, which implies awareness of the gap without content to fill it.
+**Eternal Guard:** One confirmed interaction on record: the Nihility transit following Artem's emergence, during which the Guard intercepted the return party and conducted an assessment that returned non-functional results. Their ruling was communicated in a single statement before they withdrew. The Guard's records on Vael are noted as incomplete in their own internal archive flagging system, which implies awareness that their information on the Keepers has gaps. Vael made no comment on the encounter afterward beyond what was necessary to resume transit.
 
 **Solaris Vanguard:** Oswin's presence in the Keepers and their origin from the Vanguard is known to Vanguard leadership. The Vanguard has taken no official position.
