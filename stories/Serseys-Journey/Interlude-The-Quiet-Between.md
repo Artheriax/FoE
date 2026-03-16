@@ -1,3 +1,8 @@
+---
+type: short-story
+series: Serseys-Journey
+tags: [short-story, interlude, lore]
+---
 # Interlude: The Quiet Between
 
 *Part of: FoE: Sersey's Journey*

@@ -1,3 +1,8 @@
+---
+type: book
+series: Spin-off
+tags: [book, story, spinoff, politics]
+---
 # FoE: Politics of Blood
 
 *A spin-off following Gaelira.*

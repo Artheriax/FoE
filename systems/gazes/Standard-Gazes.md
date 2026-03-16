@@ -1,3 +1,9 @@
+---
+type: trait-tier
+category: gazes
+tier: Standard
+tags: [gazes, birth-traits, standard-tier]
+---
 # Standard Gazes
 
 **MOD Classification:** Standard Gazes are the most commonly documented tier. Each grants a specific, powerful ability tied to perception, manipulation, or destruction. Approximately 150,000 confirmed Standard Gaze bearers are on active Registry record across all twelve types — roughly 12,500 per type on average, with some types documented more widely than others depending on historical identification rates.

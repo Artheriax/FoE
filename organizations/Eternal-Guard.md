@@ -1,3 +1,10 @@
+---
+type: organization
+category: governing-body
+status: Active
+tags: [organization, eternal-guard, authority, cosmic, sealed-records]
+aliases: [The Guard]
+---
 # The Eternal Guard
 
 The Eternal Guard is not a guild, a military division, or a political body in any form that MOD or national governments would formally categorize. Its relationship to MOD is one of superseding authority on a narrow but absolute set of matters: the classification and disposition of extinction-level threats, the governance of sealed phenomena, and the management of information whose public release would produce outcomes the Guard has determined to be worse than its continued suppression. MOD enforces. The Eternal Guard decides what MOD is not permitted to investigate.

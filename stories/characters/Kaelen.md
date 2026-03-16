@@ -1,3 +1,10 @@
+---
+type: character
+name: Kaelen
+status: Alive
+tags: [character, kaelen, xenysian, spirit-projector]
+aliases: [Kaelen]
+---
 # Kaelen
 
 - **Race:** Xenysian

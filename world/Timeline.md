@@ -1,3 +1,8 @@
+---
+type: world-lore
+category: history
+tags: [timeline, chronology, events]
+---
 # Timeline of Hyperion
 
 Hyperion's history does not begin with its written record. The Era system — the dominant chronological framework used by scholars, the MOD, and institutional bodies — covers the period from the formal establishment of historical documentation forward, with Pre-Record events reconstructed from physical evidence, surviving legend, and the contested archive of the Observing One. Events further back than the record reaches are classified as Cosmological Origins: the province of theoretical research, sealed Eternal Guard files, and stories most scholars treat as mythology.

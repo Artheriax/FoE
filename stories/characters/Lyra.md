@@ -1,3 +1,10 @@
+---
+type: character
+name: Lyra
+status: Alive
+tags: [character, lyra, voidling, scholar]
+aliases: [Lyra]
+---
 # Lyra
 
 - **Race:** Voidling

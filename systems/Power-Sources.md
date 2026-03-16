@@ -1,3 +1,9 @@
+---
+type: system
+category: mechanics
+tags: [power, sources, essence, vitalis, psyche, aeterium, mechanics]
+aliases: [Energy Sources, Magic Power]
+---
 # Sources
 
 In the cosmos of Hyperion, all action, all magic, and all manifestation of will draw their fuel from distinct, fundamental reservoirs known as Sources. A Source is not merely energy; it is the origin point from which a specific type of power flows. It is the engine that drives the body, the mind, and, for the most exalted beings, the fabric of reality itself.

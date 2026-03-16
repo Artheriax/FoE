@@ -1,3 +1,10 @@
+---
+type: history-era
+era: Fifth Era
+chronology: 5
+tags: [history, era, fifth-era]
+aliases: [5th Era]
+---
 # Fifth Era
 
 *→ `world/History.md` — Full Era Index*

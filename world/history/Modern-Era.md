@@ -1,3 +1,10 @@
+---
+type: history-era
+era: Modern Era
+chronology: 8
+tags: [history, era, modern-era, current]
+aliases: [Present Day]
+---
 # Modern Era
 
 Events within living memory or institutional record of the current MOD structure. These are generally well-documented at the surface level. Deeper records are frequently classified.

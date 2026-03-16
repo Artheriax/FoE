@@ -1,3 +1,10 @@
+---
+type: character
+name: Artem
+status: Alive
+tags: [character, artem, anomaly, ethereal]
+aliases: [Artem]
+---
 # Artem
 
 - **Race:** Human (pre-universe origin; classification approximate)

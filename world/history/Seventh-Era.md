@@ -1,3 +1,10 @@
+---
+type: history-era
+era: Seventh Era
+chronology: 7
+tags: [history, era, seventh-era]
+aliases: [7th Era]
+---
 # Seventh Era
 
 *→ `world/History.md` — Full Era Index*

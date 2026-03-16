@@ -1,3 +1,10 @@
+---
+type: history-era
+era: Sixth Era
+chronology: 6
+tags: [history, era, sixth-era]
+aliases: [6th Era]
+---
 # Sixth Era
 
 *→ `world/History.md` — Full Era Index*

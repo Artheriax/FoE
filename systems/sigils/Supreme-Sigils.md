@@ -1,3 +1,9 @@
+---
+type: trait-tier
+category: sigils
+tier: Supreme
+tags: [sigils, birth-traits, supreme-tier]
+---
 # Supreme Sigils
 
 Supreme Sigils represent a body that has moved beyond enhancement into something closer to redefinition. Where a Standard Sigil improves upon natural function, a Supreme Sigil replaces it. Bearers at this tier are not stronger or faster by degree — they operate according to a different set of physical rules than the beings around them.

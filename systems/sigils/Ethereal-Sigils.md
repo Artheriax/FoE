@@ -1,3 +1,9 @@
+---
+type: trait-tier
+category: sigils
+tier: Ethereal
+tags: [sigils, birth-traits, ethereal-tier, theoretical]
+---
 # Ethereal Sigils
 
 Ethereal Sigils are not enhancements or redefinitions. They are statements about the nature of the body's relationship with existence. A bearer at this tier does not have a stronger or more protected body. They have a body that the normal rules of things are no longer fully authorized to apply to.

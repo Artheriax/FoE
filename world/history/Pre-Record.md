@@ -1,3 +1,10 @@
+---
+type: history-era
+era: Pre-Record
+chronology: 0
+tags: [history, era, pre-record, origins]
+aliases: [Before Records, The Beginning]
+---
 # Pre-Record Events
 
 These events predate the Era system entirely. Dates are estimated and contested. The only consistent source across multiple cultures is a pattern of physical and dimensional damage that does not have a clean natural explanation.

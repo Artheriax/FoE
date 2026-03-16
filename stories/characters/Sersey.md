@@ -1,3 +1,10 @@
+---
+type: character
+name: Sersey
+status: Alive
+tags: [character, protagonist, sersey, half-elf]
+aliases: [Sersey]
+---
 # Sersey
 
 - **Race:** Half-Elf

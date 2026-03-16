@@ -1,3 +1,10 @@
+---
+type: character
+name: Rook
+status: Alive
+tags: [character, rook, arcanian, tech-magic]
+aliases: [Rook]
+---
 # Rook
 
 - **Race:** Arcanian

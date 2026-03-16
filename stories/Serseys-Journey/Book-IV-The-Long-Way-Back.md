@@ -1,3 +1,9 @@
+---
+type: book
+series: Serseys-Journey
+number: 4
+tags: [book, story, serseys-journey, return]
+---
 # Book IV: The Long Way Back
 
 *Part of: FoE: Sersey's Journey*

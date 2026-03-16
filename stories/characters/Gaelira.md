@@ -1,3 +1,10 @@
+---
+type: character
+name: Gaelira
+status: Alive
+tags: [character, gaelira, astrae, luminancy]
+aliases: [Gaelira]
+---
 # Gaelira
 
 - **Race:** Astrae

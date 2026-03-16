@@ -1,3 +1,9 @@
+---
+type: trait-tier
+category: sigils
+tier: Absolute
+tags: [sigils, birth-traits, absolute-tier, sealed, myth]
+---
 # Absolute Sigils
 
 Absolute Sigils belong to an entirely different category of reality than anything below them. They are not enhancements to the body — they are fundamental redefinitions of what the body's relationship to external forces means. A Standard Sigil makes you harder to hurt. An Absolute Sigil makes certain categories of harm stop being applicable.

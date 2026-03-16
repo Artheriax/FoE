@@ -1,3 +1,10 @@
+---
+type: history-era
+era: Mid-Era
+chronology: 4.5
+tags: [history, era, mid-era, ashenmoor]
+aliases: [The Ashenmoor Era]
+---
 # Mid-Era
 
 The "Mid-Era" designation is informal and used to cover documented events that fall within the current Era numbering system but cannot be assigned a specific Era without access to classified MOD archival records. Events in this section are well-documented in open sources but lack Era-level precision.

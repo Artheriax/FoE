@@ -1,3 +1,10 @@
+---
+type: character
+name: Nyari
+status: Alive
+tags: [character, nyari, kitsune, enchantment]
+aliases: [Nyari]
+---
 # Nyari
 
 - **Race:** Kitsune

@@ -1,3 +1,9 @@
+---
+type: trait-tier
+category: gazes
+tier: Absolute
+tags: [gazes, birth-traits, absolute-tier, sealed, myth]
+---
 # Absolute Gazes
 
 **MOD Classification:** No Absolute Gaze bearer files exist within MOD's accessible Registry. Confirmed mortal bearers do exist — Eternal Guard working estimates place the active population at approximately 150 individuals across all Absolute Gaze types — but every such case is classified above MOD access level at Eternal Guard authority and does not appear in Registry records. MOD's official position, accurate within the limits of its access, remains: no confirmed mortal Absolute bearers in current MOD records. Containment of any confirmed case would exceed standard MOD capacity; all engagement authority is reserved to the Eternal Guard.

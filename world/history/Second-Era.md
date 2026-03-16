@@ -1,3 +1,10 @@
+---
+type: history-era
+era: Second Era
+chronology: 2
+tags: [history, era, second-era]
+aliases: [2nd Era]
+---
 # Second Era
 
 The Second Era designation is applied retroactively to a period preceding the current MOD framework. Record quality is variable. The Eternal Guards maintained their own archives from this period, portions of which have been released in limited form.

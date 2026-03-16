@@ -1,3 +1,9 @@
+---
+type: system
+category: birth-trait
+tags: [sigils, brands, birth-traits, mechanics, power-system]
+aliases: [Soul Anchors, The Sigils]
+---
 # Sigils
 
 If Gazes are the manifestation of spiritual potential, then Sigils are the embodiment of physical transcendence. A Sigil is a permanent mark-like enhancement that appears on the skin of a bearer, resembling an intricate tattoo, a birthmark of impossible geometry, or a faint, glowing rune. Unlike Gazes, which are purely mental and spiritual, Sigils alter the very physics of the body they grace.

@@ -1,3 +1,9 @@
+---
+type: book
+series: Serseys-Journey
+number: 3
+tags: [book, story, serseys-journey, realms]
+---
 # Book III: The Land That Remembers
 
 *Part of: FoE: Sersey's Journey*

@@ -1,3 +1,10 @@
+---
+type: character
+name: Thorne
+status: Alive
+tags: [character, thorne, arcanian, elementalist]
+aliases: [Thorne]
+---
 # Thorne
 
 - **Race:** Arcanian

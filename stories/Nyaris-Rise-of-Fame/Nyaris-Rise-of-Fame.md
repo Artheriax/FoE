@@ -1,3 +1,8 @@
+---
+type: book
+series: Spin-off
+tags: [book, story, spinoff, nyari]
+---
 # FoE: Nyari's Rise of Fame
 
 *A spin-off following Nyari.*

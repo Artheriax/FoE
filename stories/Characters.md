@@ -1,3 +1,9 @@
+---
+type: index
+category: story
+tags: [characters, cast, index, protagonists]
+aliases: [Cast List, Main Characters]
+---
 # Characters
 
 The cast of Fragments of Eternity. Main series characters and major party members listed below with brief role summaries. Full profiles are in the `stories/characters/` directory.

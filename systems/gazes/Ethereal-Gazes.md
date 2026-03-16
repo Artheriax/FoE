@@ -1,3 +1,9 @@
+---
+type: trait-tier
+category: gazes
+tier: Ethereal
+tags: [gazes, birth-traits, ethereal-tier, theoretical]
+---
 # Ethereal Gazes
 
 **Official MOD Position:** Ethereal Gazes remain theoretical and unconfirmed. The Bureau of Phenomenal Capacity has initiated multiple investigations into alleged sightings; no conclusive evidence has emerged. Scholars claiming confirmed Ethereal Gaze observations are routinely subject to psychological evaluation.

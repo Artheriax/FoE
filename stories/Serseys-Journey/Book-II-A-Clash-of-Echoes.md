@@ -1,3 +1,9 @@
+---
+type: book
+series: Serseys-Journey
+number: 2
+tags: [book, story, serseys-journey, echoes]
+---
 # Book II: A Clash of Echoes
 
 *Part of: FoE: Sersey's Journey*

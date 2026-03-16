@@ -1,3 +1,8 @@
+---
+type: world-overview
+aliases: [Hyperion Overview, World Summary]
+tags: [worldbuilding, hyperion, lore-primer]
+---
 # World Overview
 
 Of the many worlds woven into the tapestry of the multiverse, Hyperion stands as a bastion of both the ancient and the modern, a realm where magic fuels technology and the echoes of primordial forces shape the destiny of all who dwell within. Hyperion is approximately twice the size of a standard inhabited world, home to a population of roughly 15 billion — 6 billion Human and 9 billion distributed across the full range of magical and non-magical races. It is a world of immense scale and complexity, bound by the fundamental law of growth: that all living beings may increase their power by gathering energy from the monsters that plague the land.

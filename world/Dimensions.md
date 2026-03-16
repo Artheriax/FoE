@@ -1,3 +1,9 @@
+---
+type: world-lore
+category: cosmology
+tags: [dimensions, realms, cosmology, universe]
+aliases: [Realms, Planes of Existence]
+---
 # Worlds & Dimensions
 
 Hyperion exists within a structured dimensional hierarchy spanning from the divine to the void. Each dimension carries its own nature, accessibility profile, and institutional status under MOD classification. Most dimensions that interact with Hyperion's operational landscape are catalogued by MOD's Theoretical Research Division; those beyond the threshold of practical engagement are classified as Sealed or Unverified under Eternal Guard authority.

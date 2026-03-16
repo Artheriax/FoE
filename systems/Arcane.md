@@ -1,3 +1,9 @@
+---
+type: system
+category: magic
+tags: [magic, arcane, schools, mechanics]
+aliases: [Magic Schools, Spells]
+---
 # Arcane
 
 *The Arcane Systems of Hyperion*

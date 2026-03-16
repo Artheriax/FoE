@@ -1,3 +1,9 @@
+---
+type: index
+category: organizations
+tags: [organizations, registry, index, MOD, guilds]
+aliases: [Guilds, Hyperion Organizations]
+---
 # Organizations of Hyperion
 
 A registry of the major institutions, guilds, noble houses, and independent organizations that shape Hyperion's political, magical, and operational landscape. Each entry below is a summary; full records are maintained in separate files.

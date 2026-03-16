@@ -1,3 +1,10 @@
+---
+type: organization
+category: governing-body
+status: Active
+tags: [organization, MOD, authority, registry]
+aliases: [Magic Oversight Division]
+---
 # The Magic Oversight Division (MOD)
 
 *Motto: "Vigilance, Order, Balance."*

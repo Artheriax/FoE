@@ -1,3 +1,8 @@
+---
+type: magic-school
+category: arcane
+tags: [magic, arcane, echo, enchantment, utilities]
+---
 # Echo Magic, Enchantments, and Other Magic
 
 Covering Echo Magic, the art of permanent enchantment, institutional applications of all arcane schools, and theoretical magic debates within the scholarly community.

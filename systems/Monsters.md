@@ -1,3 +1,9 @@
+---
+type: system
+category: mechanics
+tags: [monsters, beasts, essence, forced-growth, bestiary]
+aliases: [Bestiary, Creatures]
+---
 # Monsters
 
 Monsters are the fundamental source of power and conflict on Hyperion. They are not merely beasts but manifestations of raw energy and elemental forces, often spilling into the mortal realm from unstable dimensional rifts known as Dungeons. Hunting them is the primary method for beings to gather the Essence needed to increase their power.

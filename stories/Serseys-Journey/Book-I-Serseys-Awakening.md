@@ -1,3 +1,9 @@
+---
+type: book
+series: Serseys-Journey
+number: 1
+tags: [book, story, serseys-journey, awakening]
+---
 # Book I: Sersey's Awakening
 
 *Part of: FoE: Sersey's Journey*

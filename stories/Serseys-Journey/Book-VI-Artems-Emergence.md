@@ -1,3 +1,9 @@
+---
+type: book
+series: Serseys-Journey
+number: 6
+tags: [book, story, serseys-journey, artem]
+---
 # Book VI: Artem's Emergence
 
 *Part of: FoE: Sersey's Journey*

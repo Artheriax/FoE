@@ -1,3 +1,9 @@
+---
+type: book
+series: Serseys-Journey
+number: 5
+tags: [book, story, serseys-journey, wall-of-nihility]
+---
 # Book V: The Wall That Remembers
 
 *Part of: FoE: Sersey's Journey*

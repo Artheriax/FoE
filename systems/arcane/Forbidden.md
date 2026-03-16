@@ -1,3 +1,9 @@
+---
+type: magic-school
+category: arcane
+tags: [magic, arcane, forbidden, sealed]
+aliases: [Forbidden Schools]
+---
 # Forbidden Magic
 
 Forms of magic so dangerous or antithetical to reality that their use is banned by the MOD and hunted by the Eternal Guards. Six schools are designated forbidden, ranging from theoretical prohibition to extinction-level classification.

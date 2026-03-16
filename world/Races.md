@@ -1,3 +1,9 @@
+---
+type: world-lore
+category: biology
+tags: [races, hierarchy, worldbuilding]
+aliases: [Species, Racial Hierarchy]
+---
 # Races
 
 Hyperion's known beings span from the cosmological absolute of Entity Zero through ten Higher Ones, the Supreme races that enforce cosmic law, the Spiritual races that traverse the boundary between mortal and spirit worlds, and the High, Middle, and Mortal races that constitute the world's inhabited population. The hierarchy below documents all recorded categories, followed by MOD's racial registration framework and detailed descriptions of each race.

@@ -1,3 +1,9 @@
+---
+type: system
+category: birth-trait
+tags: [gazes, eyes, birth-traits, mechanics, power-system]
+aliases: [Ocular Traits, The Gazes]
+---
 # Introduction to Gazes
 
 In the world of Hyperion, power is not always measured in the energy one collects or the power one achieves. Sometimes, it is bestowed at birth, a latent potential waiting behind the eyes. These rare and innate abilities are known as Gazes.

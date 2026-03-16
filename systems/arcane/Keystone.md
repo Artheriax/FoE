@@ -1,3 +1,8 @@
+---
+type: magic-school
+category: arcane
+tags: [magic, arcane, keystone, temporal, spatial, cosmic]
+---
 # Keystone Magic
 
 Keystone Magic is not a school but a classification for spells that manipulate reality's most complex and fundamental aspects. Accessing this magic requires a Keystone Essence and is incredibly dangerous. Most who attempt it without a natural affinity (like a Celestial or Higher One) risk their mind and soul.

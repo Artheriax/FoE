@@ -1,3 +1,10 @@
+---
+type: history-era
+era: Fourth Era
+chronology: 4
+tags: [history, era, fourth-era]
+aliases: [4th Era]
+---
 # Fourth Era
 
 *→ `world/History.md` — Full Era Index*

@@ -1,3 +1,8 @@
+---
+type: story-arc
+series: Serseys-Journey
+tags: [romance, arc, sersey, thorne]
+---
 # Romance Arc: Sersey & Thorne
 
 *Development of the relationship between Sersey (Half-Elf) and Thorne (Arcanian) across Sersey's Journey.*

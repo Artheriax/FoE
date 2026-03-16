@@ -1,3 +1,8 @@
+---
+type: magic-school
+category: arcane
+tags: [magic, arcane, elemental, basic-schools]
+---
 # Elemental Magic
 
 The manipulation of the world's fundamental forces. Power is drawn from internal reserves or by drawing energy from the environment. Six schools cover the primary natural forces, each with distinct military, industrial, and civilian applications.

@@ -1,3 +1,10 @@
+---
+type: history-era
+era: Third Era
+chronology: 3
+tags: [history, era, third-era]
+aliases: [3rd Era]
+---
 # Third Era
 
 *→ `world/History.md` — Full Era Index*

@@ -1,3 +1,9 @@
+---
+type: index
+category: story
+tags: [books, arcs, story, plots, outline]
+aliases: [Plot Outline, Series]
+---
 # Story Arcs
 
 An index of all stories set in Hyperion. Each entry links to its individual file.

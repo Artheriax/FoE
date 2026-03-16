@@ -1,3 +1,9 @@
+---
+type: index
+category: history
+tags: [history, eras, timeline, worldbuilding]
+aliases: [Eras, Ages]
+---
 # History of Hyperion
 
 Hyperion's historical record is incomplete by design. The oldest events predate organized documentation; the most significant are frequently classified. What follows is organized by Era — a framework applied retroactively to periods defined more by their dominant events than by any consistent calendrical structure.

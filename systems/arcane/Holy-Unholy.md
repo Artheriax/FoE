@@ -1,3 +1,8 @@
+---
+type: magic-school
+category: arcane
+tags: [magic, arcane, holy, unholy, luminancy, umbraturgy]
+---
 # Holy and Unholy Magic
 
 The two primary metaphysical schools — Luminancy drawing from Luminara and the essence of creation, Umbraturgy drawing from Gehenna and the Void. They are anathema to each other in application, though both remain fully registered and regulated within MOD's Arcane Registry.

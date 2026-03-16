@@ -1,3 +1,9 @@
+---
+type: book
+series: Origins
+category: prequel
+tags: [book, story, prequel, origins]
+---
 # FoE: Origins (Prequel)
 
 *The story of Artem — the researcher who preceded the universe.*

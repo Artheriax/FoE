@@ -1,3 +1,9 @@
+---
+type: trait-tier
+category: gazes
+tier: Supreme
+tags: [gazes, birth-traits, supreme-tier]
+---
 # Supreme Gazes
 
 **MOD Note:** Approximately 3,000 confirmed Supreme Gaze bearers exist in the current registry — rare enough that each carries an individual standing file, but common enough that confirmation is no longer an institutional event in itself. Each represents a documented evolutionary event (racial advancement or spontaneous mutation) and remains under permanent MOD oversight. Supreme tier activation incidents average several dozen per decade and require immediate specialized response teams.

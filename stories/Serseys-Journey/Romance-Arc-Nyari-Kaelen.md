@@ -1,3 +1,8 @@
+---
+type: story-arc
+series: Serseys-Journey
+tags: [romance, arc, nyari, kaelen]
+---
 # Romance Arc: Nyari & Kaelen
 
 *Development of the relationship between Nyari (Kitsune) and Kaelen (Xenysian) across Sersey's Journey.*
