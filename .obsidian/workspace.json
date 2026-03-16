@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "organizations/Organizations.md",
+                "file": "stories/Story-Arcs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Organizations"
+              "title": "Story-Arcs"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "organizations/Organizations.md",
+                "file": "stories/Story-Arcs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Organizations"
+              "title": "Backlinks for Story-Arcs"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "organizations/Organizations.md",
+                "file": "stories/Story-Arcs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Organizations"
+              "title": "Outgoing links from Story-Arcs"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "organizations/Organizations.md",
+                "file": "stories/Story-Arcs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Organizations"
+              "title": "Outline of Story-Arcs"
             }
           }
         ]
@@ -180,19 +180,24 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "markdown-importer:Open format converter": false
     }
   },
   "active": "c04ca0005e03e3bd",
   "lastOpenFiles": [
-    "organizations/Solaris-Vanguard.md",
+    "stories/Characters.md",
+    "stories/Origins/Origins.md",
+    "stories/characters/Kaelen.md",
+    "stories/characters/Artem.md",
     "organizations/Organizations.md",
-    "organizations/MOD.md",
     "organizations/Minor-Guilds.md",
     "organizations/Keepers-of-Nil.md",
     "organizations/House-Dravenmore.md",
-    "organizations/Eternal-Guard.md",
     "organizations/Aethelgard-Consortium.md",
+    "organizations/Eternal-Guard.md",
+    "organizations/Solaris-Vanguard.md",
+    "organizations/MOD.md",
     "world/Overview.md",
     "obsidian-templates/Organization-Template.md",
     "obsidian-templates/Character-Template.md",

@@ -1,3 +1,10 @@
+---
+type: organization
+category: guild
+status: Active
+tags: [organization, guild, umbra-shroud, specialized, major-guild]
+aliases: [The Shroud, Umbra]
+---
 # The Umbra Shroud
 
 *Motto: "Understand the Dark to Control It." (Official) / "No Shadow Too Deep." (Unofficial)*

@@ -1,3 +1,10 @@
+---
+type: organization
+category: guild
+status: Active
+tags: [organization, guild, solaris-vanguard, major-guild, oldest]
+aliases: [The Vanguard, Solaris]
+---
 # Solaris Vanguard
 
 *Motto: "From the Dawn, We Stand."*

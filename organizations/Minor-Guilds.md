@@ -1,3 +1,10 @@
+---
+type: organization-list
+category: guild
+status: Active
+tags: [organization, minor-guilds, guild, registry]
+aliases: [Smaller Guilds, Minor Factions]
+---
 # Minor Guilds
 
 Minor guilds operate under MOD licensing with fewer compliance requirements than major guilds and significantly narrower operational footprints. Several operate outside full MOD compliance; Field Operations treats those as persistent gray-zone variables rather than active enforcement priorities unless they generate incidents.

@@ -1,3 +1,10 @@
+---
+type: organization
+category: anomalous
+status: Active
+tags: [organization, secret, immortal, keepers-of-nil, wall-of-nihility, unregistered]
+aliases: [The Keepers, Keepers]
+---
 # Keepers of Nil
 
 ## Overview

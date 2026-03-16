@@ -1,3 +1,10 @@
+---
+type: organization
+category: guild
+status: Active
+tags: [organization, guild, aethelgard, consortium, major-guild]
+aliases: [Aethelgard]
+---
 # Aethelgard Consortium
 
 *Motto: "Order. Efficiency. Evolution."*

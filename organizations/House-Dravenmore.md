@@ -1,3 +1,10 @@
+---
+type: organization
+category: noble-house
+status: Active
+tags: [organization, noble-house, dravenmore, research]
+aliases: [Dravenmore]
+---
 # House Dravenmore
 
 House Dravenmore is a noble research house with institutional standing extending across several eras of documented history. It occupies an unusual position: neither a guild nor a MOD division, but its research output, genealogical records, and practitioner lineage have been absorbed into institutional frameworks often enough that the boundary between the House's private scholarship and MOD's official record is genuinely unclear in places.
