@@ -70,7 +70,7 @@ The most openly documented Vitality bearer in historical record is Orvielle Cast
 
 ## Sigil of Adaptation
 
-**Effect:** Allows the body to temporarily alter its physiology to survive extreme environments — adjusting to intense pressure, generating internal heat in freezing cold, filtering toxins from ingested material or breathable air. Unlike the Supreme evolution, Standard Adaptation requires active environmental stress to trigger meaningful response, and the changes are temporary rather than permanent.
+**Effect:** Allows the body to temporarily alter its physiology to survive extreme environments — adjusting to intense pressure, generating internal heat in freezing cold, filtering toxins from ingested material or breathable air. Unlike the Ethereal evolution, Standard Adaptation requires active environmental stress to trigger meaningful response, and the changes are temporary rather than permanent.
 
 **Appearance:** A shifting, camouflage-like pattern that changes subtly based on its surrounding environment. It often appears on the torso or neck, and at rest glows with a muted, adaptive grey. In active environments — extreme cold, toxic air, crushing depth — the pattern brightens and shifts as the body processes its adjustments.
 
