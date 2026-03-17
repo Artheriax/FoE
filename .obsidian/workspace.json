@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stories/Serseys-Journey/Book-VI-Artems-Emergence.md",
+                "file": "stories/characters/Artem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Book-VI-Artems-Emergence"
+              "title": "Artem"
             }
           }
         ]
@@ -186,6 +186,8 @@
   },
   "active": "c04ca0005e03e3bd",
   "lastOpenFiles": [
+    "000-Dashboard.md",
+    "stories/Serseys-Journey/Book-VI-Artems-Emergence.md",
     "stories/Origins/Origins - The Mastery.md",
     "stories/Origins/Artems-Arc.md",
     "stories/Artems-Arc/Artems-Arc.md",
@@ -208,7 +210,6 @@
     "obsidian-templates/Organization-Template.md",
     "obsidian-templates/Character-Template.md",
     "obsidian-templates",
-    "000-Dashboard.md",
     "organizations/Umbra-Shroud.md",
     "memory/MEMORY.md",
     "memory"
