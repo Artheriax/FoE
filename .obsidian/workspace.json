@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stories/characters/Artem.md",
+                "file": "systems/sigils/Supreme-Sigils.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Artem"
+              "title": "Supreme-Sigils"
             }
           }
         ]
@@ -186,6 +186,15 @@
   },
   "active": "c04ca0005e03e3bd",
   "lastOpenFiles": [
+    "systems/sigils/Standard-Sigils.md",
+    "systems/sigils/Absolute-Sigils.md",
+    "systems/Arcane.md",
+    "systems/Monsters.md",
+    "systems/Gazes.md",
+    "systems/Power-Sources.md",
+    "systems/Sigils.md",
+    "systems/gazes/Absolute-Gazes.md",
+    "stories/characters/Artem.md",
     "000-Dashboard.md",
     "stories/Serseys-Journey/Book-VI-Artems-Emergence.md",
     "stories/Origins/Origins - The Mastery.md",
@@ -197,7 +206,6 @@
     "stories/Characters.md",
     "stories/Origins/Origins.md",
     "stories/characters/Kaelen.md",
-    "stories/characters/Artem.md",
     "organizations/Organizations.md",
     "organizations/Minor-Guilds.md",
     "organizations/Keepers-of-Nil.md",
@@ -205,13 +213,7 @@
     "organizations/Aethelgard-Consortium.md",
     "organizations/Eternal-Guard.md",
     "organizations/Solaris-Vanguard.md",
-    "organizations/MOD.md",
-    "world/Overview.md",
-    "obsidian-templates/Organization-Template.md",
-    "obsidian-templates/Character-Template.md",
     "obsidian-templates",
-    "organizations/Umbra-Shroud.md",
-    "memory/MEMORY.md",
     "memory"
   ]
 }

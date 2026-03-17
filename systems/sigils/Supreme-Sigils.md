@@ -36,7 +36,7 @@ The regrowth process itself is accompanied by significant heat output from the a
 
 **Effect:** The bearer can operate at peak physical and cognitive capacity indefinitely, ignoring pain signals, hunger, thirst, and sleep deprivation without meaningful degradation. The body does not accumulate the physiological damage that these deficits would normally produce. They are the ultimate sustained-performance asset.
 
-**Appearance:** The Sigil's pattern becomes deeply and permanently etched, losing the glow quality of lesser marks and instead appearing as tattooed light infused directly into the skin — present always, visible always, unmistakable. The color is a deep, unwavering bronze that does not flicker or pulse.
+**Appearance:** The Sigil's pattern becomes deeply and permanently etched, losing the glow quality of lesser marks and instead appearing as tattooed light infused directly into the skin — present always, visible always, unmistakable. The color is a deep, unwavering silver that does not flicker or pulse.
 
 **Lore:** Endurance sounds like a pure gift until the bearer encounters what sleep is for, socially and psychologically, rather than physiologically. They no longer need it. The vulnerability of unconsciousness, the shared rhythms of a group settling in for the night, the specific exhausted honesty that comes at the end of a long day — these things gradually become inaccessible. Most Endurance bearers describe a peculiar form of isolation, arriving years after they register the Sigil, as they realize that they are no longer inside the rhythms that govern everyone else's lives.
 
