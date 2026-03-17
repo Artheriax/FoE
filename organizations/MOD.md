@@ -9,7 +9,7 @@ aliases: [Magic Oversight Division]
 
 *Motto: "Vigilance, Order, Balance."*
 
-The Magic Oversight Division is the governing authority on all matters related to magic, Dungeon activity, power growth, and aberrant phenomena across Hyperion. While individual nations and city-states retain authority over civil governance, MOD's jurisdiction over hunters, essences, and magical regulation is absolute and recognized across all major territories. Its influence extends from the fortified complex of The Bastion to the smallest regional field outpost near a contested Dungeon zone. An estimated 340,000 individuals hold active MOD registration in some capacity, from E-rank hunters to contracted specialists operating under lifetime institutional agreements.
+The Magic Oversight Division is the governing authority on all matters related to magic, Dungeon activity, power growth, and aberrant phenomena across Hyperion. While individual nations and city-states retain authority over civil governance, MOD's jurisdiction over hunters, essences, and magical regulation is absolute and recognized across all major territories. Its influence extends from the fortified complex of The Bastion to the smallest regional field outpost near a contested Dungeon zone. An estimated 180 million individuals hold active MOD registration in some capacity, from E-rank hunters to contracted specialists operating under lifetime institutional agreements.
 
 ---
 

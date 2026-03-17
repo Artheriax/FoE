@@ -8,7 +8,7 @@ aliases: [Artem]
 # Artem
 
 - **Race:** Human (pre-universe origin; classification approximate)
-- **Age:** 25; 3 million years if you count the time in the Wall
+- **Age:** 25; 3 million years if you count the time in the Wall (external time) / 30 days (subjective experience)
 
 ### Timeline
 
@@ -18,7 +18,7 @@ aliases: [Artem]
 | Lab rift pulls him into the pre-universe state | Millions of years before present | Immediate |
 | Meets Entity Zero; cosmos forms; Higher Ones emerge | Millions of years ago | No time — the pre-state has no duration |
 | Higher Ones imprison him in the Wall of Nihility | Millions of years before present | Day 1 |
-| Wall of Nihility holds him | Millions of years pass in the physical world | 30 days |
+| Wall of Nihility holds him | 3 million years pass in the physical world | 30 days |
 | Walks out | Present — Sersey's story, 3,000 years after his original era | Day 30 |
 
 ---
@@ -49,7 +49,7 @@ The **Gaze of Null** looks like a grey eye at rest — unremarkable, easy to mis
 
 The **Gaze of Mimicry** exactly copies whatever Gaze it targets — both the ability and the appearance. His eye shifts to look identical to the Gaze being mimicked, indistinguishable from the original bearer's. The copied ability functions at the same level as its source. He needs comprehension, not sustained exposure — once he understands a Gaze's mechanism, Mimicry can hold it.
 
-The **Gaze of Convergence** is the Ethereal tier: the capacity to merge his mimicked Gazes with each other, or a mimicked Gaze with the Gaze of Null, producing more powerful variants of the combined abilities. A Gaze merged through Convergence operates above the tier of either component. Null applied through Convergence to a mimicked Gaze produces a variant that both replicates and cancels in precise combination — an effect that has no name yet and no documented equivalent to compare it against.
+The **Gaze of Convergence** is the Ethereal tier Gaze: the capacity to merge his mimicked Gazes with each other, or a mimicked Gaze with the Gaze of Null, producing more powerful variants of the combined abilities. A Gaze merged through Convergence operates above the tier of either component. Null applied through Convergence to a mimicked Gaze produces a variant that both replicates and cancels in precise combination — an effect that has no name yet and no documented equivalent to compare it against.
 
 That he holds three Gazes simultaneously is itself an anomaly that sits outside the documented ceiling for mortal or post-mortal Gaze bearing. MOD has no classification for it. MOD does not know he exists.
 

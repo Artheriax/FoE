@@ -7,7 +7,7 @@ aliases: [Sersey]
 ---
 # Sersey
 
-- **Race:** Half-Elf
+- **Race:** Half-Elf (Elf mother, Human father)
 - **Age:** 70 (appears approximately 20 by human standards)
 
 ### Background
