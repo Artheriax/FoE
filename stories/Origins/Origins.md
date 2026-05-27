@@ -78,17 +78,37 @@ She withdrew from the cosmos. The guilt of what she'd taken from him and the rel
 
 ---
 
+## The Withdrawal
+
+Entity Zero did not announce her departure. There was no declaration, no final act, no moment of transition that the Higher Ones could point to and say: *she is gone now.* What happened instead was quieter and, in its way, more complete.
+
+She stopped being present in the things she had made.
+
+The cosmos she built from his descriptions continued to function — the physics still ran, the dimensions still held, the Higher Ones still maintained their domains. But the quality of her attention, the thing that had made the early universe feel like a process someone was *watching*, simply ceased. The stars still burned. The tides still turned. But the sense that creation was an ongoing act rather than a completed one faded, like the last note of a piece of music that has no performer.
+
+The Higher Ones noticed, because they were the ones closest to her. The Observing One, who catalogued everything, catalogued the absence. The Judging One, whose sense of accountability was built from Artem's, noted with something adjacent to discomfort that their founding act — the imprisonment — had produced exactly the outcome The One had argued it would prevent: her withdrawal. She was not unstable because she prioritized Artem. She was stable because she prioritized Artem. He had been the first thing she learned to care about, and in his absence the caring itself receded.
+
+The One's position did not change. The argument had been made. The imprisonment was in place. The outcome was not what was predicted, but the prediction had been convenient at the time, and convenience outlasts accuracy in institutional memory.
+
+Entity Zero did not stop caring about Artem. She believed him safe. She believed the Higher Ones. The grief of what she had taken from him — his world, his time, his colleagues whose names she absorbed into the patterns of physics — was the wound. The belief that he was sleeping peacefully was the thing placed over the wound. Together they produced a stillness that was not peace but was, at cosmic scale, indistinguishable from it.
+
+She did not stop loving him. She stopped being present enough to act on that love, which is a different thing and harder to detect from outside.
+
+The question of where she went — whether she dissolved into the substrate she came from, whether she occupies some inaccessible boundary state between the cosmos and whatever preceded it, whether she is simply still present in a register the Higher Ones cannot perceive — is the open question that has driven every institution that has ever studied the Wall. The Keepers of Nil have spent millennia trying to prove she is still accessible. Artem, walking out of the Wall into a world she was no longer present in, intends to find out.
+
+---
+
 ## The Wall
 
 The Higher Ones made one miscalculation. They understood what Artem was in the context of their world. They did not understand what his Sigil was capable of when given eternity and a sufficiently extreme threat.
 
-The first phase was survival, pure and brutal. The Wall pressed against him with the intent of erasure and his Sigil responded with the only tool it had: adaptation. It had no template for this. It adapted blindly, instinctively, rebuilding what the Wall tore apart in real time. It was not elegant. It was not sufficient. But it was enough to maintain a sliver of continuity.
+The first phase was survival, pure and brutal. The Wall pressed against him with the intent of erasure and his Sigil responded with the only tool it had: adaptation. It had no template for this. It adapted blindly, instinctively, rebuilding what the Wall tore apart in real time. The experience was not pain — pain requires a nervous system configured to register damage, and his nervous system was being unmade and remade faster than damage could register. What replaced pain was a different category of distress: the sensation of being constantly *incomplete*, a structure perpetually mid-collapse, held together by a force that understood only that holding-together was required. He did not sleep because sleep requires a body stable enough to surrender control. He held onto awareness the way a drowning man holds onto a plank, and the Sigil, recognizing that awareness as the thing it was optimizing for, reinforced it instead of letting it go.
 
-The second phase was the worst. The Sigil stabilized the standoff --- he wasn't dissolving, but he wasn't escaping either. And the Wall was silent. Absolutely silent. No input, no sensation, no time, no change. Just his own mind, which refused to stop working.
+The second phase was the worst. The Sigil stabilized the standoff — he wasn't dissolving, but he wasn't escaping either. And the Wall was silent. Absolutely silent. No input, no sensation, no time, no change. A silence so complete that the concept of silence became meaningless — silence is the absence of sound, but there had never been sound here, so there was nothing for silence to be the absence of. Just his own mind, which refused to stop working. His thoughts, with no external referent to anchor against, began looping. He revisited memories — specific ones, vivid ones — because they were the only objects in an otherwise empty room. His mother's voice. The smell of the laboratory after a thunderstorm. A particular colleague's handwriting, the loop of the *g* that always extended a fraction further than standard. He held each memory for as long as it would hold him back, and when it faded, he moved to the next. This went on for what, in any other context, would have been measured in centuries.
 
-He processed everything. He had perfect recall and nothing but his own thoughts to work with. He understood, with the relentless clarity of a mind that had nowhere to run from its own conclusions, exactly what had happened and why. He understood the jealousy. He understood Entity Zero's grief. He understood the architecture of the betrayal. He held all of it.
+He processed everything. He had perfect recall and nothing but his own thoughts to work with. He understood, with the relentless clarity of a mind that had nowhere to run from its own conclusions, exactly what had happened and why. He understood the jealousy — the specific humiliation of infinite beings discovering they were derived from a mortal. He understood Entity Zero's grief — the weight of taking pieces of him without his consent, the pressure that made her receptive to the idea that she had already harmed him enough. He understood the architecture of the betrayal: The One's argument was not wrong in its structure, only in its conclusion. A mortal's fears and biases *were* embedded in the laws of reality. That was not a problem to be solved by containment. It was a feature of a cosmos built through genuine collaboration rather than unilateral design. The One had confused *personal* with *imperfect*, and the confusion had cost Artem everything.
 
-The anger that formed was not cosmic. It was human. It was the anger of someone who had given everything, held nothing back, shared every piece of himself with beings who were literally made from his soul --- and been imprisoned by them for it. That anger was quiet. It didn't need to be loud.
+The anger that formed was not cosmic. It was human. It was the anger of someone who had given everything, held nothing back, shared every piece of himself with beings who were literally made from his soul — and been imprisoned by them for it. That anger was quiet. It didn't need to be loud. It needed to be accurate. He held it precisely, the way he held all data, and let it settle into the architecture of understanding he was building about the Wall and its creators.
 
 The third phase was unexpected: he got bored. His researcher's instinct, with nothing else to occupy it, turned to the Wall itself. He began cataloguing it the same way he'd once catalogued dungeon rifts. He mapped its energy patterns. He theorized about its construction. He had already adapted enough that he could perceive it with some clarity, even if he couldn't affect it. He developed theories. He refined them, discarded them, rebuilt them. He built an entire internal architecture of understanding about the Wall's fundamental nature.
 

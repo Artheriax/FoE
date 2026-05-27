@@ -43,7 +43,7 @@ Covers: Artem's world and accidental displacement to the pre-universe state; his
 
 **Continuation:** [Book VI: Artem's Emergence](Serseys-Journey/Book-VI-Artems-Emergence.md) — What happens after Artem walks out of the Wall; the journey through Nihility; his search for Entity Zero; MOD classification hearing; remanded to Eternal Guard jurisdiction
 
-**Standalone arc (parallel to Books VII–VIII):** [Between the Wall and the World](Artems-Arc/Artems-Arc.md) — Artem's time in Eventide; the Gaze of Null accident; Seravane; the authorization. Told separately from Sersey's perspective.
+**Standalone arc (parallel to Books VII–VIII):** [Between the Wall and the World](Origins/Origins%20-%20The%20Mastery.md) — Artem's time in Eventide; the Gaze of Null accident; Seravane; the authorization. Told separately from Sersey's perspective.
 
 ---
 
