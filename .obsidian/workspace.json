@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "systems/sigils/Supreme-Sigils.md",
+                "file": "stories/Serseys-Journey/Book-II-A-Clash-of-Echoes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Supreme-Sigils"
+              "title": "Book-II-A-Clash-of-Echoes"
             }
           }
         ]
@@ -186,6 +186,9 @@
   },
   "active": "c04ca0005e03e3bd",
   "lastOpenFiles": [
+    "memory/MEMORY.md",
+    "memory",
+    "systems/sigils/Supreme-Sigils.md",
     "systems/sigils/Standard-Sigils.md",
     "systems/sigils/Absolute-Sigils.md",
     "systems/Arcane.md",
@@ -211,9 +214,6 @@
     "organizations/Keepers-of-Nil.md",
     "organizations/House-Dravenmore.md",
     "organizations/Aethelgard-Consortium.md",
-    "organizations/Eternal-Guard.md",
-    "organizations/Solaris-Vanguard.md",
-    "obsidian-templates",
-    "memory"
+    "obsidian-templates"
   ]
 }
