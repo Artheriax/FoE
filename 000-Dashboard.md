@@ -11,6 +11,7 @@ Welcome to the **Fragments of Eternity** worldbuilding repository. This master d
 *Where it all happens.*
 - **[World Overview](world/Overview.md)**: The foundational primer on Hyperion, power ceilings, and racial hierarchy.
 - **[Races](world/Races.md)**: The biological and cosmic hierarchy (Mortal → Higher Ones).
+- **[Culture & Daily Life](world/Culture.md)**: How people live, work, celebrate, and navigate a world with 30 million Gaze bearers.
 - **[History & Timeline](world/History.md)**: The major eras from Pre-Record to the Modern Era.
 - **[Dimensions & Realms](world/Dimensions.md)**: The structure of reality beyond the physical plane.
 

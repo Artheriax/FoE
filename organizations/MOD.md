@@ -91,11 +91,15 @@ The Registry does not hold independent authority over forbidden magic prosecutio
 
 ### Gaze and Sigil Assessment Unit
 
-The specialist branch responsible for identifying, evaluating, and tracking Gaze and Sigil bearers. The Assessment Unit conducts formal evaluations of suspected bearers, maintains bearer files, monitors for unauthorized use of high-tier abilities, and enforces disclosure requirements.
+The Assessment Unit is one of MOD's largest operational divisions — a necessity in a world where roughly 45 million people carry a Gaze or Sigil. It operates regional registration centers across all major population zones, staffed by a combination of career MOD personnel, contracted specialist evaluators, and cadre of active registered bearers who serve as peer assessors.
 
-Gaze bearers are required to register their ability category and tier upon identification. Sigil bearers occupy a more complex regulatory position — because Sigils are fully passive and cannot be deactivated, enforcement of disclosure is weighted against the bearer's privacy interests. This balance is revisited periodically and is currently the subject of active Internal Review policy debate.
+**Registration and Evaluation:** All individuals identified as Gaze or Sigil bearers are required to register with the Assessment Unit upon discovery. For Gazes, this includes ability category, tier classification, and an initial Amplitude calibration. Most identifications occur during childhood medical screenings; the Assessment Unit maintains partnerships with pediatric health networks across Hyperion to ensure early detection. Late-life discovery is uncommon but not unheard of, particularly among Dark Elf, Voidling, and unregistered frontier populations.
 
-The Assessment Unit's sealed population files for Absolute and Ethereal tier holders are maintained at a classification level requiring senior Eternal Guard authorization to access. Active file count: [Sealed].
+Sigil bearers occupy a more complex regulatory position — because Sigils are fully passive and cannot be deactivated, enforcement of disclosure is weighted against the bearer's privacy interests. This balance is revisited periodically and is currently the subject of active Internal Review policy debate. The Assessment Unit estimates a significant undercount in Sigil registration, particularly for Standard-tier bearers whose passive enhancements may go unnoticed or unreported for years.
+
+**Operational Scale:** With approximately 1.5 million Supreme Gaze bearers and 750,000 Supreme Sigil bearers on file, the Assessment Unit's monitoring infrastructure is concentrated at the Supreme tier and above, where abilities present meaningful regulatory concern. Standard-tier bearers are largely self-managed after initial registration, with periodic re-evaluation required only upon racial evolution or documented ability escalation. The Assessment Unit employs statistical sampling, automated amplitude flagging via Hexline-network sensor arrays, and mandatory self-reporting requirements as primary oversight mechanisms.
+
+**Absolute and Ethereal Tiers:** The Assessment Unit's sealed population files for Absolute and Ethereal tier holders are maintained at a classification level requiring senior Eternal Guard authorization to access. Active file count: approximately 7,500 Absolute-tier cases, the majority flagged as theoretical or unconfirmed; Ethereal-tier files are numbered in the single digits, all unresolved.
 
 **Cross-Reference:** `systems/Gazes.md` — MOD Registry Overview; `systems/Sigils.md` — MOD Classification
 

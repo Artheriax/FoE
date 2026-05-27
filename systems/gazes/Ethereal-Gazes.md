@@ -22,9 +22,9 @@ The rarest of adaptive Gazes. Upon seeing another Gaze in use, the user's own ey
 
 The eyes are a neutral, soft grey. When active, they flash and morph, perfectly mirroring the appearance of the Gaze they are copying.
 
-**Sighting Status:** One contested claim (Case-ETHER-881, anonymized). Claimant reported seeing this Gaze in use during Third Era conflict. No verification possible. Claimant deceased; records sealed.
+**Near-Miss Incident:** The most credible sighting occurred during the Third Era conflict known as the Veiled Operations, documented in case file ETHER-881. An intelligence operative bearing the Gaze of Seduction reported an encounter with a figure whose eyes shifted to match her own mid-activation, and then shifted again to match a second operative's Gaze of Enchantment during the same encounter. The figure then walked away without engaging further. The operative filed the report, was debriefed, and the file was sealed. The operative died eighteen months later — cause of death: a blood disorder unrelated to the encounter. The file was reopened in the Seventh Era by MOD's Theoretical Research Division and flagged "inconclusive — witness deceased."
 
-**Scholarly Debate:** Theorists are split: some propose Mimicry as logical extension of Gaze hierarchy; others argue the power violates fundamental principles of individual spiritual resonance. Ongoing MOD research deemed inconclusive.
+**Scholarly Debate:** Theorists are split: some propose Mimicry as logical extension of Gaze hierarchy; others argue the power violates fundamental principles of individual spiritual resonance. The Artem case (see `stories/characters/Artem.md`) provides the closest thing to a confirmable data point — Artem displays a confirmed Ethereal Gaze of Mimicry, but his circumstances (pre-universe origin, millions of years in the Wall, Sigil of Transcendent Adaptation) are unique enough that some scholars argue he represents a one-case exception rather than proof of Mimicry's existence as a reproducible trait.
 
 ---
 
@@ -34,9 +34,9 @@ The ultimate counter. This Gaze emits a field of absolute neutralization that ca
 
 The eyes are a flat, dull, leaden grey. They appear utterly mundane and unremarkable, as they project a field that enforces mundanity. Yet when not used the user's eyes appear normal.
 
-**Sighting Status:** Multiple contested sightings across Sixth and Seventh Eras. Most credible report documented in MOD Archive 245-γ, but unavailable for verification. Witness reliability questioned by contemporary scholars.
+**Near-Miss Incident:** The Seventh Era produced the only partially verified Null sighting in MOD's accessible archives. A sealed report filed with the Theoretical Research Division described an encounter in which an Ethereal-tier Gaze bearer claimed to have observed the Wall of Nihility and reported that certain Gaze-based phenomena ceased functioning in proximity to the observation point. The report was accepted into the record, reviewed by Eternal Guard representatives, and sealed. The claimant's subsequent status is not noted in the accessible portion of the file. Cross-referencing with the Artem case: Artem's Null Gaze is confirmed Ethereal-tier, automatic in activation, and genuinely cancels Gaze phenomena within its operational radius — providing the first empirical confirmation that Null exists and functions as described. Whether Artem's Null represents the same phenomenon as the Seventh Era claimant's report or a unique manifestation produced by millions of years of Wall exposure is unresolved.
 
-**Scholarly Debate:** If verified, Null would represent the only Ethereal Gaze with defensive/cancellation mechanics. Some theorists argue its existence is fundamental to cosmic balance equality. Others dismiss sightings as stress hallucinations or misidentified Gazes. MOD remains officially non-committal.
+**Scholarly Debate:** Null's confirmed existence through Artem has shifted the theoretical landscape. The question is no longer "does Null exist" but "does Null exist independently of the only confirmed bearer, and if so, under what conditions does it emerge." Some theorists propose that Null — like Adaptation — may skip the Absolute tier entirely, emerging only at Ethereal from no known evolutionary precursor. No evidence supports or refutes this.
 
 ---
 
@@ -46,9 +46,7 @@ This Gaze allows the user to fuse the effects of multiple Gazes they possess int
 
 The eyes appear as a swirling, beautiful chaos of colors and patterns, with different layers representing different Gazes shifting in and out of focus.
 
-**Sighting Status:** No credible reports. Theoretical construction only. Proposed by Arcane theorist Veridian in her seminal work "Hierarchies of the Gifted" (267 Eastern Era).
-
-**Scholarly Debate:** Convergence represents speculative culmination of multi-Gaze possession mechanics. No documented cases of individuals bearing multiple Standard Gazes exist; therefore Convergence remains purely theoretical. Some scholars question if the concept is even metaphysically possible.
+**Near-Miss Incident:** No credible independent sighting exists. Artem's confirmed possession of Convergence — the capacity to merge mimicked Gazes with Null to produce compound effects that replicate and cancel simultaneously — is the only data point. Arcane theorist *Veridian* proposed the concept in her seminal work "Hierarchies of the Gifted" (267 Eastern Era), arguing that multi-Gaze possession, while undocumented, must theoretically enable fusion mechanics at the Ethereal tier. Her work was dismissed during her lifetime. Artem's emergence retroactively validated her central thesis, and the Theoretical Research Division reopened her archived papers for review in the current era.
 
 ---
 
@@ -58,9 +56,7 @@ This Gaze allows the user to perceive the infinite threads of time — past, pre
 
 The eyes are a mesmerizing, slow-moving whirlpool of silver and blue. Within them, fleeting images of past events and future possibilities can be glimpsed.
 
-**Sighting Status:** One claim from Third Era texts describes "the Eyes that See Forever." Interpretation disputed. Some scholars propose this refers to Eternity; others suggest misidentified Gaze or metaphor.
-
-**Scholarly Debate:** Core debate centers on feasibility: simultaneous perception of all timelines would require consciousness existing outside time itself. This challenges fundamental understanding of Hyperion's metaphysical structure. Considered heretical by some religious orders.
+**Near-Miss Incident:** The most substantive direct account is a Third Era text fragment describing *"Kyrin, who Saw the Days Before They Were"* — a figure who allegedly predicted seventeen events with date-specific accuracy across a seventy-year window, including the Ashenveil Shadow emergence and the collapse of a minor Dungeon whose existence was not documented until forty years after the prediction was recorded. Kyrin's predictions were documented by a Solaris Vanguard archivist contemporaneously and cross-referenced after each event. The archivist's notes describe Kyrin as "progressively less present" with each subsequent prediction, using language that suggests the figure was experiencing time in a nonlinear framework while attempting to communicate it linearly. Kyrin disappeared before the eighteenth prediction could be recorded. The Vanguard archivist's file was sealed at Kyrin's request. It was rediscovered in a Solaris Vanguard archive review in the Seventh Era and has not been made available to MOD.
 
 ---
 
@@ -70,9 +66,7 @@ This Gaze exerts ultimate mental and spiritual authority. By locking eyes with a
 
 The iris is a golden crown, intricate and awe-inspiring. The pupils are deep and commanding, promising both absolute order and absolute subservience.
 
-**Sighting Status:** No credible reports. Theoretical only. Proposed as logical escalation of Enchantment line by Gaze theorist Kessanda (late Fifth Era).
-
-**Scholarly Debate:** Dominion represents ultimate control mechanism in proposed Ethereal hierarchy. Its existence would have dramatic geopolitical implications. MOD officially discourages discussion of this potential power. Some radical scholars question whether MOD suppression indicates actual sightings being classified.
+**Near-Miss Incident:** No confirmed sighting. Theorist *Kessanda* (late Fifth Era) proposed the Dominion chain-of-control model in her treatise "On the Amplification of Influence," arguing that the Enchantment lineage — Seduction to Enchantment to [gap] — must terminate in a Gaze that extends personal influence across chain-linked targets. Her work was suppressed by MOD on the grounds that public discussion of chain-influence mechanisms constituted a risk factor for would-be practitioners. Kessanda was investigated, cleared, and continued publishing under increased institutional scrutiny. Three separate trafficking networks disrupted in the Modern Era employed operational models that theoretically match Dominion mechanics — unregistered Gaze wielders whose control appeared to extend beyond line-of-sight, affecting individuals the wielder had not personally encountered. MOD's Assessment Unit has flagged the pattern for cross-reference but has not attributed it to a single Gaze type.
 
 ---
 
@@ -82,9 +76,7 @@ This Gaze temporarily elevates the user's existence beyond physical and spiritua
 
 The eyes become impossible to perceive directly. They are surrounded by a shimmering, fractal haze of light, and looking at them causes disorientation and awe.
 
-**Sighting Status:** One anecdotal report from a claimed higher-being encounter during Sixth Era. Recorder disappeared; reliability cannot be verified.
-
-**Scholarly Debate:** If Transcendence is genuine, it would represent bridge between mortal Gazes and higher entity powers. This challenges the established boundary between mortal and cosmic tiers. Most scholars consider this philosophical rather than practical concern.
+**Near-Miss Incident:** A single Sixth Era report filed with MOD's Theoretical Research Division describes an alleged higher-being encounter in which a figure briefly displayed "impossible physical presence" — described as simultaneously occupying and not occupying the space they were observed in, visible from multiple angles simultaneously, producing the effect of a person who was present and absent in the same perceptual moment. The reporting individual, a guild-affiliated hunter operating in a region adjacent to a dimensional thinning zone, was debriefed and subsequently transferred to a different guild contract network. The hunter died six years later in an unrelated dungeon engagement. The report was reviewed and classified as "unverifiable — witness deceased." No secondary corroboration exists.
 
 ---
 
@@ -94,6 +86,4 @@ This Gaze perceives the "echoes" of past actions, thoughts, and energies that li
 
 The eyes are faint and translucent, like a ghostly overlay. Within them, faint afterimages of events constantly play out on a loop.
 
-**Sighting Status:** No verified reports. Theoretical construction. Appears in post-Fracturing philosophical works as metaphorical concept before formalization as potential Gaze.
-
-**Scholarly Debate:** If real, Echoes would have profound implications for causality, history, and curse-breaking. Some theorists propose this Gaze could explain historical "corrections" where recorded events contradict verified timelines. Others dismiss this as retrofitting pseudoscience to mythology.
+**Near-Miss Incident:** No direct sighting. The most suggestive indirect evidence comes from an anomaly in the Pre-Record era's historical record: the Fracturing of the Eastern Rift left structural dimensional effects that have persisted into the Modern Era, but records of the Fracturing's *cause* are inconsistent across surviving sources. At least two independent accounts describe events that "un-happened" — damage that was present on one day and absent the next, casualties who were remembered as dead and then encountered alive, a structure destroyed on Tuesday and intact on Wednesday with no one remembering the destruction. Arcane theorist *Torvald Ashweaver* (Sixth Era) proposed that these inconsistencies are consistent with an Echoes Gaze operating retroactively — someone altering the echoes of events after the events themselves had concluded. Ashweaver's work was dismissed during his lifetime on the grounds that retroactive causality is indistinguishable from poor recordkeeping. The Theoretical Research Division reopened his papers in the current era and has not reached a conclusion.

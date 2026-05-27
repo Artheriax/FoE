@@ -6,7 +6,9 @@ aliases: [Soul Anchors, The Sigils]
 ---
 # Sigils
 
-If Gazes are the manifestation of spiritual potential, then Sigils are the embodiment of physical transcendence. A Sigil is a permanent mark-like enhancement that appears on the skin of a bearer, resembling an intricate tattoo, a birthmark of impossible geometry, or a faint, glowing rune. Unlike Gazes, which are purely mental and spiritual, Sigils alter the very physics of the body they grace.
+A soldier stands at Irenmere Pass for thirty-one hours against odds that should have killed him in the first two, and when the relief force finally arrives, the mark on his shoulder blade is glowing so brightly it can be seen through his armor. A seven-year-old Draconian transforms for the first time and her parents note, with the practiced calm of prepared parents, the intricate pattern that appears across her forearms mid-shift. A Voidling dockworker has never registered his Sigil — he has never needed to, the stamina it grants him is modest and his work is not hazardous — and he will probably never file the paperwork unless an Assessment Unit sweep catches him during a random audit.
+
+If Gazes are the manifestation of spiritual potential, then Sigils are the embodiment of physical transcendence. A Sigil is a permanent mark-like enhancement that appears on the skin of a bearer, resembling an intricate tattoo, a birthmark of impossible geometry, or a faint, glowing rune. Unlike Gazes, which require conscious activation, a Sigil bearer's power is always on — a passive constant that requires no conscious effort to maintain.
 
 A Sigil is a biological and mystical augmentation that rewrites the bearer's physical limitations. It is also an innate birth trait, even rarer than Gazes. Where a Gaze user must learn to focus their power, a Sigil bearer's power is always on — a passive constant that requires no conscious effort to maintain.
 
@@ -58,7 +60,9 @@ Registered bearers receive a secondary Amplitude score reflecting their Sigil's 
 
 The Registry is also monitored by a classified internal division. Certain Sigil types — most notably Adaptation variants — trigger automatic secondary surveillance under protocols the MOD does not publicly acknowledge. Bearers of Absolute and Ethereal Sigils are listed in sealed files accessible only to senior directors and, reportedly, the Eternal Guards.
 
-**Registered Bearers (current):** Approximately 60,000 confirmed Standard-tier Sigil bearers across all six types. Approximately 1,500 confirmed Supreme-tier bearers carry individual standing files. Absolute and Ethereal cases are sealed at Eternal Guard authority and do not appear in accessible Registry records.
+**Registered Bearers (current):** Approximately 15 million confirmed Standard-tier Sigil bearers across all six types. Approximately 750,000 confirmed Supreme-tier bearers carry individual standing files. Absolute and Ethereal cases are sealed at Eternal Guard authority and do not appear in accessible Registry records.
+
+With 1 in 1,000 Hyperion inhabitants bearing a Standard Sigil, the condition is familiar enough to be unremarkable. Most families know someone with a Sigil. School athletics programs maintain separate divisions for Sigil-bearing competitors; workplace accommodations for passive physical enhancements are standardized under MOD health and safety guidelines. Sigil-informed medical protocols — accounting for accelerated healing rates, altered drug metabolism, and unusual stress responses — are taught as standard curriculum in medical training programs across Hyperion.
 
 ---
 
@@ -76,15 +80,15 @@ No documented case exists of a Sigil evolving past its natural tier ceiling thro
 
 ## Categories of Sigils
 
-- **Standard Sigils:** Enhance the body's core attributes — Fortitude, Agility, Senses, Vitality, Adaptation, Resilience.
+- **Standard Sigils:** Roughly 15 million bearers — about 1 in 1,000 people. These enhance the body's core attributes: Fortitude for strength and toughness, Agility for speed and precision, Senses for expanded perception, Vitality for healing and endurance, Adaptation for environmental responsiveness, and Resilience for damage mitigation. Most Standard Sigil bearers never pursue hunter careers; their passive enhancements simply make them slightly more durable, slightly faster, slightly harder to exhaust in whatever work they do.
 
-- **Supreme Sigils:** Mastery over body functions. Endurance, Reflex Mastery, Sensory Perception, Environmental Adaptation.
+- **Supreme Sigils:** Roughly 750,000 bearers. Mastery over body functions at magnitudes that make the bearer meaningfully superhuman: Endurance for inexhaustible stamina, Reflex Mastery for reaction speeds that preempt action, Sensory Perception for awareness that borders on precognition, and Environmental Adaptation for survival in conditions that would kill an unaugmented body within minutes. Supreme bearers are highly sought after by guilds and military operations.
 
-- **Absolute Sigils:** Defy biology entirely. Immunity, Vital Continuity, Perfect Balance, Superhuman Reflexes, Soul Anchoring.
+- **Absolute Sigils:** Defy biology entirely — Immunity to non-physical threats, Vital Continuity that halts aging, Perfect Balance under any conditions, Superhuman Reflexes that process intent before action, and Soul Anchoring that renders the bearer immune to possession and soul extraction. Roughly 30 active cases globally, all sealed above MOD Registry access at Eternal Guard authority.
 
-- **Ethereal Sigils:** Redefine the body's relationship with existence. Reality Immunity, Eternal Physique, Dimensional Anchoring, Cosmic Harmony, Transcendent Adaptation.
+- **Ethereal Sigils:** Redefine the body's relationship with existence itself. Reality Immunity persists across timeline rewrites. Cosmic Harmony draws sustenance from ambient cosmic radiation. Transcendent Adaptation (Artem) evolves permanently in response to any threat. Fewer than ten documented cases, none confirmed through standard MOD verification.
 
-To be born with a Sigil is to be destined for physical greatness. Like Gazes, they are highly sought after by guilds and feared by enemies.
+To be born with a Sigil is to carry a permanent physical distinction — visible or invisibly felt — that shapes how the bearer moves through the world, whether they choose to register it or not.
 
 **Note on Dual Sigils:** One confirmed case of dual Standard Sigil coexistence exists in recorded history (Morvayne vassal, 3rd Era, Fortitude and Resilience). All documentation sealed. See `systems/sigils/Standard-Sigils.md` — Dual Sigils section.
 
