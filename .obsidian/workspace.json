@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stories/Origins/Origins - The Mastery.md",
+                "file": "systems/gazes/Absolute-Gazes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Origins - The Mastery"
+              "title": "Absolute-Gazes"
             }
           }
         ]
@@ -186,34 +186,34 @@
   },
   "active": "c04ca0005e03e3bd",
   "lastOpenFiles": [
-    "stories/Origins/Origins.md",
-    "stories/Serseys-Journey/Book-II-A-Clash-of-Echoes.md",
-    "memory/MEMORY.md",
-    "memory",
+    "systems/gazes/Supreme-Gazes.md",
+    "systems/gazes/Standard-Gazes.md",
+    "systems/Gazes.md",
+    "systems/gazes/Ethereal-Gazes.md",
+    "systems/gazes/Absolute-Gazes.md",
+    "systems/sigils/Absolute-Sigils.md",
+    "systems/sigils/Ethereal-Sigils.md",
     "systems/sigils/Supreme-Sigils.md",
     "systems/sigils/Standard-Sigils.md",
-    "systems/sigils/Absolute-Sigils.md",
+    "systems/Sigils.md",
+    "stories/Origins/Origins.md",
+    "stories/Serseys-Journey/Book-I-Serseys-Awakening.md",
+    "stories/Serseys-Journey/Book-II-A-Clash-of-Echoes.md",
+    "stories/Story-Arcs.md",
+    "README.md",
+    "stories/Origins/Origins - The Mastery.md",
+    "memory/MEMORY.md",
+    "memory",
     "systems/Arcane.md",
     "systems/Monsters.md",
-    "systems/Gazes.md",
     "systems/Power-Sources.md",
-    "systems/Sigils.md",
-    "systems/gazes/Absolute-Gazes.md",
     "stories/characters/Artem.md",
     "000-Dashboard.md",
     "stories/Serseys-Journey/Book-VI-Artems-Emergence.md",
-    "stories/Origins/Origins - The Mastery.md",
     "stories/Origins/Artems-Arc.md",
     "stories/Artems-Arc/Artems-Arc.md",
     "stories/Artems-Arc",
     "stories/Serseys-Journey/Book-VII-The-Sleepers-Web.md",
-    "stories/Story-Arcs.md",
-    "stories/Characters.md",
-    "stories/characters/Kaelen.md",
-    "organizations/Organizations.md",
-    "organizations/Minor-Guilds.md",
-    "organizations/Keepers-of-Nil.md",
-    "organizations/House-Dravenmore.md",
     "obsidian-templates"
   ]
 }
