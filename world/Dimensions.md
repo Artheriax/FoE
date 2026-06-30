@@ -304,29 +304,27 @@ No documented case shows MOD involved in a Nihility imprisonment decision. The k
 
 ### The Wall of Nihility
 
-- **Nature:** Mythical Cosmic Barrier
-- **Accessibility:** Unknown. Its existence is unconfirmed by MOD standards. Zero-research policy in effect.
+- **Nature:** Pre-existing Cosmic Boundary
+- **Accessibility:** Sealed. Modern Era breach event documented (Keepers of Nil). All accessible records sealed under Eternal Guard authority.
 - **MOD Classification:** Sealed (Eternal Guard authority; Theoretical Research Division zero-engagement policy)
 
-The greatest mystery in the cosmos. The Wall of Nihility is a theoretical boundary said to encircle all of creation — the known dimensions — to separate them from the terrifying unknown of what lies beyond. Some theories suggest it was constructed by the Higher Ones to contain the influence of Entity Zero, or to keep out entities from beyond the known dimensional framework. Others believe it is a natural cosmic constant, not constructed but emergent: the point at which reality stops being reality.
+The Wall of Nihility is a pre-existing boundary structure at the edge of dimensional reality — not constructed by any known entity, not derived from any known power Source. It is the point at which existence itself runs out, the edge of the framework within which all Sources, all dimensions, and all known forms of power operate. Whether it emerged naturally as a boundary condition of dimensional expansion or was put in place by a force that predates the current cosmological order is unknown.
 
-No one knows what it is made of, who built it, or why.
-
-**The Entity Zero Framework**
-
-Power-Sources scholarship — particularly the sealed research maintained under Eternal Guard authority — describes Entity Zero as the substrate from which Cosmic Sources were separated at some point preceding all current historical records. Within this framework, the Wall of Nihility is described not as a location inside the dimensional hierarchy but as the inverted substrate space at the edge of the framework: not a place within the cosmos, but the boundary condition at which the cosmos ends.
-
-This interpretation, if accurate, means the Wall is not a structure that can be entered. It is the point at which dimensional existence terminates and something else begins. What that something else is has no classification.
+The Higher Ones did not build it. They used it — as a prison for the beings they could not kill and could not leave uncontained. The Keepers of Nil, having spent centuries assembling the means to breach it, performed a dimensional resonance ritual in the Modern Era using the divine activation key unlocked from the scroll *The Soul of the First*. The breach succeeded. A figure walked out: Artem — the original creator of gazes and sigils, imprisoned there approximately three thousand years ago. This is the first and only confirmed case of anything emerging from the Wall. The Traditional zero-engagement policy has not been formally revised, but the premise that the Wall cannot be studied has been contradicted by the existence of someone who studied it from the inside.
 
 **Research Outcomes and Policy**
 
 Every documented attempt to study the Wall of Nihility directly has resulted in researcher incapacitation. The specific manifestation is consistent: progressive cognitive disruption escalating to permanent loss of functional awareness. No researcher who crossed what colleagues identified as the active engagement threshold has contributed further academic work. MOD's Theoretical Research Division maintains a zero-engagement policy: the Wall is catalogued and cross-referenced; no further research is authorized.
 
-The Eternal Guard holds sealed research authority over all Wall-adjacent files. What those files contain has not been disclosed to the broader Theoretical Research Division.
+The Eternal Guard holds sealed research authority over all Wall-adjacent files. What those files contain has not been disclosed to the broader Theoretical Research Division. The Modern Era breach event — the Keepers of Nil's ritual and Artem's emergence — has been documented and sealed at the highest accessible authority level. The case file remains open.
 
 **Unconfirmed Sighting Record**
 
 One claim of direct Wall observation by a mortal-tier being exists in the record: a sealed report filed with MOD's Theoretical Research Division during the Seventh Era. The claimant identified themselves as an Ethereal-tier Gaze bearer. No corroborating testimony was obtained. The report was accepted into the record, reviewed by Eternal Guard representatives, and sealed. The claimant's subsequent status is not noted in the accessible portion of the file.
+
+**The Entity Zero Hypothesis**
+
+Power-Sources scholarship — particularly the sealed research maintained under Eternal Guard authority — describes Entity Zero as a theoretical substrate from which Cosmic Sources may have separated at some point preceding all current historical records. No empirical evidence confirms this framework. Within it, the Wall of Nihility is described not as a location inside the dimensional hierarchy but as the boundary condition at which the cosmos ends: not a place within the cosmos, but the edge of the framework. Some theorists, including the Keepers of Nil, have proposed that Entity Zero is or was imprisoned behind the Wall. The Modern Era breach produced no evidence supporting this. The being who emerged was not Entity Zero. The hypothesis remains unconfirmed.
 
 *→ `systems/Power-Sources.md` — Entity Zero*
 *→ `systems/Arcane.md` — Forbidden Magic: Nil Space Magic*

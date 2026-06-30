@@ -6,116 +6,114 @@ tags: [book, story, prequel, origins]
 ---
 # FoE: Origins (Prequel)
 
-*The story of Artem — the researcher who preceded the universe.*
+*The story of Artem — the scientist who created the gazes and sigils, and the prison that held him for three thousand years.*
 
 ---
 
 ## The Researcher
 
-Magic arrived in Artem's world the way a storm arrives --- without warning, without explanation, and with no guarantee it would stop. Dungeons ruptured the earth. Creatures spilled out carrying energy that defied every natural law anyone had documented. People who survived encounters sometimes returned... different. Changed. The institutions of his era declared it divine punishment. Religious fervor spiked. Fear became doctrine.
+Magic arrived in Artem's world the way a storm arrives — without warning, without explanation, and with no guarantee it would stop. Dungeons ruptured the earth. Creatures spilled out carrying energy that defied every natural law anyone had documented. People who survived encounters sometimes returned different. Changed. The institutions of his era declared it divine punishment. Religious fervor spiked. Fear became doctrine.
 
 Artem took notes.
 
-He was not a philosopher. He was a naturalist, a cataloguer, the kind of man who responded to the incomprehensible by measuring it. While his contemporaries built walls and burned suspected magic-touched individuals, Artem traveled to the dungeon sites, observed from safe distances, mapped the energy discharge patterns of dying monsters. He interviewed the "changed" survivors and documented their new physical properties with clinical precision. He filled dozens of notebooks in a decade.
+He was not a philosopher. He was a naturalist, a cataloguer, the kind of man who responded to the incomprehensible by measuring it. While his contemporaries built walls and burned suspected magic-touched individuals, Artem traveled to the emergence sites, observed from safe distances, mapped the energy discharge patterns of dying monsters. He interviewed the changed survivors and documented their new physical properties with clinical precision. He filled dozens of notebooks in a decade.
 
-His central thesis, radical for its time, was this: *magic is not divine intervention. It is a natural phenomenon that we do not yet have the language to describe.* He wasn't the first to think it. He was the first to try to prove it.
+His central thesis, radical for its time, was this: the changes survivors exhibited were not curses or blessings. They were biological — a physical restructuring triggered by exposure to arcane energy. And in some cases, those changes were passing to children. That was the part no one could explain. Mutation was biological. Magic was external. The barrier between them was considered absolute.
 
-The Sigil of Adaptation he carried meant nothing to him. He healed faster than colleagues, tolerating cold expeditions and fever-prone field conditions better than anyone he worked with. He attributed it to constitution. In truth, his body was quietly preparing for something it would need much later.
+Artem spent years documenting what happened at the junction where the barrier should have held and didn't. The survivors who healed faster than their physiology should allow. The children born with marks on their skin that granted them strength their parents never had. The eyes that saw things no one else could see. Two systems — one ancient and biological, one new and arcane — touching in the bodies of the exposed, and something new forming in the space between them.
 
-His work on dungeon rift formation was the best theoretical framework of its generation. He identified that rifts weren't random --- they formed along specific dimensional stress fractures, like cracks in cooling glass. If those fractures had a pattern, they had a source. If they had a source, that source could theoretically be reached.
+He identified the junction point in his thirty-second year. The exact mechanism through which arcane energy could embed itself in biological tissue at the level of inheritance. In a laboratory in the eastern territories, using samples collected from years of fieldwork, he forced the two systems to fuse at a fundamental level — not by accident, not by exposure, but by design. He created a stable, inheritable architecture that could carry magical capability from conception. The first gaze. The first sigil.
 
-His final experiment was an attempt to generate a controlled, contained rift in a laboratory setting. Not to enter it. Just to observe what was on the other side for a fraction of a second. The math said it was possible. The math, as it turned out, was correct about the rift and wrong about the "fraction of a second."
-
-The containment failed. The rift held. Artem was pulled through.
+He documented the properties, mapped the inheritance patterns, and began writing the theoretical framework. He did not test the formula on himself. His interest was documentary — understanding the mechanism, proving the theory. He was a scientist. The application was someone else's problem.
 
 ---
 
-## In the Void
+## The Spreading
 
-Nothing is inadequate as a description. Nothing implies an absence of something. What Artem fell into was a state in which the concept of something had not yet been established.
+What he could not have known was that the residual substrate from his experiments — the fused mutation-magic medium he had stabilized — was leaching into the groundwater beneath his laboratory. It was inert by every instrument he had. It was not inert in living tissue.
 
-He should have been unmade immediately. His Sigil had other ideas.
+Over the following decades, gazes and sigils began appearing in the population along the watershed. At first, isolated cases — a child whose eyes shimmered gold in certain lights, a farmer who lifted something no body his size should be able to move. Then clusters. Then a pattern that anyone tracking the data would recognize as following the river systems downstream from the eastern territories.
 
-It did not understand what it was adapting to. There were no reference points, no external stimuli to respond to. So it adapted the only way it could: inward. It expanded Artem's perception because his body had no surface area to optimize. His consciousness stretched, thinned, fought to maintain coherence through sheer stubbornness and the researcher's habit of *documenting*.
+The trait was inheritable. It embedded at conception. It passed to children who passed it to theirs. Within a century, gazes and sigils were everywhere — thirty million bearers and climbing, the single largest unexplained phenomenon in the world. No one knew where they came from. Religious institutions called them divine marks. Arcane theorists proposed spontaneous mutation. The truth was simpler and more accidental: a scientist's laboratory had a leak, and the water carried his work into the world's bloodlines while he was no longer present to document the result.
 
-He was taking mental notes even as he dissolved. This is the thing that saved him. His mind refused to stop working. Even at the edge of total dissolution, the instinct was: *observe, record, understand.*
-
-Entity Zero had existed in this pre-state since before the concept of "since before." It had no form, no will, no curiosity --- because curiosity requires the existence of something to be curious about. It was the potential for all of those things, sealed in absolute stillness.
-
-Then something fell into it, and instead of being absorbed, it started *cataloguing her.*
-
-That was new.
-
-She coalesced toward him the way water fills a new shape --- not intentionally, but because that was what his presence made possible. She had no face. She gave herself one from his memory, not consciously, but because his mind kept referencing people, and a researcher thinks in terms of faces. The face she took was one he associated with good thinking: a colleague he'd respected. She found that association comprehensible. She kept it.
-
-Their early communication was not language. It was more like two radio signals slowly tuning to the same frequency. He kept trying to describe things. She kept trying to understand what description was. The process took what would have been centuries in a world with time.
-
-He taught her about existence by doing what he'd always done: explaining things from first principles, with examples, with counterexamples, with the patient persistence of someone who has never once assumed that something cannot be understood. He told her about oceans. About fire. About the feeling of cold water on a hot day, which required first explaining temperature, then sensation, then comfort. He told her about music --- and this one undid her completely, because music was organized sensation that meant nothing and everything simultaneously, and she could not explain why that mattered so much to her.
-
-She began to create. Not as a conscious decision --- more like his descriptions had accumulated past some threshold and started taking form. She used his memories as blueprints because they were the only reference she had for what "real" looked like. The cosmos that formed bore his fingerprints everywhere, not metaphorically but literally: the laws of physics mapped to the logic he had used to explain them to her.
-
-The Higher Ones emerged from his soul's fragments --- not his children, not his copies, but *aspects of him* given independent will and infinite power. The Observing One carried his curiosity. The Judging One carried his sense of accountability. The Creating One carried his delight in making things work. They were him, distributed and transcendent, and they had no idea.
+By the time the statistical pattern was visible, Artem had been gone for decades.
 
 ---
 
-## The Jealousy
+## The Discovery
 
-When the Higher Ones became self-aware, The Observing One --- born from Artem's own curiosity --- was the first to look back and see the source. It recognized the pattern. It told the others.
+The Higher Ones noticed.
 
-The Higher Ones' reaction was not simple. It was layered and, in their way, understandable. They were infinite beings who had just been told their existence descended from a mortal. That a human who couldn't even survive the physics of the void without a biological quirk was the structural origin of everything they were. Worse: Entity Zero still *loved him*. Not them. Not her creations. Him. She listened to him in a way she had never listened to any of her cosmic children, because he was the one who had first made her feel something.
+They were not omniscient in the manner of surveillance — they did not watch every mortal action, did not track every development in every corner of the expanding world. What they noticed was the shift in the statistical arc of mortal capability. Thirty million new ability bearers, spread across a century, with no corresponding surge in ambient magical energy to explain it. Something had been created. Something new.
 
-The argument The One constructed was architecturally reasonable. Artem's essence was woven into creation's foundation. As long as he remained near Entity Zero, she would continue to prioritize him, which introduced instability. A mortal's fears, biases, and limitations were embedded in the laws of reality. He needed to be "stabilized" --- contained safely, his consciousness at rest, his influence quarantined.
+The Observing One traced the pattern back to its origin point: a laboratory in the eastern territories, the groundwater contamination, the single source from which every subsequent case descended. The Creating One examined the architecture of the fused system — the biological-arcane bridge — and confirmed that it was not a natural evolution, not a cosmic fluctuation, not anything the Higher Ones had authored. A mortal had built it. A mortal had created a power system that produced inheritable abilities at population scale.
 
-Entity Zero agreed. She believed them. She grieved already --- she had spent their time together taking pieces of him without realizing it, and the guilt of that made her receptive to the idea that she had already harmed him enough and needed to stop.
+This was not an offense they had a category for. The Higher Ones were the authors of cosmic architecture. They had shaped the dimensions, established the Source framework, defined the gradient from mortal to Celestial to Primordial to themselves. Nobody below their tier created anything that operated on a civilizational scale. It was not illegal. It was not forbidden. It was simply not supposed to be possible.
 
-The Higher Ones did not contain him. They entombed him.
+The One, whose function was the maintenance of cosmic order, framed the response. The mortal's creation had already spread beyond containment — the gazes and sigils were in the population now, and removing them would require unmaking thirty million people from the inside. That was an act of erasure the Higher Ones could theoretically perform but had never attempted on that scale, and even The One recognized the decision threshold that represented. The mortal's work could not be undone. The mortal, however, could be addressed.
 
-They built the Wall of Nihility with one purpose: to put something powerful enough, stubborn enough, and dangerous enough to survive Nihility itself into a state of permanent erasure. Not death --- death would have been cleaner. This was something designed to make a being aware of its own undoing while never quite completing it. An eternal process of being unmade.
+The reasoning was structural. A mortal who had created one system of this magnitude could, given time and continued access, create another. The fact that his laboratory had contaminated a water source was an accident — but the accident demonstrated that his work propagated without his continued involvement. If the mechanism was replicable, the threat was ongoing. Containment of the creator was containment of the risk.
 
-The One told Entity Zero he was sleeping peacefully.
+The One did not present this as punishment. It presented it as quarantine. The reasoning was reasonable. The conclusion was imprisonment.
 
-She withdrew from the cosmos. The guilt of what she'd taken from him and the relief of believing he was safe combined into a permanent absence. She became the myth most believe her to be.
+They did not kill him. Killing him would have left a corpse with questions attached — a body whose properties might persist, an origin that scholars might eventually trace. The Wall of Nihility, by contrast, was clean. It was a pre-existing boundary structure at the edge of dimensional reality: a place where existence itself ran out. Nothing came back from the Wall because nothing that entered it continued to exist. It was the universal endpoint — the place things went when the cosmos had finished with them. The Higher Ones had not built it. They simply had access to it, the way a civilization has access to the ocean. You do not need to create the ocean to drown someone in it.
 
----
-
-## The Withdrawal
-
-Entity Zero did not announce her departure. There was no declaration, no final act, no moment of transition that the Higher Ones could point to and say: *she is gone now.* What happened instead was quieter and, in its way, more complete.
-
-She stopped being present in the things she had made.
-
-The cosmos she built from his descriptions continued to function — the physics still ran, the dimensions still held, the Higher Ones still maintained their domains. But the quality of her attention, the thing that had made the early universe feel like a process someone was *watching*, simply ceased. The stars still burned. The tides still turned. But the sense that creation was an ongoing act rather than a completed one faded, like the last note of a piece of music that has no performer.
-
-The Higher Ones noticed, because they were the ones closest to her. The Observing One, who catalogued everything, catalogued the absence. The Judging One, whose sense of accountability was built from Artem's, noted with something adjacent to discomfort that their founding act — the imprisonment — had produced exactly the outcome The One had argued it would prevent: her withdrawal. She was not unstable because she prioritized Artem. She was stable because she prioritized Artem. He had been the first thing she learned to care about, and in his absence the caring itself receded.
-
-The One's position did not change. The argument had been made. The imprisonment was in place. The outcome was not what was predicted, but the prediction had been convenient at the time, and convenience outlasts accuracy in institutional memory.
-
-Entity Zero did not stop caring about Artem. She believed him safe. She believed the Higher Ones. The grief of what she had taken from him — his world, his time, his colleagues whose names she absorbed into the patterns of physics — was the wound. The belief that he was sleeping peacefully was the thing placed over the wound. Together they produced a stillness that was not peace but was, at cosmic scale, indistinguishable from it.
-
-She did not stop loving him. She stopped being present enough to act on that love, which is a different thing and harder to detect from outside.
-
-The question of where she went — whether she dissolved into the substrate she came from, whether she occupies some inaccessible boundary state between the cosmos and whatever preceded it, whether she is simply still present in a register the Higher Ones cannot perceive — is the open question that has driven every institution that has ever studied the Wall. The Keepers of Nil have spent millennia trying to prove she is still accessible. Artem, walking out of the Wall into a world she was no longer present in, intends to find out.
+They took him there. They put him inside. They recorded nothing. They told no one.
 
 ---
 
 ## The Wall
 
-The Higher Ones made one miscalculation. They understood what Artem was in the context of their world. They did not understand what his Sigil was capable of when given eternity and a sufficiently extreme threat.
+The Wall was not what the Higher Ones believed it was.
 
-The first phase was survival, pure and brutal. The Wall pressed against him with the intent of erasure and his Sigil responded with the only tool it had: adaptation. It had no template for this. It adapted blindly, instinctively, rebuilding what the Wall tore apart in real time. The experience was not pain — pain requires a nervous system configured to register damage, and his nervous system was being unmade and remade faster than damage could register. What replaced pain was a different category of distress: the sensation of being constantly *incomplete*, a structure perpetually mid-collapse, held together by a force that understood only that holding-together was required. He did not sleep because sleep requires a body stable enough to surrender control. He held onto awareness the way a drowning man holds onto a plank, and the Sigil, recognizing that awareness as the thing it was optimizing for, reinforced it instead of letting it go.
+They understood it as a termination point — the edge of dimensional reality, the place where the rules stopped applying because there was nothing left for them to apply to. What they had not accounted for was the possibility that something could cross into the Wall and not terminate. That was not supposed to be possible. The Wall had never failed to process anything that entered it.
 
-The second phase was the worst. The Sigil stabilized the standoff — he wasn't dissolving, but he wasn't escaping either. And the Wall was silent. Absolutely silent. No input, no sensation, no time, no change. A silence so complete that the concept of silence became meaningless — silence is the absence of sound, but there had never been sound here, so there was nothing for silence to be the absence of. Just his own mind, which refused to stop working. His thoughts, with no external referent to anchor against, began looping. He revisited memories — specific ones, vivid ones — because they were the only objects in an otherwise empty room. His mother's voice. The smell of the laboratory after a thunderstorm. A particular colleague's handwriting, the loop of the *g* that always extended a fraction further than standard. He held each memory for as long as it would hold him back, and when it faded, he moved to the next. This went on for what, in any other context, would have been measured in centuries.
+Artem should have been erased in seconds. He was a baseline human — no gazes, no sigils, no adaptive physiology. His body had no mechanism to resist non-existence because non-existence was not something bodies were built to resist. The Wall should have unmade him the way it unmade everything else that entered it: completely, instantly, without record.
 
-He processed everything. He had perfect recall and nothing but his own thoughts to work with. He understood, with the relentless clarity of a mind that had nowhere to run from its own conclusions, exactly what had happened and why. He understood the jealousy — the specific humiliation of infinite beings discovering they were derived from a mortal. He understood Entity Zero's grief — the weight of taking pieces of him without his consent, the pressure that made her receptive to the idea that she had already harmed him enough. He understood the architecture of the betrayal: The One's argument was not wrong in its structure, only in its conclusion. A mortal's fears and biases *were* embedded in the laws of reality. That was not a problem to be solved by containment. It was a feature of a cosmos built through genuine collaboration rather than unilateral design. The One had confused *personal* with *imperfect*, and the confusion had cost Artem everything.
+It did not.
 
-The anger that formed was not cosmic. It was human. It was the anger of someone who had given everything, held nothing back, shared every piece of himself with beings who were literally made from his soul — and been imprisoned by them for it. That anger was quiet. It didn't need to be loud. It needed to be accurate. He held it precisely, the way he held all data, and let it settle into the architecture of understanding he was building about the Wall and its creators.
+The precise reason is not understood. Eternal Guard researchers who have since studied the data — what little data exists — have proposed several theoretical frameworks, none confirmed. The most widely accepted among the researchers who accept any of them is that the Wall's architecture operates on things that register within reality's framework. It erases by targeting what is real — what has a dimensional signature, a Source resonance, a position in the cosmic order. Artem, over the course of the first few hours of exposure, stopped registering. Not through any action he took — he had no mechanism to take action, was barely conscious for most of the process — but through an interaction between the Wall's erasure architecture and the specific state of his body that no one predicted because no one had ever put a baseline human with his particular characteristics inside a boundary structure for an extended period.
 
-The third phase was unexpected: he got bored. His researcher's instinct, with nothing else to occupy it, turned to the Wall itself. He began cataloguing it the same way he'd once catalogued dungeon rifts. He mapped its energy patterns. He theorized about its construction. He had already adapted enough that he could perceive it with some clarity, even if he couldn't affect it. He developed theories. He refined them, discarded them, rebuilt them. He built an entire internal architecture of understanding about the Wall's fundamental nature.
+The Wall did not kill him. It could not find him. He became, in the only register that mattered to it, absent while present — a state that no framework predating his emergence can fully categorize. The Wall continued to operate around him, processing the space he occupied the way it processed all space, but the space registered as empty. He was inside the Wall and outside its rules simultaneously. The condition produced no physical transformation, no visible change, no measurable alteration of his body. It produced a single, specific, reproducible effect: reality's targeting mechanisms — Gazes, sigil-based offensive abilities, detection instruments, dimensional registration systems — could not acquire him. They looked through him, not at him. He existed. He was simply not there in the register those systems were built to read.
 
-And his Sigil, responding to that understanding, began to adapt *with* the Wall rather than against it. Not fighting the erasure but becoming compatible with it. He stopped being foreign to the Wall. Slowly, he became something the Wall could not register as a threat --- because he had become a native of it, in a sense.
+He experienced hours. The world outside experienced 3,000 years. The Wall did not contain time in any conventional sense — there was no duration inside it, no sequence of events, nothing to measure the passage of anything against. His consciousness maintained coherence through the same habit that had driven his entire career: observation. Even without sensory input, his mind continued to catalogue, continued to theorize, continued to ask what this place was and how it functioned. He did not have answers. He had the reflex of reaching for them, and the reflex held him together.
 
-When the Wall finally couldn't maintain the distinction between "prisoner" and "environment," he walked out.
+When the Wall finally opened — from the outside, breached by people who had no idea he was there — he walked out. It had been hours. He was the age he went in. He carried the same notebooks — or the mental equivalent of them, since the physical ones were dust. He blinked in the light of a world that had been running his experiments for three millennia without telling him the results.
 
 ---
+
+## The Keeper's Key
+
+The Keepers of Nil had spent centuries asking the wrong question: *why is there a Wall?*
+
+Their founding premise was that a structure without a visible architect implied intent. Intent implied purpose. Purpose implied something worth understanding. Across millennia of research, they had accumulated the most comprehensive private archive on the Wall in existence — its dimensional location, its energy patterns, the theoretical frameworks that governed its behavior, the historical incidents in which it had been encountered. The one thing they had never been able to determine was what was inside it.
+
+Their working theory was that the Wall held Entity Zero — the mythical substrate-being from which Cosmic Sources were theorized to have separated, a consciousness so fundamental to the architecture of reality that it preceded the Higher Ones themselves. No one had ever confirmed Entity Zero's existence. No one had ever proven it was anything other than a cosmological placeholder — the answer scholars reached for when the chain of causation ran past the point where documentation stopped. But the Keepers had looked at the same data everyone else had looked at and reached a different conclusion: Entity Zero was real, she was conscious, and she was imprisoned behind the Wall. The Higher Ones had sealed her there. The Keepers intended to free her.
+
+What they lacked was a means of breaching the Wall. The Wall was not a door. It was a boundary — the edge of existence itself. Approaching it was one problem. Opening it was another, and for most of their institutional history, the Keepers had no answer to the second.
+
+The answer arrived in the form of a scroll.
+
+*The Soul of the First* was a document of uncertain age and unknown authorship, written in a script that predated the formal establishment of the MOD historical record. Its surface text described a figure — "the First" — a mortal who had created something the Higher Ones feared, sealed beyond the Wall of Nihility not for what he had done but for what he might do again. The text was fragmentary, metaphorical in places, difficult to parse conclusively. The Keepers, reading it through the lens of centuries of research into Entity Zero's theoretical imprisonment, interpreted "the First" as a reference to the first being — the primordial consciousness that preceded the cosmos. Entity Zero. She had been sealed behind the Wall. The scroll described the event and, more importantly, contained a key.
+
+The deeper text of the scroll — a second layer woven into the document through what scholars later identified as divine seal architecture, accessible only to bearers of the Astrae perception — contained the activation method. It was not a spell. It was a procedure: a specific configuration of dimensional energy, a resonance pattern, and a focal point at the Wall's surface. The divine seals had been waiting, dormant, for someone with the right sight to read them. When Gaelira, an Astrae whose perception exceeded even the norms of her rare bloodline, opened the scroll inside a vampire house archive during the events of *Politics of Blood*, the second layer activated. She read what no one before her had been able to read. She did not fully understand what it was a key to. The Keepers, who had been tracking the scroll through House Velmira's intelligence network and Project Crimson's shadow operations, knew exactly what they were looking at.
+
+They approached Gaelira's group through the one thread they knew belonged to her. The scroll was the final piece of a puzzle they had been assembling for centuries. With the divine text unlocked, they had the means to breach the Wall. They believed they were about to free Entity Zero.
+
+---
+
+## The Breach
+
+The procedure was delicate but not complex. The Keepers had centuries of practical experience approaching the Wall without being consumed by it. The divine text provided the breach pattern — a resonance that would create a temporary opening in the boundary, a window through which the consciousness they believed to be Entity Zero could be contacted and, if willing, extracted. The ritual was prepared with the care of people who had been wrong before and adjusted their methods accordingly.
+
+When the Wall opened, it did so silently. No rupture, no collapse, no dramatic violation of physics — just a seam appearing in the boundary where no seam had been, and through it, a figure walking out.
+
+It was not Entity Zero.
+
+It was a man in his early thirties, baseline human, carrying no detectable abilities. He blinked in the light. He looked at the Keepers, at the void-adjacent landscape, at the Wall behind him, with the expression of a researcher encountering a situation he had not prepared for but expected to understand given sufficient time. His first words were not dramatic. They were something closer to a question — directed at the Keepers, but also, in the way he asked it, at the entire situation.
+
+The Keepers' institutional conviction that the Wall held Entity Zero was not corrected immediately. Artem spent the first minutes of his freedom explaining, with patient precision, that he was not Entity Zero, had never been Entity Zero, could provide extensive documentation — theoretical, not recoverable given the destruction of his original materials — distinguishing himself from Entity Zero in every respect that mattered. The Keepers did not believe him. He was not surprised. They had spent millennia building a framework around the premise that Entity Zero was behind the Wall, and he had just walked out of the Wall. The conclusion was not unreasonable given their data.
+
+He would correct them. He was very good at correction. It would simply take longer than the first conversation.
 
 *For what happens next, see `stories/Serseys-Journey/Book-VI-Artems-Emergence.md`*

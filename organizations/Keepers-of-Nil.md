@@ -19,7 +19,7 @@ The Keepers of Nil are the organization that refused to stop asking.
 
 Their founding premise was never aggressive. It was this: a structure without a visible architect implies intent. Intent implies purpose. Purpose implies something worth understanding. Across millennia, that premise has produced a body of research that MOD's zero-engagement policy has never generated and likely never will.
 
-Their goal is not the Wall specifically. It is Hyperion — a Hyperion whose foundational history has been documented correctly, whose cosmic architecture reflects genuine order rather than the aftermath of an ancient act of jealousy. They want a better world. They have had a very long time to become precise about what that means.
+Their goal is not the Wall specifically. It is Entity Zero — the theoretical substrate-being from which the Higher Ones' Cosmic Sources are believed to have separated, a consciousness so fundamental to the architecture of reality that no one has ever confirmed its existence. The Keepers believe Entity Zero is real, is conscious, and is imprisoned behind the Wall of Nihility. Their centuries of research have all been aimed at a single act: breaching the Wall, contacting Entity Zero, and freeing her. They have had a very long time to become precise about what that means.
 
 ---
 
@@ -87,7 +87,7 @@ Operationally, Oswin manages the Keepers' relationship with entities and institu
 
 Old, careful, and possessed of the kind of accumulated correct decisions that make other devils nervous. Carix joined the Keepers in the Fourth Era and has never given a complete explanation to any other member. The closest he has come is a single recorded statement, offered once without elaboration:
 
-*"The imprisonment of the entity whose memories constituted the structure of reality was the largest illegitimate exercise of power I have encountered in a long life. I have opinions about legitimate power."*
+*"The Wall has held something since before any of these institutions existed. What was put inside it was put there by beings with no accountability to anyone. I have opinions about unaccountable power."*
 
 No one has pressed him further, partly out of professional regard and partly because the answer would not change the fact of his continued membership.
 
@@ -127,7 +127,9 @@ The Keepers' foremost researcher on Adaptation-class Sigil theoretical history. 
 
 Their joining predates several current members and postdates several who are no longer active. They are precise, patient, and occasionally difficult to interrupt when they are working through something.
 
-It is Dask who, during the group's first meeting with Sersey's party in Book V, pauses mid-conversation to ask Sersey two questions that do not fit the current discussion. The way they look at her after she answers is the look of someone recalculating in real time. They have spent decades building the theoretical framework for what the scroll described — *his fragments still seek those who carry his mark of adaptation* — and finding an active Adaptation Sigil bearer in the room had not been part of any operational scenario they had prepared for. Dask handles the moment professionally. Their voice does not change. Sersey notices the shift anyway.
+Dask has spent decades building the theoretical framework for the original gaze-and-sigil architecture — the mutation-magic fusion that produced the first inheritable birth-traits. Their research traces the Adaptation lineage back to the original formula, identifying the structural properties that make Adaptation unique among Sigil progressions: no Absolute tier, a ceiling that the architecture itself refuses. The formula's creator was imprisoned in the Wall. Dask's life's work is understanding what was sealed with him.
+
+During the group's first meeting with Sersey's party in Book V, Dask identifies Sersey as a Standard Sigil of Adaptation bearer — a rare but not unprecedented case that falls within the distribution pattern of the original formula's spread. She is not connected to the creator or to the Keepers' research in any way beyond being a documented bearer of a rare Sigil type. The moment is professionally notable but not personally significant. Dask records the observation and continues the discussion.
 
 **Cross-Reference:** `systems/sigils/Standard-Sigils.md` — Sigil of Adaptation; `stories/Story-Arcs.md` — Book V: The Wall That Remembers
 
@@ -154,6 +156,6 @@ The archive is not held in a single location.
 
 **Project Crimson:** Competing institutional interest in *The Soul of the First* created the Keepers' most significant recent operational complication. Project Crimson is not aware of the Keepers as a distinct organization. Their appearance in Project Crimson operational reports is as "unknown third party" in the Politics of Blood incident — a designation that has not been upgraded despite Carix's post-operation report being more informative about Project Crimson than the reverse.
 
-**Eternal Guard:** One confirmed interaction on record: the Nihility transit following Artem's emergence, during which the Guard intercepted the return party and conducted an assessment that returned non-functional results. Their ruling was communicated in a single statement before they withdrew. The Guard's records on Vael are noted as incomplete in their own internal archive flagging system, which implies awareness that their information on the Keepers has gaps. Vael made no comment on the encounter afterward beyond what was necessary to resume transit.
+**Eternal Guard:** One confirmed interaction on record: the Wall breach operation. Using the divine activation key unlocked by Gaelira from *The Soul of the First*, the Keepers performed a dimensional resonance ritual at the Wall's surface — the culmination of centuries of research. The breach succeeded. A figure emerged. It was not Entity Zero. It was Artem — the original creator of gazes and sigils, imprisoned there by the Higher Ones approximately 3,000 years ago. The Keepers, having believed for centuries that the Wall held Entity Zero, had freed the wrong being. The Guard intercepted the return party during the subsequent Nihility transit, conducted an assessment that returned non-functional results, and remanded Artem to their jurisdiction. The aftermath is ongoing. Vael made no comment on the encounter afterward beyond what was necessary to resume transit. Whether the Keepers have adjusted their Entity Zero thesis or are simply processing new data is not documented.
 
 **Solaris Vanguard:** Oswin's presence in the Keepers and their origin from the Vanguard is known to Vanguard leadership. The Vanguard has taken no official position.

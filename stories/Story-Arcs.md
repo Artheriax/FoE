@@ -12,7 +12,7 @@ An index of all stories set in Hyperion. Each entry links to its individual file
 
 ## FoE: Sersey's Journey
 
-*The main series. Follows Sersey — an elven hunter whose dormant Gifts awaken under pressure — as she builds a life, a team, and eventually confronts something older than the world she was born into.*
+*The main series. Follows Sersey — an elven hunter whose dormant Gifts awaken under pressure — as she builds a life, a team, and eventually confronts a threat embedded inside the institution that is supposed to protect her.*
 
 | Book | Title | Focus |
 |------|-------|-------|
@@ -21,10 +21,10 @@ An index of all stories set in Hyperion. Each entry links to its individual file
 | III | [The Land That Remembers](Serseys-Journey/Book-III-The-Land-That-Remembers.md) | Return to elven lands; Sigil active; Tree corruption arc |
 | IV | [The Long Way Back](Serseys-Journey/Book-IV-The-Long-Way-Back.md) | Forced rest; Nyari rejoins; Gaelira rejoins; team becomes whole |
 | Interlude | [The Quiet Between](Serseys-Journey/Interlude-The-Quiet-Between.md) | Team integration; scroll research; bonds deepen |
-| V | [The Wall That Remembers](Serseys-Journey/Book-V-The-Wall-That-Remembers.md) | Keepers of Nil; journey into Nihility; the Wall; Artem walks out |
-| VI | [Artem's Emergence](Serseys-Journey/Book-VI-Artems-Emergence.md) | Return from Nihility; Artem meets the modern world; MOD hearing; remanded to Eternal Guard |
-| VII | [The Sleeper's Web](Serseys-Journey/Book-VII-The-Sleepers-Web.md) | Sersey maps a MOD mole; Lyra dream-controlled; the Sleeper Incident's Modern Era address delivered to the Guard |
-| VIII | The Convergence (forthcoming) | Both arcs arrive at the same point; Artem deployed by the Guard; the Mindscape bearer neutralized; the reveal |
+| V | [The Wall That Remembers](Serseys-Journey/Book-V-The-Wall-That-Remembers.md) | Keepers of Nil seek Entity Zero; journey to the Wall; breach ritual; Artem walks out instead |
+| VI | [Artem's Emergence](Serseys-Journey/Book-VI-Artems-Emergence.md) | Return from Nihility; Artem — a baseline human — meets the modern world his research created; MOD hearing; remanded to Eternal Guard |
+| VII | [The Sleeper's Web](Serseys-Journey/Book-VII-The-Sleepers-Web.md) | Sersey maps a MOD mole; Lyra dream-controlled; the Sleeper Incident's Modern Era address delivered to the Guard; Artem developing countermeasure in Eventide |
+| VIII | The Convergence (forthcoming) | Both arcs arrive at the same point; Artem's universal Gaze-reversal serum deployed against the Mindscape bearer; the Mindscape neutralized and Lyra recovered; the revelation: Artem developed the Gaze of Null and applied it to himself; MOD moves to acquire the serum — a compound that can strip any registered Gaze bearer of their ability — for institutional control |
 
 **Romance Arcs:**
 
@@ -35,15 +35,15 @@ An index of all stories set in Hyperion. Each entry links to its individual file
 
 ## FoE: Origins (Prequel)
 
-*The story of Artem — the researcher who preceded the universe. Written as background context; events predate all other stories by an incomprehensible span.*
+*The story of Artem — the scientist who created the gazes and sigils, and the prison that held him for three thousand years. Written as background context; events predate all other stories by an approximate 3,000-year span.*
 
 Full record: [Origins/Origins.md](Origins/Origins.md)
 
-Covers: Artem's world and accidental displacement to the pre-universe state; his time with Entity Zero and the formation of the cosmos; the Higher Ones' jealousy and his imprisonment in the Wall of Nihility; his millennia inside the Wall and the development of his Ethereal Sigil and Gazes; his escape and the nature of who he still is beneath everything else.
+Covers: Artem's laboratory and the breakthrough that fused mutation with magic; the accidental contamination of groundwater that spread gazes and sigils worldwide; the Higher Ones' discovery of his work and his imprisonment in the Wall of Nihility; the Keepers of Nil, believing Entity Zero to be imprisoned behind the Wall, breaching it with the scroll's divine key; Artem walking out into a world that has been running his experiments without him.
 
-**Continuation:** [Book VI: Artem's Emergence](Serseys-Journey/Book-VI-Artems-Emergence.md) — What happens after Artem walks out of the Wall; the journey through Nihility; his search for Entity Zero; MOD classification hearing; remanded to Eternal Guard jurisdiction
+**Continuation:** [Book VI: Artem's Emergence](Serseys-Journey/Book-VI-Artems-Emergence.md) — What happens after Artem walks out of the Wall: a baseline human meeting the modern world his research created, discovering that Gazes cannot target him, remanded to Eternal Guard jurisdiction.
 
-**Standalone arc (parallel to Books VII–VIII):** [Between the Wall and the World](Origins/Origins%20-%20The%20Mastery.md) — Artem's time in Eventide; the Gaze of Null accident; Seravane; the authorization. Told separately from Sersey's perspective.
+**Standalone arc (parallel to Books VII–VIII):** [Between the Wall and the World](Origins/Origins%20-%20The%20Mastery.md) — Artem's time in Eventide; the accidental discovery of his anomalous nature (Gazes fail against him, instruments read absence); Seravane; Velin's campaign; the development of the anti-Mindscape serum. Researches for purpose, not power. Told separately from Sersey's perspective.
 
 ---
 

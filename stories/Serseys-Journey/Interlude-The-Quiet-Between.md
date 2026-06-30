@@ -77,7 +77,7 @@ The team begins to establish the rhythms that will sustain them.
 
 The scroll's existence circulates in the group's awareness without anyone having formally introduced it.
 
-Gaelira has had time to process what she found in the vampire house archive. The first layer: the story of a mortal whose essence formed the Higher Ones, sealed beyond Nihility not for power but for being loved by Entity Zero. The second layer: divine seals that only Astrae perception could unlock, containing information that the scroll itself is only describing the surface of.
+Gaelira has had time to process what she found in the vampire house archive. The first layer: the story of "the First" — a mortal who created something the Higher Ones feared, sealed beyond the Wall of Nihility not for what he had done but for what he might do again. The second layer: divine seals that only Astrae perception could unlock, containing a breach method — a key designed to open the Wall itself. She understood the first layer. She is still understanding the implications of the second.
 
 She shares this with the group. Not all at once. Not in a formal briefing. In pieces, over evenings, in the specific way that information circulates among people who trust each other enough to let it circulate at its own pace.
 

@@ -17,7 +17,7 @@ What follows is a condensed timeline organized from oldest to most recent. Each 
 
 | Era | Relative Position | Defining Theme |
 |-----|-------------------|----------------|
-| Cosmological Origins | Millions of years before present | Entity Zero; formation of the cosmos; imprisonment of Artem |
+| Cosmological Origins | ~3,000 years before present | Creation of gazes and sigils; imprisonment of Artem in the Wall of Nihility |
 | Pre-Record | Ancient — exact duration contested | Pre-documentation world events; higher beings active; founding of first races |
 | Second Era | ~3,000 years before present | First institutional records; early legal and power precedents |
 | Third Era | Centuries after Second Era | Expansion of MOD precursors; Gaze registration formalized; first major incidents |
@@ -36,13 +36,12 @@ What follows is a condensed timeline organized from oldest to most recent. Each 
 
 The events in this tier predate all records and all dimensions. The Eternal Guard holds the only documented research on this period, and that research is sealed above MOD access level. What is reconstructed from theoretical sources, Power-Sources scholarship, and the case of Artem suggests the following sequence:
 
-- **Entity Zero** exists prior to dimensional structure — the substrate from which Cosmic power Sources were later separated. Whether Entity Zero is a being, a state, or a principle is unresolved.
-- A researcher named **Artem**, originating from approximately 3,000 years before the present, is pulled through a failing dungeon rift and enters what he describes as the pre-universe state — before time, before dimension, before form. He is imprisoned in the Wall of Nihility for 3 million years (external time) / 30 days (subjective experience).
-- Artem and Entity Zero interact. She builds the cosmos from his descriptions of what the world was like. The Higher Ones emerge as transcendent reflections of aspects of him: the Observing One from his curiosity, the Judging One from his accountability, the Creating One from his delight in function.
-- The Higher Ones discover Artem's relationship to their own origin. They imprison him in the Wall of Nihility, a boundary structure designed to process him indefinitely. This imprisonment lasts millions of years by external measurement; thirty days by his.
-- Artem walks out of the Wall in Sersey's present — 3,000 years after his original era.
+- **Entity Zero** is a theoretical construct — the hypothetical substrate from which Cosmic Sources are believed to have separated. Whether Entity Zero is a being, a state, or a principle is unresolved. No documented interaction with Entity Zero exists in any accessible record.
+- A researcher named **Artem**, originating from approximately 3,000 years before the present, identifies the junction point between biological mutation and arcane energy and forces the two systems to fuse. The result is a stable, inheritable architecture: the first gazes and sigils. Residual substrate from his laboratory contaminates groundwater, spreading the traits through the population over subsequent centuries.
+- The Higher Ones discover Artem's work — a mortal creating a power system at civilizational scale — and imprison him in the **Wall of Nihility**, a pre-existing boundary structure at the edge of dimensional reality. The Wall holds him for approximately 3,000 years (hours by his subjective experience).
+- The **Keepers of Nil**, an ancient organization that believes Entity Zero is imprisoned behind the Wall, perform a breach ritual using the divine activation key unlocked from the scroll *The Soul of the First*. Artem walks out instead of Entity Zero — 3,000 years after his original era.
 
-The Wall of Nihility itself is described in Power-Sources scholarship as an inverted substrate boundary: not a location inside the dimensional hierarchy, but the point at which the hierarchy ends.
+The Wall of Nihility itself is described in Power-Sources scholarship as a pre-existing boundary: not a location inside the dimensional hierarchy, but the point at which the hierarchy ends.
 
 *→ `systems/Power-Sources.md` — Entity Zero | The Wall of Nihility*
 *→ `stories/characters/Artem.md` — Full profile*
