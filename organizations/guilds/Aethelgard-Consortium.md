@@ -28,4 +28,4 @@ Aethelgard operates on a corporate model uncommon among guilds: fixed salaries, 
 
 The Consortium's contract delegation relationship with MOD is its most significant institutional asset. When MOD needs a large-scale operation coordinated without Sentinel involvement, Aethelgard receives the first call. When Aethelgard needs access to restricted Dungeon zones, the compliance record produces it.
 
-*→ `organizations/MOD.md` — Field Operations Division; Guilds overview*
+*→ `organizations/institutions/MOD.md` — Field Operations Division; Guilds overview*

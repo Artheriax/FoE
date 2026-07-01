@@ -26,15 +26,15 @@ Welcome to the **Fragments of Eternity** worldbuilding repository. This master d
 ## 🏛️ Institutions & Factions
 *Who governs the power.*
 - **[Organizations Index](organizations/Organizations.md)**: The primary registry of factions.
-- **[Magic Oversight Division (MOD)](organizations/MOD.md)**: The bureaucrats determining what is legal.
-- **[Eternal Guard](organizations/Eternal-Guard.md)**: The cosmic wardens handling extinction-level threats.
-- **[Keepers of Nil](organizations/Keepers-of-Nil.md)**: The oldest observers, tied to the Wall of Nihility.
+- **[Magic Oversight Division (MOD)](organizations/institutions/MOD.md)**: The bureaucrats determining what is legal.
+- **[Eternal Guard](organizations/institutions/Eternal-Guard.md)**: The cosmic wardens handling extinction-level threats.
+- **[Keepers of Nil](organizations/institutions/Keepers-of-Nil.md)**: The oldest observers, tied to the Wall of Nihility.
 
 ## 📖 The Stories
 *The narratives woven into the world.*
 - **[Characters Index](stories/Characters.md)**: The consolidated cast list.
 - **[Story Arcs](stories/Story-Arcs.md)**: Protagonist journeys, pacing, and overall structure.
-- **[Sersey's Journey](stories/Serseys-Journey/Book-I-Serseys-Awakening.md)**: The core mainline series.
+- **[Sersey's Journey](stories/serseys-journey/Book-I-Serseys-Awakening.md)**: The core mainline series.
 
 ---
 ### 🤖 AI Core Memory

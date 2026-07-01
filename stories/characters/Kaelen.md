@@ -40,7 +40,7 @@ He is not accustomed to being watched. He is not accustomed to being the subject
 
 He does not know what to do with this. He does not need to know. He simply allows it to exist.
 
-*Full romance arc: `stories/Serseys-Journey/Romance-Arc-Nyari-Kaelen.md`*
+*Full romance arc: `stories/serseys-journey/Romance-Arc-Nyari-Kaelen.md`*
 
 ### Goal
 

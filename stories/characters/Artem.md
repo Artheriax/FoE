@@ -100,4 +100,4 @@ That he holds multiple Gazes and an Ethereal Sigil simultaneously is an anomaly 
 
 ---
 
-*→ `stories/Origins/Origins.md` — Full story account | `stories/Story-Arcs.md` — Book V: The Wall That Remembers | `stories/Origins/Origins - The Mastery.md` — Between the Wall and the World | `systems/sigils/Ethereal-Sigils.md` — Ethereal Sigil of Transcendent Adaptation | `systems/gazes/Ethereal-Gazes.md` — Gaze of Null; Gaze of Mimicry; Gaze of Convergence | `systems/Power-Sources.md` — Entity Zero | `organizations/Keepers-of-Nil.md` | `world/Races.md` — The Nonexistent One*
+*→ `stories/Origins/Origins.md` — Full story account | `stories/Story-Arcs.md` — Book V: The Wall That Remembers | `stories/Origins/Origins-The-Mastery.md` — Between the Wall and the World | `systems/sigils/Ethereal-Sigils.md` — Ethereal Sigil of Transcendent Adaptation | `systems/gazes/Ethereal-Gazes.md` — Gaze of Null; Gaze of Mimicry; Gaze of Convergence | `systems/Power-Sources.md` — Entity Zero | `organizations/institutions/Keepers-of-Nil.md` | `world/Races.md` — The Nonexistent One*

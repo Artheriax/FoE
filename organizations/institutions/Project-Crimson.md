@@ -62,10 +62,10 @@ This is the environment Project Crimson manages. Its purpose is not vampire erad
 ## Cross-References
 
 - `organizations/Organizations.md` — MOD Internal Division Structure
-- `organizations/House-Dravenmore.md` — Genealogical Registry, Crimson funding arrangement
-- `organizations/Keepers-of-Nil.md` — Competing interest in *The Soul of the First*
-- `organizations/MOD.md` — Institutional Limitations, Regulatory Framework
-- `stories/Politics-of-Blood/Politics-of-Blood.md` — The Politics of Blood Incident
-- `stories/Serseys-Journey/Book-V-The-Wall-That-Remembers.md` — Project Crimson tracking the scroll
+- `organizations/institutions/House-Dravenmore.md` — Genealogical Registry, Crimson funding arrangement
+- `organizations/institutions/Keepers-of-Nil.md` — Competing interest in *The Soul of the First*
+- `organizations/institutions/MOD.md` — Institutional Limitations, Regulatory Framework
+- `stories/politics-of-blood/politics-of-blood.md` — The Politics of Blood Incident
+- `stories/serseys-journey/Book-V-The-Wall-That-Remembers.md` — Project Crimson tracking the scroll
 - `world/Races.md` — Vampire, Elf, Astrae
 - `stories/Origins/Origins.md` — Artem's original formula, biological-arcane bridge

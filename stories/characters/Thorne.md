@@ -52,7 +52,7 @@ When he thinks about the future — the next contract, the next problem, the nex
 
 He has not named what she is to him. He does not need to. The naming will come. For now, the standing-beside-her is enough.
 
-*Full romance arc: `stories/Serseys-Journey/Romance-Arc-Sersey-Thorne.md`*
+*Full romance arc: `stories/serseys-journey/Romance-Arc-Sersey-Thorne.md`*
 
 ### Goal
 

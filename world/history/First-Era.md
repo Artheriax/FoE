@@ -62,5 +62,5 @@ By the time the Second Era's documentary record begins in earnest, the cultural 
 - `stories/Origins/Origins.md` — Artem's original formula and the groundwater contamination
 - `systems/Gazes.md` — Gaze manifestation and spread
 - `systems/Sigils.md` — Sigil manifestation and spread
-- `organizations/MOD.md` — Modern Assessment Unit as institutional descendant
-- `organizations/Solaris-Vanguard.md` — Predecessor cooperatives
+- `organizations/institutions/MOD.md` — Modern Assessment Unit as institutional descendant
+- `organizations/guilds/Solaris-Vanguard.md` — Predecessor cooperatives

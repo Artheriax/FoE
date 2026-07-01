@@ -1,6 +1,6 @@
 ---
 type: book
-series: Serseys-Journey
+series: serseys-journey
 number: 6
 tags: [book, story, serseys-journey, artem]
 ---
@@ -84,4 +84,4 @@ He is remanded to Eternal Guard jurisdiction as a research consultant. The Guard
 
 ---
 
-**Cross-Reference:** `stories/characters/Artem.md` — Full character profile | `stories/Origins/Origins.md` — Artem's origin story | `systems/gazes/Supreme-Gazes.md` — Supreme Gaze of Enchantment | `organizations/Keepers-of-Nil.md` — Keepers of Nil | `organizations/Eternal-Guard.md` — Eternal Guard
+**Cross-Reference:** `stories/characters/Artem.md` — Full character profile | `stories/Origins/Origins.md` — Artem's origin story | `systems/gazes/Supreme-Gazes.md` — Supreme Gaze of Enchantment | `organizations/institutions/Keepers-of-Nil.md` — Keepers of Nil | `organizations/institutions/Eternal-Guard.md` — Eternal Guard

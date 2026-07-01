@@ -39,6 +39,6 @@ The founding membership was small. The decision to admit only immortals was prac
 
 **Significance:** The Keepers of Nil represent the oldest continuously operating non-institutional organization in Hyperion's accessible historical record. Their research archive on the Wall of Nihility is more comprehensive than any institutional equivalent — which, given MOD's zero-engagement policy, is not a high bar — but their conclusions regarding the Wall's purpose and contents represent the closest thing to an independent theoretical framework that exists outside sealed Eternal Guard archives. Whether those conclusions are correct has not been tested against external evidence until the Modern Era.
 
-**Cross-Reference:** `organizations/Keepers-of-Nil.md` — Full organizational record; `world/History.md` — First Mortal Documentation of the Wall of Nihility; `world/Dimensions.md` — Wall of Nihility
+**Cross-Reference:** `organizations/institutions/Keepers-of-Nil.md` — Full organizational record; `world/History.md` — First Mortal Documentation of the Wall of Nihility; `world/Dimensions.md` — Wall of Nihility
 
 ---

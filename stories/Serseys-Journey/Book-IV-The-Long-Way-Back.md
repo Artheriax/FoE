@@ -1,6 +1,6 @@
 ---
 type: book
-series: Serseys-Journey
+series: serseys-journey
 number: 4
 tags: [book, story, serseys-journey, return]
 ---
@@ -42,4 +42,4 @@ The Echo Breakers that end Book IV are not the same group that began it. They ar
 
 ---
 
-**Cross-Reference:** `stories/characters/Nyari.md` | `stories/characters/Gaelira.md` | `organizations/Keepers-of-Nil.md` — Project Crimson | `stories/Story-Arcs.md` — FoE: Politics of Blood
+**Cross-Reference:** `stories/characters/Nyari.md` | `stories/characters/Gaelira.md` | `organizations/institutions/Keepers-of-Nil.md` — Project Crimson | `stories/Story-Arcs.md` — FoE: Politics of Blood

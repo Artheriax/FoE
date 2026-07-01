@@ -52,7 +52,7 @@ His mind is the only one her Gaze does not shred. This is not romantic language 
 
 She gravitates toward him in crowds. She trusts his assessments. She lets him call stops when she will not stop herself. She does not name what he is to her. She does not need to. The naming will come. For now, the standing-beside-each-other is enough.
 
-*Full romance arc: `stories/Serseys-Journey/Romance-Arc-Sersey-Thorne.md`*
+*Full romance arc: `stories/serseys-journey/Romance-Arc-Sersey-Thorne.md`*
 
 ### Goal
 

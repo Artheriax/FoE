@@ -42,7 +42,7 @@ She watches him the way she watches everyone — with attention, with curiosity,
 
 She does not ask these questions. She does not push. She simply sits beside him in silence, and allows the silence to be enough.
 
-*Full romance arc: `stories/Serseys-Journey/Romance-Arc-Nyari-Kaelen.md`*
+*Full romance arc: `stories/serseys-journey/Romance-Arc-Nyari-Kaelen.md`*
 
 ### Goal
 

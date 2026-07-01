@@ -101,7 +101,7 @@ Sigil bearers occupy a more complex regulatory position — because Sigils are f
 
 **Absolute and Ethereal Tiers:** The Assessment Unit's sealed population files for Absolute and Ethereal tier holders are maintained at a classification level requiring senior Eternal Guard authorization to access. Active file count: approximately 7,500 Absolute-tier cases on record — the vast majority flagged as theoretical, unconfirmed, historical, or deceased. Fewer than 200 are confirmed active bearers with demonstrated operational output at that tier. The X-rank cap of approximately fifty reflects that rank requires sustained, verifiable combat deployment at the Absolute level, not merely bearing an Absolute-tier ability. Many Absolute-tier bearers never reach X-rank due to Source limitations, absence of combat application, or institutional restriction. Ethereal-tier files are numbered in the single digits, all unresolved.
 
-Additionally, MOD operates classified divisions not publicly acknowledged in the Registry. **Project Crimson** — MOD's vampire population control and blood supply regulation operation — exists outside the public organizational chart. Its mandate, personnel, and operational history are maintained at Director-level classification. Cross-reference: `organizations/Project-Crimson.md`.
+Additionally, MOD operates classified divisions not publicly acknowledged in the Registry. **Project Crimson** — MOD's vampire population control and blood supply regulation operation — exists outside the public organizational chart. Its mandate, personnel, and operational history are maintained at Director-level classification. Cross-reference: `organizations/institutions/Project-Crimson.md`.
 
 **Cross-Reference:** `systems/Gazes.md` — MOD Registry Overview; `systems/Sigils.md` — MOD Classification
 
@@ -113,7 +113,7 @@ The Division's position on the Wall of Nihility is documented: no meaningful res
 
 The Theoretical Division has a partial overlap with the Eternal Guard's research mandate in the domain of pre-record phenomena and sealed entity studies. The operational boundary between them is not publicly defined.
 
-**Cross-Reference:** `stories/Story-Arcs.md` — FoE: Politics of Blood; `organizations/Keepers-of-Nil.md` — Research Holdings
+**Cross-Reference:** `stories/Story-Arcs.md` — FoE: Politics of Blood; `organizations/institutions/Keepers-of-Nil.md` — Research Holdings
 
 ---
 

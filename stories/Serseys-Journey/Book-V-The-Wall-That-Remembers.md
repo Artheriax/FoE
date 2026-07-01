@@ -1,6 +1,6 @@
 ---
 type: book
-series: Serseys-Journey
+series: serseys-journey
 number: 5
 tags: [book, story, serseys-journey, wall-of-nihility]
 ---
@@ -28,4 +28,4 @@ tags: [book, story, serseys-journey, wall-of-nihility]
 
 ---
 
-**Cross-Reference:** `organizations/Keepers-of-Nil.md`; `world/history/Modern-Era.md` — The Scroll Retrieval Attempt
+**Cross-Reference:** `organizations/institutions/Keepers-of-Nil.md`; `world/history/Modern-Era.md` — The Scroll Retrieval Attempt

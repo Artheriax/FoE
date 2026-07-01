@@ -1,6 +1,6 @@
 ---
 type: book
-series: Serseys-Journey
+series: serseys-journey
 number: 3
 tags: [book, story, serseys-journey, realms]
 ---

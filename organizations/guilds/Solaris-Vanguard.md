@@ -36,4 +36,4 @@ The Vanguard's founding predates MOD by a significant margin. It was not created
 
 The Vanguard's relationship with the Keepers of Nil is complicated by Seraphiel Oswin's departure. The Vanguard has taken no official position on Oswin's continued affiliation. In internal communications, the subject is described as "Oswin's ongoing leave assignment."
 
-**Cross-Reference:** `organizations/Keepers-of-Nil.md` — Seraphiel Oswin; `world/history/Pre-Record.md` — The Cataclysm of Yggdra
+**Cross-Reference:** `organizations/institutions/Keepers-of-Nil.md` — Seraphiel Oswin; `world/history/Pre-Record.md` — The Cataclysm of Yggdra

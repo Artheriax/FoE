@@ -1,6 +1,6 @@
 ---
 type: story-arc
-series: Serseys-Journey
+series: serseys-journey
 tags: [romance, arc, nyari, kaelen]
 ---
 # Romance Arc: Nyari & Kaelen

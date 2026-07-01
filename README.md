@@ -45,15 +45,15 @@ Worldbuilding documentation for *Fragments of Eternity*, a fantasy RPG setting b
 | File | Contents |
 |------|----------|
 | [organizations/Organizations.md](organizations/Organizations.md) | Index: all institutions, guilds, and regulatory bodies |
-| [organizations/MOD.md](organizations/MOD.md) | Magic Oversight Division — full structure, ranking system, divisions, and enforcement |
-| [organizations/Eternal-Guard.md](organizations/Eternal-Guard.md) | Cosmic oversight authority; supersedes MOD on extinction-level and sealed phenomena |
-| [organizations/House-Dravenmore.md](organizations/House-Dravenmore.md) | Noble research house; foremost Sigil genealogy registry and MOD advisory body |
-| [organizations/Keepers-of-Nil.md](organizations/Keepers-of-Nil.md) | Immortal non-registered organization; closest known study of the Wall of Nihility |
-| [organizations/Project-Crimson.md](organizations/Project-Crimson.md) | Classified MOD operation; vampire population control, blood supply regulation, Feeding Accord enforcement |
-| [organizations/Aethelgard-Consortium.md](organizations/Aethelgard-Consortium.md) | Largest hunter guild; primary MOD contract delegate |
-| [organizations/Solaris-Vanguard.md](organizations/Solaris-Vanguard.md) | Oldest active guild; founded in the Age of Yggdra |
-| [organizations/Umbra-Shroud.md](organizations/Umbra-Shroud.md) | Specialized guild with Dark Elf affiliation and institutional exemptions |
-| [organizations/Minor-Guilds.md](organizations/Minor-Guilds.md) | Smaller registered guilds and independent factions |
+| [organizations/institutions/MOD.md](organizations/institutions/MOD.md) | Magic Oversight Division — full structure, ranking system, divisions, and enforcement |
+| [organizations/institutions/Eternal-Guard.md](organizations/institutions/Eternal-Guard.md) | Cosmic oversight authority; supersedes MOD on extinction-level and sealed phenomena |
+| [organizations/institutions/House-Dravenmore.md](organizations/institutions/House-Dravenmore.md) | Noble research house; foremost Sigil genealogy registry and MOD advisory body |
+| [organizations/institutions/Keepers-of-Nil.md](organizations/institutions/Keepers-of-Nil.md) | Immortal non-registered organization; closest known study of the Wall of Nihility |
+| [organizations/institutions/Project-Crimson.md](organizations/institutions/Project-Crimson.md) | Classified MOD operation; vampire population control, blood supply regulation, Feeding Accord enforcement |
+| [organizations/guilds/Aethelgard-Consortium.md](organizations/guilds/Aethelgard-Consortium.md) | Largest hunter guild; primary MOD contract delegate |
+| [organizations/guilds/Solaris-Vanguard.md](organizations/guilds/Solaris-Vanguard.md) | Oldest active guild; founded in the Age of Yggdra |
+| [organizations/guilds/Umbra-Shroud.md](organizations/guilds/Umbra-Shroud.md) | Specialized guild with Dark Elf affiliation and institutional exemptions |
+| [organizations/guilds/Minor-Guilds.md](organizations/guilds/Minor-Guilds.md) | Smaller registered guilds and independent factions |
 
 ### Stories & Characters
 
@@ -62,10 +62,10 @@ Worldbuilding documentation for *Fragments of Eternity*, a fantasy RPG setting b
 | [stories/Characters.md](stories/Characters.md) | Cast index — links to `stories/characters/` character files |
 | [stories/characters/](stories/characters/) | Individual profiles: Sersey, Artem, Thorne, Lyra, Kaelen, Rook, Nyari, Gaelira |
 | [stories/Story-Arcs.md](stories/Story-Arcs.md) | Plot index: Sersey's Journey (5 books), Origins (prequel), and two spin-offs |
-| [stories/Serseys-Journey/](stories/Serseys-Journey/) | Main 5-book series following Sersey's awakening through the Wall |
+| [stories/serseys-journey/](stories/serseys-journey/) | Main 5-book series following Sersey's awakening through the Wall |
 | [stories/Origins/Origins.md](stories/Origins/Origins.md) | Prequel — Artem and the Adaptation Sigil |
-| [stories/Nyaris-Rise-of-Fame/Nyaris-Rise-of-Fame.md](stories/Nyaris-Rise-of-Fame/Nyaris-Rise-of-Fame.md) | Spin-off — Nyari's path to renown |
-| [stories/Politics-of-Blood/Politics-of-Blood.md](stories/Politics-of-Blood/Politics-of-Blood.md) | Spin-off — noble house intrigue |
+| [stories/nyaris-rise-of-fame/nyaris-rise-of-fame.md](stories/nyaris-rise-of-fame/nyaris-rise-of-fame.md) | Spin-off — Nyari's path to renown |
+| [stories/politics-of-blood/politics-of-blood.md](stories/politics-of-blood/politics-of-blood.md) | Spin-off — noble house intrigue |
 
 ---
 

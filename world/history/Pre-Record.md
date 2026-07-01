@@ -101,4 +101,4 @@ Scholars have since identified this account's subject as most likely Vael — th
 
 MOD's response to this theory is the zero-engagement policy.
 
-**Cross-Reference:** `world/Dimensions.md` — Wall of Nihility; `organizations/Keepers-of-Nil.md` — Overview, Vael
+**Cross-Reference:** `world/Dimensions.md` — Wall of Nihility; `organizations/institutions/Keepers-of-Nil.md` — Overview, Vael

@@ -47,7 +47,7 @@ The Wall of Nihility itself is described in Power-Sources scholarship as a pre-e
 *→ `systems/Power-Sources.md` — Entity Zero | The Wall of Nihility*
 *→ `stories/characters/Artem.md` — Full profile*
 *→ `stories/Origins/Origins.md` — Full account*
-*→ `organizations/Keepers-of-Nil.md` — Institutional response to Artem's emergence*
+*→ `organizations/institutions/Keepers-of-Nil.md` — Institutional response to Artem's emergence*
 
 ---
 

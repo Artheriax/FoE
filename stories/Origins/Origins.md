@@ -116,4 +116,4 @@ The Keepers' institutional conviction that the Wall held Entity Zero was not cor
 
 He would correct them. He was very good at correction. It would simply take longer than the first conversation.
 
-*For what happens next, see `stories/Serseys-Journey/Book-VI-Artems-Emergence.md`*
+*For what happens next, see `stories/serseys-journey/Book-VI-Artems-Emergence.md`*

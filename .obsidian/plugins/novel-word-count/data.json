@@ -367,8 +367,8 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 2.183333333333333,
-      "characterCount": 4687,
-      "nonWhitespaceCharacterCount": 3949,
+      "characterCount": 4700,
+      "nonWhitespaceCharacterCount": 3962,
       "newlineCount": 39,
       "readingTimeInMinutes": 2.4716981132075473,
       "linkCount": 0,
@@ -377,8 +377,8 @@
         "2nd Era"
       ],
       "createdDate": 1773611853459,
-      "modifiedDate": 1773685344126,
-      "sizeInBytes": 4838,
+      "modifiedDate": 1782944994460,
+      "sizeInBytes": 4851,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 2.183333333333333,
@@ -1577,420 +1577,6 @@
         ]
       }
     },
-    "stories/Politics-of-Blood/Politics-of-Blood.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1301,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 4.336666666666667,
-      "characterCount": 8077,
-      "nonWhitespaceCharacterCount": 6687,
-      "newlineCount": 31,
-      "readingTimeInMinutes": 4.909433962264151,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1773601919795,
-      "modifiedDate": 1782943119719,
-      "sizeInBytes": 8225,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 4.003333333333333,
-        "wordCount": 1201,
-        "characterCount": 7382,
-        "nonWhitespaceCharacterCount": 6101,
-        "newlineCount": 29
-      },
-      "frontmatter": {
-        "type": "book",
-        "series": "Spin-off",
-        "tags": [
-          "book",
-          "story",
-          "spinoff",
-          "politics"
-        ]
-      }
-    },
-    "stories/Serseys-Journey/Romance-Arc-Sersey-Thorne.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 4109,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 13.696666666666667,
-      "characterCount": 24573,
-      "nonWhitespaceCharacterCount": 19992,
-      "newlineCount": 271,
-      "readingTimeInMinutes": 15.50566037735849,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1773602956707,
-      "modifiedDate": 1782943304229,
-      "sizeInBytes": 24791,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 13.643333333333333,
-        "wordCount": 4093,
-        "characterCount": 24518,
-        "nonWhitespaceCharacterCount": 19953,
-        "newlineCount": 271
-      },
-      "frontmatter": {
-        "type": "story-arc",
-        "series": "Serseys-Journey",
-        "tags": [
-          "romance",
-          "arc",
-          "sersey",
-          "thorne"
-        ]
-      }
-    },
-    "stories/Serseys-Journey/Romance-Arc-Nyari-Kaelen.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2860,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 9.533333333333333,
-      "characterCount": 17375,
-      "nonWhitespaceCharacterCount": 14174,
-      "newlineCount": 195,
-      "readingTimeInMinutes": 10.79245283018868,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1773603245596,
-      "modifiedDate": 1773685256616,
-      "sizeInBytes": 17514,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 9.533333333333333,
-        "wordCount": 2860,
-        "characterCount": 17375,
-        "nonWhitespaceCharacterCount": 14174,
-        "newlineCount": 195
-      },
-      "frontmatter": {
-        "type": "story-arc",
-        "series": "Serseys-Journey",
-        "tags": [
-          "romance",
-          "arc",
-          "nyari",
-          "kaelen"
-        ]
-      }
-    },
-    "stories/Serseys-Journey/Interlude-The-Quiet-Between.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 119,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.39666666666666667,
-      "characterCount": 892,
-      "nonWhitespaceCharacterCount": 761,
-      "newlineCount": 14,
-      "readingTimeInMinutes": 0.4490566037735849,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1773603693158,
-      "modifiedDate": 1782943087247,
-      "sizeInBytes": 984,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 8.77,
-        "wordCount": 2631,
-        "characterCount": 16930,
-        "nonWhitespaceCharacterCount": 13984,
-        "newlineCount": 174
-      },
-      "frontmatter": {
-        "type": "short-story",
-        "series": "Serseys-Journey",
-        "tags": [
-          "short-story",
-          "interlude",
-          "lore"
-        ]
-      }
-    },
-    "stories/Serseys-Journey/Book-V-The-Wall-That-Remembers.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 881,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.9366666666666665,
-      "characterCount": 5572,
-      "nonWhitespaceCharacterCount": 4651,
-      "newlineCount": 27,
-      "readingTimeInMinutes": 3.3245283018867924,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1773608113051,
-      "modifiedDate": 1782943198817,
-      "sizeInBytes": 5725,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.87,
-        "wordCount": 861,
-        "characterCount": 5426,
-        "nonWhitespaceCharacterCount": 4531,
-        "newlineCount": 27
-      },
-      "frontmatter": {
-        "type": "book",
-        "series": "Serseys-Journey",
-        "number": 5,
-        "tags": [
-          "book",
-          "story",
-          "serseys-journey",
-          "wall-of-nihility"
-        ]
-      }
-    },
-    "stories/Serseys-Journey/Book-VII-The-Sleepers-Web.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2327,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 7.756666666666667,
-      "characterCount": 14792,
-      "nonWhitespaceCharacterCount": 12329,
-      "newlineCount": 51,
-      "readingTimeInMinutes": 8.781132075471698,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1773694145913,
-      "modifiedDate": 1782943067931,
-      "sizeInBytes": 15010,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 7.14,
-        "wordCount": 2142,
-        "characterCount": 13577,
-        "nonWhitespaceCharacterCount": 11311,
-        "newlineCount": 46
-      },
-      "frontmatter": {
-        "type": "book",
-        "series": "Serseys-Journey",
-        "number": 7,
-        "tags": [
-          "book",
-          "story",
-          "serseys-journey",
-          "sersey",
-          "sleeper-incident"
-        ]
-      }
-    },
-    "stories/Serseys-Journey/Book-III-The-Land-That-Remembers.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 925,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.0833333333333335,
-      "characterCount": 5951,
-      "nonWhitespaceCharacterCount": 4960,
-      "newlineCount": 27,
-      "readingTimeInMinutes": 3.490566037735849,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1773611949119,
-      "modifiedDate": 1779902777449,
-      "sizeInBytes": 6097,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 3.0833333333333335,
-        "wordCount": 925,
-        "characterCount": 5951,
-        "nonWhitespaceCharacterCount": 4960,
-        "newlineCount": 27
-      },
-      "frontmatter": {
-        "type": "book",
-        "series": "Serseys-Journey",
-        "number": 3,
-        "tags": [
-          "book",
-          "story",
-          "serseys-journey",
-          "realms"
-        ]
-      }
-    },
-    "stories/Serseys-Journey/Book-VI-Artems-Emergence.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2433,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 8.11,
-      "characterCount": 15285,
-      "nonWhitespaceCharacterCount": 12755,
-      "newlineCount": 83,
-      "readingTimeInMinutes": 9.181132075471698,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1773689243047,
-      "modifiedDate": 1782942962590,
-      "sizeInBytes": 15473,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 8.11,
-        "wordCount": 2433,
-        "characterCount": 15284,
-        "nonWhitespaceCharacterCount": 12754,
-        "newlineCount": 83
-      },
-      "frontmatter": {
-        "type": "book",
-        "series": "Serseys-Journey",
-        "number": 6,
-        "tags": [
-          "book",
-          "story",
-          "serseys-journey",
-          "artem"
-        ]
-      }
-    },
-    "stories/Serseys-Journey/Book-II-A-Clash-of-Echoes.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 784,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.6133333333333333,
-      "characterCount": 4886,
-      "nonWhitespaceCharacterCount": 4066,
-      "newlineCount": 32,
-      "readingTimeInMinutes": 2.9584905660377356,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1773611969171,
-      "modifiedDate": 1782942983533,
-      "sizeInBytes": 5011,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.6766666666666667,
-        "wordCount": 803,
-        "characterCount": 5023,
-        "nonWhitespaceCharacterCount": 4182,
-        "newlineCount": 32
-      },
-      "frontmatter": {
-        "type": "book",
-        "series": "Serseys-Journey",
-        "number": 2,
-        "tags": [
-          "book",
-          "story",
-          "serseys-journey",
-          "echoes"
-        ]
-      }
-    },
-    "stories/Serseys-Journey/Book-IV-The-Long-Way-Back.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1875,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 6.25,
-      "characterCount": 11438,
-      "nonWhitespaceCharacterCount": 9460,
-      "newlineCount": 41,
-      "readingTimeInMinutes": 7.0754716981132075,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1773611969327,
-      "modifiedDate": 1782943250191,
-      "sizeInBytes": 11614,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 4.776666666666666,
-        "wordCount": 1433,
-        "characterCount": 8739,
-        "nonWhitespaceCharacterCount": 7224,
-        "newlineCount": 35
-      },
-      "frontmatter": {
-        "type": "book",
-        "series": "Serseys-Journey",
-        "number": 4,
-        "tags": [
-          "book",
-          "story",
-          "serseys-journey",
-          "return"
-        ]
-      }
-    },
-    "stories/Serseys-Journey/Book-I-Serseys-Awakening.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 751,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.5033333333333334,
-      "characterCount": 4717,
-      "nonWhitespaceCharacterCount": 3933,
-      "newlineCount": 25,
-      "readingTimeInMinutes": 2.8339622641509434,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1773541733773,
-      "modifiedDate": 1782942999117,
-      "sizeInBytes": 4853,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.3033333333333332,
-        "wordCount": 691,
-        "characterCount": 4314,
-        "nonWhitespaceCharacterCount": 3591,
-        "newlineCount": 25
-      },
-      "frontmatter": {
-        "type": "book",
-        "series": "Serseys-Journey",
-        "number": 1,
-        "tags": [
-          "book",
-          "story",
-          "serseys-journey",
-          "awakening"
-        ]
-      }
-    },
     "stories/Origins/Origins.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2026,82 +1612,6 @@
           "story",
           "prequel",
           "origins"
-        ]
-      }
-    },
-    "stories/Origins/Origins - The Mastery.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 4045,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 13.483333333333333,
-      "characterCount": 25521,
-      "nonWhitespaceCharacterCount": 21295,
-      "newlineCount": 122,
-      "readingTimeInMinutes": 15.264150943396226,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1773696931542,
-      "modifiedDate": 1782943004950,
-      "sizeInBytes": 25792,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 13.15,
-        "wordCount": 3945,
-        "characterCount": 24879,
-        "nonWhitespaceCharacterCount": 20754,
-        "newlineCount": 122
-      },
-      "frontmatter": {
-        "type": "arc",
-        "series": "Artems-Arc",
-        "tags": [
-          "arc",
-          "story",
-          "artem",
-          "eventide",
-          "eternal-guard",
-          "sleeper-incident"
-        ]
-      }
-    },
-    "stories/Nyaris-Rise-of-Fame/Nyaris-Rise-of-Fame.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1521,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 5.07,
-      "characterCount": 8746,
-      "nonWhitespaceCharacterCount": 7171,
-      "newlineCount": 45,
-      "readingTimeInMinutes": 5.739622641509434,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1773541734760,
-      "modifiedDate": 1782821052344,
-      "sizeInBytes": 8865,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 5.07,
-        "wordCount": 1521,
-        "characterCount": 8746,
-        "nonWhitespaceCharacterCount": 7171,
-        "newlineCount": 45
-      },
-      "frontmatter": {
-        "type": "book",
-        "series": "Spin-off",
-        "tags": [
-          "book",
-          "story",
-          "spinoff",
-          "nyari"
         ]
       }
     },
@@ -2454,14 +1964,14 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1844,
+      "wordCount": 1842,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 6.1466666666666665,
-      "characterCount": 11989,
-      "nonWhitespaceCharacterCount": 10018,
+      "pageCount": 6.14,
+      "characterCount": 11987,
+      "nonWhitespaceCharacterCount": 10019,
       "newlineCount": 98,
-      "readingTimeInMinutes": 6.958490566037736,
+      "readingTimeInMinutes": 6.950943396226415,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [
@@ -2469,8 +1979,8 @@
         "the Nonexistent One"
       ],
       "createdDate": 1773600901417,
-      "modifiedDate": 1782820566862,
-      "sizeInBytes": 12197,
+      "modifiedDate": 1782944931309,
+      "sizeInBytes": 12195,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 6.1466666666666665,
@@ -2492,187 +2002,6 @@
         "aliases": [
           "Artem",
           "the Nonexistent One"
-        ]
-      }
-    },
-    "organizations/Solaris-Vanguard.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 368,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.2266666666666666,
-      "characterCount": 2757,
-      "nonWhitespaceCharacterCount": 2357,
-      "newlineCount": 34,
-      "readingTimeInMinutes": 1.3886792452830188,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "The Vanguard",
-        "Solaris"
-      ],
-      "createdDate": 1773601853177,
-      "modifiedDate": 1773685684410,
-      "sizeInBytes": 2926,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.2266666666666666,
-        "wordCount": 368,
-        "characterCount": 2757,
-        "nonWhitespaceCharacterCount": 2357,
-        "newlineCount": 34
-      },
-      "frontmatter": {
-        "type": "organization",
-        "category": "guild",
-        "status": "Active",
-        "tags": [
-          "organization",
-          "guild",
-          "solaris-vanguard",
-          "major-guild",
-          "oldest"
-        ],
-        "aliases": [
-          "The Vanguard",
-          "Solaris"
-        ]
-      }
-    },
-    "organizations/Minor-Guilds.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 252,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.84,
-      "characterCount": 2118,
-      "nonWhitespaceCharacterCount": 1835,
-      "newlineCount": 31,
-      "readingTimeInMinutes": 0.9509433962264151,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "Smaller Guilds",
-        "Minor Factions"
-      ],
-      "createdDate": 1773601897707,
-      "modifiedDate": 1773685684410,
-      "sizeInBytes": 2280,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.84,
-        "wordCount": 252,
-        "characterCount": 2118,
-        "nonWhitespaceCharacterCount": 1835,
-        "newlineCount": 31
-      },
-      "frontmatter": {
-        "type": "organization-list",
-        "category": "guild",
-        "status": "Active",
-        "tags": [
-          "organization",
-          "minor-guilds",
-          "guild",
-          "registry"
-        ],
-        "aliases": [
-          "Smaller Guilds",
-          "Minor Factions"
-        ]
-      }
-    },
-    "organizations/Umbra-Shroud.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 494,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.6466666666666667,
-      "characterCount": 3756,
-      "nonWhitespaceCharacterCount": 3220,
-      "newlineCount": 42,
-      "readingTimeInMinutes": 1.8641509433962264,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "The Shroud",
-        "Umbra"
-      ],
-      "createdDate": 1773601863373,
-      "modifiedDate": 1773685684410,
-      "sizeInBytes": 3932,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.6466666666666667,
-        "wordCount": 494,
-        "characterCount": 3756,
-        "nonWhitespaceCharacterCount": 3220,
-        "newlineCount": 42
-      },
-      "frontmatter": {
-        "type": "organization",
-        "category": "guild",
-        "status": "Active",
-        "tags": [
-          "organization",
-          "guild",
-          "umbra-shroud",
-          "specialized",
-          "major-guild"
-        ],
-        "aliases": [
-          "The Shroud",
-          "Umbra"
-        ]
-      }
-    },
-    "organizations/Aethelgard-Consortium.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 309,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.03,
-      "characterCount": 2417,
-      "nonWhitespaceCharacterCount": 2084,
-      "newlineCount": 26,
-      "readingTimeInMinutes": 1.1660377358490566,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "Aethelgard"
-      ],
-      "createdDate": 1773611984337,
-      "modifiedDate": 1773685684397,
-      "sizeInBytes": 2569,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.03,
-        "wordCount": 309,
-        "characterCount": 2417,
-        "nonWhitespaceCharacterCount": 2084,
-        "newlineCount": 26
-      },
-      "frontmatter": {
-        "type": "organization",
-        "category": "guild",
-        "status": "Active",
-        "tags": [
-          "organization",
-          "guild",
-          "aethelgard",
-          "consortium",
-          "major-guild"
-        ],
-        "aliases": [
-          "Aethelgard"
         ]
       }
     },
@@ -2721,183 +2050,6 @@
         ]
       }
     },
-    "organizations/MOD.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2460,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 8.2,
-      "characterCount": 19550,
-      "nonWhitespaceCharacterCount": 16892,
-      "newlineCount": 187,
-      "readingTimeInMinutes": 9.283018867924529,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "Magic Oversight Division"
-      ],
-      "createdDate": 1773609948110,
-      "modifiedDate": 1782943148209,
-      "sizeInBytes": 19793,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 7.863333333333333,
-        "wordCount": 2359,
-        "characterCount": 18723,
-        "nonWhitespaceCharacterCount": 16170,
-        "newlineCount": 185
-      },
-      "frontmatter": {
-        "type": "organization",
-        "category": "governing-body",
-        "status": "Active",
-        "tags": [
-          "organization",
-          "MOD",
-          "authority",
-          "registry"
-        ],
-        "aliases": [
-          "Magic Oversight Division"
-        ]
-      }
-    },
-    "organizations/House-Dravenmore.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 608,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.026666666666667,
-      "characterCount": 4650,
-      "nonWhitespaceCharacterCount": 3995,
-      "newlineCount": 35,
-      "readingTimeInMinutes": 2.2943396226415094,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "Dravenmore"
-      ],
-      "createdDate": 1773601829967,
-      "modifiedDate": 1782943139740,
-      "sizeInBytes": 4829,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.8066666666666666,
-        "wordCount": 542,
-        "characterCount": 4202,
-        "nonWhitespaceCharacterCount": 3613,
-        "newlineCount": 35
-      },
-      "frontmatter": {
-        "type": "organization",
-        "category": "noble-house",
-        "status": "Active",
-        "tags": [
-          "organization",
-          "noble-house",
-          "dravenmore",
-          "research"
-        ],
-        "aliases": [
-          "Dravenmore"
-        ]
-      }
-    },
-    "organizations/Keepers-of-Nil.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2280,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 7.6,
-      "characterCount": 15804,
-      "nonWhitespaceCharacterCount": 13378,
-      "newlineCount": 156,
-      "readingTimeInMinutes": 8.60377358490566,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "The Keepers",
-        "Keepers"
-      ],
-      "createdDate": 1773686600033,
-      "modifiedDate": 1782943279413,
-      "sizeInBytes": 16048,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 7.276666666666666,
-        "wordCount": 2183,
-        "characterCount": 15169,
-        "nonWhitespaceCharacterCount": 12843,
-        "newlineCount": 156
-      },
-      "frontmatter": {
-        "type": "organization",
-        "category": "anomalous",
-        "status": "Active",
-        "tags": [
-          "organization",
-          "secret",
-          "immortal",
-          "keepers-of-nil",
-          "wall-of-nihility",
-          "unregistered"
-        ],
-        "aliases": [
-          "The Keepers",
-          "Keepers"
-        ]
-      }
-    },
-    "organizations/Eternal-Guard.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 957,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.19,
-      "characterCount": 7167,
-      "nonWhitespaceCharacterCount": 6137,
-      "newlineCount": 49,
-      "readingTimeInMinutes": 3.611320754716981,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "The Guard"
-      ],
-      "createdDate": 1773689257014,
-      "modifiedDate": 1773689257014,
-      "sizeInBytes": 7396,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 3.19,
-        "wordCount": 957,
-        "characterCount": 7167,
-        "nonWhitespaceCharacterCount": 6137,
-        "newlineCount": 49
-      },
-      "frontmatter": {
-        "type": "organization",
-        "category": "governing-body",
-        "status": "Active",
-        "tags": [
-          "organization",
-          "eternal-guard",
-          "authority",
-          "cosmic",
-          "sealed-records"
-        ],
-        "aliases": [
-          "The Guard"
-        ]
-      }
-    },
     "000-Dashboard.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2943,52 +2095,6 @@
         ]
       }
     },
-    "organizations/Project-Crimson.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1262,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 4.206666666666667,
-      "characterCount": 9552,
-      "nonWhitespaceCharacterCount": 8201,
-      "newlineCount": 66,
-      "readingTimeInMinutes": 4.7622641509433965,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "Crimson",
-        "Project Crimson"
-      ],
-      "createdDate": 1782942928478,
-      "modifiedDate": 1782942928479,
-      "sizeInBytes": 9796,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      },
-      "frontmatter": {
-        "type": "organization",
-        "category": "mod-division",
-        "status": "Active / Classified",
-        "tags": [
-          "organization",
-          "MOD",
-          "project-crimson",
-          "vampires",
-          "classified"
-        ],
-        "aliases": [
-          "Crimson",
-          "Project Crimson"
-        ]
-      }
-    },
     "world/history/First-Era.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3031,6 +2137,695 @@
         "aliases": [
           "First Era",
           "The Acceptance"
+        ]
+      }
+    },
+    "memory/MEMORY.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 206,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.6866666666666666,
+      "characterCount": 1704,
+      "nonWhitespaceCharacterCount": 1426,
+      "newlineCount": 46,
+      "readingTimeInMinutes": 0.7773584905660378,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "AI Rulebook",
+        "State Tracker",
+        "Core Memory"
+      ],
+      "createdDate": 1782944918743,
+      "modifiedDate": 1782944918743,
+      "sizeInBytes": 1864,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "type": "memory",
+        "tags": [
+          "ai",
+          "rulebook",
+          "state-tracker",
+          "core-memory"
+        ],
+        "aliases": [
+          "AI Rulebook",
+          "State Tracker",
+          "Core Memory"
+        ]
+      }
+    },
+    "stories/Origins/Origins-The-Mastery.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 4045,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 13.483333333333333,
+      "characterCount": 25521,
+      "nonWhitespaceCharacterCount": 21295,
+      "newlineCount": 122,
+      "readingTimeInMinutes": 15.264150943396226,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773696931542,
+      "modifiedDate": 1782943004950,
+      "sizeInBytes": 25792,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "type": "arc",
+        "series": "Artems-Arc",
+        "tags": [
+          "arc",
+          "story",
+          "artem",
+          "eventide",
+          "eternal-guard",
+          "sleeper-incident"
+        ]
+      }
+    },
+    "stories/serseys-journey/Book-I-Serseys-Awakening.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 762,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.54,
+      "characterCount": 4817,
+      "nonWhitespaceCharacterCount": 4021,
+      "newlineCount": 30,
+      "readingTimeInMinutes": 2.8754716981132074,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773541733773,
+      "modifiedDate": 1782942999117,
+      "sizeInBytes": 4853,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "stories/serseys-journey/Book-III-The-Land-That-Remembers.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 936,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.12,
+      "characterCount": 6053,
+      "nonWhitespaceCharacterCount": 5045,
+      "newlineCount": 32,
+      "readingTimeInMinutes": 3.5320754716981133,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773611949119,
+      "modifiedDate": 1779902777449,
+      "sizeInBytes": 6097,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "stories/serseys-journey/Book-II-A-Clash-of-Echoes.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 795,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.65,
+      "characterCount": 4983,
+      "nonWhitespaceCharacterCount": 4151,
+      "newlineCount": 37,
+      "readingTimeInMinutes": 3,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773611969171,
+      "modifiedDate": 1782942983533,
+      "sizeInBytes": 5011,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "stories/serseys-journey/Book-IV-The-Long-Way-Back.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1886,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 6.286666666666667,
+      "characterCount": 11540,
+      "nonWhitespaceCharacterCount": 9545,
+      "newlineCount": 46,
+      "readingTimeInMinutes": 7.1169811320754715,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773611969327,
+      "modifiedDate": 1782943250191,
+      "sizeInBytes": 11614,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "stories/serseys-journey/Book-V-The-Wall-That-Remembers.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 892,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.973333333333333,
+      "characterCount": 5679,
+      "nonWhitespaceCharacterCount": 4746,
+      "newlineCount": 32,
+      "readingTimeInMinutes": 3.3660377358490567,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773608113051,
+      "modifiedDate": 1782943198817,
+      "sizeInBytes": 5725,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "stories/serseys-journey/Interlude-The-Quiet-Between.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 127,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.42333333333333334,
+      "characterCount": 978,
+      "nonWhitespaceCharacterCount": 838,
+      "newlineCount": 18,
+      "readingTimeInMinutes": 0.47924528301886793,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773603693158,
+      "modifiedDate": 1782943087247,
+      "sizeInBytes": 984,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "stories/serseys-journey/Book-VII-The-Sleepers-Web.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2339,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 7.796666666666667,
+      "characterCount": 14912,
+      "nonWhitespaceCharacterCount": 12431,
+      "newlineCount": 56,
+      "readingTimeInMinutes": 8.826415094339623,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773694145913,
+      "modifiedDate": 1782943067931,
+      "sizeInBytes": 15010,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "stories/serseys-journey/Book-VI-Artems-Emergence.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2444,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 8.146666666666667,
+      "characterCount": 15381,
+      "nonWhitespaceCharacterCount": 12839,
+      "newlineCount": 88,
+      "readingTimeInMinutes": 9.222641509433963,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773689243047,
+      "modifiedDate": 1782942962590,
+      "sizeInBytes": 15473,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "stories/serseys-journey/Romance-Arc-Nyari-Kaelen.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2869,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 9.563333333333333,
+      "characterCount": 17462,
+      "nonWhitespaceCharacterCount": 14247,
+      "newlineCount": 199,
+      "readingTimeInMinutes": 10.826415094339623,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773603245596,
+      "modifiedDate": 1773685256616,
+      "sizeInBytes": 17514,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "stories/serseys-journey/Romance-Arc-Sersey-Thorne.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 4109,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 13.696666666666667,
+      "characterCount": 24573,
+      "nonWhitespaceCharacterCount": 19992,
+      "newlineCount": 271,
+      "readingTimeInMinutes": 15.50566037735849,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773602956707,
+      "modifiedDate": 1782944952888,
+      "sizeInBytes": 24791,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "type": "story-arc",
+        "series": "serseys-journey",
+        "tags": [
+          "romance",
+          "arc",
+          "sersey",
+          "thorne"
+        ]
+      }
+    },
+    "stories/nyaris-rise-of-fame/Nyaris-Rise-of-Fame.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1530,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 5.1,
+      "characterCount": 8817,
+      "nonWhitespaceCharacterCount": 7232,
+      "newlineCount": 49,
+      "readingTimeInMinutes": 5.773584905660377,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773541734760,
+      "modifiedDate": 1782821052344,
+      "sizeInBytes": 8865,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "stories/politics-of-blood/Politics-of-Blood.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1301,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.336666666666667,
+      "characterCount": 8077,
+      "nonWhitespaceCharacterCount": 6687,
+      "newlineCount": 31,
+      "readingTimeInMinutes": 4.909433962264151,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773601919795,
+      "modifiedDate": 1782943119719,
+      "sizeInBytes": 8225,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "type": "book",
+        "series": "Spin-off",
+        "tags": [
+          "book",
+          "story",
+          "spinoff",
+          "politics"
+        ]
+      }
+    },
+    "organizations/institutions/MOD.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2475,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 8.25,
+      "characterCount": 19699,
+      "nonWhitespaceCharacterCount": 17025,
+      "newlineCount": 193,
+      "readingTimeInMinutes": 9.339622641509434,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773609948110,
+      "modifiedDate": 1782943148209,
+      "sizeInBytes": 19793,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "organizations/institutions/Eternal-Guard.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 972,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.24,
+      "characterCount": 7325,
+      "nonWhitespaceCharacterCount": 6279,
+      "newlineCount": 55,
+      "readingTimeInMinutes": 3.667924528301887,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773689257014,
+      "modifiedDate": 1782944952846,
+      "sizeInBytes": 7396,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "organizations/institutions/House-Dravenmore.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 621,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.07,
+      "characterCount": 4791,
+      "nonWhitespaceCharacterCount": 4122,
+      "newlineCount": 41,
+      "readingTimeInMinutes": 2.3433962264150945,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773601829967,
+      "modifiedDate": 1782943139740,
+      "sizeInBytes": 4829,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "organizations/institutions/Keepers-of-Nil.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2297,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 7.656666666666666,
+      "characterCount": 15984,
+      "nonWhitespaceCharacterCount": 13540,
+      "newlineCount": 162,
+      "readingTimeInMinutes": 8.667924528301887,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773686600033,
+      "modifiedDate": 1782943279413,
+      "sizeInBytes": 16048,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "organizations/institutions/Project-Crimson.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1279,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.263333333333334,
+      "characterCount": 9730,
+      "nonWhitespaceCharacterCount": 8360,
+      "newlineCount": 72,
+      "readingTimeInMinutes": 4.826415094339622,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1782942928478,
+      "modifiedDate": 1782944952850,
+      "sizeInBytes": 9796,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "organizations/guilds/Aethelgard-Consortium.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 323,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.0766666666666667,
+      "characterCount": 2561,
+      "nonWhitespaceCharacterCount": 2213,
+      "newlineCount": 32,
+      "readingTimeInMinutes": 1.2188679245283018,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773611984337,
+      "modifiedDate": 1773685684397,
+      "sizeInBytes": 2569,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "organizations/guilds/Solaris-Vanguard.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 384,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.28,
+      "characterCount": 2914,
+      "nonWhitespaceCharacterCount": 2497,
+      "newlineCount": 40,
+      "readingTimeInMinutes": 1.4490566037735848,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773601853177,
+      "modifiedDate": 1773685684410,
+      "sizeInBytes": 2926,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "organizations/guilds/Umbra-Shroud.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 510,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.7,
+      "characterCount": 3910,
+      "nonWhitespaceCharacterCount": 3357,
+      "newlineCount": 48,
+      "readingTimeInMinutes": 1.9245283018867925,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773601863373,
+      "modifiedDate": 1773685684410,
+      "sizeInBytes": 3932,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "organizations/guilds/Minor-Guilds.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 252,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.84,
+      "characterCount": 2118,
+      "nonWhitespaceCharacterCount": 1835,
+      "newlineCount": 31,
+      "readingTimeInMinutes": 0.9509433962264151,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "Smaller Guilds",
+        "Minor Factions"
+      ],
+      "createdDate": 1773601897707,
+      "modifiedDate": 1773685684410,
+      "sizeInBytes": 2280,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "type": "organization-list",
+        "category": "guild",
+        "status": "Active",
+        "tags": [
+          "organization",
+          "minor-guilds",
+          "guild",
+          "registry"
+        ],
+        "aliases": [
+          "Smaller Guilds",
+          "Minor Factions"
         ]
       }
     }

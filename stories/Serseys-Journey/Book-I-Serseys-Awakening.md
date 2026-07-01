@@ -1,6 +1,6 @@
 ---
 type: book
-series: Serseys-Journey
+series: serseys-journey
 number: 1
 tags: [book, story, serseys-journey, awakening]
 ---

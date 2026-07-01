@@ -1,6 +1,6 @@
 ---
 type: book
-series: Serseys-Journey
+series: serseys-journey
 number: 7
 tags: [book, story, serseys-journey, sersey, sleeper-incident]
 ---
@@ -52,4 +52,4 @@ The engineered Class V dungeon from Book I — the one Sersey and Thorne held al
 
 ---
 
-*→ `stories/Story-Arcs.md` — Book VI: Artem's Emergence | Book VIII: The Convergence (forthcoming) | `organizations/MOD.md` — Gaze and Sigil Assessment Unit | `organizations/Eternal-Guard.md` — The Sleeper Incident (Seventh Era, ongoing) | `systems/gazes/Absolute-Gazes.md` — Absolute Gaze of Mindscape | `organizations/Keepers-of-Nil.md` — Vael*
+*→ `stories/Story-Arcs.md` — Book VI: Artem's Emergence | Book VIII: The Convergence (forthcoming) | `organizations/institutions/MOD.md` — Gaze and Sigil Assessment Unit | `organizations/institutions/Eternal-Guard.md` — The Sleeper Incident (Seventh Era, ongoing) | `systems/gazes/Absolute-Gazes.md` — Absolute Gaze of Mindscape | `organizations/institutions/Keepers-of-Nil.md` — Vael*

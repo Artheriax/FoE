@@ -104,7 +104,7 @@ Architecture is spare without being austere. Wide flat structures, deliberate ar
 
 Between the islands run channels of still water. They do not flow. Their surfaces hold the violet sky and silver stone in perfect reflection without distortion. The air carries no temperature in either direction. The silence is distinct from the silence of The Void, which is absence, and from the silence of Nihility, which is erasure. It is the silence of a place where the people who live there have learned, over a very long time, that they do not need to fill it.
 
-*→ `organizations/Eternal-Guard.md` — The Eternal Guard*
+*→ `organizations/institutions/Eternal-Guard.md` — The Eternal Guard*
 *→ `world/Races.md` — Higher Ones (The Judging One)*
 *→ `world/Dimensions.md` — Nexus of Divinity | Luminara*
 

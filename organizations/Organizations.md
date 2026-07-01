@@ -18,7 +18,7 @@ The governing authority on all matters related to magic, Dungeon activity, power
 
 *Motto: "Vigilance, Order, Balance."*
 
-**Full record:** `organizations/MOD.md`
+**Full record:** `organizations/institutions/MOD.md`
 
 ---
 
@@ -26,7 +26,7 @@ The governing authority on all matters related to magic, Dungeon activity, power
 
 Not a guild, military division, or political body. Superseding authority over MOD on a narrow but absolute set of matters: extinction-level threats, sealed phenomena, and information whose release the Guard has determined produces worse outcomes than its suppression. MOD enforces; the Eternal Guard decides what MOD is not permitted to investigate.
 
-**Full record:** `organizations/Eternal-Guard.md`
+**Full record:** `organizations/institutions/Eternal-Guard.md`
 
 ---
 
@@ -36,7 +36,7 @@ Not a guild, military division, or political body. Superseding authority over MO
 
 A noble research house with multi-era institutional standing. Neither a guild nor a MOD division, but its genealogical records, research output, and practitioner lineage have shaped both to a degree that makes the boundary between private scholarship and official record unclear in places. Holds the most complete private registry of Sigil bearers in existence.
 
-**Full record:** `organizations/House-Dravenmore.md`
+**Full record:** `organizations/institutions/House-Dravenmore.md`
 
 ---
 
@@ -50,7 +50,7 @@ The largest and most operationally influential guild in current record. Multi-na
 
 *Motto: "Order. Efficiency. Evolution."*
 
-**Full record:** `organizations/Aethelgard-Consortium.md`
+**Full record:** `organizations/guilds/Aethelgard-Consortium.md`
 
 ---
 
@@ -60,7 +60,7 @@ The oldest surviving guild in continuous operation, founded in the aftermath of 
 
 *Motto: "From the Dawn, We Stand."*
 
-**Full record:** `organizations/Solaris-Vanguard.md`
+**Full record:** `organizations/guilds/Solaris-Vanguard.md`
 
 ---
 
@@ -70,7 +70,7 @@ Specializes in engagement categories other guilds decline: Umbral, Unholy, and K
 
 *Motto: "Understand the Dark to Control It."*
 
-**Full record:** `organizations/Umbra-Shroud.md`
+**Full record:** `organizations/guilds/Umbra-Shroud.md`
 
 ---
 
@@ -78,7 +78,7 @@ Specializes in engagement categories other guilds decline: Umbral, Unholy, and K
 
 Operate under MOD licensing with narrower footprints and fewer compliance requirements than major guilds. Full entries for all three current notable minor guilds:
 
-**Full record:** `organizations/Minor-Guilds.md`
+**Full record:** `organizations/guilds/Minor-Guilds.md`
 
 - **The Geode Crawlers** — Terra and subterranean Keystone specialists; primary mineral and earth-essence supplier.
 - **Stormseekers** — Shock and Blaze specialists in high-energy volatile environments.
@@ -92,7 +92,7 @@ Operate under MOD licensing with narrower footprints and fewer compliance requir
 
 One of Hyperion's oldest active organizations. Not registered with MOD. Founded in the Second Era around a question that every institution eventually stopped asking: *why does the Wall of Nihility exist?* Membership restricted to immortals, drawn from any race. Fewer than thirty active members. The organization closest to knowing what the Wall was built to hold — and the first to be present when it no longer holds it.
 
-**Full record:** `organizations/Keepers-of-Nil.md`
+**Full record:** `organizations/institutions/Keepers-of-Nil.md`
 
 **Cross-Reference:** `world/history/Pre-Record.md` — First Mortal Documentation of the Wall of Nihility | `world/history/Second-Era.md` — The Establishment of the Keepers of Nil | `world/history/Modern-Era.md` — The Scroll Retrieval Attempt; `world/Dimensions.md` — Wall of Nihility
 
@@ -104,4 +104,4 @@ One of Hyperion's oldest active organizations. Not registered with MOD. Founded 
 
 A classified MOD operation overseeing vampire population control, blood supply regulation, and containment of vampire territorial expansion across Hyperion. Not publicly acknowledged; maintained at Director-level classification. Its mandate covers enforcement of the Feeding Accord between MOD and the three vampire houses (Noctaris, Morvayne, Dravenmore), monitoring of illegal feedings and unauthorized turnings, and intelligence operations against vampire house territorial expansion.
 
-**Full record:** `organizations/Project-Crimson.md`
+**Full record:** `organizations/institutions/Project-Crimson.md`
