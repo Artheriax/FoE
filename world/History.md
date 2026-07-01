@@ -18,9 +18,11 @@ Events are noted with their institutional status where available. Sealed entries
 
 | Era | Relative Position | Full Record |
 |-----|-------------------|-------------|
+| Cosmological Origins | ~3,500 years before present | [stories/Origins/Origins.md](../stories/Origins/Origins.md) |
+| First Era | ~3,000 years before present | [world/history/First-Era.md](history/First-Era.md) |
 | Pre-Record | Ancient — duration contested | [world/history/Pre-Record.md](history/Pre-Record.md) |
-| Second Era | ~3,000 years before present | [world/history/Second-Era.md](history/Second-Era.md) |
-| Third Era | ~2,500 years before present | [world/history/Third-Era.md](history/Third-Era.md) |
+| Second Era | ~2,500 years before present | [world/history/Second-Era.md](history/Second-Era.md) |
+| Third Era | ~2,000 years before present | [world/history/Third-Era.md](history/Third-Era.md) |
 | Fourth Era | ~2,000 years before present | [world/history/Fourth-Era.md](history/Fourth-Era.md) |
 | Mid-Era | ~600–800 years before present (informal, unclassified) | [world/history/Mid-Era.md](history/Mid-Era.md) |
 | Fifth Era | ~500 years before present | [world/history/Fifth-Era.md](history/Fifth-Era.md) |
@@ -31,6 +33,10 @@ Events are noted with their institutional status where available. Sealed entries
 ---
 
 ## Era Summaries
+
+**Cosmological Origins** — Artem creates gazes and sigils; residual substrate contaminates groundwater; Higher Ones imprison him in the Wall of Nihility. Events reconstructed from theoretical sources and the Artem case; no documentary record.
+
+**First Era** — Magic transitions from feared aberration to accepted force; gazes and sigils spread through populations along trade routes and river systems; first primitive ability registries appear. No complete documentary record survives; reconstructed from archaeological evidence and registry fragments.
 
 **Pre-Record** — Events before the Era numbering system. Physical evidence only; no living witnesses. Major events: The Second Weave, Cataclysm of Yggdra, Fracturing of the Eastern Rift, Collapse of the Crimson Tower, First Documentation of the Wall of Nihility.
 
@@ -48,4 +54,4 @@ Events are noted with their institutional status where available. Sealed entries
 
 **Seventh Era** — Siege of Irenmere Pass (Valdren Ashcrast). The Stormcalm Trials (Kinesis→Omnikinesis evolution). Archon Dravenmore: Hexline System Architecture. The Sleeper Incident (sealed/ongoing).
 
-**Modern Era** — Events within living institutional memory. The Stormstep Operations, The Voss Suppression Case, The Scroll Retrieval Attempt (Keepers of Nil / Gaelira).
+**Modern Era** — Events within living institutional memory. The Stormstep Operations, The Voss Suppression Case, The Scroll Retrieval Attempt (Keepers of Nil / Gaelira / *The Soul of the First*).

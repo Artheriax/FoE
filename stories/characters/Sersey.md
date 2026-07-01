@@ -12,7 +12,7 @@ aliases: [Sersey]
 
 ### Background
 
-Sersey was born and raised in elven lands — not from a Tree of Life as is the only means of birth for a true Elf, the consequence of her elven mother forming a lasting bond with a human man who did not stay. That distinction has never been forgotten by anyone around her. In a society built on the deep-rooted calm of centuries-old tradition, Sersey grew up as a biological anomaly: neither enough elf to earn the unspoken respect the Trees confer, nor enough something else to be free of the expectations that came with living among them.
+Sersey was born and raised in elven lands — not from a Tree of Life as is the only means of birth for a true Elf, the consequence of her elven mother forming a lasting bond with a human man who did not stay. Her father holds an administrative position within MOD — a desk job in a regional office Sersey has never visited and, at this point in her life, has no intention of visiting. That distinction has never been forgotten by anyone around her. In a society built on the deep-rooted calm of centuries-old tradition, Sersey grew up as a biological anomaly: neither enough elf to earn the unspoken respect the Trees confer, nor enough something else to be free of the expectations that came with living among them.
 
 Her two closest friends are Nyari, a Kitsune who settled in the elven territories for reasons she describes differently depending on the day, and Gaelira, an Astrae whose divine markings and quiet composure have always made the pair look like an odd contrast walking side by side. Both accepted Sersey without qualification, which is rarer than it should be.
 

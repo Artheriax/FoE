@@ -14,7 +14,7 @@ Worldbuilding documentation for *Fragments of Eternity*, a fantasy RPG setting b
 | [world/Races.md](world/Races.md) | All races from Entity Zero and the Higher Ones down to Humans, with hierarchy and descriptions |
 | [world/Dimensions.md](world/Dimensions.md) | Every realm and dimension: Luminara, Gehenna, Dreamveil, Nihility, and more |
 | [world/History.md](world/History.md) | Era index — links to `world/history/` era files |
-| [world/history/](world/history/) | Era files: Pre-Record, Second through Seventh, Mid-Era, Modern Era |
+| [world/history/](world/history/) | Era files: Cosmological Origins, First Era, Pre-Record, Second through Seventh, Mid-Era, Modern Era |
 | [world/Timeline.md](world/Timeline.md) | Chronological overview of all eras: Cosmological Origins through Modern Era, with key events per era |
 
 ### Systems
@@ -49,6 +49,7 @@ Worldbuilding documentation for *Fragments of Eternity*, a fantasy RPG setting b
 | [organizations/Eternal-Guard.md](organizations/Eternal-Guard.md) | Cosmic oversight authority; supersedes MOD on extinction-level and sealed phenomena |
 | [organizations/House-Dravenmore.md](organizations/House-Dravenmore.md) | Noble research house; foremost Sigil genealogy registry and MOD advisory body |
 | [organizations/Keepers-of-Nil.md](organizations/Keepers-of-Nil.md) | Immortal non-registered organization; closest known study of the Wall of Nihility |
+| [organizations/Project-Crimson.md](organizations/Project-Crimson.md) | Classified MOD operation; vampire population control, blood supply regulation, Feeding Accord enforcement |
 | [organizations/Aethelgard-Consortium.md](organizations/Aethelgard-Consortium.md) | Largest hunter guild; primary MOD contract delegate |
 | [organizations/Solaris-Vanguard.md](organizations/Solaris-Vanguard.md) | Oldest active guild; founded in the Age of Yggdra |
 | [organizations/Umbra-Shroud.md](organizations/Umbra-Shroud.md) | Specialized guild with Dark Elf affiliation and institutional exemptions |

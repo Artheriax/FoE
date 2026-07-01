@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stories/Origins/Origins - The Mastery.md",
+                "file": "world/Races.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Origins - The Mastery"
+              "title": "Races"
             }
           }
         ]
@@ -186,7 +186,12 @@
   },
   "active": "c04ca0005e03e3bd",
   "lastOpenFiles": [
+    "world/history/First-Era.md",
+    "organizations/Project-Crimson.md",
+    "world/Timeline.md",
+    "world/Races.md",
     "world/Dimensions.md",
+    "stories/Origins/Origins - The Mastery.md",
     "systems/gazes/Absolute-Gazes.md",
     "systems/gazes/Supreme-Gazes.md",
     "systems/gazes/Standard-Gazes.md",
@@ -202,17 +207,12 @@
     "stories/Serseys-Journey/Book-II-A-Clash-of-Echoes.md",
     "stories/Story-Arcs.md",
     "README.md",
-    "stories/Origins/Origins - The Mastery.md",
     "memory/MEMORY.md",
     "memory",
     "systems/Arcane.md",
     "systems/Monsters.md",
     "systems/Power-Sources.md",
     "stories/characters/Artem.md",
-    "000-Dashboard.md",
-    "stories/Serseys-Journey/Book-VI-Artems-Emergence.md",
-    "stories/Origins/Artems-Arc.md",
-    "stories/Artems-Arc/Artems-Arc.md",
     "stories/Artems-Arc",
     "obsidian-templates"
   ]

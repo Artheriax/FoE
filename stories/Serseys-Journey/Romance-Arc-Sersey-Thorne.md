@@ -69,7 +69,7 @@ Thorne is not in those echoes. He is not part of the abandonment. He is the pers
 
 They do not discuss their illusions afterward. They do not need to. The shared experience of surviving something that targeted their deepest vulnerabilities creates a bond that does not require articulation.
 
-**Ch. 17–18:** The Orchid harvest. The unseen presence that brushes against Sersey's spirit — ancient, curious, almost protective — is not Thorne. But the fact that she registers it as protective, that her mind reaches for that quality, suggests that she has already learned what protection feels like from someone who provides it without being asked.
+**Ch. 17–18:** The Orchid harvest. Sersey makes it through the Void's Abyssal Caves — the shade, the fear amplification, the isolation — and Thorne is there at the other side. Not because he solved the caves for her, but because he trusted her to solve them and positioned himself where she would find him when she did. She registers the trust in that positioning before she has language for what it means.
 
 **Ch. 19–20:** The potion works. Sersey can toggle the Gaze on and off. The silence is euphoric. The Echo Breakers officially form.
 

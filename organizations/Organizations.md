@@ -14,7 +14,7 @@ A registry of the major institutions, guilds, noble houses, and independent orga
 
 ### The Magic Oversight Division (MOD)
 
-The governing authority on all matters related to magic, Dungeon activity, power growth, and aberrant phenomena across Hyperion. MOD's jurisdiction over hunters, essences, and magical regulation is absolute and recognized across all major territories. Approximately 340,000 individuals hold active MOD registration. Its internal divisions cover hunter registration and ranking, field operations, arcane licensing, Gaze and Sigil assessment, dungeon monitoring, and theoretical research.
+The governing authority on all matters related to magic, Dungeon activity, power growth, and aberrant phenomena across Hyperion. MOD's jurisdiction over hunters, essences, and magical regulation is absolute and recognized across all major territories. An estimated 180 million individuals hold active MOD registration in some capacity, from E-rank hunters to contracted specialists. Its internal divisions cover hunter registration and ranking, field operations, arcane licensing, Gaze and Sigil assessment, dungeon monitoring, theoretical research, and classified operations including Project Crimson.
 
 *Motto: "Vigilance, Order, Balance."*
 
@@ -95,3 +95,13 @@ One of Hyperion's oldest active organizations. Not registered with MOD. Founded 
 **Full record:** `organizations/Keepers-of-Nil.md`
 
 **Cross-Reference:** `world/history/Pre-Record.md` — First Mortal Documentation of the Wall of Nihility | `world/history/Second-Era.md` — The Establishment of the Keepers of Nil | `world/history/Modern-Era.md` — The Scroll Retrieval Attempt; `world/Dimensions.md` — Wall of Nihility
+
+---
+
+## Classified Operations
+
+### Project Crimson
+
+A classified MOD operation overseeing vampire population control, blood supply regulation, and containment of vampire territorial expansion across Hyperion. Not publicly acknowledged; maintained at Director-level classification. Its mandate covers enforcement of the Feeding Accord between MOD and the three vampire houses (Noctaris, Morvayne, Dravenmore), monitoring of illegal feedings and unauthorized turnings, and intelligence operations against vampire house territorial expansion.
+
+**Full record:** `organizations/Project-Crimson.md`

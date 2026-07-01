@@ -39,7 +39,7 @@ An index of all stories set in Hyperion. Each entry links to its individual file
 
 Full record: [Origins/Origins.md](Origins/Origins.md)
 
-Covers: Artem's laboratory and the breakthrough that fused mutation with magic; the accidental contamination of groundwater that spread gazes and sigils worldwide; the Higher Ones' discovery of his work and his imprisonment in the Wall of Nihility; the Keepers of Nil, believing Entity Zero to be imprisoned behind the Wall, breaching it with the scroll's divine key; Artem walking out into a world that has been running his experiments without him.
+Covers: Artem's laboratory and the breakthrough that fused mutation with magic; the accidental contamination of groundwater that spread gazes and sigils worldwide; the Higher Ones' discovery of his work and his imprisonment in the Wall of Nihility; the Keepers of Nil, believing Entity Zero to be imprisoned behind the Wall, breaching it using The Breach Configuration — the divine key unlocked from *The Soul of the First*; Artem walking out into a world that has been running his experiments without him.
 
 **Continuation:** [Book VI: Artem's Emergence](Serseys-Journey/Book-VI-Artems-Emergence.md) — What happens after Artem walks out of the Wall: a baseline human meeting the modern world his research created, discovering that Gazes cannot target him, remanded to Eternal Guard jurisdiction.
 

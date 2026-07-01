@@ -17,9 +17,10 @@ What follows is a condensed timeline organized from oldest to most recent. Each 
 
 | Era | Relative Position | Defining Theme |
 |-----|-------------------|----------------|
-| Cosmological Origins | ~3,000 years before present | Creation of gazes and sigils; imprisonment of Artem in the Wall of Nihility |
+| Cosmological Origins | ~3,500 years before present | Creation of gazes and sigils; imprisonment of Artem in the Wall of Nihility |
+| First Era | ~3,000 years before present | Magic transitions from feared phenomenon to accepted force; gazes and sigils spread along trade routes; first primitive ability registries appear |
 | Pre-Record | Ancient — exact duration contested | Pre-documentation world events; higher beings active; founding of first races |
-| Second Era | ~3,000 years before present | First institutional records; early legal and power precedents |
+| Second Era | ~2,500 years before present | First institutional records; early legal and power precedents |
 | Third Era | Centuries after Second Era | Expansion of MOD precursors; Gaze registration formalized; first major incidents |
 | Fourth Era | Follows Third Era | Forbidden magic origin cases; Eternal Guard first documented interventions |
 | Mid-Era (Ashenmoor) | ~EE 260s (Gazes.md sourced) | Military campaigns; pioneering practitioners; Dungeon crises |
@@ -37,9 +38,9 @@ What follows is a condensed timeline organized from oldest to most recent. Each 
 The events in this tier predate all records and all dimensions. The Eternal Guard holds the only documented research on this period, and that research is sealed above MOD access level. What is reconstructed from theoretical sources, Power-Sources scholarship, and the case of Artem suggests the following sequence:
 
 - **Entity Zero** is a theoretical construct — the hypothetical substrate from which Cosmic Sources are believed to have separated. Whether Entity Zero is a being, a state, or a principle is unresolved. No documented interaction with Entity Zero exists in any accessible record.
-- A researcher named **Artem**, originating from approximately 3,000 years before the present, identifies the junction point between biological mutation and arcane energy and forces the two systems to fuse. The result is a stable, inheritable architecture: the first gazes and sigils. Residual substrate from his laboratory contaminates groundwater, spreading the traits through the population over subsequent centuries.
-- The Higher Ones discover Artem's work — a mortal creating a power system at civilizational scale — and imprison him in the **Wall of Nihility**, a pre-existing boundary structure at the edge of dimensional reality. The Wall holds him for approximately 3,000 years (hours by his subjective experience).
-- The **Keepers of Nil**, an ancient organization that believes Entity Zero is imprisoned behind the Wall, perform a breach ritual using the divine activation key unlocked from the scroll *The Soul of the First*. Artem walks out instead of Entity Zero — 3,000 years after his original era.
+- A researcher named **Artem**, originating from approximately 3,500 years before the present, identifies the junction point between biological mutation and arcane energy and forces the two systems to fuse. The result is a stable, inheritable architecture: the first gazes and sigils. Residual substrate from his laboratory contaminates groundwater, spreading the traits through the population over subsequent centuries.
+- The Higher Ones discover Artem's work — a mortal creating a power system at civilizational scale — and imprison him in the **Wall of Nihility**, a pre-existing boundary structure at the edge of dimensional reality. The Wall holds him for approximately 3,500 years (hours by his subjective experience).
+- The **Keepers of Nil**, an ancient organization that believes Entity Zero is imprisoned behind the Wall, perform a breach ritual using The Breach Configuration — the divine activation key unlocked from the scroll *The Soul of the First*. Artem walks out instead of Entity Zero — 3,500 years after his original era.
 
 The Wall of Nihility itself is described in Power-Sources scholarship as a pre-existing boundary: not a location inside the dimensional hierarchy, but the point at which the hierarchy ends.
 
@@ -47,6 +48,23 @@ The Wall of Nihility itself is described in Power-Sources scholarship as a pre-e
 *→ `stories/characters/Artem.md` — Full profile*
 *→ `stories/Origins/Origins.md` — Full account*
 *→ `organizations/Keepers-of-Nil.md` — Institutional response to Artem's emergence*
+
+---
+
+## First Era
+
+**Status:** *[Reconstructed — no complete documentary record survives]*
+
+The First Era is the period when magic transitioned from a feared aberration to an accepted, integrated force in daily life. Gazes and sigils, spread through the population via Artem's original groundwater contamination, were no longer isolated curiosities — they were demographic realities affecting an estimated 5–8% of the population in major settlement regions.
+
+- The first primitive ability registries appear: community-maintained birth ledgers, temple codices reclassifying certain Gazes as "divine marks," and merchant directories tracking ability-bearers for commercial purposes. No single registry from this period survives in full.
+- Cultural frameworks begin to distinguish between combat-capable ability-bearers (the predecessors of hunters) and civilian ability-bearers (healers, artisans, traders).
+- The first informal cooperative organizations of hunters emerge — not yet formal guilds, but groups that pooled contracts and established informal codes of conduct. The Solaris Vanguard traces its lineage to one such cooperative.
+- The era ends with institutionalization: the transition from informal community traditions to the formal record-keeping and legal precedents that define the start of the Second Era.
+
+*→ `world/history/First-Era.md` — Full entry*
+*→ `systems/Gazes.md` — Early manifestation and spread*
+*→ `systems/Sigils.md` — Early manifestation and spread*
 
 ---
 
@@ -246,7 +264,7 @@ An individual bearing the Gaze of Predation and the Sigil of Agility conducted s
 MOD analyst Maelen Voss suppressed a documented Sigil of Senses throughout a thirty-year MOD Internal Review career. The suppression was maintained without detection. When identified, Voss was found to also exhibit indicators consistent with the Gaze of Inner Thought and Gaze of Revelation. Internal Review 22nd Cycle acknowledged the case and is conducting an ongoing procedural review with no ruling issued.
 
 **Sersey's Present**
-The current moment. Artem walks out of the Wall of Nihility. The Echo Breakers are active. Several sealed incidents from prior eras — the Sleeper Incident, the Caldenmere Void Reacher file, the Sixth Era Collapse quarantine — remain unresolved. New questions are accumulating faster than answers.
+The current moment. Artem walks out of the Wall of Nihility. The Echo Breakers are active. Several sealed incidents from prior eras — the Sleeper Incident, the Caldenmere Void Reacher file, the Sixth Era Collapse quarantine — remain unresolved. New questions are accumulating faster than answers. The scroll *The Soul of the First* has been used to breach the Wall. Project Crimson continues its classified operations. The Keepers of Nil are recalibrating their founding premise.
 
 *→ `world/history/Modern-Era.md` — Full entries*
 *→ `stories/characters/Sersey.md` | `stories/characters/Artem.md`*

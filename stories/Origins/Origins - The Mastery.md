@@ -106,9 +106,9 @@ Artem's work during the Mastery arc is scientific, not personal. He does not dev
 
 ## Arcane Affinity
 
-Highest affinity: **Nihility magic, Nil space magic, Wall of Nihility magic** — residual resonance from extended exposure to the Wall's architecture. He does not practice these; the Guard has asked him not to test the Wall-adjacent affinities inside Eventide until the operational parameters are understood.
+Highest affinity: **Nihility magic, Nil space magic, Wall of Nihility magic** — residual resonance from extended exposure to the Wall's architecture. The Wall is immune to all forms of magic. To be immune, it must contain, counter, or negate every school's fundamental architecture — which means the Wall itself carries affinity with every type of magic it neutralizes. Artem's three thousand years (subjective: hours) inside Nil Space, surrounded by the Wall on all sides, exposed him to that universal affinity at close range for an extended duration. The result is a transferred resonance: he does not practice Wall-adjacent magic, but his arcane architecture now registers the Wall's universal affinity as though it were his own. The Guard has asked him not to test the Wall-adjacent affinities inside Eventide until the operational parameters are understood.
 
-All other schools: **Maximum measurable affinity across every school tested**, including the six forbidden schools. The evaluator recalibrated the instrument. The result was the same. The Guard's position is that this is consistent with the original architect of the gaze-and-sigil system — the foundational bridge between biological mutation and arcane energy that every subsequent school of magic built on top of.
+All other schools: **Maximum measurable affinity across every school tested**, including the six forbidden schools. The evaluator recalibrated the instrument. The result was the same. The Guard's position is that this reflects the Wall's universal affinity transferred through Nil Space exposure, compounded by his role as the original architect of the gaze-and-sigil system — the foundational bridge between biological mutation and arcane energy that every subsequent school of magic built on top of.
 
 **Formal position offered:** Nihility expert and Wall of Nihility research consultant for the Eternal Guard. He accepted.
 
