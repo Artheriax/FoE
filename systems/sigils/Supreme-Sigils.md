@@ -14,7 +14,7 @@ The most widely documented evolution chains are: Agility to Reflex Mastery, Vita
 
 A confirmed Supreme Sigil designation by the MOD changes a hunter's status permanently. They become a strategic asset, tracked more closely, offered higher-priority contracts, and quietly monitored by branches of the MOD whose names are not on public organizational charts.
 
-**Registered Bearers (current):** Approximately 1,500 confirmed Supreme-tier bearers carry individual standing files.
+**Registered Bearers (current):** Approximately 750,000 confirmed Supreme-tier bearers carry individual standing files.
 
 *→ `systems/Sigils.md` — Index: Origin Theories | Sigil Awakening | MOD Classification | Evolution | Tier Overview*
 

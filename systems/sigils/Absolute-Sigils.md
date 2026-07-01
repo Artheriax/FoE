@@ -14,6 +14,13 @@ The MOD's registry lists fewer confirmed Absolute Sigil bearers across all of re
 
 *→ `systems/Sigils.md` — Index: Origin Theories | Sigil Awakening | MOD Classification | Evolution | Tier Overview*
 
+**Origin Note — Non-Linear Emergence:** Not all Absolute-tier traits follow the Standard → Supreme → Absolute chain. MOD's Theoretical Research Division has documented cases in which Absolute-tier properties emerged through mechanisms outside the standard evolutionary framework. The two primary documented pathways are:
+
+- **Dual-Trait Convergence:** The simultaneous presence of two birth traits in a single bearer has, in at least one confirmed case (the Morvayne vassal, 3rd Era; Fortitude + Resilience Sigils), produced a mark exhibiting properties consistent with Absolute-tier classification. The interaction between overlapping traits in a single biological system can produce results that neither trait alone would reach through linear evolution.
+- **Cross-Influence Mutation:** A Gaze's Mental Source architecture interacting with a Sigil's Physical Source architecture can, under extreme and prolonged conditions, alter the expression of one or both traits at a fundamental level. Several sealed case files document trait properties that do not match any documented Standard or Supreme classification and appear to have been produced by sustained Gaze-Sigil interaction in a single bearer.
+
+The theoretical implication — that Absolute-tier traits may emerge from *combination* rather than *progression* — is accepted as plausible by MOD's Theoretical Research Division but remains unverified at any scale beyond individual case studies. All confirmed Absolute bearers are sealed at Eternal Guard authority; the proportion of linear evolutions versus anomalous emergences is not answerable from accessible records.
+
 ---
 
 ## Absolute Sigil of Immunity

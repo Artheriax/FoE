@@ -6,7 +6,7 @@ tags: [gazes, birth-traits, supreme-tier]
 ---
 # Supreme Gazes
 
-**MOD Note:** Approximately 3,000 confirmed Supreme Gaze bearers exist in the current registry — rare enough that each carries an individual standing file, but common enough that confirmation is no longer an institutional event in itself. Each represents a documented evolutionary event (racial advancement or spontaneous mutation) and remains under permanent MOD oversight. Supreme tier activation incidents average several dozen per decade and require immediate specialized response teams.
+**MOD Note:** Approximately 1.5 million confirmed Supreme Gaze bearers exist in the current registry. Each carries an individual standing file and remains under permanent MOD oversight. Supreme tier activation incidents average several dozen per decade and require immediate specialized response teams.
 
 **Evolution Threshold:** Standard Gazes may evolve to Supreme upon bearer transformation to higher race (Celestial, Primordial, etc.). Supreme evolution cannot be induced and selection criteria remain unknown.
 
@@ -28,11 +28,11 @@ The cracked obsidian iris is now replaced with what looks like a miniature neutr
 
 ## Supreme Gaze of Imperviousness
 
-A superior form of a defensive Gaze not listed among the standards, this power nullifies all incoming energy, magic, and even conceptual attacks within the user's line of sight, creating a perfect defense.
+The evolved form of Harmony. Where the standard Gaze radiates a field of soothing, aligning energy, Imperviousness inverts the principle — it radiates absolute negation, nullifying all incoming energy, magic, and even conceptual attacks within the user's line of sight. The result is not calm but perfect, impenetrable defense.
 
 The eyes become like polished, flawless diamonds. They reflect everything perfectly, showing no inner light or color of their own.
 
-**Case Origin:** Classified discovery. MOD Internal Memorandum 447-ε (sealed) documents first confirmed sighting. No known evolution pathway from documented Standard Gazes. Theorized to be spontaneous mutation or dimensional crossover. Research ongoing.
+**Case Origin:** Classified discovery. MOD Internal Memorandum 447-ε (sealed) documents first confirmed sighting. Identified as the evolved form of the Gaze of Harmony. The mechanism by which a Gaze that aligns and soothes inverts into one that negates and rejects remains poorly understood — no real-time observation of the transition has been documented. Research ongoing.
 
 **Known Bearers:** One registered case (inactive). Subject voluntarily retired from all public activities. Location: Unknown (sanctuary placement).
 
@@ -83,3 +83,39 @@ The eyes are painfully beautiful, glowing with a heartachingly perfect light. Th
 **Case Origin:** Sealed by order of the Eternal Guard. Unknown circumstances. MOD records reference "The Incident of Westmarch Reconciliation" without details. Presumed to be singular historical case.
 
 **Known Bearers:** None confirmed active. Theoretical only (based on sealed records).
+
+---
+
+## Supreme Gaze of Foresight
+
+The evolved form of Revelation. Where the standard Gaze sees through deception, Foresight perceives the truth of actions not yet taken — the intent buried beneath unspoken words, the trajectory of events forming in the space between decision and outcome. The bearer does not see the future in fixed detail; they perceive the shape of what is coming, the branching probabilities spreading from the present like cracks through glass.
+
+The crystalline pupils of Revelation become a shifting mosaic of facets, each catching a different possible future. The effect is disorienting to observers — the eyes appear to look at multiple things simultaneously, each facet tracking a separate outcome.
+
+**Case Origin:** Confirmed through Revelation bearer evolution event (301 Eastern Era). A senior MOD investigator undergoing racial advancement during monitored trials experienced Gaze evolution under controlled assessment conditions. MOD documentation confirmed Foresight as the evolutionary bridge between Revelation and Absolute Truth. The investigator was reassigned to the Theoretical Research Division within the year.
+
+**Known Bearers:** Two registered active cases (both anonymized). One operates as a strategic consultant for MOD's Theoretical Research Division; the other serves as an advisor to the Ashenmoor diplomatic corps. Both report significant cognitive strain from processing probable futures alongside present sensory input. MOD accommodations include mandatory isolation periods and structured rest cycles.
+
+---
+
+## Supreme Gaze of Phantasm
+
+The evolved form of Illusion. Where the standard Gaze hijacks perception, Phantasm creates sensory experiences so complete they briefly overwrite local reality — images the world itself believes for a moment, shadows that cast actual shadows, sounds that echo from walls with no source. The boundary between what is perceived and what is present blurs in the space where the bearer's gaze falls.
+
+The already-unstable eyes of the Illusion bearer become a prism of refracted, shifting light — impossible to look at directly, painful to focus on for more than a moment. Colors and shapes flicker across the iris in sequences too fast to follow; the observer's peripheral vision registers movement at the edge of the gaze's effect that central vision cannot confirm.
+
+**Case Origin:** Confirmed through Illusion bearer evolution event (312 Eastern Era). A registered stage performer who had spent a career using the Gaze of Illusion for public entertainment underwent racial advancement during a Keystone Essence absorption incident. The Gaze evolved mid-procedure. The attending MOD assessment team documented the evolution in real time. The bearer was transferred to MOD's Theoretical Research Division for further study and has since retired from public performance.
+
+**Known Bearers:** One active registered case (the confirmed evolution event above). Subject cooperates fully with MOD research protocols. One additional suspected case exists based on sealed Eternal Guard records from the Sixth Era — a figure described as "the Veilweaver" whose work predates standard MOD documentation. Whether this represents a second bearer or a misattribution of the same individual is unresolved.
+
+---
+
+## Supreme Gaze of Delirium
+
+The evolved form of Madness. Where the standard Gaze overwhelms with chaotic psychic noise, Delirium imposes structured unreason — not random noise but coherent nightmare logic, false realities the target's mind accepts as fundamental fact. The bearer does not shatter the target's sanity; they replace it with a version that serves the bearer's intent.
+
+The chaotic swirls of the Madness Gaze stabilize into a slow, deliberate spiral of dark colors — bronze, deep violet, and arterial red — rotating with hypnotic precision. The pupils are fixed points at the center of the spiral, unmoving, as though the chaos around them has been given deliberate form.
+
+**Case Origin:** Historical records reference one confirmed bearer from the Third Era identified only as *"the Architect of Miremarch."* The sealed file, titled "The Miremarch Pacification," documents a forty-eight-hour engagement in which the bearer entered a walled city held by a rogue hunter faction and walked out alone. The city surrendered unconditionally the following morning. No casualties were recorded. The tactical report describes the defending forces as "cognitively intact but no longer operating on premises consistent with the objective situation." The bearer's methodology was sealed by order of the Council of Oversight. MOD's Theoretical Research Division has petitioned for declassification three times; all petitions denied.
+
+**Known Bearers:** None confirmed active in modern records. One suspected case (Case-DEL-002, anonymized) refuses formal testing and maintains the Gaze, if present, has never been activated. MOD surveillance is ongoing.

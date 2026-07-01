@@ -38,10 +38,10 @@ There is a small chance of Gazes to also change or evolve, becoming stronger whe
 - Seduction → Enchantment → (no Absolute link)
 - Predation → (no Supreme known) → (no Absolute link)
 - Spirits → (no Supreme known) → (no Absolute link)
-- Revelation → (no Supreme known) → Absolute Truth*
-- Illusion → Reality Fabrication → Reality Fabrication (same tier)
+- Revelation → Foresight → Absolute Truth*
+- Illusion → Phantasm → Reality Fabrication
 - Binding → (no Supreme known) → (no Absolute link)
-- Madness → (no Supreme known) → Mindscape*
+- Madness → Delirium → Mindscape*
 - Emptiness → (no Supreme known) → (no Absolute link)
 
 *Noted anomalies or cross-lineage connections subject to ongoing MOD research.
@@ -75,7 +75,7 @@ The Monster Oversight Division maintains the most comprehensive registry of veri
 
 Individuals suspected of possessing unregistered Gazes are subject to mandatory MOD evaluation. Resistance to evaluation is grounds for facility commitment under the Threshold Directive of 245 Eastern Era.
 
-**Registered Bearers (current):** Approximately 30 million confirmed Standard Gaze bearers across all twelve types are on active Registry record. Approximately 1.5 million confirmed Supreme Gaze bearers carry individual standing files. Absolute-tier confirmed mortal cases number approximately 7,500 but are classified above standard Registry access level; MOD's publicly accessible records reflect zero confirmed Absolute bearers. Ethereal tier remains unconfirmed within Registry records.
+**Registered Bearers (current):** Approximately 30 million confirmed Standard Gaze bearers across all thirteen types are on active Registry record. Approximately 1.5 million confirmed Supreme Gaze bearers carry individual standing files. Absolute-tier confirmed mortal cases number approximately 7,500 but are classified above standard Registry access level; MOD's publicly accessible records reflect zero confirmed Absolute bearers. Ethereal tier remains unconfirmed within Registry records.
 
 With 1 in 500 Hyperion inhabitants bearing a Standard Gaze, MOD's Assessment Unit operates as one of the institution's largest divisions, maintaining regional registration centers across all major population zones. Gaze identification typically occurs during childhood medical screenings; late-life discovery is uncommon but not unheard of, particularly among Voidling and Dark Elf populations with below-average institutional engagement. Public infrastructure in most urban centers includes Gaze-dampening zones in sensitive facilities (hospitals, schools, government buildings), and most employers are legally required to provide reasonable accommodation for Gaze bearers whose abilities create workplace complications.
 
@@ -87,7 +87,7 @@ With 1 in 500 Hyperion inhabitants bearing a Standard Gaze, MOD's Assessment Uni
 
 | Tier | File | Contents |
 |------|------|----------|
-| Standard | [systems/gazes/Standard-Gazes.md](gazes/Standard-Gazes.md) | 12 Standard Gazes with historical and active bearers |
-| Supreme | [systems/gazes/Supreme-Gazes.md](gazes/Supreme-Gazes.md) | 6 Supreme Gazes with case origins and known bearers |
+| Standard | [systems/gazes/Standard-Gazes.md](gazes/Standard-Gazes.md) | 13 Standard Gazes with historical and active bearers |
+| Supreme | [systems/gazes/Supreme-Gazes.md](gazes/Supreme-Gazes.md) | 9 Supreme Gazes with case origins and known bearers |
 | Absolute | [systems/gazes/Absolute-Gazes.md](gazes/Absolute-Gazes.md) | 7 Absolute Gazes, all sealed/theoretical |
 | Ethereal | [systems/gazes/Ethereal-Gazes.md](gazes/Ethereal-Gazes.md) | 7 Ethereal Gazes, all unconfirmed or scholarly debate |

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "world/Races.md",
+                "file": "systems/gazes/Standard-Gazes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Races"
+              "title": "Standard-Gazes"
             }
           }
         ]
@@ -186,6 +186,19 @@
   },
   "active": "c04ca0005e03e3bd",
   "lastOpenFiles": [
+    "systems/gazes/Supreme-Gazes.md",
+    "systems/arcane/Forbidden.md",
+    "systems/arcane/Elemental.md",
+    "systems/arcane/Echo-Enchantment.md",
+    "stories/characters/Thorne.md",
+    "stories/characters/Sersey.md",
+    "stories/characters/Rook.md",
+    "stories/characters/Nyari.md",
+    "stories/characters/Lyra.md",
+    "stories/characters/Kaelen.md",
+    "stories/characters/Gaelira.md",
+    "stories/characters/Artem.md",
+    "world/Races.md",
     "assets/maps",
     "assets/images",
     "assets",
@@ -206,21 +219,8 @@
     "stories/nyaris-rise-of-fame",
     "stories/serseys-journey/Romance-Arc-Sersey-Thorne.md",
     "stories/serseys-journey/Romance-Arc-Nyari-Kaelen.md",
-    "stories/serseys-journey/Book-VI-Artems-Emergence.md",
-    "stories/serseys-journey/Book-VII-The-Sleepers-Web.md",
-    "stories/serseys-journey/Interlude-The-Quiet-Between.md",
-    "stories/serseys-journey/Book-V-The-Wall-That-Remembers.md",
-    "stories/serseys-journey/Book-IV-The-Long-Way-Back.md",
-    "stories/serseys-journey/Book-II-A-Clash-of-Echoes.md",
-    "stories/serseys-journey/Book-III-The-Land-That-Remembers.md",
-    "stories/serseys-journey/Book-I-Serseys-Awakening.md",
     "stories/serseys-journey",
-    "stories/Serseys-Journey-tmp/Romance-Arc-Sersey-Thorne.md",
-    "stories/Serseys-Journey-tmp/Romance-Arc-Nyari-Kaelen.md",
-    "stories/Serseys-Journey-tmp/Book-VII-The-Sleepers-Web.md",
-    "stories/Serseys-Journey-tmp/Interlude-The-Quiet-Between.md",
     "stories/Serseys-Journey-tmp",
-    "memory",
-    "stories/Artems-Arc"
+    "memory"
   ]
 }

@@ -76,7 +76,7 @@ In rare cases, a Standard Sigil evolves into its Supreme equivalent upon racial 
 
 No documented case exists of a Sigil evolving past its natural tier ceiling through racial evolution alone. Supreme Sigils do not become Absolute. The exception to all known rules, as in so many things, is the Adaptation lineage.
 
-**Lineage chains:** Agility → Reflex Mastery; Vitality → Regeneration; Senses → Sensory Perception; Fortitude → Endurance; Adaptation → (no Absolute) → Transcendent Adaptation (Ethereal only). Resilience's Supreme form remains unclassified.
+**Lineage chains:** Agility → Reflex Mastery; Vitality → Regeneration; Senses → Sensory Perception; Fortitude → Endurance; Adaptation → (no Absolute) → Transcendent Adaptation (Ethereal only). Resilience skips the Supreme tier entirely — a documented anomaly in which the lineage proceeds directly from Standard to Absolute without a Supreme intermediate, a mirror of the Adaptation lineage's skip of the Absolute tier. The Resilience progression stands as the only Sigil known to bypass Supreme while still reaching Absolute.
 
 ---
 
@@ -88,7 +88,7 @@ No documented case exists of a Sigil evolving past its natural tier ceiling thro
 
 - **Absolute Sigils:** Defy biology entirely — Immunity to non-physical threats, Vital Continuity that halts aging, Perfect Balance under any conditions, Superhuman Reflexes that process intent before action, and Soul Anchoring that renders the bearer immune to possession and soul extraction. Roughly 30 active cases globally, all sealed above MOD Registry access at Eternal Guard authority.
 
-- **Ethereal Sigils:** Redefine the body's relationship with existence itself. Reality Immunity persists across timeline rewrites. Cosmic Harmony draws sustenance from ambient cosmic radiation. Transcendent Adaptation (Artem) evolves permanently in response to any threat. Fewer than ten documented cases, none confirmed through standard MOD verification.
+- **Ethereal Sigils:** Redefine the body's relationship with existence itself. Reality Immunity persists across timeline rewrites. Eternal Physique renders the body impervious to physical harm short of cosmic unmaking. Dimensional Anchoring locks the bearer to their home dimension, resisting all forced displacement. Cosmic Harmony draws sustenance from ambient cosmic radiation. Transcendent Adaptation (Artem) evolves permanently in response to any threat. Fewer than ten documented cases, none confirmed through standard MOD verification.
 
 To be born with a Sigil is to carry a permanent physical distinction — visible or invisibly felt — that shapes how the bearer moves through the world, whether they choose to register it or not.
 
