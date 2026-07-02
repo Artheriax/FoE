@@ -8,7 +8,7 @@ tags: [book, story, serseys-journey, realms]
 
 *Part of: FoE: Sersey's Journey*
 
-*Sersey's Gifts: Gaze of Inner Thought (Controlled), Sigil of Adaptation (Active)*
+*Sersey's Gifts: Gaze of Inner Thought (Dampened, Developing Control), Sigil of Adaptation (Active)*
 
 **Premise:** Sersey left elven lands to become something. She has, by most measures, done that. She did not expect to go back — not because she couldn't, but because she had not decided whether she wanted to. A crisis in the elven territories takes the decision out of her hands.
 

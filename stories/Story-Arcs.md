@@ -17,7 +17,7 @@ An index of all stories set in Hyperion. Each entry links to its individual file
 | Book | Title | Focus |
 |------|-------|-------|
 | I | [Sersey's Awakening](serseys-journey/Book-I-Serseys-Awakening.md) | Gifts awaken; Thorne life-debt; Echo Breakers form |
-| II | [A Clash of Echoes](serseys-journey/Book-II-A-Clash-of-Echoes.md) | Uncontrolled Gaze; Orchid quest; team assembled |
+| II | [A Clash of Echoes](serseys-journey/Book-II-A-Clash-of-Echoes.md) | Gaze flood reduced; Orchid quest; team assembled |
 | III | [The Land That Remembers](serseys-journey/Book-III-The-Land-That-Remembers.md) | Return to elven lands; Sigil active; Tree corruption arc |
 | IV | [The Long Way Back](serseys-journey/Book-IV-The-Long-Way-Back.md) | Forced rest; Nyari rejoins; Gaelira rejoins; team becomes whole |
 | Interlude | [The Quiet Between](serseys-journey/Interlude-The-Quiet-Between.md) | Team integration; scroll research; bonds deepen |
@@ -65,4 +65,4 @@ Covers: Gaelira's arranged marriage into a vampire house; discovery of *The Soul
 
 Full record: [nyaris-rise-of-fame/nyaris-rise-of-fame.md](nyaris-rise-of-fame/nyaris-rise-of-fame.md)
 
-Covers: Nyari's signing with a devil-manager and the band that forms around it; the rival group using Echo magic as compulsion; discovery of the contract's real terms; the work of learning to be present rather than performing; exiting the contract through an arch-angel and a rival devil; her return to find Sersey.
+Covers: Nyari's signing with a devil-manager and the band that forms around it; the rival group using Echo magic as compulsion; discovery of the contract's real terms; the work of learning to be present rather than performing; turning her final performance into a public exposé of the devil's operation; her return to find Sersey.

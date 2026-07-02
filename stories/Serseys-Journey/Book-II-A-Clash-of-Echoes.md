@@ -8,9 +8,9 @@ tags: [book, story, serseys-journey, echoes]
 
 *Part of: FoE: Sersey's Journey*
 
-*Sersey's Gifts: Gaze of Inner Thought (Active, Uncontrolled) → Controlled*
+*Sersey's Gifts: Gaze of Inner Thought (Active, Uncontrolled) → Dampened; full control earned across Books II–III*
 
-**Premise:** The Gaze is awake and won't turn off. Every mind in range lands in Sersey's simultaneously, and there is no framework for what she is experiencing. The mission is control — assembling the people she needs, going through the places required, and finding a way to hold the thing that opened without warning before it opens her apart. The team that comes out the other side is the one that will be needed for everything after.
+**Premise:** The Gaze is awake and won't turn off. Every mind in range lands in Sersey's simultaneously, and there is no framework for what she is experiencing. The mission is attenuation — assembling the people she needs, going through the places required, and finding a way to reduce the flood to something survivable. Full control will take longer. The team that comes out the other side is the one that will be needed for everything after.
 
 ---
 
@@ -24,7 +24,7 @@ tags: [book, story, serseys-journey, echoes]
 
 - **Ch. 17–18:** The descent into the Void's Abyssal Caves is complicated by a Void Shade — a territorial entity native to the deep caves that Lyra recognizes but cannot fully communicate with. It is not hostile by nature but is agitated by the presence of active Gaze energy, which it perceives as dimensional noise. The team must navigate past it while managing the psychological pressure of the caves' ambient illusion field: the shade's presence amplifies fear, and each member experiences the amplification differently. Thorne faces the weight of a life-debt he swore without fully understanding its scope. Lyra confronts the isolation of being the only Voidling in a group whose experiences she can facilitate but never fully share. Kaelen's spirit awareness floods with the echoes of every soul that has died in these caves across centuries. Rook's dampener shorts under the sensory load. Sersey holds her Gaze active despite the pain because the shade's position makes deactivation fatal. They harvest the Orchid.
 
-- **Ch. 19–20:** Sersey brews the potion. For the first time she can toggle the Gaze on and off. The silence is euphoric. Leftover Dreamveil and Void essences are stored for later. The exhausted party officially forms the strike team "Echo Breakers."
+- **Ch. 19–20:** Sersey brews the potion. The effect is not silence — it is a dam. The flood reduces from a roar to a current she can stand in. Crowds are still painful. Intense emotion still bleeds through. But she can sleep, and she can eat, and she can look at Thorne without the Gaze being the only reason his mind registers as safe. Full control — the ability to toggle on and off — remains out of reach. The potion bought her a ceiling, not a wall. She will earn the rest across the next book, through proximity to the people whose minds she is learning to filter rather than block. Leftover Dreamveil and Void essences are stored for later. The exhausted party officially forms the strike team "Echo Breakers."
 
 ---
 
