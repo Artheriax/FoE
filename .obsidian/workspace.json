@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "systems/gazes/Standard-Gazes.md",
+                "file": "systems/gazes/Supreme-Gazes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Standard-Gazes"
+              "title": "Supreme-Gazes"
             }
           }
         ]
@@ -186,10 +186,18 @@
   },
   "active": "c04ca0005e03e3bd",
   "lastOpenFiles": [
+    "systems/gazes/Absolute-Gazes.md",
+    "systems/gazes/Ethereal-Gazes.md",
+    "systems/gazes/Standard-Gazes.md",
+    "systems/sigils/Standard-Sigils.md",
+    "systems/sigils/Ethereal-Sigils.md",
+    "systems/sigils/Absolute-Sigils.md",
+    "systems/sigils/Supreme-Sigils.md",
     "systems/gazes/Supreme-Gazes.md",
+    "systems/arcane/Echo-Enchantment.md",
+    "systems/Sigils.md",
     "systems/arcane/Forbidden.md",
     "systems/arcane/Elemental.md",
-    "systems/arcane/Echo-Enchantment.md",
     "stories/characters/Thorne.md",
     "stories/characters/Sersey.md",
     "stories/characters/Rook.md",
@@ -207,18 +215,10 @@
     "organizations/guilds/Solaris-Vanguard.md",
     "organizations/guilds/Aethelgard-Consortium.md",
     "organizations/institutions/Project-Crimson.md",
-    "organizations/institutions/Keepers-of-Nil.md",
-    "organizations/institutions/House-Dravenmore.md",
-    "organizations/institutions/Eternal-Guard.md",
-    "organizations/institutions/MOD.md",
     "organizations/guilds",
     "organizations/institutions",
-    "stories/politics-of-blood/Politics-of-Blood.md",
     "stories/politics-of-blood",
-    "stories/nyaris-rise-of-fame/Nyaris-Rise-of-Fame.md",
     "stories/nyaris-rise-of-fame",
-    "stories/serseys-journey/Romance-Arc-Sersey-Thorne.md",
-    "stories/serseys-journey/Romance-Arc-Nyari-Kaelen.md",
     "stories/serseys-journey",
     "stories/Serseys-Journey-tmp",
     "memory"

@@ -62,7 +62,7 @@ Registered bearers receive a secondary Amplitude score reflecting their Sigil's 
 
 The Registry is also monitored by a classified internal division. Certain Sigil types — most notably Adaptation variants — trigger automatic secondary surveillance under protocols the MOD does not publicly acknowledge. Bearers of Absolute and Ethereal Sigils are listed in sealed files accessible only to senior directors and, reportedly, the Eternal Guards.
 
-**Registered Bearers (current):** Approximately 15 million confirmed Standard-tier Sigil bearers across all six types. Approximately 750,000 confirmed Supreme-tier bearers carry individual standing files. Absolute and Ethereal cases are sealed at Eternal Guard authority and do not appear in accessible Registry records.
+**Registered Bearers (current):** Approximately 15 million confirmed Standard-tier Sigil bearers across all seven types. Approximately 750,000 confirmed Supreme-tier bearers carry individual standing files. Absolute and Ethereal cases are sealed at Eternal Guard authority and do not appear in accessible Registry records.
 
 With 1 in 1,000 Hyperion inhabitants bearing a Standard Sigil, the condition is familiar enough to be unremarkable. Most families know someone with a Sigil. School athletics programs maintain separate divisions for Sigil-bearing competitors; workplace accommodations for passive physical enhancements are standardized under MOD health and safety guidelines. Sigil-informed medical protocols — accounting for accelerated healing rates, altered drug metabolism, and unusual stress responses — are taught as standard curriculum in medical training programs across Hyperion.
 
@@ -82,7 +82,7 @@ No documented case exists of a Sigil evolving past its natural tier ceiling thro
 
 ## Categories of Sigils
 
-- **Standard Sigils:** Roughly 15 million bearers — about 1 in 1,000 people. These enhance the body's core attributes: Fortitude for strength and toughness, Agility for speed and precision, Senses for expanded perception, Vitality for healing and endurance, Adaptation for environmental responsiveness, and Resilience for damage mitigation. Most Standard Sigil bearers never pursue hunter careers; their passive enhancements simply make them slightly more durable, slightly faster, slightly harder to exhaust in whatever work they do.
+- **Standard Sigils:** Roughly 15 million bearers — about 1 in 1,000 people. These enhance the body's core attributes: Fortitude for strength and toughness, Agility for speed and precision, Senses for expanded perception, Vitality for healing and endurance, Adaptation for environmental responsiveness, and Resilience for damage mitigation, and Seduction for physical optimization and supernatural attraction. Most Standard Sigil bearers never pursue hunter careers; their passive enhancements simply make them slightly more durable, slightly faster, slightly harder to exhaust in whatever work they do.
 
 - **Supreme Sigils:** Roughly 750,000 bearers. Mastery over body functions at magnitudes that make the bearer meaningfully superhuman: Endurance for inexhaustible stamina, Reflex Mastery for reaction speeds that preempt action, Sensory Perception for awareness that borders on precognition, and Environmental Adaptation for survival in conditions that would kill an unaugmented body within minutes. Supreme bearers are highly sought after by guilds and military operations.
 
@@ -100,7 +100,7 @@ To be born with a Sigil is to carry a permanent physical distinction — visible
 
 | Tier | File | Contents |
 |------|------|----------|
-| Standard | [systems/sigils/Standard-Sigils.md](sigils/Standard-Sigils.md) | 6 Standard Sigils with lore and named bearers + Dual Sigils section |
+| Standard | [systems/sigils/Standard-Sigils.md](sigils/Standard-Sigils.md) | 7 Standard Sigils with lore and named bearers + Dual Sigils section |
 | Supreme | [systems/sigils/Supreme-Sigils.md](sigils/Supreme-Sigils.md) | 4 Supreme Sigils with institutional and bearer lore |
 | Absolute | [systems/sigils/Absolute-Sigils.md](sigils/Absolute-Sigils.md) | 5 Absolute Sigils, all sealed/theoretical |
 | Ethereal | [systems/sigils/Ethereal-Sigils.md](sigils/Ethereal-Sigils.md) | 5 Ethereal Sigils including the Transcendent Adaptation (Artem) |
