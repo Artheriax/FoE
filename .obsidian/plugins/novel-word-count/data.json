@@ -229,53 +229,6 @@
         ]
       }
     },
-    "systems/Power-Sources.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 3624,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 12.08,
-      "characterCount": 25731,
-      "nonWhitespaceCharacterCount": 21862,
-      "newlineCount": 227,
-      "readingTimeInMinutes": 13.675471698113208,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "Energy Sources",
-        "Magic Power"
-      ],
-      "createdDate": 1773601992935,
-      "modifiedDate": 1782820746612,
-      "sizeInBytes": 25990,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 12.08,
-        "wordCount": 3624,
-        "characterCount": 25731,
-        "nonWhitespaceCharacterCount": 21862,
-        "newlineCount": 227
-      },
-      "frontmatter": {
-        "type": "system",
-        "category": "mechanics",
-        "tags": [
-          "power",
-          "sources",
-          "essence",
-          "vitalis",
-          "psyche",
-          "aeterium",
-          "mechanics"
-        ],
-        "aliases": [
-          "Energy Sources",
-          "Magic Power"
-        ]
-      }
-    },
     "systems/arcane/Keystone.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -783,22 +736,22 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 957,
+      "wordCount": 946,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 3.19,
-      "characterCount": 7180,
-      "nonWhitespaceCharacterCount": 6150,
+      "pageCount": 3.1533333333333333,
+      "characterCount": 7132,
+      "nonWhitespaceCharacterCount": 6066,
       "newlineCount": 49,
-      "readingTimeInMinutes": 3.611320754716981,
+      "readingTimeInMinutes": 3.569811320754717,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [
         "The Guard"
       ],
-      "createdDate": 1773689257014,
-      "modifiedDate": 1782944994412,
-      "sizeInBytes": 7409,
+      "createdDate": 1784335794039,
+      "modifiedDate": 1784335794039,
+      "sizeInBytes": 7365,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 3.19,
