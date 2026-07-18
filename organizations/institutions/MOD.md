@@ -15,7 +15,6 @@ The Magic Oversight Division is the governing authority on all matters related t
 
 ## History & Purpose
 
-
 The MOD was established in the aftermath of the event recorded as the Great Breach — a catastrophic simultaneous rupture of multiple high-level Dungeons that overwhelmed competing national response forces, producing casualties across several regions before coordinated containment was achieved. The near-collapse of that response made clear that fragmented national authority over Dungeon activity was structurally insufficient. A treaty among the major powers created MOD as a neutral institutional authority with binding cross-national jurisdiction.
 
 Its founding mandates remain unchanged:

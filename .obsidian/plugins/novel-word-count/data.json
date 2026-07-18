@@ -744,9 +744,9 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 8.2,
-      "characterCount": 19576,
+      "characterCount": 19575,
       "nonWhitespaceCharacterCount": 16918,
-      "newlineCount": 187,
+      "newlineCount": 186,
       "readingTimeInMinutes": 9.283018867924529,
       "linkCount": 0,
       "embedCount": 0,
@@ -754,8 +754,8 @@
         "Magic Oversight Division"
       ],
       "createdDate": 1773609948110,
-      "modifiedDate": 1782944994415,
-      "sizeInBytes": 19819,
+      "modifiedDate": 1784333584623,
+      "sizeInBytes": 19818,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 8.2,
@@ -956,187 +956,6 @@
         ],
         "aliases": [
           "Dravenmore"
-        ]
-      }
-    },
-    "organizations/guilds/Umbra-Shroud.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 494,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.6466666666666667,
-      "characterCount": 3756,
-      "nonWhitespaceCharacterCount": 3220,
-      "newlineCount": 42,
-      "readingTimeInMinutes": 1.8641509433962264,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "The Shroud",
-        "Umbra"
-      ],
-      "createdDate": 1773601863373,
-      "modifiedDate": 1773685684410,
-      "sizeInBytes": 3932,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.6466666666666667,
-        "wordCount": 494,
-        "characterCount": 3756,
-        "nonWhitespaceCharacterCount": 3220,
-        "newlineCount": 42
-      },
-      "frontmatter": {
-        "type": "organization",
-        "category": "guild",
-        "status": "Active",
-        "tags": [
-          "organization",
-          "guild",
-          "umbra-shroud",
-          "specialized",
-          "major-guild"
-        ],
-        "aliases": [
-          "The Shroud",
-          "Umbra"
-        ]
-      }
-    },
-    "organizations/guilds/Solaris-Vanguard.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 368,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.2266666666666666,
-      "characterCount": 2770,
-      "nonWhitespaceCharacterCount": 2370,
-      "newlineCount": 34,
-      "readingTimeInMinutes": 1.3886792452830188,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "The Vanguard",
-        "Solaris"
-      ],
-      "createdDate": 1773601853177,
-      "modifiedDate": 1782944994410,
-      "sizeInBytes": 2939,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.2266666666666666,
-        "wordCount": 368,
-        "characterCount": 2770,
-        "nonWhitespaceCharacterCount": 2370,
-        "newlineCount": 34
-      },
-      "frontmatter": {
-        "type": "organization",
-        "category": "guild",
-        "status": "Active",
-        "tags": [
-          "organization",
-          "guild",
-          "solaris-vanguard",
-          "major-guild",
-          "oldest"
-        ],
-        "aliases": [
-          "The Vanguard",
-          "Solaris"
-        ]
-      }
-    },
-    "organizations/guilds/Minor-Guilds.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 252,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.84,
-      "characterCount": 2118,
-      "nonWhitespaceCharacterCount": 1835,
-      "newlineCount": 31,
-      "readingTimeInMinutes": 0.9509433962264151,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "Smaller Guilds",
-        "Minor Factions"
-      ],
-      "createdDate": 1773601897707,
-      "modifiedDate": 1773685684410,
-      "sizeInBytes": 2280,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.84,
-        "wordCount": 252,
-        "characterCount": 2118,
-        "nonWhitespaceCharacterCount": 1835,
-        "newlineCount": 31
-      },
-      "frontmatter": {
-        "type": "organization-list",
-        "category": "guild",
-        "status": "Active",
-        "tags": [
-          "organization",
-          "minor-guilds",
-          "guild",
-          "registry"
-        ],
-        "aliases": [
-          "Smaller Guilds",
-          "Minor Factions"
-        ]
-      }
-    },
-    "organizations/guilds/Aethelgard-Consortium.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 309,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.03,
-      "characterCount": 2430,
-      "nonWhitespaceCharacterCount": 2097,
-      "newlineCount": 26,
-      "readingTimeInMinutes": 1.1660377358490566,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "Aethelgard"
-      ],
-      "createdDate": 1773611984337,
-      "modifiedDate": 1782944994409,
-      "sizeInBytes": 2582,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.03,
-        "wordCount": 309,
-        "characterCount": 2430,
-        "nonWhitespaceCharacterCount": 2097,
-        "newlineCount": 26
-      },
-      "frontmatter": {
-        "type": "organization",
-        "category": "guild",
-        "status": "Active",
-        "tags": [
-          "organization",
-          "guild",
-          "aethelgard",
-          "consortium",
-          "major-guild"
-        ],
-        "aliases": [
-          "Aethelgard"
         ]
       }
     },
