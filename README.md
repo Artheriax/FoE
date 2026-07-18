@@ -14,29 +14,19 @@ Worldbuilding documentation for *Fragments of Eternity*, a fantasy RPG setting b
 | [world/Races.md](world/Races.md) | All races from Entity Zero and the Higher Ones down to Humans, with hierarchy and descriptions |
 | [world/Dimensions.md](world/Dimensions.md) | Every realm and dimension: Luminara, Gehenna, Dreamveil, Nihility, and more |
 | [world/History.md](world/History.md) | Era index — links to `world/history/` era files |
-| [world/history/](world/history/) | Era files: Cosmological Origins, First Era, Pre-Record, Second through Seventh, Mid-Era, Modern Era |
-| [world/Timeline.md](world/Timeline.md) | Chronological overview of all eras: Cosmological Origins through Modern Era, with key events per era |
+| [world/Layers/Layer-Minus-1.md](world/Layers/Layer-Minus-1.md) | The Magical Layer — first stratum beneath the material universe, with its four lords (Fire, Stone, Decay, Sea) |
 
 ### Systems
 
 | File | Contents |
 |------|----------|
+| [systems/Cosmology.md](systems/Cosmology.md) | The Layered Universe — Layer 0, +N, -N; lord system, succession, messengers, champions, tournaments |
 | [systems/Arcane.md](systems/Arcane.md) | Magic schools index — links to `systems/arcane/` subfiles |
 | [systems/arcane/Holy-Unholy.md](systems/arcane/Holy-Unholy.md) | Luminancy (Holy) and Umbraturgy (Unholy) — spells, tiers, practitioners |
 | [systems/arcane/Elemental.md](systems/arcane/Elemental.md) | Six elemental schools + Forces |
 | [systems/arcane/Keystone.md](systems/arcane/Keystone.md) | Temporal, Spatial, and Cosmic Magic |
 | [systems/arcane/Echo-Enchantment.md](systems/arcane/Echo-Enchantment.md) | Echo Magic, Enchantments, Institutional Applications, Theoretical Debate |
 | [systems/arcane/Forbidden.md](systems/arcane/Forbidden.md) | All six forbidden magic schools with case origins |
-| [systems/Gazes.md](systems/Gazes.md) | Ocular abilities index — links to `systems/gazes/` subfiles |
-| [systems/gazes/Standard-Gazes.md](systems/gazes/Standard-Gazes.md) | 12 Standard Gazes with historical and active bearers |
-| [systems/gazes/Supreme-Gazes.md](systems/gazes/Supreme-Gazes.md) | 6 Supreme Gazes with case origins |
-| [systems/gazes/Absolute-Gazes.md](systems/gazes/Absolute-Gazes.md) | 7 Absolute Gazes, all sealed or theoretical |
-| [systems/gazes/Ethereal-Gazes.md](systems/gazes/Ethereal-Gazes.md) | 7 Ethereal Gazes, all unconfirmed |
-| [systems/Sigils.md](systems/Sigils.md) | Physical enhancement marks index — links to `systems/sigils/` subfiles |
-| [systems/sigils/Standard-Sigils.md](systems/sigils/Standard-Sigils.md) | 6 Standard Sigils with lore and named bearers + Dual Sigils |
-| [systems/sigils/Supreme-Sigils.md](systems/sigils/Supreme-Sigils.md) | 4 Supreme Sigils |
-| [systems/sigils/Absolute-Sigils.md](systems/sigils/Absolute-Sigils.md) | 5 Absolute Sigils, all sealed |
-| [systems/sigils/Ethereal-Sigils.md](systems/sigils/Ethereal-Sigils.md) | 5 Ethereal Sigils including Transcendent Adaptation |
 | [systems/Power-Sources.md](systems/Power-Sources.md) | The three Sources of power: Vitalis (Physical), Psyche (Mental), Aeterium (Cosmic) |
 | [systems/Monsters.md](systems/Monsters.md) | All monster categories: Lesser, Dire, Elemental, Holy/Unholy, Keystone |
 
@@ -47,7 +37,7 @@ Worldbuilding documentation for *Fragments of Eternity*, a fantasy RPG setting b
 | [organizations/Organizations.md](organizations/Organizations.md) | Index: all institutions, guilds, and regulatory bodies |
 | [organizations/institutions/MOD.md](organizations/institutions/MOD.md) | Magic Oversight Division — full structure, ranking system, divisions, and enforcement |
 | [organizations/institutions/Eternal-Guard.md](organizations/institutions/Eternal-Guard.md) | Cosmic oversight authority; supersedes MOD on extinction-level and sealed phenomena |
-| [organizations/institutions/House-Dravenmore.md](organizations/institutions/House-Dravenmore.md) | Noble research house; foremost Sigil genealogy registry and MOD advisory body |
+| [organizations/institutions/House-Dravenmore.md](organizations/institutions/House-Dravenmore.md) | Noble research house; foremost genealogy registry of magically-gifted lineages |
 | [organizations/institutions/Keepers-of-Nil.md](organizations/institutions/Keepers-of-Nil.md) | Immortal non-registered organization; closest known study of the Wall of Nihility |
 | [organizations/institutions/Project-Crimson.md](organizations/institutions/Project-Crimson.md) | Classified MOD operation; vampire population control, blood supply regulation, Feeding Accord enforcement |
 | [organizations/guilds/Aethelgard-Consortium.md](organizations/guilds/Aethelgard-Consortium.md) | Largest hunter guild; primary MOD contract delegate |
@@ -55,24 +45,14 @@ Worldbuilding documentation for *Fragments of Eternity*, a fantasy RPG setting b
 | [organizations/guilds/Umbra-Shroud.md](organizations/guilds/Umbra-Shroud.md) | Specialized guild with Dark Elf affiliation and institutional exemptions |
 | [organizations/guilds/Minor-Guilds.md](organizations/guilds/Minor-Guilds.md) | Smaller registered guilds and independent factions |
 
-### Stories & Characters
-
-| File | Contents |
-|------|----------|
-| [stories/Characters.md](stories/Characters.md) | Cast index — links to `stories/characters/` character files |
-| [stories/characters/](stories/characters/) | Individual profiles: Sersey, Artem, Thorne, Lyra, Kaelen, Rook, Nyari, Gaelira |
-| [stories/Story-Arcs.md](stories/Story-Arcs.md) | Plot index: Sersey's Journey (5 books), Origins (prequel), and two spin-offs |
-| [stories/serseys-journey/](stories/serseys-journey/) | Main 5-book series following Sersey's awakening through the Wall |
-| [stories/Origins/Origins.md](stories/Origins/Origins.md) | Prequel — Artem and the Adaptation Sigil |
-| [stories/nyaris-rise-of-fame/nyaris-rise-of-fame.md](stories/nyaris-rise-of-fame/nyaris-rise-of-fame.md) | Spin-off — Nyari's path to renown |
-| [stories/politics-of-blood/politics-of-blood.md](stories/politics-of-blood/politics-of-blood.md) | Spin-off — noble house intrigue |
-
 ---
 
 ## Setting at a Glance
 
-**Hyperion** is the primary mortal world — a fusion of arcane energy and advanced technology. Hunters register with the **Monster Oversight Division (MOD)** and rank up by slaying monsters and absorbing their **Essences**. Power is capped by race, with most beings having a ceiling they cannot exceed.
+**Hyperion** is the primary mortal world of Layer 0 — a fusion of arcane energy and advanced technology. Hunters register with the **Magic Oversight Division (MOD)** and rank up by slaying monsters and absorbing their **Essences**. Power is capped by race, with most beings having a ceiling they cannot exceed.
 
-**Gazes** (ocular abilities) and **Sigils** (physical marks) are rare birth traits that defy those caps. Power flows from three **Sources**: the body (Vitalis), the mind (Psyche), and for the Higher Ones only, the cosmos itself (Aeterium).
+Power flows from three **Sources**: the body (Vitalis), the mind (Psyche), and for the Higher Ones only, the cosmos itself (Aeterium).
 
-At the top of existence sit the **Higher Ones** — cosmic forces of creation, destruction, judgment, and more. Above even them is the mystery of **Entity Zero**, whose origin is deeper than the laws of reality itself.
+The cosmos is structured as a **layered universe**: Layer 0 (the material universe), Layer +N (dimensions outside the universe — Luminara, Gehenna, Dreamveil, etc.), and Layer -N (strata deeper within the universe — accessible through the Gates of Shadows). Each layer may have **lords** who embody concepts or elements; lords can be challenged, and their successors inherit their souls and embodiment.
+
+At the top of existence sit the **Higher Ones** — cosmic forces of creation, destruction, judgment, and more, classified as Upper Lords on the positive layers. Above even them is the mystery of **Entity Zero**, whose origin is deeper than the laws of reality itself.

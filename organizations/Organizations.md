@@ -14,7 +14,7 @@ A registry of the major institutions, guilds, noble houses, and independent orga
 
 ### The Magic Oversight Division (MOD)
 
-The governing authority on all matters related to magic, Dungeon activity, power growth, and aberrant phenomena across Hyperion. MOD's jurisdiction over hunters, essences, and magical regulation is absolute and recognized across all major territories. An estimated 180 million individuals hold active MOD registration in some capacity, from E-rank hunters to contracted specialists. Its internal divisions cover hunter registration and ranking, field operations, arcane licensing, Gaze and Sigil assessment, dungeon monitoring, theoretical research, and classified operations including Project Crimson.
+The governing authority on all matters related to magic, Dungeon activity, power growth, and aberrant phenomena across Hyperion. MOD's jurisdiction over hunters, essences, and magical regulation is absolute and recognized across all major territories. An estimated 180 million individuals hold active MOD registration in some capacity, from E-rank hunters to contracted specialists. Its internal divisions cover hunter registration and ranking, field operations, arcane licensing, dungeon monitoring, theoretical research, and classified operations including Project Crimson.
 
 *Motto: "Vigilance, Order, Balance."*
 
@@ -34,7 +34,7 @@ Not a guild, military division, or political body. Superseding authority over MO
 
 ### House Dravenmore
 
-A noble research house with multi-era institutional standing. Neither a guild nor a MOD division, but its genealogical records, research output, and practitioner lineage have shaped both to a degree that makes the boundary between private scholarship and official record unclear in places. Holds the most complete private registry of Sigil bearers in existence.
+A noble research house with multi-era institutional standing. Neither a guild nor a MOD division, but its genealogical records, research output, and practitioner lineage have shaped both to a degree that makes the boundary between private scholarship and official record unclear in places. Maintains the most complete private registry of magically-gifted lineages in existence.
 
 **Full record:** `organizations/institutions/House-Dravenmore.md`
 

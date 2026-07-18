@@ -156,7 +156,7 @@ The most severe recorded Aetheric disruption occurred during the Sixth Era Colla
 ### Dreamveil (Spirit World)
 
 - **Nature:** Ethereal Spirit World
-- **Accessibility:** Accessible to spiritual races through meditation, rituals, or spirit projection. Limited access for Spirits and Dream Gaze bearers under documented thresholds.
+- **Accessibility:** Accessible to spiritual races through meditation, rituals, or spirit projection. Limited access for practitioners with demonstrated spiritual perception under documented thresholds.
 - **MOD Classification:** Monitored (partial operational protocols for Dream-class Keystone events)
 
 Dreamveil is the echo of the mortal world, a misty, ever-shifting landscape where thoughts and memories take form. It is the final resting place for most souls and the home of spiritual beings. The geography of Dreamveil mirrors Hyperion but is distorted by emotion; areas of great joy are vibrant and solid, while places of tragedy are bleak and fractured. Here, spirits like the peaceful Nephryx and the vengeful Maltheryx play out their eternal dramas. The Seraphon walk these mists to heal tormented souls, while the Xenysian project their spirits here to commune with the dead and seek wisdom, always wary of the dangers that lurk in the gloom.
@@ -167,18 +167,18 @@ Dreamveil functions as the primary transitional state for souls departing Hyperi
 
 The Maltheryx documented in the Ashenveil Shadow case were active in Dreamveil-adjacent space. Whether their manifestation on Hyperion constituted a breach from Dreamveil or originated from within Hyperion's dimensional fabric is a point currently under seal in the Dungeon Division.
 
-**Gaze Bearer Access**
+**Practitioner Access**
 
-Spirits Gaze bearers at sufficient Amplitude can perceive Dreamveil overlaid onto the mortal world without entering it directly. At higher tiers, sustained projection into Dreamveil has been documented in two confirmed cases. Ghastward of Ashenveil, a Sixth Era Spirits Gaze bearer operating as a paranormal investigator, maintained periodic Dreamveil access for over four decades without documented adverse cognitive effects — a duration MOD's Assessment Unit considers anomalous for a mortal-tier bearer.
+Practitioners with sufficient spiritual perception can perceive Dreamveil overlaid onto the mortal world without entering it directly. At higher tiers of mastery, sustained projection into Dreamveil has been documented in two confirmed cases. Ghastward of Ashenveil, a Sixth Era practitioner operating as a paranormal investigator, maintained periodic Dreamveil access for over four decades without documented adverse cognitive effects — a duration MOD considers anomalous for a mortal-tier practitioner.
 
-Dream Gaze bearers experience Dreamveil differently: access appears involuntary during sleep states, with clarity and control scaling with tier. MOD's Assessment Unit classifies Dream Gaze as a monitored-access vector, not an operational one.
+Dream-specialist practitioners experience Dreamveil differently: access appears involuntary during sleep states, with clarity and control scaling with mastery. MOD classifies dream-access techniques as a monitored-access vector, not an operational one.
 
 **Documented Disruption: The Dreaming of Valcrest**
 
 During the Fifth Era, a Dream-class Keystone specimen designated NKS-1 was encountered in the Valcrest region. Seventeen civilians entered comatose states during the engagement period. Three hunters involved in the neutralization attempt were permanently displaced into what post-incident assessment characterized as a Dream-adjacent substrate accessible via the specimen's field. Whether this substrate is a region of Dreamveil, an extension of it, or a separate dimension adjacent to it is unresolved. The displaced hunters are confirmed living by Source readings taken remotely; full recovery has not been achieved. Engagement standards for Dream-class Keystones were revised following this incident.
 
 *→ `world/Races.md` — Nephryx | Maltheryx | Seraphon | Xenysian*
-*→ `systems/Gazes.md` — Spirits Gaze | Dream Gaze*
+*→ `systems/arcane/Forbidden.md` — Shadow Magic (Deep Umbraturgy)*
 *→ `world/History.md` — Ghastward of Ashenveil | The Dreaming of Valcrest | Shadow Magic Case II (Maltheryx)*
 *→ `organizations/Organizations.md` — Dungeon Division*
 
@@ -218,7 +218,7 @@ The Void is not connected to the soul-passage infrastructure of Dreamveil or Mou
 Umbraxan hunters registered with MOD carry a restricted classification that requires disclosure of Void-affinity abilities under Section 14. The volume of undisclosed Void-adjacent ability use is considered significant by the Assessment Unit; exact figures are not published.
 
 *→ `world/Races.md` — Voidlings | Umbraxans*
-*→ `systems/Gazes.md` — Void Gaze*
+*→ `systems/Arcane.md` — Forbidden Magic: Nil Space Magic*
 *→ `organizations/Organizations.md` — MOD Regulatory Framework (Section 14)*
 
 ---
@@ -237,12 +237,11 @@ Gehenna is a dimension of torment and corruption, a twisted reflection of creati
 
 The primary documented interaction between Hyperion and Gehenna involves the infernal contract system maintained by Devils within Gehenna's bureaucratic structures. These contracts bind mortal souls in exchange for power, longevity, or conditions negotiated at the time of signing. They fall into a jurisdictional gap that MOD has acknowledged but not resolved: the contracts are not prohibited under MOD's Regulatory Framework, but the enforcement mechanism operates through Gehenna's internal systems rather than Hyperion's.
 
-The most significant precedent in this area arose from the Second Era: the case known as the Compact Defiant Adjudication, in which a Devil-signed contract was contested before MOD authorities on the grounds that the bearer's Soul Anchoring Sigil constituted a physical impossibility of contract fulfillment. The MOD panel's ruling — that the Sigil legitimately overrode the contractual obligation — remains the only affirmative ruling in this category. It has not been successfully challenged.
+The most significant precedent in this area arose from the Second Era: the case known as the Compact Defiant Adjudication, in which a Devil-signed contract was contested before MOD authorities on the grounds that the bearer's innate soul-anchoring ability constituted a physical impossibility of contract fulfillment. The MOD panel's ruling — that the ability legitimately overrode the contractual obligation — remains the only affirmative ruling in this category. It has not been successfully challenged.
 
 *→ `world/Races.md` — Devils | Demons*
 *→ `organizations/Organizations.md` — Institutional Precedents: The Compact Defiant Adjudication*
 *→ `world/History.md` — The Compact Defiant Adjudication*
-*→ `systems/Sigils.md` — Absolute Tier: Soul Anchoring*
 
 ---
 
@@ -271,7 +270,7 @@ The relationship between Mournveil and the infernal contract system in Gehenna i
 
 If Mournveil is the library of souls, Memoire is the endless film reel of everything that has ever happened. It is a dimension where every moment, every event, every whispered word and fleeting thought is recorded and stored. The Observing One, Phariah, is its sole curator and occupant, forever watching the endless flow of memories without interaction or judgment. The realm itself is a chaotic, non-linear storm of sensory information — flashing images, echoing sounds, and fragmented sensations from across all of time and space — all perfectly organized and accessible only to its silent warden.
 
-Petitioner attempts to contact Phariah through dimensional projection or Spirits Gaze techniques are documented in older records. None resulted in confirmed contact. MOD's position is that Phariah does not respond, and that what some practitioners interpret as acknowledgment is an artifact of heightened perceptual states near the dimensional boundary.
+Petitioner attempts to contact Phariah through dimensional projection or spiritual perception techniques are documented in older records. None resulted in confirmed contact. MOD's position is that Phariah does not respond, and that what some practitioners interpret as acknowledgment is an artifact of heightened perceptual states near the dimensional boundary.
 
 *→ `world/Races.md` — Higher Ones (The Observing One / Phariah)*
 *→ `world/History.md` — Pre-Record: Observing One reference*
@@ -310,7 +309,7 @@ No documented case shows MOD involved in a Nihility imprisonment decision. The k
 
 The Wall of Nihility is a pre-existing boundary structure at the edge of dimensional reality — not constructed by any known entity, not derived from any known power Source. It is the point at which existence itself runs out, the edge of the framework within which all Sources, all dimensions, and all known forms of power operate. Whether it emerged naturally as a boundary condition of dimensional expansion or was put in place by a force that predates the current cosmological order is unknown.
 
-The Higher Ones did not build it. They used it — as a prison for the beings they could not kill and could not leave uncontained. The Keepers of Nil, having spent centuries assembling the means to breach it, performed a dimensional resonance ritual in the Modern Era using The Breach Configuration — the divine activation key unlocked by Gaelira from *The Soul of the First*. The breach succeeded. A figure walked out: Artem — the original creator of gazes and sigils, imprisoned there approximately 3,500 years ago. This is the first and only confirmed case of anything emerging from the Wall. The traditional zero-engagement policy has not been formally revised, but the premise that the Wall cannot be studied has been contradicted by the existence of someone who studied it from the inside.
+The Higher Ones did not build it. They used it — as a prison for the beings they could not kill and could not leave uncontained. The Keepers of Nil, having spent centuries assembling the means to breach it, performed a dimensional resonance ritual in the Modern Era using The Breach Configuration — the divine activation key unlocked by Gaelira from *The Soul of the First*. The breach succeeded. A figure walked out: Artem — the original creator of the biological-arcane architecture that produces innate magical traits, imprisoned there approximately 3,500 years ago. This is the first and only confirmed case of anything emerging from the Wall. The traditional zero-engagement policy has not been formally revised, but the premise that the Wall cannot be studied has been contradicted by the existence of someone who studied it from the inside.
 
 **Research Outcomes and Policy**
 
@@ -320,7 +319,7 @@ The Eternal Guard holds sealed research authority over all Wall-adjacent files. 
 
 **Unconfirmed Sighting Record**
 
-One claim of direct Wall observation by a mortal-tier being exists in the record: a sealed report filed with MOD's Theoretical Research Division during the Seventh Era. The claimant identified themselves as an Ethereal-tier Gaze bearer. No corroborating testimony was obtained. The report was accepted into the record, reviewed by Eternal Guard representatives, and sealed. The claimant's subsequent status is not noted in the accessible portion of the file.
+One claim of direct Wall observation by a mortal-tier being exists in the record: a sealed report filed with MOD's Theoretical Research Division during the Seventh Era. The claimant identified themselves as bearing an extremely rare innate ability. No corroborating testimony was obtained. The report was accepted into the record, reviewed by Eternal Guard representatives, and sealed. The claimant's subsequent status is not noted in the accessible portion of the file.
 
 **The Entity Zero Hypothesis**
 

@@ -11,7 +11,7 @@ tags: [character, _wip]
 **Race:** 
 **Age:** 
 **Affiliation:** 
-**Gaze/Sigil:** (e.g., Standard Gaze of X / None)
+**Magic / Abilities:** (e.g., Arcanian school / None)
 
 [1-2 thematic introductory paragraphs about who this character is and their significance within Fragments of Eternity.]
 
@@ -19,7 +19,7 @@ tags: [character, _wip]
 
 ## 🗡️ Power Profile
 - **Base Arcane:** [Any magic schools they fall under]
-- **Birth Traits:** [Detailed breakdown of their Gaze or Sigil]
+- **Abilities:** [Detailed breakdown of any magical or combat abilities]
 - **Combat Style:** [How they fight, what essence paths they use]
 
 ## 📜 Background / Origin

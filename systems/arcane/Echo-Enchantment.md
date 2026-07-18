@@ -46,7 +46,7 @@ The art of permanently imbuing objects with magical properties. It requires rare
 - **Spatial Pocket:** Creates a small, extradimensional space within an object (like a bag or ring) for storage.
 - **Hexline Key:** Allows the wielder to activate personal Hexlines for rapid transit across short distances (within a city).
 - **Truth of the Observing One:** The enchanted object (often a book or crystal) cannot be altered by any known means; it perfectly records what is spoken to it.
-- **Gaze-Bound:** An extremely rare and powerful enchantment that binds a lesser version of a Gaze's power to an object, like a crown that grants a weak form of the Gaze of Seduction.
+- **Ability-Bound:** An extremely rare and powerful enchantment that binds a lesser version of an innate ability to an object, like a crown that grants a weak form of a seduction-type ability.
 
 ---
 
@@ -137,10 +137,10 @@ Several forms of magical practice remain unconfirmed, theoretically proposed, or
 
 **Status:** Rumored; no institutional confirmation
 
-**Theoretical Framework:** Anecdotal reports of practitioners influencing dreams, implanting suggestions, or accessing shared dreamscape. Proposed mechanism: targeting the Mindscape Gaze bearer phenomenon rather than external reality.
+**Theoretical Framework:** Anecdotal reports of practitioners influencing dreams, implanting suggestions, or accessing shared dreamscape. Proposed mechanism: targeting the unconscious mind rather than external reality.
 
 **Evidence:** Unverified reports from hunter logs and subjective accounts; no scientific replication.
 
-**Scholarly Debate:** Some theorists align Dream-Weaving with Mindscape Gaze abilities rather than independent magic. Others argue they represent distinct disciplines — one innate, one learned. Further research restricted pending clarification.
+**Scholarly Debate:** Some theorists align Dream-Weaving with innate mental abilities rather than independent magic. Others argue they represent distinct disciplines — one innate, one learned. Further research restricted pending clarification.
 
-**Cross-Reference:** `systems/gazes/Absolute-Gazes.md` — Absolute Gaze of Mindscape; `world/History.md` — The Sleeper Incident (sealed)
+**Cross-Reference:** `world/History.md` — The Sleeper Incident (sealed)

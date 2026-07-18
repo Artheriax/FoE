@@ -36,7 +36,7 @@ MOD's headquarters is a fortified city-scale complex whose precise location and 
 
 ### The Hunter Registry
 
-The Registry maintains the active database of all registered hunters: rank, race, arcane affiliation, Amplitude assessment, Gaze and Sigil status, combat record, and breach response history. As of the current registration cycle, the Registry holds approximately 180 million active hunter files. An additional estimated 30–35 million individuals with hunter capabilities operate outside MOD oversight in contested or remote territories; pursuit of registration compliance in those regions is an ongoing Registry enforcement priority.
+The Registry maintains the active database of all registered hunters: rank, race, arcane affiliation, Amplitude assessment, combat record, and breach response history. As of the current registration cycle, the Registry holds approximately 180 million active hunter files. An additional estimated 30–35 million individuals with hunter capabilities operate outside MOD oversight in contested or remote territories; pursuit of registration compliance in those regions is an ongoing Registry enforcement priority.
 
 Registration requires a full assessment of physical and mental Source grades, arcane affinity, and any identified passive abilities. Failure to report a power breakthrough for re-assessment is a sanctionable offense under Registration Code, Section 3.
 
@@ -64,9 +64,9 @@ Field Operations maintains standing records of all active breach perimeters and 
 
 The auditing and investigative division. Internal Review's mandate covers compliance verification, conduct investigations on registered hunters and MOD employees, legal proceedings arising from regulatory violations, and procedural review of historical casework when new information is introduced.
 
-Internal Review operates in numbered cycles; each cycle corresponds to a rotating senior caseload period. Maelen Voss held a senior analyst position in Internal Review's 22nd Cycle, producing an unmatched case-resolution record across thirty years before her Senses Sigil status was disclosed following her retirement. The procedural review of her prior casework — not disputing factual outcomes, but auditing identification methodology — has not yet concluded. Internal Review's legal division cites the Voss case as standing precedent on the question of retroactive procedural validity, without a consensus resolution.
+Internal Review operates in numbered cycles; each cycle corresponds to a rotating senior caseload period. Maelen Voss held a senior analyst position in Internal Review's 22nd Cycle, producing an unmatched case-resolution record across thirty years before her innate sensory ability was disclosed following her retirement. The procedural review of her prior casework — not disputing factual outcomes, but auditing identification methodology — has not yet concluded. Internal Review's legal division cites the Voss case as standing precedent on the question of retroactive procedural validity, without a consensus resolution.
 
-**Cross-Reference:** `systems/sigils/Standard-Sigils.md` — Sigil of Senses; `world/history/Modern-Era.md` — The Voss Suppression Case
+**Cross-Reference:** `world/history/Modern-Era.md` — The Voss Suppression Case
 
 ### Dungeon Division
 
@@ -88,21 +88,21 @@ The Registry does not hold independent authority over forbidden magic prosecutio
 
 **Cross-Reference:** `systems/Arcane.md` — MOD Arcane Registry Overview
 
-### Gaze and Sigil Assessment Unit
+### Innate Ability Assessment Unit
 
-The Assessment Unit is one of MOD's largest operational divisions — a necessity in a world where roughly 45 million people carry a Gaze or Sigil. It operates regional registration centers across all major population zones, staffed by a combination of career MOD personnel, contracted specialist evaluators, and cadre of active registered bearers who serve as peer assessors.
+The Assessment Unit is one of MOD's largest operational divisions — a necessity in a world where a significant portion of the population exhibits innate magical or supernatural abilities beyond learned arcane practice. It operates regional registration centers across all major population zones, staffed by a combination of career MOD personnel, contracted specialist evaluators, and cadre of active registered ability-bearers who serve as peer assessors.
 
-**Registration and Evaluation:** All individuals identified as Gaze or Sigil bearers are required to register with the Assessment Unit upon discovery. For Gazes, this includes ability category, tier classification, and an initial Amplitude calibration. Most identifications occur during childhood medical screenings; the Assessment Unit maintains partnerships with pediatric health networks across Hyperion to ensure early detection. Late-life discovery is uncommon but not unheard of, particularly among Dark Elf, Voidling, and unregistered frontier populations.
+**Registration and Evaluation:** All individuals identified as bearing significant innate abilities — racial traits, biological affinities, or supernatural capabilities beyond standard arcane practice — are required to register with the Assessment Unit upon discovery. Registration includes ability category, classification, and an initial Amplitude calibration. Most identifications occur during childhood medical screenings; the Assessment Unit maintains partnerships with pediatric health networks across Hyperion to ensure early detection. Late-life discovery is uncommon but not unheard of, particularly among Dark Elf, Voidling, and unregistered frontier populations.
 
-Sigil bearers occupy a more complex regulatory position — because Sigils are fully passive and cannot be deactivated, enforcement of disclosure is weighted against the bearer's privacy interests. This balance is revisited periodically and is currently the subject of active Internal Review policy debate. The Assessment Unit estimates a significant undercount in Sigil registration, particularly for Standard-tier bearers whose passive enhancements may go unnoticed or unreported for years.
+Practitioners whose abilities are fully passive occupy a more complex regulatory position — because such traits cannot be deactivated, enforcement of disclosure is weighted against the bearer's privacy interests. This balance is revisited periodically and is currently the subject of active Internal Review policy debate. The Assessment Unit estimates a significant undercount in registration, particularly for bearers whose passive enhancements may go unnoticed or unreported for years.
 
-**Operational Scale:** With approximately 1.5 million Supreme Gaze bearers and 750,000 Supreme Sigil bearers on file, the Assessment Unit's monitoring infrastructure is concentrated at the Supreme tier and above, where abilities present meaningful regulatory concern. Standard-tier bearers are largely self-managed after initial registration, with periodic re-evaluation required only upon racial evolution or documented ability escalation. The Assessment Unit employs statistical sampling, automated amplitude flagging via Hexline-network sensor arrays, and mandatory self-reporting requirements as primary oversight mechanisms.
+**Operational Scale:** The Assessment Unit's monitoring infrastructure is concentrated at the higher tiers, where abilities present meaningful regulatory concern. Lower-tier bearers are largely self-managed after initial registration, with periodic re-evaluation required only upon racial evolution or documented ability escalation. The Assessment Unit employs statistical sampling, automated amplitude flagging via Hexline-network sensor arrays, and mandatory self-reporting requirements as primary oversight mechanisms.
 
-**Absolute and Ethereal Tiers:** The Assessment Unit's sealed population files for Absolute and Ethereal tier holders are maintained at a classification level requiring senior Eternal Guard authorization to access. Active file count: approximately 7,500 Absolute-tier cases on record — the vast majority flagged as theoretical, unconfirmed, historical, or deceased. Fewer than 200 are confirmed active bearers with demonstrated operational output at that tier. The X-rank cap of approximately fifty reflects that rank requires sustained, verifiable combat deployment at the Absolute level, not merely bearing an Absolute-tier ability. Many Absolute-tier bearers never reach X-rank due to Source limitations, absence of combat application, or institutional restriction. Ethereal-tier files are numbered in the single digits, all unresolved.
+**Sealed Tier Files:** The Assessment Unit's sealed population files for high-tier ability bearers are maintained at a classification level requiring senior Eternal Guard authorization to access. Active file count: approximately 7,500 high-tier cases on record — the vast majority flagged as theoretical, unconfirmed, historical, or deceased. Fewer than 200 are confirmed active bearers with demonstrated operational output at that tier. The X-rank cap of approximately fifty reflects that rank requires sustained, verifiable combat deployment, not merely bearing a high-tier ability. Many high-tier bearers never reach X-rank due to Source limitations, absence of combat application, or institutional restriction. Top-tier files are numbered in the single digits, all unresolved.
 
 Additionally, MOD operates classified divisions not publicly acknowledged in the Registry. **Project Crimson** — MOD's vampire population control and blood supply regulation operation — exists outside the public organizational chart. Its mandate, personnel, and operational history are maintained at Director-level classification. Cross-reference: `organizations/institutions/Project-Crimson.md`.
 
-**Cross-Reference:** `systems/Gazes.md` — MOD Registry Overview; `systems/Sigils.md` — MOD Classification
+**Cross-Reference:** `systems/Arcane.md` — MOD Arcane Registry Overview
 
 ### Theoretical Research Division
 
@@ -124,7 +124,7 @@ MOD's authority, despite its breadth, operates within hard jurisdictional bounda
 
 - **Civilian trafficking networks:** Unregistered individuals exploited by trafficking syndicates fall outside MOD's formal mandate, which centers on registered hunters and their activities. Local law enforcement has primary authority but frequently lacks institutional resources, funding, and motivation to pursue cases involving victims outside their jurisdiction.
 
-- **Unregistered ability bearers:** Individuals with Gazes, Sigils, or arcane aptitude who do not register with MOD cannot be formally prosecuted for their use — they are classified as civilians in violation of civil law, not MOD regulation. This creates a legal blindspot exploited by trafficking operations employing unregistered Gaze wielders (typically bearing Standard and Supreme-tier Gazes like Seduction, Madness, Binding, Emptiness, and Enchantment) to maintain control chains.
+- **Unregistered ability bearers:** Individuals with innate abilities or arcane aptitude who do not register with MOD cannot be formally prosecuted for their use — they are classified as civilians in violation of civil law, not MOD regulation. This creates a legal blindspot exploited by trafficking operations employing unregistered ability wielders (typically bearing abilities like seduction, madness, binding, emptiness, and enchantment-type effects) to maintain control chains.
 
 - **Cross-jurisdictional trafficking:** Victims transported across regional boundaries encounter inconsistent legal frameworks, disputed enforcement authority, and gaps in institutional cooperation. MOD's ability to coordinate with regional governments on trafficking suppression is limited by political relationships and the reality that several major territories benefit economically from slave trade networks.
 
@@ -136,7 +136,7 @@ MOD's official response has been characterized by low institutional priority des
 
 **Significance for Operations:**
 
-This gap has direct operational consequences. An unregistered Gaze wielder can operate continuously within MOD jurisdiction without identification. An unregistered victim can be held indefinitely by a trafficker operating in jurisdictional gaps. The boundary between MOD authority and civilian jurisdiction — intended as a limit on institutional overreach — functions as a practical immunity for organized trafficking networks.
+This gap has direct operational consequences. An unregistered ability wielder can operate continuously within MOD jurisdiction without identification. An unregistered victim can be held indefinitely by a trafficker operating in jurisdictional gaps. The boundary between MOD authority and civilian jurisdiction — intended as a limit on institutional overreach — functions as a practical immunity for organized trafficking networks.
 
 **Cross-Reference:** `world/history/Modern-Era.md` — The Unregistered Trade Network; `world/Races.md` — Social Status and Exploitation Vectors
 
@@ -152,7 +152,7 @@ MOD regulatory authority operates on a tiered system of disclosed obligations an
 - Breach notification and reporting for all encounters above D-rank solo thresholds
 - Essence taxation on Core and Keystone Essence transactions through registered channels
 - Arcane practitioner registration prior to public practice
-- Gaze and Sigil disclosure upon MOD identification
+- Innate ability disclosure upon MOD identification
 
 **Sanctionable Offenses** (Field Operations Code):
 
@@ -174,9 +174,9 @@ MOD regulatory authority operates on a tiered system of disclosed obligations an
 
 Several MOD legal and procedural rulings are actively cited in ongoing policy debates without consensus resolution:
 
-- **The Voss Suppression Case** — Whether a Sigil bearer's undisclosed passive ability retroactively compromises the procedural validity of their professional work. Internal Review cites it in both directions. No ruling. *→ `world/history/Modern-Era.md` — The Voss Suppression Case*
+- **The Voss Suppression Case** — Whether an ability bearer's undisclosed passive trait retroactively compromises the procedural validity of their professional work. Internal Review cites it in both directions. No ruling. *→ `world/history/Modern-Era.md` — The Voss Suppression Case*
 
-- **The Compact Defiant Adjudication** — Whether an Absolute Soul Anchoring Sigil constitutes grounds for infernal contract exemption under MOD contract law. Panel ruling: affirmative. Precedent has not been challenged since. *→ `systems/sigils/Absolute-Sigils.md` — Soul Anchoring; `world/history/Second-Era.md` — The Compact Defiant Adjudication*
+- **The Compact Defiant Adjudication** — Whether an innate soul-anchoring ability constitutes grounds for infernal contract exemption under MOD contract law. Panel ruling: affirmative. Precedent has not been challenged since. *→ `world/history/Second-Era.md` — The Compact Defiant Adjudication*
 
 - **The Callax Protocols** — Origin case for MOD classification of Soul Forging as an extinction-level forbidden practice, with practitioners subject to execution on identification rather than trial. Eternal Guard authority invoked at case conclusion. *→ `systems/arcane/Forbidden.md` — Soul Forging; `world/history/Fourth-Era.md` — The Callax Abomination*
 

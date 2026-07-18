@@ -56,7 +56,7 @@ A theoretical magic. If Nihility is nothingness, Nil Space is the prison for not
 
 ## Shadow Magic (Deep Umbraturgy)
 
-**Discovered:** Third Era, documented case of the Veiled Operations (cross-reference `world/History.md` — The Veiled Operations and `systems/gazes/Standard-Gazes.md` — Gaze of Seduction).
+**Discovered:** Third Era, documented case of the Veiled Operations (cross-reference `world/History.md` — The Veiled Operations).
 
 **Summary:** Three documented practitioners across recorded history attempted communion with Void entities. **Case 1** (Third Era, *Practitioner Astrid Veyne*): possession, entity inhabitation resulted in reality distortion event localized to Ashenveil district, producing approximately four hundred casualties across a three-month active period before Eternal Guard containment. Veyne's body was recovered; the entity was not. **Case 2** (Mid-Era, *Subject Meridian*): partial mutation during uncontrolled Maltheryx-adjacent dimensional exposure. Meridian was retrieved and contained; the mutation to their Psyche structure was not reversible. Active research ongoing under seal. **Case 3** (Modern Era, identity sealed): practitioner attempted sustained Void entity communion using Shadow Magic as the contact medium. Outcome classified at Eternal Guard authority. The sealed file notation reads: *"Contact achieved. Entity designation unresolved. Practitioner status pending."*
 
@@ -92,4 +92,4 @@ The art of tearing a soul apart and using its raw energy to power spells or ench
 
 **Cross-Reference:** `world/History.md` — The Sixth Era Collapse (sealed); `world/Dimensions.md` — Temporal Fracture Zones (restricted access).
 
-Attempting to do what only the Creating One or an Absolute Gaze can do. History records several catastrophes where powerful mages tried to rewrite a single event and instead created unstable parallel timelines that collapsed, causing widespread existential damage.
+Attempting to do what only the Creating One or similarly cosmic beings can do. History records several catastrophes where powerful mages tried to rewrite a single event and instead created unstable parallel timelines that collapsed, causing widespread existential damage.

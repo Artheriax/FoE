@@ -26,7 +26,7 @@ Powers all bodily functions beyond autonomic processes. This includes:
 
 - Muscular strength, speed, and endurance.
 - Physical strikes, weapon swings, and acrobatic maneuvers.
-- The activation and passive function of Sigils (e.g., the enhanced strength from the Sigil of Fortitude, the rapid healing from the Sigil of Vitality).
+- The activation and passive function of innate physical abilities (e.g., the enhanced strength from a Fortitude-type trait, the rapid healing from a Vitality-type trait).
 - The physical component of spells (e.g., the somatic gestures required for casting, the stamina needed to channel elemental magic).
 
 ### Depletion
@@ -41,11 +41,11 @@ Recovery is tied to the body's basic biological needs:
 - **Nutrition:** Consuming food and water provides the raw materials for the body to rebuild its energy reserves. High-energy or magically infused foods can accelerate this process.
 - **Healing Magic:** Spells like Soothing Touch or Greater Restoration can directly mend the body and jump-start Physical Source recovery, bypassing the need for prolonged rest.
 
-Races with innate physical enhancements (like Vampires or those with Sigils) often have larger Physical Source pools or more efficient restoration rates, allowing them to outlast others in prolonged physical conflict.
+Races with innate physical enhancements (like Vampires or those with innate physical abilities) often have larger Physical Source pools or more efficient restoration rates, allowing them to outlast others in prolonged physical conflict.
 
 ### Documented Anomalous Cases
 
-**Valdren Ashcrast** *(Seventh Era)* — The Irenmere Pass engagement produced the most precisely documented Physical Source endurance record in the Registry: sustained combat-peak Physical Source output maintained for 31 continuous hours. The established theoretical maximum for mortal Physical Source under moderate exertion at the time was 18–22 hours. Ashcrast's Fortitude Sigil is the accepted explanation, though the exact mechanism — whether the Sigil expanded his pool, accelerated real-time restoration, or reduced per-action depletion cost — was not resolved in the post-engagement assessment. The case remains the definitive evidence that Sigil bearers can exceed standard Source limits, not just augment output within them. Cross-Reference: *systems/sigils/Standard-Sigils.md; world/history/Seventh-Era.md*.
+**Valdren Ashcrast** *(Seventh Era)* — The Irenmere Pass engagement produced the most precisely documented Physical Source endurance record in the Registry: sustained combat-peak Physical Source output maintained for 31 continuous hours. The established theoretical maximum for mortal Physical Source under moderate exertion at the time was 18–22 hours. Ashcrast's innate Fortitude-type ability is the accepted explanation, though the exact mechanism — whether the trait expanded his pool, accelerated real-time restoration, or reduced per-action depletion cost — was not resolved in the post-engagement assessment. The case remains the definitive evidence that innate ability bearers can exceed standard Source limits, not just augment output within them. Cross-Reference: *world/history/Seventh-Era.md*.
 
 ---
 
@@ -59,15 +59,15 @@ The power of the mind and spirit. This Source governs willpower, focus, psychic 
 
 Powers all abilities that originate from or affect the mind and spirit:
 
-- The activation and use of Gazes (e.g., the psychic intrusion of the Gaze of Inner Thought, the reality-warping perception of the Gaze of Illusion).
-- Psychic attacks, telekinesis (Gaze of Kinesis), telepathy, and mental domination.
+- The activation and use of innate mental abilities (e.g., the psychic intrusion of an Inner Thought-type trait, the reality-warping perception of an Illusion-type trait).
+- Psychic attacks, telekinesis, telepathy, and mental domination.
 - The casting of most spells, which require intense mental focus, visualization, and the manipulation of arcane formulae. Even elemental magic requires Mental Source to shape and direct the raw energy.
 - Spiritual projection (used by Xenysians to enter Dreamveil).
 - Resistance to mental attacks, illusions, and fear effects.
 
 ### Depletion
 
-Mental Source is drained by concentration, emotional stress, and the use of mentally taxing abilities. A mage casting a complex spell, a Gaze user maintaining constant perception, or someone resisting a powerful psychic assault will feel their Mental Source waning. Depletion leads to mental fatigue, headaches, loss of focus, and eventually, unconsciousness or psychic burnout.
+Mental Source is drained by concentration, emotional stress, and the use of mentally taxing abilities. A mage casting a complex spell, an ability bearer maintaining constant perception, or someone resisting a powerful psychic assault will feel their Mental Source waning. Depletion leads to mental fatigue, headaches, loss of focus, and eventually, unconsciousness or psychic burnout.
 
 ### Restoration
 
@@ -78,7 +78,7 @@ Recovery is an internal, meditative process:
 - **Emotional Calm:** Being in a state of peace, safety, or profound serenity can passively restore Mental Source. Conversely, stress and fear accelerate its depletion.
 - **Spiritual Aid:** Communing with benevolent spirits (Nephryx) or receiving blessings from Celestials can provide a direct infusion of Mental Source.
 
-> **Note:** The Gaze of Inner Thought is a notorious Mental Source drain for Sersey, as it forces her mind to constantly process the psychic "noise" of others, leading to chronic migraines and mental exhaustion. Her evolution and gaining control over it is as much about managing her Mental Source as it is about mastering the ability itself.
+> **Note:** Sustained use of innate mental perception abilities is a notorious Mental Source drain, as it forces the bearer's mind to constantly process additional psychic "noise," leading to chronic migraines and mental exhaustion. Gaining control over such abilities is as much about managing Mental Source as it is about mastering the ability itself.
 
 ### Documented Anomalous Cases
 
@@ -102,7 +102,7 @@ The direct application of a Higher One's cosmic function. These are not "spells"
 - The Creating One channels the Force of Genesis, birthing new stars and laws of physics.
 - The Judging One imposes the Force of Absolute Truth, compelling universal honesty.
 - The Observing One utilizes the Force of Record, perfectly archiving all moments across time.
-- The activation of Absolute Gazes and Absolute Sigils, which are fragments or expressions of these cosmic powers granted to (or stolen by) mortals.
+- The activation of certain cosmic-tier abilities, which are fragments or expressions of these cosmic powers granted to (or stolen by) mortals.
 
 ### Depletion & Restoration
 
@@ -112,7 +112,7 @@ The concept of Entity Zero transcends even the Cosmic Source in scholarly theory
 
 ### Documented Anomalous Cases
 
-**Artem and the Wall of Nihility** *(Ongoing)* — Artem, a baseline human with no documented Gazes or Sigils, survived an extended period inside the Wall of Nihility — a structure that erases everything entering it. The survival has no precedent and no confirmed explanation. Eternal Guard researchers have proposed multiple theoretical frameworks, none verified. The leading hypothesis suggests an interaction between the Wall's erasure architecture and Artem's specific biological state produced a condition in which he ceased to register in reality's targeting framework — existing while absent in the register that the Wall uses to process subjects. This condition is consistent with subsequent observations: instruments designed to detect dimensional presence, Source resonance, and Gaze targets consistently read absence where Artem is visually present. The mechanism by which a baseline human survived a boundary structure that has consumed beings at every tier of the Source gradient remains unresolved. This is considered the most significant open question in Wall of Nihility research, and the case file is fully classified under Eternal Guard authority. Cross-Reference: *systems/sigils/Ethereal-Sigils.md; systems/arcane/Forbidden.md*.
+**Artem and the Wall of Nihility** *(Ongoing)* — Artem, a baseline human with no documented innate abilities, survived an extended period inside the Wall of Nihility — a structure that erases everything entering it. The survival has no precedent and no confirmed explanation. Eternal Guard researchers have proposed multiple theoretical frameworks, none verified. The leading hypothesis suggests an interaction between the Wall's erasure architecture and Artem's specific biological state produced a condition in which he ceased to register in reality's targeting framework — existing while absent in the register that the Wall uses to process subjects. This condition is consistent with subsequent observations: instruments designed to detect dimensional presence, Source resonance, and ability-bearer signatures consistently read absence where Artem is visually present. The mechanism by which a baseline human survived a boundary structure that has consumed beings at every tier of the Source gradient remains unresolved. This is considered the most significant open question in Wall of Nihility research, and the case file is fully classified under Eternal Guard authority. Cross-Reference: *systems/arcane/Forbidden.md*.
 
 ---
 
@@ -131,7 +131,7 @@ Absorption is not automatic. A hunter must be in physical contact with the Fragm
 The elemental-type residue of Elemental and Divine Monsters. Core Essences interact with both Physical and Mental Source depending on their type:
 
 - **Fire, Frost, Terra, Shock:** Primarily Physical Source supplementation, with secondary effects on the casting aspect of the relevant elemental school. A Pyromancer absorbing a Fire Core Essence experiences both a Physical boost and a temporary reduction in Mental Source cost for fire-aspected casting.
-- **Radiant, Umbral:** Primarily Mental Source supplementation. Radiant Essences provide clarity and focus; Umbral Essences provide a dulling of psychic noise, which can be beneficial for bearers of perception-type Gazes.
+- **Radiant, Umbral:** Primarily Mental Source supplementation. Radiant Essences provide clarity and focus; Umbral Essences provide a dulling of psychic noise, which can be beneficial for bearers of perception-type abilities.
 - **Holy, Unholy:** Affect both Sources but include a secondary spiritual component that interacts with the soul. Holy Essences provide a stabilizing effect that can partially resist ongoing Mental Source depletion effects. Unholy Essences are regulated — their necrotic affinity means improper handling can create Source contamination rather than supplementation.
 
 ### Keystone Essences
@@ -167,7 +167,7 @@ Rank advancement requires demonstrated improvement in both Grades alongside comb
 | S | IV–V | IV–V |
 | X | V–VII | V–VII |
 
-Grade assessments are conducted by MOD-certified evaluators using standardized depletion-and-recovery protocols. Anomalous results — Grades that diverge significantly from the hunter's apparent combat performance, or Grades that shift substantially between assessments — trigger additional review. Sigil bearers routinely produce anomalous assessments, as their Sigil-augmented output frequently suggests a Grade higher than their innate pool, while their restoration rates suggest a Grade consistent with their actual innate capacity. This discrepancy is a standard identification signal in the MOD Sigil Registry.
+Grade assessments are conducted by MOD-certified evaluators using standardized depletion-and-recovery protocols. Anomalous results — Grades that diverge significantly from the hunter's apparent combat performance, or Grades that shift substantially between assessments — trigger additional review. Innate ability bearers routinely produce anomalous assessments, as their augmented output frequently suggests a Grade higher than their innate pool, while their restoration rates suggest a Grade consistent with their actual innate capacity. This discrepancy is a standard identification signal in the MOD Assessment Unit.
 
 Source capacity grows slowly over a hunter's career through repeated near-depletion cycles. This growth is not guaranteed — a hunter who never approaches Source exhaustion does not expand their pool. MOD training academies structure advancement programs to deliberately approach (but not reach) Source floor, on a schedule calibrated to the hunter's current Grade and recovery profile.
 
@@ -183,8 +183,8 @@ Standard spellcasting is the most common dual-draw activity: the somatic compone
 
 Other dual-draw systems:
 
-- **Absolute Sigils:** The Soul Anchoring Sigil draws from both Sources to maintain its function during active contract enforcement attempts. The Compact Defiant case suggests this draw is significant but finite — the bearer did not appear to experience Source failure during the adjudication. What sustained the output is not documented.
-- **Gaze suppression under extreme psychological load:** A bearer actively fighting their own Gaze (suppressing rather than using) draws continuously from Mental Source but produces Physical Source strain through the sustained tension of suppression, particularly over long durations.
+- **Innate soul-anchoring abilities:** The soul-anchoring trait draws from both Sources to maintain its function during active contract enforcement attempts. The Compact Defiant case suggests this draw is significant but finite — the bearer did not appear to experience Source failure during the adjudication. What sustained the output is not documented.
+- **Ability suppression under extreme psychological load:** A bearer actively fighting their own innate ability (suppressing rather than using) draws continuously from Mental Source but produces Physical Source strain through the sustained tension of suppression, particularly over long durations.
 
 ### Cross-Source Failure
 
@@ -200,7 +200,7 @@ Repeated dual-depletion events without sufficient recovery — as in Healer Cass
 
 Physical and Cosmic Sources represent the two poles of a continuous gradient, not a binary distinction. The race hierarchy maps onto this gradient:
 
-**Mortal Races** operate with finite Physical and Mental Sources. Their pools vary by individual and grow through training and near-depletion cycling. The upper bound for mortal Source capacity — absent Sigils, Gazes, or Essence interaction — is Grade VII on both scales. This ceiling is rarely reached; most mortal hunters plateau at Grade IV–V regardless of training.
+**Mortal Races** operate with finite Physical and Mental Sources. Their pools vary by individual and grow through training and near-depletion cycling. The upper bound for mortal Source capacity — absent innate abilities or Essence interaction — is Grade VII on both scales. This ceiling is rarely reached; most mortal hunters plateau at Grade IV–V regardless of training.
 
 **Celestials** possess expanded finite Sources. Their pools operate on the same physical and mental principles but with a higher structural ceiling — the equivalent of a Grade VIII or IX if the current scale extended that far. Celestials still deplete and recover; they do not have infinite endurance. The difference is scale and recovery rate efficiency.
 
@@ -228,4 +228,4 @@ This framing has several implications that MOD scholars have documented under se
 
 - **Whether Entity Zero exists at all is unknown.** No documented interaction with Entity Zero exists in any accessible record. No instrument has detected it. No witness has reported contact. The Eternal Guard's cosmological archives describe the construct as "pre-intentional" — a theoretical state that precedes the distinction between purposeful action and inaction — but the description is noted as speculative. MOD classification of all Entity Zero research: [Sealed — Eternal Guard Authority Only].
 
-**Cross-Reference:** *systems/sigils/Ethereal-Sigils.md; systems/arcane/Forbidden.md*
+**Cross-Reference:** *systems/arcane/Forbidden.md*

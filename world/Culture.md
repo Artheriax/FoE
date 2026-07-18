@@ -6,7 +6,7 @@ aliases: [Society, Daily Life, Customs]
 ---
 # Culture & Daily Life
 
-Hyperion is not only a world of hunters, dungeons, and cosmic hierarchies — it is a world where 15 billion people live ordinary lives, work ordinary jobs, and navigate the specific texture of a society that has adapted to the reality of magic, monsters, and millions of Gaze and Sigil bearers among its population. What follows is an overview of Hyperion's cultural landscape: how people live, what they value, and the rhythms that define daily existence outside the hunter's contract board.
+Hyperion is not only a world of hunters, dungeons, and cosmic hierarchies — it is a world where 15 billion people live ordinary lives, work ordinary jobs, and navigate the specific texture of a society that has adapted to the reality of magic, monsters, and a population that includes magical beings alongside non-magical humans. What follows is an overview of Hyperion's cultural landscape: how people live, what they value, and the rhythms that define daily existence outside the hunter's contract board.
 
 ---
 
@@ -22,7 +22,7 @@ The average urban resident lives in multi-story residential buildings served by 
 
 Beyond established settlement perimeters, the world changes. Frontier towns exist in a constant state of low-grade readiness. Buildings are reinforced against monster incursion. Aetheric draw stations are fewer and less reliable. Medical care depends on what the local clinic can manage without a major hospital's Luminancy-trained staff. The hunter presence in frontier regions is heavier — guild outposts, MOD regional offices, and independent contractors working the contracts that urban hunters find inconvenient.
 
-The frontier breeds a specific kind of person: self-reliant, institutionally wary, and accustomed to solving problems without waiting for a response from a regional MOD desk three days' travel away. Frontier communities are tight-knit by necessity. The person who runs the general store is also the person who handles monster carcass processing and the person who knows which unregistered Gaze bearer in the next settlement over can be trusted in an emergency.
+The frontier breeds a specific kind of person: self-reliant, institutionally wary, and accustomed to solving problems without waiting for a response from a regional MOD desk three days' travel away. Frontier communities are tight-knit by necessity. The person who runs the general store is also the person who handles monster carcass processing and the person who knows which unregistered magical practitioner in the next settlement over can be trusted in an emergency.
 
 ### Rural and Agricultural Life
 
@@ -99,7 +99,7 @@ Voidling society is contemplative and minimally hierarchical. They do not mainta
 
 ### The Registry Cycle (All-Region, MOD-Administered)
 
-Twice yearly, MOD regional offices open for mass hunter registration and rank re-assessment. The event has evolved from a bureaucratic necessity into a cultural festival: cities host Registry Fairs with equipment vendors, guild recruitment booths, Essence appraisal stations, and public Gaze and Sigil demonstrations. For non-hunters, the Registry Cycle is a spectator event — a chance to see A-rank and S-rank hunters in person, watch rank-up ceremonies, and participate in the broader hunter culture without being part of it.
+Twice yearly, MOD regional offices open for mass hunter registration and rank re-assessment. The event has evolved from a bureaucratic necessity into a cultural festival: cities host Registry Fairs with equipment vendors, guild recruitment booths, Essence appraisal stations, and public combat demonstrations. For non-hunters, the Registry Cycle is a spectator event — a chance to see A-rank and S-rank hunters in person, watch rank-up ceremonies, and participate in the broader hunter culture without being part of it.
 
 ### The Luminance Festival (Holy Tradition)
 
@@ -115,7 +115,7 @@ When a vampire House admits a new member — whether by birth, turning, or contr
 
 ### The First Contract (Hunter Tradition)
 
-A hunter's first successful solo contract is a rite of passage across all hunter subcultures. The tradition varies regionally: some communities hold a formal ceremony where the hunter's contract token is displayed; others mark it with a tattoo or Sigil-adjacent brand; others simply buy the hunter a drink and acknowledge nothing further. The MOD does not officially recognize the tradition but maintains a "First Contract Registry" — a voluntary record that hunters may opt into, separate from official rank documentation.
+A hunter's first successful solo contract is a rite of passage across all hunter subcultures. The tradition varies regionally: some communities hold a formal ceremony where the hunter's contract token is displayed; others mark it with a tattoo or ceremonial brand; others simply buy the hunter a drink and acknowledge nothing further. The MOD does not officially recognize the tradition but maintains a "First Contract Registry" — a voluntary record that hunters may opt into, separate from official rank documentation.
 
 ### Kitsune Season Festivals
 
@@ -164,37 +164,11 @@ Key technologies:
 - **Hexline network:** Stabilized Aetheric pathways enabling rapid continental transit. Developed by Archon Dravenmore. Maintained under House Dravenmore's lifetime MOD contract.
 - **Wave-relay communication:** Long-distance voice and text transmission via radio-arcane hybrid signal networks. Coverage is reliable in settled regions, sparse on frontiers.
 - **Enchanted appliances:** Domestic and industrial devices enhanced with low-grade enchantment — self-heating cookware, cold-storage units using minor Frost enchantments, water purification using filtration arrays.
-- **Medical technology:** Mix of conventional medicine, Luminancy-based healing, and Vitalis monitoring equipment. Sigil-informed medical protocols are standard curriculum in medical training.
+- **Medical technology:** Mix of conventional medicine, Luminancy-based healing, and Vitalis monitoring equipment. Practitioner-informed medical protocols are standard curriculum in medical training.
 
 What Hyperion does NOT have: digital computing, the internet, broadcast television, artificial intelligence, space travel (the dimensional hierarchy replaces the need for space-based exploration), or nuclear technology. The civilization's technological path diverged from ours at the point where magic became the more efficient solution to the problems technology was developing to address.
 
 ---
 
-## Gaze & Sigil in Daily Society
-
-With approximately 30 million Standard Gaze bearers and 15 million Standard Sigil bearers, these traits are a normal part of Hyperion's social landscape.
-
-### Infrastructure and Accommodation
-
-Public buildings in most urban centers include Gaze-dampening zones — architecturally designed spaces where psychic-interference Gazes (Inner Thought, Revelation, Spirits) are partially suppressed by embedded dampening materials. These zones are standard in hospitals, schools, government buildings, and courtrooms. Private businesses may choose to install dampening infrastructure or not; establishments that cater to Gaze bearers (social clubs, support networks, specialized medical practices) typically do not.
-
-Sigil-informed design is simpler: doorways and corridors are sized for Supremely-enhanced physical capabilities; sports facilities maintain separate divisions for Sigil-bearing competitors; public transit accommodates bearers whose Sigils produce ambient effects (heat from Fortitude exertion, light from active Vitality marks).
-
-### Employment and Discrimination
-
-Anti-discrimination laws prohibit employers from refusing to hire based on Gaze or Sigil status, but enforcement is inconsistent. A Standard Gaze of Inner Thought bearer applying for a position requiring confidentiality may face unstated resistance. A Sigil of Fortitude bearer applying for delicate manual work may be overqualified in ways that are difficult to litigate. Supreme-tier bearers face the opposite problem in many industries: they are actively recruited, sometimes for positions that do not require their abilities, because the prestige of employing a Supreme bearer carries marketing value.
-
-Unregistered Gaze and Sigil bearers — those who never disclosed their trait to MOD — exist at a legal disadvantage. They cannot claim anti-discrimination protection for a trait they have not formally acknowledged, and exposure can trigger mandatory MOD evaluation. The underground economy of unregistered employment is significant, particularly among Voidling, Dark Elf, and frontier populations.
-
-### Social Status and Celebrity
-
-High-tier Gaze bearers — Supreme and Absolute — occupy a specific social stratum. They are celebrities, strategic assets, and potential threats depending on context. A Supreme Gaze bearer who registers with MOD and pursues guild contracts is treated as a public figure. A Supreme Gaze bearer who does not register attracts institutional attention. The tension between "recognized for exceptional ability" and "monitored for exceptional threat" is a constant feature of Supreme-tier social experience.
-
-Standard-tier bearers experience the least institutional pressure but the most daily friction. Their abilities are notable but not strategically significant, which means they receive neither the protections of celebrity nor the anonymity of ordinariness.
-
----
-
 *→ `world/Overview.md` — World overview and power systems*
 *→ `world/Races.md` — Race hierarchy and detailed race descriptions*
-*→ `systems/Gazes.md` — Gaze registry and tier structure*
-*→ `systems/Sigils.md` — Sigil registry and tier structure*

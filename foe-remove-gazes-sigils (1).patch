@@ -1,0 +1,1111 @@
+diff --git a/000-Dashboard.md b/000-Dashboard.md
+index 45caf48..b6c8b6f 100644
+--- a/000-Dashboard.md
++++ b/000-Dashboard.md
+@@ -11,16 +11,16 @@ Welcome to the **Fragments of Eternity** worldbuilding repository. This master d
+ *Where it all happens.*
+ - **[World Overview](world/Overview.md)**: The foundational primer on Hyperion, power ceilings, and racial hierarchy.
+ - **[Races](world/Races.md)**: The biological and cosmic hierarchy (Mortal → Higher Ones).
+-- **[Culture & Daily Life](world/Culture.md)**: How people live, work, celebrate, and navigate a world with 30 million Gaze bearers.
++- **[Culture & Daily Life](world/Culture.md)**: How people live, work, and celebrate on Hyperion.
+ - **[History & Timeline](world/History.md)**: The major eras from Pre-Record to the Modern Era.
+ - **[Dimensions & Realms](world/Dimensions.md)**: The structure of reality beyond the physical plane.
++- **[Layer -1](world/Layers/Layer-Minus-1.md)**: The Magical Layer — first stratum beneath the material universe, with its four lords (Fire, Stone, Decay, Sea).
+ 
+ ## ⚔️ Systems of Power
+-*How mortals break their limits.*
++*How the cosmos is structured and how mortals break their limits.*
++- **[Cosmology](systems/Cosmology.md)**: The Layered Universe — Layer 0, +N, -N; lord system, succession, messengers, champions, tournaments.
+ - **[Power Sources](systems/Power-Sources.md)**: Vitalis, Psyche, and Aeterium (and the mystery of Entity Zero).
+ - **[Arcane Magic](systems/Arcane.md)**: The schools of magic, from Elemental to Forbidden.
+-- **[Gazes](systems/Gazes.md)**: The ocular birth traits (Standard, Supreme, Absolute, Ethereal).
+-- **[Sigils](systems/Sigils.md)**: The branded birth traits and soul anchors.
+ - **[Monsters](systems/Monsters.md)**: Essence harvesting and the mechanics of Forced Growth.
+ 
+ ## 🏛️ Institutions & Factions
+@@ -30,13 +30,7 @@ Welcome to the **Fragments of Eternity** worldbuilding repository. This master d
+ - **[Eternal Guard](organizations/institutions/Eternal-Guard.md)**: The cosmic wardens handling extinction-level threats.
+ - **[Keepers of Nil](organizations/institutions/Keepers-of-Nil.md)**: The oldest observers, tied to the Wall of Nihility.
+ 
+-## 📖 The Stories
+-*The narratives woven into the world.*
+-- **[Characters Index](stories/Characters.md)**: The consolidated cast list.
+-- **[Story Arcs](stories/Story-Arcs.md)**: Protagonist journeys, pacing, and overall structure.
+-- **[Sersey's Journey](stories/serseys-journey/Book-I-Serseys-Awakening.md)**: The core mainline series.
+-
+ ---
+ ### 🤖 AI Core Memory
+ *For AI Agents and Co-Pilots*
+-- **[Rulebook & State Tracker](memory/MEMORY.md)**: Core statistics, overarching rules, and population calibration to ensure the AI doesn't hallucinate facts that break your universe.
+\ No newline at end of file
++- **[Rulebook & State Tracker](memory/MEMORY.md)**: Core statistics, overarching rules, and population calibration to ensure the AI doesn't hallucinate facts that break your universe.
+diff --git a/README.md b/README.md
+index a6d3700..1a1660d 100644
+--- a/README.md
++++ b/README.md
+@@ -14,29 +14,19 @@ Worldbuilding documentation for *Fragments of Eternity*, a fantasy RPG setting b
+ | [world/Races.md](world/Races.md) | All races from Entity Zero and the Higher Ones down to Humans, with hierarchy and descriptions |
+ | [world/Dimensions.md](world/Dimensions.md) | Every realm and dimension: Luminara, Gehenna, Dreamveil, Nihility, and more |
+ | [world/History.md](world/History.md) | Era index — links to `world/history/` era files |
+-| [world/history/](world/history/) | Era files: Cosmological Origins, First Era, Pre-Record, Second through Seventh, Mid-Era, Modern Era |
+-| [world/Timeline.md](world/Timeline.md) | Chronological overview of all eras: Cosmological Origins through Modern Era, with key events per era |
++| [world/Layers/Layer-Minus-1.md](world/Layers/Layer-Minus-1.md) | The Magical Layer — first stratum beneath the material universe, with its four lords (Fire, Stone, Decay, Sea) |
+ 
+ ### Systems
+ 
+ | File | Contents |
+ |------|----------|
++| [systems/Cosmology.md](systems/Cosmology.md) | The Layered Universe — Layer 0, +N, -N; lord system, succession, messengers, champions, tournaments |
+ | [systems/Arcane.md](systems/Arcane.md) | Magic schools index — links to `systems/arcane/` subfiles |
+ | [systems/arcane/Holy-Unholy.md](systems/arcane/Holy-Unholy.md) | Luminancy (Holy) and Umbraturgy (Unholy) — spells, tiers, practitioners |
+ | [systems/arcane/Elemental.md](systems/arcane/Elemental.md) | Six elemental schools + Forces |
+ | [systems/arcane/Keystone.md](systems/arcane/Keystone.md) | Temporal, Spatial, and Cosmic Magic |
+ | [systems/arcane/Echo-Enchantment.md](systems/arcane/Echo-Enchantment.md) | Echo Magic, Enchantments, Institutional Applications, Theoretical Debate |
+ | [systems/arcane/Forbidden.md](systems/arcane/Forbidden.md) | All six forbidden magic schools with case origins |
+-| [systems/Gazes.md](systems/Gazes.md) | Ocular abilities index — links to `systems/gazes/` subfiles |
+-| [systems/gazes/Standard-Gazes.md](systems/gazes/Standard-Gazes.md) | 12 Standard Gazes with historical and active bearers |
+-| [systems/gazes/Supreme-Gazes.md](systems/gazes/Supreme-Gazes.md) | 6 Supreme Gazes with case origins |
+-| [systems/gazes/Absolute-Gazes.md](systems/gazes/Absolute-Gazes.md) | 7 Absolute Gazes, all sealed or theoretical |
+-| [systems/gazes/Ethereal-Gazes.md](systems/gazes/Ethereal-Gazes.md) | 7 Ethereal Gazes, all unconfirmed |
+-| [systems/Sigils.md](systems/Sigils.md) | Physical enhancement marks index — links to `systems/sigils/` subfiles |
+-| [systems/sigils/Standard-Sigils.md](systems/sigils/Standard-Sigils.md) | 6 Standard Sigils with lore and named bearers + Dual Sigils |
+-| [systems/sigils/Supreme-Sigils.md](systems/sigils/Supreme-Sigils.md) | 4 Supreme Sigils |
+-| [systems/sigils/Absolute-Sigils.md](systems/sigils/Absolute-Sigils.md) | 5 Absolute Sigils, all sealed |
+-| [systems/sigils/Ethereal-Sigils.md](systems/sigils/Ethereal-Sigils.md) | 5 Ethereal Sigils including Transcendent Adaptation |
+ | [systems/Power-Sources.md](systems/Power-Sources.md) | The three Sources of power: Vitalis (Physical), Psyche (Mental), Aeterium (Cosmic) |
+ | [systems/Monsters.md](systems/Monsters.md) | All monster categories: Lesser, Dire, Elemental, Holy/Unholy, Keystone |
+ 
+@@ -47,7 +37,7 @@ Worldbuilding documentation for *Fragments of Eternity*, a fantasy RPG setting b
+ | [organizations/Organizations.md](organizations/Organizations.md) | Index: all institutions, guilds, and regulatory bodies |
+ | [organizations/institutions/MOD.md](organizations/institutions/MOD.md) | Magic Oversight Division — full structure, ranking system, divisions, and enforcement |
+ | [organizations/institutions/Eternal-Guard.md](organizations/institutions/Eternal-Guard.md) | Cosmic oversight authority; supersedes MOD on extinction-level and sealed phenomena |
+-| [organizations/institutions/House-Dravenmore.md](organizations/institutions/House-Dravenmore.md) | Noble research house; foremost Sigil genealogy registry and MOD advisory body |
++| [organizations/institutions/House-Dravenmore.md](organizations/institutions/House-Dravenmore.md) | Noble research house; foremost genealogy registry of magically-gifted lineages |
+ | [organizations/institutions/Keepers-of-Nil.md](organizations/institutions/Keepers-of-Nil.md) | Immortal non-registered organization; closest known study of the Wall of Nihility |
+ | [organizations/institutions/Project-Crimson.md](organizations/institutions/Project-Crimson.md) | Classified MOD operation; vampire population control, blood supply regulation, Feeding Accord enforcement |
+ | [organizations/guilds/Aethelgard-Consortium.md](organizations/guilds/Aethelgard-Consortium.md) | Largest hunter guild; primary MOD contract delegate |
+@@ -55,24 +45,14 @@ Worldbuilding documentation for *Fragments of Eternity*, a fantasy RPG setting b
+ | [organizations/guilds/Umbra-Shroud.md](organizations/guilds/Umbra-Shroud.md) | Specialized guild with Dark Elf affiliation and institutional exemptions |
+ | [organizations/guilds/Minor-Guilds.md](organizations/guilds/Minor-Guilds.md) | Smaller registered guilds and independent factions |
+ 
+-### Stories & Characters
+-
+-| File | Contents |
+-|------|----------|
+-| [stories/Characters.md](stories/Characters.md) | Cast index — links to `stories/characters/` character files |
+-| [stories/characters/](stories/characters/) | Individual profiles: Sersey, Artem, Thorne, Lyra, Kaelen, Rook, Nyari, Gaelira |
+-| [stories/Story-Arcs.md](stories/Story-Arcs.md) | Plot index: Sersey's Journey (5 books), Origins (prequel), and two spin-offs |
+-| [stories/serseys-journey/](stories/serseys-journey/) | Main 5-book series following Sersey's awakening through the Wall |
+-| [stories/Origins/Origins.md](stories/Origins/Origins.md) | Prequel — Artem and the Adaptation Sigil |
+-| [stories/nyaris-rise-of-fame/nyaris-rise-of-fame.md](stories/nyaris-rise-of-fame/nyaris-rise-of-fame.md) | Spin-off — Nyari's path to renown |
+-| [stories/politics-of-blood/politics-of-blood.md](stories/politics-of-blood/politics-of-blood.md) | Spin-off — noble house intrigue |
+-
+ ---
+ 
+ ## Setting at a Glance
+ 
+-**Hyperion** is the primary mortal world — a fusion of arcane energy and advanced technology. Hunters register with the **Monster Oversight Division (MOD)** and rank up by slaying monsters and absorbing their **Essences**. Power is capped by race, with most beings having a ceiling they cannot exceed.
++**Hyperion** is the primary mortal world of Layer 0 — a fusion of arcane energy and advanced technology. Hunters register with the **Magic Oversight Division (MOD)** and rank up by slaying monsters and absorbing their **Essences**. Power is capped by race, with most beings having a ceiling they cannot exceed.
++
++Power flows from three **Sources**: the body (Vitalis), the mind (Psyche), and for the Higher Ones only, the cosmos itself (Aeterium).
+ 
+-**Gazes** (ocular abilities) and **Sigils** (physical marks) are rare birth traits that defy those caps. Power flows from three **Sources**: the body (Vitalis), the mind (Psyche), and for the Higher Ones only, the cosmos itself (Aeterium).
++The cosmos is structured as a **layered universe**: Layer 0 (the material universe), Layer +N (dimensions outside the universe — Luminara, Gehenna, Dreamveil, etc.), and Layer -N (strata deeper within the universe — accessible through the Gates of Shadows). Each layer may have **lords** who embody concepts or elements; lords can be challenged, and their successors inherit their souls and embodiment.
+ 
+-At the top of existence sit the **Higher Ones** — cosmic forces of creation, destruction, judgment, and more. Above even them is the mystery of **Entity Zero**, whose origin is deeper than the laws of reality itself.
++At the top of existence sit the **Higher Ones** — cosmic forces of creation, destruction, judgment, and more, classified as Upper Lords on the positive layers. Above even them is the mystery of **Entity Zero**, whose origin is deeper than the laws of reality itself.
+diff --git a/memory/MEMORY.md b/memory/MEMORY.md
+index 9766d8c..d840f31 100644
+--- a/memory/MEMORY.md
++++ b/memory/MEMORY.md
+@@ -13,8 +13,8 @@ aliases: [AI Rulebook, State Tracker, Core Memory]
+ 
+ - **Primary World:** Hyperion — a fusion of arcane energy and advanced technology
+ - **Power Ceiling:** Capped by race; most beings cannot exceed their racial ceiling
+-- **Population with Gazes:** ~30 million registered Gaze bearers
+-- **Key Institution:** Magic Oversight Division (MOD) — regulates hunters, ranks, and power usage
++- **Cosmology:** Layered universe (Layer 0 = material universe, Layer +N = dimensions outside the universe, Layer -N = strata deeper within the universe)
++- **Key Institution:** Magic Oversight Division (MOD) — Hyperion's largest corporation; regulates hunters, cross-layer trade, descent licensing, artifact importation, and tournament sanctioning
+ 
+ ## Power Systems
+ 
+@@ -22,27 +22,27 @@ aliases: [AI Rulebook, State Tracker, Core Memory]
+   - **Vitalis** — Physical (body)
+   - **Psyche** — Mental (mind)
+   - **Aeterium** — Cosmic (Higher Ones only)
+-- **Gazes:** Ocular birth traits (Standard → Supreme → Absolute → Ethereal)
+-- **Sigils:** Physical birth marks, soul anchors (Standard → Supreme → Absolute → Ethereal)
+ - **Arcane Schools:** Elemental, Holy/Unholy, Keystone, Echo/Enchantment, Forbidden
++- **Layered Lord System:** Each layer (positive or negative) may have lords who embody concepts/elements. Succession by combat (gift or kill-and-take-place) or by lord-on-lord violence (airborne magic selects a new bearer). Each lord has messengers and champions.
+ 
+ ## Racial Hierarchy
+ 
+-- **Higher Ones** — Cosmic forces of creation, destruction, judgment
++- **Higher Ones / Upper Lords** — Cosmic forces of creation, destruction, judgment
+ - **Entity Zero** — Origin deeper than the laws of reality itself
++- See `world/Races.md` for full hierarchy
+ 
+ ## Key Organizations
+ 
+-- **MOD (Magic Oversight Division)** — Primary regulatory body
++- **MOD (Magic Oversight Division)** — Hyperion's largest corporation; cross-layer trade regulation
+ - **Eternal Guard** — Cosmic oversight, handles extinction-level threats
+ - **Keepers of Nil** — Immortal observers tied to the Wall of Nihility
+ 
+-## Active Story Threads
++## Layer Structure
+ 
+-- **Sersey's Journey** — Main 7-book series
+-- **Artem / Origins** — Prequel and parallel arcs
+-- **Nyari's Rise of Fame** — Spin-off
+-- **Politics of Blood** — Noble house intrigue spin-off
++- **Layer 0:** Material universe (Hyperion + other worlds)
++- **Layer +N:** Dimensions outside the universe (Luminara, Gehenna, Dreamveil, The Void, etc.). Not all have lords.
++- **Layer -N:** Strata deeper within the universe. Deeper = darker, more powerful, more valuable, fewer sane visitors. Gates of Shadows = canonical entrances to Layer -1.
++- See `systems/Cosmology.md` for full system rules and `world/Layers/Layer-Minus-1.md` for the first negative layer.
+ 
+ ---
+ 
+diff --git a/obsidian-templates/Character-Template.md b/obsidian-templates/Character-Template.md
+index 8b6e86e..0bd4eca 100644
+--- a/obsidian-templates/Character-Template.md
++++ b/obsidian-templates/Character-Template.md
+@@ -11,7 +11,7 @@ tags: [character, _wip]
+ **Race:** 
+ **Age:** 
+ **Affiliation:** 
+-**Gaze/Sigil:** (e.g., Standard Gaze of X / None)
++**Magic / Abilities:** (e.g., Arcanian school / None)
+ 
+ [1-2 thematic introductory paragraphs about who this character is and their significance within Fragments of Eternity.]
+ 
+@@ -19,7 +19,7 @@ tags: [character, _wip]
+ 
+ ## 🗡️ Power Profile
+ - **Base Arcane:** [Any magic schools they fall under]
+-- **Birth Traits:** [Detailed breakdown of their Gaze or Sigil]
++- **Abilities:** [Detailed breakdown of any magical or combat abilities]
+ - **Combat Style:** [How they fight, what essence paths they use]
+ 
+ ## 📜 Background / Origin
+diff --git a/organizations/Organizations.md b/organizations/Organizations.md
+index a839388..13daec9 100644
+--- a/organizations/Organizations.md
++++ b/organizations/Organizations.md
+@@ -14,7 +14,7 @@ A registry of the major institutions, guilds, noble houses, and independent orga
+ 
+ ### The Magic Oversight Division (MOD)
+ 
+-The governing authority on all matters related to magic, Dungeon activity, power growth, and aberrant phenomena across Hyperion. MOD's jurisdiction over hunters, essences, and magical regulation is absolute and recognized across all major territories. An estimated 180 million individuals hold active MOD registration in some capacity, from E-rank hunters to contracted specialists. Its internal divisions cover hunter registration and ranking, field operations, arcane licensing, Gaze and Sigil assessment, dungeon monitoring, theoretical research, and classified operations including Project Crimson.
++The governing authority on all matters related to magic, Dungeon activity, power growth, and aberrant phenomena across Hyperion. MOD's jurisdiction over hunters, essences, and magical regulation is absolute and recognized across all major territories. An estimated 180 million individuals hold active MOD registration in some capacity, from E-rank hunters to contracted specialists. Its internal divisions cover hunter registration and ranking, field operations, arcane licensing, dungeon monitoring, theoretical research, and classified operations including Project Crimson.
+ 
+ *Motto: "Vigilance, Order, Balance."*
+ 
+@@ -34,7 +34,7 @@ Not a guild, military division, or political body. Superseding authority over MO
+ 
+ ### House Dravenmore
+ 
+-A noble research house with multi-era institutional standing. Neither a guild nor a MOD division, but its genealogical records, research output, and practitioner lineage have shaped both to a degree that makes the boundary between private scholarship and official record unclear in places. Holds the most complete private registry of Sigil bearers in existence.
++A noble research house with multi-era institutional standing. Neither a guild nor a MOD division, but its genealogical records, research output, and practitioner lineage have shaped both to a degree that makes the boundary between private scholarship and official record unclear in places. Maintains the most complete private registry of magically-gifted lineages in existence.
+ 
+ **Full record:** `organizations/institutions/House-Dravenmore.md`
+ 
+diff --git a/organizations/institutions/Eternal-Guard.md b/organizations/institutions/Eternal-Guard.md
+index 4866dd1..882f660 100644
+--- a/organizations/institutions/Eternal-Guard.md
++++ b/organizations/institutions/Eternal-Guard.md
+@@ -37,9 +37,9 @@ The Eternal Guard's documented interventions accessible through adjacent records
+ 
+ - **Sealed Research Authority:** All research into Entity Zero, the Wall of Nihility, and Nil Space Magic is sealed at Eternal Guard authority. Theoretical Division staff who have approached proximity research on these areas have been removed from active assignment. *→ `systems/Power-Sources.md` — Entity Zero; `systems/arcane/Forbidden.md` — All Schools; `world/Dimensions.md` — Wall of Nihility*
+ 
+-- **Absolute and Ethereal Tier Files:** Gaze and Sigil bearer files at Absolute tier and above require senior Eternal Guard authorization to access within the Assessment Unit. Active file count: [Sealed].
++- **Sealed Tier Files:** Bearer files for high-tier abilities require senior Eternal Guard authorization to access within MOD. Active file count: [Sealed].
+ 
+-- **The Sleeper Incident (Seventh Era, ongoing):** Engagement in progress. X-rank only. All documentation sealed at Eternal Guard authority. The operation has not concluded. *→ `systems/gazes/Absolute-Gazes.md` — Mindscape; `systems/Monsters.md` — Keystone Monsters: Mind*
++- **The Sleeper Incident (Seventh Era, ongoing):** Engagement in progress. X-rank only. All documentation sealed at Eternal Guard authority. The operation has not concluded. *→ `systems/Monsters.md` — Keystone Monsters: Mind*
+ 
+ - **Artem Transit Intercept (Modern Era):** Detected an active Wall-access-zone incursion signature exceeding the threshold for incidental observation. Intercepted the responsible party — a mixed group including Keepers of Nil operatives and registered MOD hunters — transiting through Nihility's outer edge. Transported the group to Eventide for evaluation and disposition. Assessment of the anomalous subject within the party returned non-functional results on all classification instruments; signature architecture was not parseable by any standard framework. The group was processed and released with graduated outcome: sealed warnings registered to the registered hunters' MOD files, separate private disposition for the Keepers, and the anomalous subject registered as a non-resolved case sealed at Eternal Guard authority. MOD subsequently convened a classification hearing, reached no independent classification, and forwarded jurisdiction to the Eternal Guard on grounds that Wall-adjacent phenomena fall within Guard sealed research authority. Subject remanded to Guard jurisdiction accordingly. *→ `stories/serseys-journey/Book-VI-Artems-Emergence.md` — Ch. 4–6, Ch. 7–9, Ch. 25–26; `stories/characters/Artem.md` — Full character profile; `organizations/institutions/Keepers-of-Nil.md` — Vael*
+ 
+diff --git a/organizations/institutions/House-Dravenmore.md b/organizations/institutions/House-Dravenmore.md
+index 3b7c57d..41e817c 100644
+--- a/organizations/institutions/House-Dravenmore.md
++++ b/organizations/institutions/House-Dravenmore.md
+@@ -13,9 +13,9 @@ House Dravenmore is a noble research house with institutional standing extending
+ 
+ ## Research Mandate
+ 
+-House Dravenmore's primary research focus is mortal and near-mortal potential: what the body, mind, and soul can sustain; how Sigil and Gaze bearers manifest historically; and what lineage patterns in extraordinary individuals suggest about inheritance and awakening. Their genealogical registry of confirmed Sigil bearers is the most complete private record in existence. MOD's own Assessment Unit considers it more accurate than its own files for pre-Fourth Era identification cases.
++House Dravenmore's primary research focus is mortal and near-mortal potential: what the body, mind, and soul can sustain; how innate magical affinity manifests historically across lineages; and what lineage patterns in extraordinary individuals suggest about inheritance and awakening. Their genealogical registry of magically-gifted lineages is the most complete private record in existence. MOD's own Arcane Registry considers it more accurate than its own files for pre-Fourth Era identification cases.
+ 
+-The House does not publish its registry. It makes selective contributions to MOD records when those contributions serve purposes the House considers aligned with its interests. The terms of the ongoing exchange between House Dravenmore and MOD's Assessment Unit are not in MOD's public regulatory filings.
++The House does not publish its registry. It makes selective contributions to MOD records when those contributions serve purposes the House considers aligned with its interests. The terms of the ongoing exchange between House Dravenmore and MOD's Arcane Registry are not in MOD's public regulatory filings.
+ 
+ ---
+ 
+@@ -23,18 +23,18 @@ The House does not publish its registry. It makes selective contributions to MOD
+ 
+ - **Healer Cassian:** Following the Ashenmoor Campaigns, Cassian spent twelve years as a formal advisor to House Dravenmore, systematizing field healing protocols from personal methodology. The protocols he codified during this period remain the foundation of MOD emergency response medical procedures. The House's archives hold the original versions. *→ `world/history/Mid-Era.md` — Healer Cassian of the Ashenmoor*
+ 
+-- **Orvielle Caste:** A House Dravenmore scholar reviewing Ashenmoor Campaigns records connected Caste's field journal entries — thirty-seven observations across fifteen years of noting that her wounds closed faster than expected — to a posthumous Vitality Sigil identification. The House added her lineage to its registry within a week of the identification. Her case has since been used in MOD training materials as the canonical example of delayed Sigil identification when the bearer's conventional skills are sufficient to explain observed outcomes. *→ `systems/sigils/Standard-Sigils.md` — Sigil of Vitality; `world/history/Mid-Era.md` — The Ashenmoor Campaigns*
++- **Orvielle Caste:** A House Dravenmore scholar reviewing Ashenmoor Campaigns records connected Caste's field journal entries — thirty-seven observations across fifteen years of noting that her wounds closed faster than expected — to a posthumous identification of innate accelerated healing. The House added her lineage to its registry within a week of the identification. Her case has since been used in MOD training materials as the canonical example of delayed identification of innate abilities when the bearer's conventional skills are sufficient to explain observed outcomes. *→ `world/history/Mid-Era.md` — The Ashenmoor Campaigns*
+ 
+-- **The Dual Sigil Lineage:** Following the Third Era dual-Sigil incident involving a Morvayne vassal, House Dravenmore has maintained active genealogical tracking of that bearer's lineage across subsequent generations. MOD's notation on the sealed case file: *review suspended, subject deceased, lineage tracked.* "Lineage tracked" is attributable to House Dravenmore. The House has not published its findings. *→ `systems/sigils/Standard-Sigils.md` — Dual Sigils; `world/history/Third-Era.md` — The Dual Sigil Incident*
++- **The Dual Lineage Study:** Following the Third Era incident involving a Morvayne vassal who exhibited simultaneous expression of two normally distinct innate abilities, House Dravenmore has maintained active genealogical tracking of that bearer's lineage across subsequent generations. MOD's notation on the sealed case file: *review suspended, subject deceased, lineage tracked.* "Lineage tracked" is attributable to House Dravenmore. The House has not published its findings. *→ `world/history/Third-Era.md` — The Dual Trait Incident*
+ 
+-- **Archon Dravenmore:** The House's most cited historical figure outside Sigil research domains. Archon Dravenmore was the preeminent Spatial Magic practitioner of the Seventh Era, responsible for the Hexline System — a framework for architectural spatial magic that became the basis for MOD's Bastion communications relay and remains in active institutional use. Dravenmore held a lifetime contract with MOD, the only such contract on record. The contract was structured as an institutional agreement binding the House, not the individual: it includes succession provisions that transfer maintenance obligations and contract standing to the House's designated heir upon the signer's death. MOD's legal division has reviewed the transfer clause twice and declined to challenge it both times. The contract has persisted across eras because the House has never failed to designate a successor. *→ `systems/arcane/Keystone.md` — Spatial Magic; `world/history/Seventh-Era.md` — Archon Dravenmore: Hexline System Architecture*
++- **Archon Dravenmore:** The House's most cited historical figure. Archon Dravenmore was the preeminent Spatial Magic practitioner of the Seventh Era, responsible for the Hexline System — a framework for architectural spatial magic that became the basis for MOD's Bastion communications relay and remains in active institutional use. Dravenmore held a lifetime contract with MOD, the only such contract on record. The contract was structured as an institutional agreement binding the House, not the individual: it includes succession provisions that transfer maintenance obligations and contract standing to the House's designated heir upon the signer's death. MOD's legal division has reviewed the transfer clause twice and declined to challenge it both times. The contract has persisted across eras because the House has never failed to designate a successor. *→ `systems/arcane/Keystone.md` — Spatial Magic; `world/history/Seventh-Era.md` — Archon Dravenmore: Hexline System Architecture*
+ 
+ ---
+ 
+ ## Current Status
+ 
+-House Dravenmore's present research direction is not publicly disclosed. Its genealogical work continues; the House receives notification when MOD completes Sigil bearer identifications, by arrangement that is not reflected in MOD's public regulatory code.
++House Dravenmore's present research direction is not publicly disclosed. Its genealogical work continues; the House receives notification when MOD completes identification of significant innate magical lineages, by arrangement that is not reflected in MOD's public regulatory code.
+ 
+-The House's research on vampire Sigil bearer lineages — specifically the interaction between immortality and Sigil strain timelines — has not been published. The subjects of that research have not been formally notified that it is ongoing.
++The House's research on vampire lineages — specifically the interaction between immortality and the expression of innate magical traits across centuries — has not been published. The subjects of that research have not been formally notified that it is ongoing.
+ 
+-**Cross-Reference:** `world/Races.md` — Vampire (House Dravenmore note); `systems/Sigils.md` — Sigil Evolution; `systems/sigils/Standard-Sigils.md` — Dual Sigils
++**Cross-Reference:** `world/Races.md` — Vampire (House Dravenmore note)
+diff --git a/organizations/institutions/Keepers-of-Nil.md b/organizations/institutions/Keepers-of-Nil.md
+index 4276d2d..5ada10a 100644
+--- a/organizations/institutions/Keepers-of-Nil.md
++++ b/organizations/institutions/Keepers-of-Nil.md
+@@ -121,17 +121,15 @@ The operative deployed to recover *The Soul of the First* from the vampire house
+ 
+ ### Sorin Dask
+ 
+-*Race: Elf (pre-formalization era, effectively immortal) | Role: Adaptation Lineage Research*
++*Race: Elf (pre-formalization era, effectively immortal) | Role: Historical Lineage Research*
+ 
+-The Keepers' foremost researcher on Adaptation-class Sigil theoretical history. Dask joined the organization after exhausting every institutional research channel for the Adaptation lineage: every thread ended at the Wall, and MOD's zero-engagement policy made that a terminal obstruction rather than a starting point. Within the Keepers, the Wall was the starting point.
++The Keepers' foremost researcher on the historical lineage of innate magical traits. Dask joined the organization after exhausting every institutional research channel for tracking how magical affinity propagates across generations: every thread ended at the Wall, and MOD's zero-engagement policy made that a terminal obstruction rather than a starting point. Within the Keepers, the Wall was the starting point.
+ 
+ Their joining predates several current members and postdates several who are no longer active. They are precise, patient, and occasionally difficult to interrupt when they are working through something.
+ 
+-Dask has spent decades building the theoretical framework for the original gaze-and-sigil architecture — the mutation-magic fusion that produced the first inheritable birth-traits. Their research traces the Adaptation lineage back to the original formula, identifying the structural properties that make Adaptation unique among Sigil progressions: no Absolute tier, a ceiling that the architecture itself refuses. The formula's creator was imprisoned in the Wall. Dask's life's work is understanding what was sealed with him.
++Dask has spent decades building the theoretical framework for the original biological-arcane architecture — the mutation-magic fusion that produced the first inheritable magical traits. Their research traces lineages back to the original formula. The formula's creator was imprisoned in the Wall. Dask's life's work is understanding what was sealed with him.
+ 
+-During the group's first meeting with Sersey's party in Book V, Dask identifies Sersey as a Standard Sigil of Adaptation bearer — a rare but not unprecedented case that falls within the distribution pattern of the original formula's spread. She is not connected to the creator or to the Keepers' research in any way beyond being a documented bearer of a rare Sigil type. The moment is professionally notable but not personally significant. Dask records the observation and continues the discussion.
+-
+-**Cross-Reference:** `systems/sigils/Standard-Sigils.md` — Sigil of Adaptation; `stories/Story-Arcs.md` — Book V: The Wall That Remembers
++**Cross-Reference:** `stories/Story-Arcs.md` — Book V: The Wall That Remembers
+ 
+ ---
+ 
+@@ -142,7 +140,7 @@ The Keepers maintain the most comprehensive private archive on the Wall of Nihil
+ - Pre-Record and early Era documentation of the Wall's first observed and formally recorded appearances
+ - Theoretical analyses from each subsequent era, including material assembled before MOD's zero-engagement classification made institutional research impossible
+ - The complete research branch on *The Soul of the First*, its scroll lineage, and the theoretical implications of its text — both The First Account (the surface narrative of "the First") and The Breach Configuration (the Astrae-accessible divine seals)
+-- Sorin Dask's compiled Adaptation Sigil theoretical history — documented cases, lineage chains, and the original bearer's theoretical profile
++- Sorin Dask's compiled theoretical history of innate magical lineages — documented cases, lineage chains, and the original bearer's theoretical profile
+ - Dimensional approach mapping for the Wall's location and the surrounding void-adjacent pathways, developed in coordination with sources familiar with Dreamveil and Void geography
+ - Intelligence files on MOD's Project Crimson: incomplete but functional, assembled primarily from Carix's operational tracking and House Velmira's institutional access
+ 
+@@ -156,6 +154,6 @@ The archive is not held in a single location.
+ 
+ **Project Crimson:** Competing institutional interest in *The Soul of the First* created the Keepers' most significant recent operational complication. Project Crimson is not aware of the Keepers as a distinct organization. Their appearance in Project Crimson operational reports is as "unknown third party" in the Politics of Blood incident — a designation that has not been upgraded despite Carix's post-operation report being more informative about Project Crimson than the reverse.
+ 
+-**Eternal Guard:** One confirmed interaction on record: the Wall breach operation. Using The Breach Configuration — the divine activation key unlocked by Gaelira from *The Soul of the First* — the Keepers performed a dimensional resonance ritual at the Wall's surface — the culmination of centuries of research. The breach succeeded. A figure emerged. It was not Entity Zero. It was Artem — the original creator of gazes and sigils, imprisoned there by the Higher Ones approximately 3,500 years ago. The Keepers, having believed for centuries that the Wall held Entity Zero, had freed the wrong being. Post-emergence analysis confirmed that the error was shared: the scroll's author had also believed Entity Zero was behind the Wall and had written The First Account through that interpretive lens. The Keepers adopted the same mistaken reading of "the First" — interpreting it as "the First Being" (Entity Zero) rather than "the First [creator]" (Artem). The scroll's author, the Keepers, and every institution that had studied the document were wrong for the same reason, which no one discovered until Artem walked out and said so directly. The Guard intercepted the return party during the subsequent Nihility transit, conducted an assessment that returned non-functional results, and remanded Artem to their jurisdiction. The aftermath is ongoing. Vael made no comment on the encounter afterward beyond what was necessary to resume transit. Whether the Keepers have adjusted their Entity Zero thesis or are simply processing new data is not documented.
++**Eternal Guard:** One confirmed interaction on record: the Wall breach operation. Using The Breach Configuration — the divine activation key unlocked by Gaelira from *The Soul of the First* — the Keepers performed a dimensional resonance ritual at the Wall's surface — the culmination of centuries of research. The breach succeeded. A figure emerged. It was not Entity Zero. It was Artem — the original creator of innate magical traits, imprisoned there by the Higher Ones approximately 3,500 years ago. The Keepers, having believed for centuries that the Wall held Entity Zero, had freed the wrong being. Post-emergence analysis confirmed that the error was shared: the scroll's author had also believed Entity Zero was behind the Wall and had written The First Account through that interpretive lens. The Keepers adopted the same mistaken reading of "the First" — interpreting it as "the First Being" (Entity Zero) rather than "the First [creator]" (Artem). The scroll's author, the Keepers, and every institution that had studied the document were wrong for the same reason, which no one discovered until Artem walked out and said so directly. The Guard intercepted the return party during the subsequent Nihility transit, conducted an assessment that returned non-functional results, and remanded Artem to their jurisdiction. The aftermath is ongoing. Vael made no comment on the encounter afterward beyond what was necessary to resume transit. Whether the Keepers have adjusted their Entity Zero thesis or are simply processing new data is not documented.
+ 
+ **Solaris Vanguard:** Oswin's presence in the Keepers and their origin from the Vanguard is known to Vanguard leadership. The Vanguard has taken no official position.
+diff --git a/organizations/institutions/MOD.md b/organizations/institutions/MOD.md
+index b744f8f..0f9aba6 100644
+--- a/organizations/institutions/MOD.md
++++ b/organizations/institutions/MOD.md
+@@ -36,7 +36,7 @@ MOD's headquarters is a fortified city-scale complex whose precise location and
+ 
+ ### The Hunter Registry
+ 
+-The Registry maintains the active database of all registered hunters: rank, race, arcane affiliation, Amplitude assessment, Gaze and Sigil status, combat record, and breach response history. As of the current registration cycle, the Registry holds approximately 180 million active hunter files. An additional estimated 30–35 million individuals with hunter capabilities operate outside MOD oversight in contested or remote territories; pursuit of registration compliance in those regions is an ongoing Registry enforcement priority.
++The Registry maintains the active database of all registered hunters: rank, race, arcane affiliation, Amplitude assessment, combat record, and breach response history. As of the current registration cycle, the Registry holds approximately 180 million active hunter files. An additional estimated 30–35 million individuals with hunter capabilities operate outside MOD oversight in contested or remote territories; pursuit of registration compliance in those regions is an ongoing Registry enforcement priority.
+ 
+ Registration requires a full assessment of physical and mental Source grades, arcane affinity, and any identified passive abilities. Failure to report a power breakthrough for re-assessment is a sanctionable offense under Registration Code, Section 3.
+ 
+@@ -64,9 +64,9 @@ Field Operations maintains standing records of all active breach perimeters and
+ 
+ The auditing and investigative division. Internal Review's mandate covers compliance verification, conduct investigations on registered hunters and MOD employees, legal proceedings arising from regulatory violations, and procedural review of historical casework when new information is introduced.
+ 
+-Internal Review operates in numbered cycles; each cycle corresponds to a rotating senior caseload period. Maelen Voss held a senior analyst position in Internal Review's 22nd Cycle, producing an unmatched case-resolution record across thirty years before her Senses Sigil status was disclosed following her retirement. The procedural review of her prior casework — not disputing factual outcomes, but auditing identification methodology — has not yet concluded. Internal Review's legal division cites the Voss case as standing precedent on the question of retroactive procedural validity, without a consensus resolution.
++Internal Review operates in numbered cycles; each cycle corresponds to a rotating senior caseload period. Maelen Voss held a senior analyst position in Internal Review's 22nd Cycle, producing an unmatched case-resolution record across thirty years before her innate sensory ability was disclosed following her retirement. The procedural review of her prior casework — not disputing factual outcomes, but auditing identification methodology — has not yet concluded. Internal Review's legal division cites the Voss case as standing precedent on the question of retroactive procedural validity, without a consensus resolution.
+ 
+-**Cross-Reference:** `systems/sigils/Standard-Sigils.md` — Sigil of Senses; `world/history/Modern-Era.md` — The Voss Suppression Case
++**Cross-Reference:** `world/history/Modern-Era.md` — The Voss Suppression Case
+ 
+ ### Dungeon Division
+ 
+@@ -88,21 +88,21 @@ The Registry does not hold independent authority over forbidden magic prosecutio
+ 
+ **Cross-Reference:** `systems/Arcane.md` — MOD Arcane Registry Overview
+ 
+-### Gaze and Sigil Assessment Unit
++### Innate Ability Assessment Unit
+ 
+-The Assessment Unit is one of MOD's largest operational divisions — a necessity in a world where roughly 45 million people carry a Gaze or Sigil. It operates regional registration centers across all major population zones, staffed by a combination of career MOD personnel, contracted specialist evaluators, and cadre of active registered bearers who serve as peer assessors.
++The Assessment Unit is one of MOD's largest operational divisions — a necessity in a world where a significant portion of the population exhibits innate magical or supernatural abilities beyond learned arcane practice. It operates regional registration centers across all major population zones, staffed by a combination of career MOD personnel, contracted specialist evaluators, and cadre of active registered ability-bearers who serve as peer assessors.
+ 
+-**Registration and Evaluation:** All individuals identified as Gaze or Sigil bearers are required to register with the Assessment Unit upon discovery. For Gazes, this includes ability category, tier classification, and an initial Amplitude calibration. Most identifications occur during childhood medical screenings; the Assessment Unit maintains partnerships with pediatric health networks across Hyperion to ensure early detection. Late-life discovery is uncommon but not unheard of, particularly among Dark Elf, Voidling, and unregistered frontier populations.
++**Registration and Evaluation:** All individuals identified as bearing significant innate abilities — racial traits, biological affinities, or supernatural capabilities beyond standard arcane practice — are required to register with the Assessment Unit upon discovery. Registration includes ability category, classification, and an initial Amplitude calibration. Most identifications occur during childhood medical screenings; the Assessment Unit maintains partnerships with pediatric health networks across Hyperion to ensure early detection. Late-life discovery is uncommon but not unheard of, particularly among Dark Elf, Voidling, and unregistered frontier populations.
+ 
+-Sigil bearers occupy a more complex regulatory position — because Sigils are fully passive and cannot be deactivated, enforcement of disclosure is weighted against the bearer's privacy interests. This balance is revisited periodically and is currently the subject of active Internal Review policy debate. The Assessment Unit estimates a significant undercount in Sigil registration, particularly for Standard-tier bearers whose passive enhancements may go unnoticed or unreported for years.
++Practitioners whose abilities are fully passive occupy a more complex regulatory position — because such traits cannot be deactivated, enforcement of disclosure is weighted against the bearer's privacy interests. This balance is revisited periodically and is currently the subject of active Internal Review policy debate. The Assessment Unit estimates a significant undercount in registration, particularly for bearers whose passive enhancements may go unnoticed or unreported for years.
+ 
+-**Operational Scale:** With approximately 1.5 million Supreme Gaze bearers and 750,000 Supreme Sigil bearers on file, the Assessment Unit's monitoring infrastructure is concentrated at the Supreme tier and above, where abilities present meaningful regulatory concern. Standard-tier bearers are largely self-managed after initial registration, with periodic re-evaluation required only upon racial evolution or documented ability escalation. The Assessment Unit employs statistical sampling, automated amplitude flagging via Hexline-network sensor arrays, and mandatory self-reporting requirements as primary oversight mechanisms.
++**Operational Scale:** The Assessment Unit's monitoring infrastructure is concentrated at the higher tiers, where abilities present meaningful regulatory concern. Lower-tier bearers are largely self-managed after initial registration, with periodic re-evaluation required only upon racial evolution or documented ability escalation. The Assessment Unit employs statistical sampling, automated amplitude flagging via Hexline-network sensor arrays, and mandatory self-reporting requirements as primary oversight mechanisms.
+ 
+-**Absolute and Ethereal Tiers:** The Assessment Unit's sealed population files for Absolute and Ethereal tier holders are maintained at a classification level requiring senior Eternal Guard authorization to access. Active file count: approximately 7,500 Absolute-tier cases on record — the vast majority flagged as theoretical, unconfirmed, historical, or deceased. Fewer than 200 are confirmed active bearers with demonstrated operational output at that tier. The X-rank cap of approximately fifty reflects that rank requires sustained, verifiable combat deployment at the Absolute level, not merely bearing an Absolute-tier ability. Many Absolute-tier bearers never reach X-rank due to Source limitations, absence of combat application, or institutional restriction. Ethereal-tier files are numbered in the single digits, all unresolved.
++**Sealed Tier Files:** The Assessment Unit's sealed population files for high-tier ability bearers are maintained at a classification level requiring senior Eternal Guard authorization to access. Active file count: approximately 7,500 high-tier cases on record — the vast majority flagged as theoretical, unconfirmed, historical, or deceased. Fewer than 200 are confirmed active bearers with demonstrated operational output at that tier. The X-rank cap of approximately fifty reflects that rank requires sustained, verifiable combat deployment, not merely bearing a high-tier ability. Many high-tier bearers never reach X-rank due to Source limitations, absence of combat application, or institutional restriction. Top-tier files are numbered in the single digits, all unresolved.
+ 
+ Additionally, MOD operates classified divisions not publicly acknowledged in the Registry. **Project Crimson** — MOD's vampire population control and blood supply regulation operation — exists outside the public organizational chart. Its mandate, personnel, and operational history are maintained at Director-level classification. Cross-reference: `organizations/institutions/Project-Crimson.md`.
+ 
+-**Cross-Reference:** `systems/Gazes.md` — MOD Registry Overview; `systems/Sigils.md` — MOD Classification
++**Cross-Reference:** `systems/Arcane.md` — MOD Arcane Registry Overview
+ 
+ ### Theoretical Research Division
+ 
+@@ -124,7 +124,7 @@ MOD's authority, despite its breadth, operates within hard jurisdictional bounda
+ 
+ - **Civilian trafficking networks:** Unregistered individuals exploited by trafficking syndicates fall outside MOD's formal mandate, which centers on registered hunters and their activities. Local law enforcement has primary authority but frequently lacks institutional resources, funding, and motivation to pursue cases involving victims outside their jurisdiction.
+ 
+-- **Unregistered ability bearers:** Individuals with Gazes, Sigils, or arcane aptitude who do not register with MOD cannot be formally prosecuted for their use — they are classified as civilians in violation of civil law, not MOD regulation. This creates a legal blindspot exploited by trafficking operations employing unregistered Gaze wielders (typically bearing Standard and Supreme-tier Gazes like Seduction, Madness, Binding, Emptiness, and Enchantment) to maintain control chains.
++- **Unregistered ability bearers:** Individuals with innate abilities or arcane aptitude who do not register with MOD cannot be formally prosecuted for their use — they are classified as civilians in violation of civil law, not MOD regulation. This creates a legal blindspot exploited by trafficking operations employing unregistered ability wielders (typically bearing abilities like seduction, madness, binding, emptiness, and enchantment-type effects) to maintain control chains.
+ 
+ - **Cross-jurisdictional trafficking:** Victims transported across regional boundaries encounter inconsistent legal frameworks, disputed enforcement authority, and gaps in institutional cooperation. MOD's ability to coordinate with regional governments on trafficking suppression is limited by political relationships and the reality that several major territories benefit economically from slave trade networks.
+ 
+@@ -136,7 +136,7 @@ MOD's official response has been characterized by low institutional priority des
+ 
+ **Significance for Operations:**
+ 
+-This gap has direct operational consequences. An unregistered Gaze wielder can operate continuously within MOD jurisdiction without identification. An unregistered victim can be held indefinitely by a trafficker operating in jurisdictional gaps. The boundary between MOD authority and civilian jurisdiction — intended as a limit on institutional overreach — functions as a practical immunity for organized trafficking networks.
++This gap has direct operational consequences. An unregistered ability wielder can operate continuously within MOD jurisdiction without identification. An unregistered victim can be held indefinitely by a trafficker operating in jurisdictional gaps. The boundary between MOD authority and civilian jurisdiction — intended as a limit on institutional overreach — functions as a practical immunity for organized trafficking networks.
+ 
+ **Cross-Reference:** `world/history/Modern-Era.md` — The Unregistered Trade Network; `world/Races.md` — Social Status and Exploitation Vectors
+ 
+@@ -152,7 +152,7 @@ MOD regulatory authority operates on a tiered system of disclosed obligations an
+ - Breach notification and reporting for all encounters above D-rank solo thresholds
+ - Essence taxation on Core and Keystone Essence transactions through registered channels
+ - Arcane practitioner registration prior to public practice
+-- Gaze and Sigil disclosure upon MOD identification
++- Innate ability disclosure upon MOD identification
+ 
+ **Sanctionable Offenses** (Field Operations Code):
+ 
+@@ -174,9 +174,9 @@ MOD regulatory authority operates on a tiered system of disclosed obligations an
+ 
+ Several MOD legal and procedural rulings are actively cited in ongoing policy debates without consensus resolution:
+ 
+-- **The Voss Suppression Case** — Whether a Sigil bearer's undisclosed passive ability retroactively compromises the procedural validity of their professional work. Internal Review cites it in both directions. No ruling. *→ `world/history/Modern-Era.md` — The Voss Suppression Case*
++- **The Voss Suppression Case** — Whether an ability bearer's undisclosed passive trait retroactively compromises the procedural validity of their professional work. Internal Review cites it in both directions. No ruling. *→ `world/history/Modern-Era.md` — The Voss Suppression Case*
+ 
+-- **The Compact Defiant Adjudication** — Whether an Absolute Soul Anchoring Sigil constitutes grounds for infernal contract exemption under MOD contract law. Panel ruling: affirmative. Precedent has not been challenged since. *→ `systems/sigils/Absolute-Sigils.md` — Soul Anchoring; `world/history/Second-Era.md` — The Compact Defiant Adjudication*
++- **The Compact Defiant Adjudication** — Whether an innate soul-anchoring ability constitutes grounds for infernal contract exemption under MOD contract law. Panel ruling: affirmative. Precedent has not been challenged since. *→ `world/history/Second-Era.md` — The Compact Defiant Adjudication*
+ 
+ - **The Callax Protocols** — Origin case for MOD classification of Soul Forging as an extinction-level forbidden practice, with practitioners subject to execution on identification rather than trial. Eternal Guard authority invoked at case conclusion. *→ `systems/arcane/Forbidden.md` — Soul Forging; `world/history/Fourth-Era.md` — The Callax Abomination*
+ 
+diff --git a/organizations/institutions/Project-Crimson.md b/organizations/institutions/Project-Crimson.md
+index 3468003..203ed5a 100644
+--- a/organizations/institutions/Project-Crimson.md
++++ b/organizations/institutions/Project-Crimson.md
+@@ -23,7 +23,7 @@ Project Crimson's operational mandate covers four domains:
+ 
+ - **Territorial Containment:** Vampire houses are legally restricted to designated territorial zones. Expansion of house-controlled territory requires Crimson authorization and is reviewed under criteria including local mortal population density, proximity to MOD infrastructure, and the house's compliance history. Unauthorized territorial expansion triggers intervention protocols.
+ 
+-- **Intelligence & Monitoring:** Crimson maintains classified surveillance of all three vampire houses, including embedded operatives in household staff, financial monitoring of house-controlled enterprises, and intelligence-sharing agreements with House Velmira (a fourth, smaller house that operates primarily as an information broker rather than a territorial power). The Dravenmore genealogical registry — the most complete private record of Sigil bearer lineages in existence — is partially funded through Crimson intelligence channels, though Dravenmore does not publicly acknowledge this arrangement.
++- **Intelligence & Monitoring:** Crimson maintains classified surveillance of all three vampire houses, including embedded operatives in household staff, financial monitoring of house-controlled enterprises, and intelligence-sharing agreements with House Velmira (a fourth, smaller house that operates primarily as an information broker rather than a territorial power). The Dravenmore genealogical registry — the most complete private record of magically-gifted lineages in existence — is partially funded through Crimson intelligence channels, though Dravenmore does not publicly acknowledge this arrangement.
+ 
+ ---
+ 
+@@ -31,7 +31,7 @@ Project Crimson's operational mandate covers four domains:
+ 
+ Project Crimson's interest in the scroll *The Soul of the First* is distinct from — and predates — the Keepers of Nil's interest in its Wall-breaching function. Crimson's archival research, conducted in parallel with Dravenmore genealogical studies, identified textual analysis suggesting that the scroll's surface narrative — **The First Account** — may contain the earliest documented reference to vampirism's biological origin.
+ 
+-The theory, held within Crimson's sealed research division but not publicly disclosed, is that vampirism is a stable mutation of Artem's original gaze-sigil architecture — a self-sustaining variant of the biological-arcane bridge that became population-scale through transmission rather than inheritance. If confirmed, this would mean vampires are not a separate species but an expression of the same fundamental architecture that produces Gazes and Sigils. Crimson's interest is in the control implications: if vampirism operates on the same biological-arcane bridge, then it is theoretically susceptible to the same class of intervention. A method that disrupts Gaze function could, with modification, disrupt vampire physiology at its foundation.
++The theory, held within Crimson's sealed research division but not publicly disclosed, is that vampirism is a stable mutation of the same biological-arcane architecture that underlies innate magical affinity — a self-sustaining variant of the bridge between biology and magic that became population-scale through transmission rather than inheritance. If confirmed, this would mean vampires are not a separate species but an expression of the same fundamental architecture that produces magical ability in other races. Crimson's interest is in the control implications: if vampirism operates on the same biological-arcane bridge, then it is theoretically susceptible to the same class of intervention. A method that disrupts innate magical function could, with modification, disrupt vampire physiology at its foundation.
+ 
+ This research is classified above MOD Director level. The Keepers of Nil are not aware of it. The vampire houses suspect it but cannot confirm it.
+ 
+@@ -55,7 +55,7 @@ This is the environment Project Crimson manages. Its purpose is not vampire erad
+ 
+ - **Current Status:** Gaelira's possession of the scroll remains an active Crimson tracking priority. The scroll is now known to have been used in the Modern Era Wall breach operation (see Keepers of Nil), and the being who emerged — Artem — is under Eternal Guard jurisdiction. Crimson has not yet determined whether Artem's emergence changes the scroll's value as a vampire origin document, or whether the Eternal Guard's custody of Artem makes Crimson's research objective obsolete. The question is under active internal review.
+ 
+-- **Dravenmore Connection:** House Dravenmore's genealogical registry — the foundation of Crimson's vampire population tracking capability — is maintained through a funding arrangement that neither party publicly acknowledges. Dravenmore receives institutional support for its Sigil lineage research; Crimson receives the most comprehensive vampire population dataset in existence. The arrangement has persisted across multiple eras. Neither party has ever formalized it in a document that could be subpoenaed by Internal Review.
++- **Dravenmore Connection:** House Dravenmore's genealogical registry — the foundation of Crimson's vampire population tracking capability — is maintained through a funding arrangement that neither party publicly acknowledges. Dravenmore receives institutional support for its innate lineage research; Crimson receives the most comprehensive vampire population dataset in existence. The arrangement has persisted across multiple eras. Neither party has ever formalized it in a document that could be subpoenaed by Internal Review.
+ 
+ ---
+ 
+diff --git a/systems/Arcane.md b/systems/Arcane.md
+index 2d57b35..cad109b 100644
+--- a/systems/Arcane.md
++++ b/systems/Arcane.md
+@@ -19,7 +19,7 @@ Magical aptitude is not innate — any sentient being can learn to practice magi
+ The Monster Oversight Division maintains comprehensive records on all registered spell-casters and arcane practitioners across Hyperion. Registration occurs upon demonstrated competency (typically casting spells consistently at Lesser or Greater tiers) or when a practitioner registers voluntarily for institutional work.
+ 
+ - **Registered Practitioners:** ~45 million active spell-casters tracked by primary school and secondary specialties — approximately 38 million Novice/Apprentice tier, 6 million Journeyman/Adept, 850,000 Expert/Master, and roughly 2,200 practitioners who have received formal Archmage-level recognition
+-- **Amplitude Ratings:** Skill classification from Novice (experimental Lesser spells) to Archmage (masters of Keystone schools). Unlike Gaze amplitude, arcane amplitude reflects measured casting capacity and theoretical knowledge, not mystical power.
++- **Amplitude Ratings:** Skill classification from Novice (experimental Lesser spells) to Archmage (masters of Keystone schools). Unlike arcane amplitude, which reflects measured casting capacity and theoretical knowledge, combat amplitude reflects demonstrated battlefield performance.
+ - **Regulatory Framework:** High-tier practitioners (Keystone school users) require MOD licensing and periodic evaluation. Forbidden magic practitioners are subject to immediate apprehension and termination of citizenship rights.
+ - **Institutional Roles:** Luminancy practitioners in medical and sanctioning operations; Fulminancy specialists in Hexline Tower maintenance; Terra Magic users in infrastructure development; Umbraturgy practitioners subject to enhanced oversight.
+ 
+diff --git a/systems/Cosmology.md b/systems/Cosmology.md
+index f74e6a6..3159727 100644
+--- a/systems/Cosmology.md
++++ b/systems/Cosmology.md
+@@ -92,7 +92,7 @@ This is the tragedy of lordship, when it is a tragedy: the new lord knows what t
+ 
+ Each lord has the authority to appoint messengers — sentient beings who serve as the lord's extra hands in the world. A messenger is typically chosen from among the lord's trusted companions; historical patterns show that newly-transformed lords frequently appoint a lover or best friend as their first messenger, while older lords appoint from among their kingdom's administrative class or promote a champion whose service has impressed them. The appointment is voluntary on both sides; no one can be forced into messengerhood, and a messenger may resign if their lord permits it.
+ 
+-A messenger is marked with a sigil specific to their lord — a physical sign, visible on the body, that identifies them as the lord's representative and grants them access to the lord's lair, kingdom, and resources. The mark also grants the messenger a portion of the lord's power: a messenger of the Lord of Fire can wield fire; a messenger of the Lord of Stone can shape crystal; a messenger of the Lord of the Sea can breathe water and command tides. The portion is significant — a messenger is a dangerous combatant in their own right — but it is not the lord's full power, and a messenger who presumes to challenge their own lord discovers the difference quickly. Messengers are immortal for the duration of their service, aging neither in body nor in mind. They retain their original personality, memories, and free will; they are not slaves, but servants, and a messenger who is treated as a slave frequently finds a way to make their lord regret it.
++A messenger is marked with a physical mark specific to their lord — a visible sign on the body that identifies them as the lord's representative and grants them access to the lord's lair, kingdom, and resources. The mark also grants the messenger a portion of the lord's power: a messenger of the Lord of Fire can wield fire; a messenger of the Lord of Stone can shape crystal; a messenger of the Lord of the Sea can breathe water and command tides. The portion is significant — a messenger is a dangerous combatant in their own right — but it is not the lord's full power, and a messenger who presumes to challenge their own lord discovers the difference quickly. Messengers are immortal for the duration of their service, aging neither in body nor in mind. They retain their original personality, memories, and free will; they are not slaves, but servants, and a messenger who is treated as a slave frequently finds a way to make their lord regret it.
+ 
+ A messenger's service ends in one of three ways. The lord may release them, in which case the mark fades and the powers depart, returning the messenger to mortal status with whatever memories and skills they accumulated during service. The lord may be defeated, in which case the messenger remains in service until the new lord decides whether to keep or release them — a period that can range from moments to years, and which is frequently uncomfortable for all parties. Or the messenger may be killed, which is possible — they are immortal, not invulnerable, and a sufficiently powerful attacker can end them as surely as a sufficiently powerful attacker can end anyone. A killed messenger is gone; the lord may appoint a replacement, but the replacement does not inherit the previous messenger's memories or relationships.
+ 
+diff --git a/systems/Monsters.md b/systems/Monsters.md
+index cbe93ba..672a2a2 100644
+--- a/systems/Monsters.md
++++ b/systems/Monsters.md
+@@ -168,7 +168,7 @@ Holy Monsters present a threat assessment challenge distinct from all other tier
+ Documentation of Holy Monster communication is contested. In three separate historical incidents, individual specimens were reported to have transmitted meaning to hunters — not in language, but as direct impression. None of these accounts are officially credited in the Registry. All three reporting hunters were subject to standard post-encounter psychological evaluation. Results: [Sealed].
+ 
+ **Notable Case — The Irenmere Sentinels** *(Seventh Era)*
+-During the Siege of Irenmere Pass, a pair of Divine Lions were documented in the vicinity of the pass fortifications. Field reports submitted by Valdren Ashcrast's unit note that the lions did not participate in combat but were observed pacing the perimeter of the defensive line throughout the 31-hour engagement. They withdrew immediately upon the siege's conclusion. No engagement was made. MOD classification of the sighting: [Acknowledged — Under Review]. Cross-Reference: *systems/sigils/Standard-Sigils.md — Fortitude, Valdren Ashcrast; world/history/Seventh-Era.md — Siege of Irenmere Pass*.
++During the Siege of Irenmere Pass, a pair of Divine Lions were documented in the vicinity of the pass fortifications. Field reports submitted by Valdren Ashcrast's unit note that the lions did not participate in combat but were observed pacing the perimeter of the defensive line throughout the 31-hour engagement. They withdrew immediately upon the siege's conclusion. No engagement was made. MOD classification of the sighting: [Acknowledged — Under Review]. Cross-Reference: *world/history/Seventh-Era.md — Siege of Irenmere Pass*.
+ 
+ ### Unholy Monsters
+ 
+@@ -228,14 +228,14 @@ Classification: [Sealed]. A Star-Born Horror was documented in the same operatio
+ Monsters that attack directly with psychic energy, causing madness or seizing control of the mind. Psionic Keystone specimens pose a classification challenge unique in the Registry: **hunter assessment post-engagement cannot be considered fully reliable**. All hunters engaging a Mind-tier Keystone specimen are subject to mandatory 72-hour cognitive sequestration and evaluation before any field report is accepted. This protocol was established following an incident in which a post-engagement hunter report was determined, through cross-referencing with external observer accounts, to have been substantially fabricated — not through deliberate dishonesty, but through involuntary memory reconstruction.
+ 
+ **Documented Case — The Sleeper Incident** *(Seventh Era, Ongoing)*
+-Classification: [Sealed — Ongoing Status]. A Psionic Keystone specimen designated The Sleeper is currently the subject of a contained monitoring operation. All Registry details beyond the existence of this designation are sealed at X-rank access. MOD public communication on this matter: none. Cross-Reference: *systems/gazes/Absolute-Gazes.md — Mindscape; world/history/Seventh-Era.md — The Sleeper Incident*.
++Classification: [Sealed — Ongoing Status]. A Psionic Keystone specimen designated The Sleeper is currently the subject of a contained monitoring operation. All Registry details beyond the existence of this designation are sealed at X-rank access. MOD public communication on this matter: none. Cross-Reference: *world/history/Seventh-Era.md — The Sleeper Incident*.
+ 
+ ### Dream/Nightmare — Sandmen, Nightmare Architects
+ 
+-Creatures that attack victims in their sleep, draining mental energy or trapping them in eternal nightmares. Dream Keystone specimens operate almost exclusively in non-physical engagement space. Standard combat protocols are ineffective; hunters engaging Dream specimens report that physical attacks produce inconsistent results, and that the primary battlefield is the hunter's own mental landscape. Engagement teams require at minimum one practitioner with demonstrated psychic resistance or Mindscape-adjacent Gaze classification.
++Creatures that attack victims in their sleep, draining mental energy or trapping them in eternal nightmares. Dream Keystone specimens operate almost exclusively in non-physical engagement space. Standard combat protocols are ineffective; hunters engaging Dream specimens report that physical attacks produce inconsistent results, and that the primary battlefield is the hunter's own mental landscape. Engagement teams require at minimum one practitioner with demonstrated psychic resistance or comparable innate mental capability.
+ 
+ **Documented Case — The Dreaming of Valcrest** *(Fifth Era)*
+-A Nightmare Architect designated Specimen NKS-1 was documented in the Valcrest administrative district following a surge in civilian comatose incidents — individuals who entered sleep and did not wake. Seventeen civilians and three hunters were incapacitated before engagement was achieved. The engaging team consisted of four hunters with varying psychic resistance and one Mindscape Gaze bearer operating as primary combatant. Engagement duration (external): 4 hours, 11 minutes. Engagement duration (subjective, averaged across team): 14 days. Specimen neutralized. All incapacitated civilians recovered, with varying degrees of memory loss. The three hunters did not recover. MOD classification of the hunters' condition: [Permanent Psychic Displacement — Sealed].
++A Nightmare Architect designated Specimen NKS-1 was documented in the Valcrest administrative district following a surge in civilian comatose incidents — individuals who entered sleep and did not wake. Seventeen civilians and three hunters were incapacitated before engagement was achieved. The engaging team consisted of four hunters with varying psychic resistance and one practitioner with demonstrated innate mental capability operating as primary combatant. Engagement duration (external): 4 hours, 11 minutes. Engagement duration (subjective, averaged across team): 14 days. Specimen neutralized. All incapacitated civilians recovered, with varying degrees of memory loss. The three hunters did not recover. MOD classification of the hunters' condition: [Permanent Psychic Displacement — Sealed].
+ 
+ ### Behavior & Essence
+ 
+diff --git a/systems/Power-Sources.md b/systems/Power-Sources.md
+index 1a0a607..96735dc 100644
+--- a/systems/Power-Sources.md
++++ b/systems/Power-Sources.md
+@@ -26,7 +26,7 @@ Powers all bodily functions beyond autonomic processes. This includes:
+ 
+ - Muscular strength, speed, and endurance.
+ - Physical strikes, weapon swings, and acrobatic maneuvers.
+-- The activation and passive function of Sigils (e.g., the enhanced strength from the Sigil of Fortitude, the rapid healing from the Sigil of Vitality).
++- The activation and passive function of innate physical abilities (e.g., the enhanced strength from a Fortitude-type trait, the rapid healing from a Vitality-type trait).
+ - The physical component of spells (e.g., the somatic gestures required for casting, the stamina needed to channel elemental magic).
+ 
+ ### Depletion
+@@ -41,11 +41,11 @@ Recovery is tied to the body's basic biological needs:
+ - **Nutrition:** Consuming food and water provides the raw materials for the body to rebuild its energy reserves. High-energy or magically infused foods can accelerate this process.
+ - **Healing Magic:** Spells like Soothing Touch or Greater Restoration can directly mend the body and jump-start Physical Source recovery, bypassing the need for prolonged rest.
+ 
+-Races with innate physical enhancements (like Vampires or those with Sigils) often have larger Physical Source pools or more efficient restoration rates, allowing them to outlast others in prolonged physical conflict.
++Races with innate physical enhancements (like Vampires or those with innate physical abilities) often have larger Physical Source pools or more efficient restoration rates, allowing them to outlast others in prolonged physical conflict.
+ 
+ ### Documented Anomalous Cases
+ 
+-**Valdren Ashcrast** *(Seventh Era)* — The Irenmere Pass engagement produced the most precisely documented Physical Source endurance record in the Registry: sustained combat-peak Physical Source output maintained for 31 continuous hours. The established theoretical maximum for mortal Physical Source under moderate exertion at the time was 18–22 hours. Ashcrast's Fortitude Sigil is the accepted explanation, though the exact mechanism — whether the Sigil expanded his pool, accelerated real-time restoration, or reduced per-action depletion cost — was not resolved in the post-engagement assessment. The case remains the definitive evidence that Sigil bearers can exceed standard Source limits, not just augment output within them. Cross-Reference: *systems/sigils/Standard-Sigils.md; world/history/Seventh-Era.md*.
++**Valdren Ashcrast** *(Seventh Era)* — The Irenmere Pass engagement produced the most precisely documented Physical Source endurance record in the Registry: sustained combat-peak Physical Source output maintained for 31 continuous hours. The established theoretical maximum for mortal Physical Source under moderate exertion at the time was 18–22 hours. Ashcrast's innate Fortitude-type ability is the accepted explanation, though the exact mechanism — whether the trait expanded his pool, accelerated real-time restoration, or reduced per-action depletion cost — was not resolved in the post-engagement assessment. The case remains the definitive evidence that innate ability bearers can exceed standard Source limits, not just augment output within them. Cross-Reference: *world/history/Seventh-Era.md*.
+ 
+ ---
+ 
+@@ -59,15 +59,15 @@ The power of the mind and spirit. This Source governs willpower, focus, psychic
+ 
+ Powers all abilities that originate from or affect the mind and spirit:
+ 
+-- The activation and use of Gazes (e.g., the psychic intrusion of the Gaze of Inner Thought, the reality-warping perception of the Gaze of Illusion).
+-- Psychic attacks, telekinesis (Gaze of Kinesis), telepathy, and mental domination.
++- The activation and use of innate mental abilities (e.g., the psychic intrusion of an Inner Thought-type trait, the reality-warping perception of an Illusion-type trait).
++- Psychic attacks, telekinesis, telepathy, and mental domination.
+ - The casting of most spells, which require intense mental focus, visualization, and the manipulation of arcane formulae. Even elemental magic requires Mental Source to shape and direct the raw energy.
+ - Spiritual projection (used by Xenysians to enter Dreamveil).
+ - Resistance to mental attacks, illusions, and fear effects.
+ 
+ ### Depletion
+ 
+-Mental Source is drained by concentration, emotional stress, and the use of mentally taxing abilities. A mage casting a complex spell, a Gaze user maintaining constant perception, or someone resisting a powerful psychic assault will feel their Mental Source waning. Depletion leads to mental fatigue, headaches, loss of focus, and eventually, unconsciousness or psychic burnout.
++Mental Source is drained by concentration, emotional stress, and the use of mentally taxing abilities. A mage casting a complex spell, an ability bearer maintaining constant perception, or someone resisting a powerful psychic assault will feel their Mental Source waning. Depletion leads to mental fatigue, headaches, loss of focus, and eventually, unconsciousness or psychic burnout.
+ 
+ ### Restoration
+ 
+@@ -78,7 +78,7 @@ Recovery is an internal, meditative process:
+ - **Emotional Calm:** Being in a state of peace, safety, or profound serenity can passively restore Mental Source. Conversely, stress and fear accelerate its depletion.
+ - **Spiritual Aid:** Communing with benevolent spirits (Nephryx) or receiving blessings from Celestials can provide a direct infusion of Mental Source.
+ 
+-> **Note:** The Gaze of Inner Thought is a notorious Mental Source drain for Sersey, as it forces her mind to constantly process the psychic "noise" of others, leading to chronic migraines and mental exhaustion. Her evolution and gaining control over it is as much about managing her Mental Source as it is about mastering the ability itself.
++> **Note:** Sustained use of innate mental perception abilities is a notorious Mental Source drain, as it forces the bearer's mind to constantly process additional psychic "noise," leading to chronic migraines and mental exhaustion. Gaining control over such abilities is as much about managing Mental Source as it is about mastering the ability itself.
+ 
+ ### Documented Anomalous Cases
+ 
+@@ -102,7 +102,7 @@ The direct application of a Higher One's cosmic function. These are not "spells"
+ - The Creating One channels the Force of Genesis, birthing new stars and laws of physics.
+ - The Judging One imposes the Force of Absolute Truth, compelling universal honesty.
+ - The Observing One utilizes the Force of Record, perfectly archiving all moments across time.
+-- The activation of Absolute Gazes and Absolute Sigils, which are fragments or expressions of these cosmic powers granted to (or stolen by) mortals.
++- The activation of certain cosmic-tier abilities, which are fragments or expressions of these cosmic powers granted to (or stolen by) mortals.
+ 
+ ### Depletion & Restoration
+ 
+@@ -112,7 +112,7 @@ The concept of Entity Zero transcends even the Cosmic Source in scholarly theory
+ 
+ ### Documented Anomalous Cases
+ 
+-**Artem and the Wall of Nihility** *(Ongoing)* — Artem, a baseline human with no documented Gazes or Sigils, survived an extended period inside the Wall of Nihility — a structure that erases everything entering it. The survival has no precedent and no confirmed explanation. Eternal Guard researchers have proposed multiple theoretical frameworks, none verified. The leading hypothesis suggests an interaction between the Wall's erasure architecture and Artem's specific biological state produced a condition in which he ceased to register in reality's targeting framework — existing while absent in the register that the Wall uses to process subjects. This condition is consistent with subsequent observations: instruments designed to detect dimensional presence, Source resonance, and Gaze targets consistently read absence where Artem is visually present. The mechanism by which a baseline human survived a boundary structure that has consumed beings at every tier of the Source gradient remains unresolved. This is considered the most significant open question in Wall of Nihility research, and the case file is fully classified under Eternal Guard authority. Cross-Reference: *systems/sigils/Ethereal-Sigils.md; systems/arcane/Forbidden.md*.
++**Artem and the Wall of Nihility** *(Ongoing)* — Artem, a baseline human with no documented innate abilities, survived an extended period inside the Wall of Nihility — a structure that erases everything entering it. The survival has no precedent and no confirmed explanation. Eternal Guard researchers have proposed multiple theoretical frameworks, none verified. The leading hypothesis suggests an interaction between the Wall's erasure architecture and Artem's specific biological state produced a condition in which he ceased to register in reality's targeting framework — existing while absent in the register that the Wall uses to process subjects. This condition is consistent with subsequent observations: instruments designed to detect dimensional presence, Source resonance, and ability-bearer signatures consistently read absence where Artem is visually present. The mechanism by which a baseline human survived a boundary structure that has consumed beings at every tier of the Source gradient remains unresolved. This is considered the most significant open question in Wall of Nihility research, and the case file is fully classified under Eternal Guard authority. Cross-Reference: *systems/arcane/Forbidden.md*.
+ 
+ ---
+ 
+@@ -131,7 +131,7 @@ Absorption is not automatic. A hunter must be in physical contact with the Fragm
+ The elemental-type residue of Elemental and Divine Monsters. Core Essences interact with both Physical and Mental Source depending on their type:
+ 
+ - **Fire, Frost, Terra, Shock:** Primarily Physical Source supplementation, with secondary effects on the casting aspect of the relevant elemental school. A Pyromancer absorbing a Fire Core Essence experiences both a Physical boost and a temporary reduction in Mental Source cost for fire-aspected casting.
+-- **Radiant, Umbral:** Primarily Mental Source supplementation. Radiant Essences provide clarity and focus; Umbral Essences provide a dulling of psychic noise, which can be beneficial for bearers of perception-type Gazes.
++- **Radiant, Umbral:** Primarily Mental Source supplementation. Radiant Essences provide clarity and focus; Umbral Essences provide a dulling of psychic noise, which can be beneficial for bearers of perception-type abilities.
+ - **Holy, Unholy:** Affect both Sources but include a secondary spiritual component that interacts with the soul. Holy Essences provide a stabilizing effect that can partially resist ongoing Mental Source depletion effects. Unholy Essences are regulated — their necrotic affinity means improper handling can create Source contamination rather than supplementation.
+ 
+ ### Keystone Essences
+@@ -167,7 +167,7 @@ Rank advancement requires demonstrated improvement in both Grades alongside comb
+ | S | IV–V | IV–V |
+ | X | V–VII | V–VII |
+ 
+-Grade assessments are conducted by MOD-certified evaluators using standardized depletion-and-recovery protocols. Anomalous results — Grades that diverge significantly from the hunter's apparent combat performance, or Grades that shift substantially between assessments — trigger additional review. Sigil bearers routinely produce anomalous assessments, as their Sigil-augmented output frequently suggests a Grade higher than their innate pool, while their restoration rates suggest a Grade consistent with their actual innate capacity. This discrepancy is a standard identification signal in the MOD Sigil Registry.
++Grade assessments are conducted by MOD-certified evaluators using standardized depletion-and-recovery protocols. Anomalous results — Grades that diverge significantly from the hunter's apparent combat performance, or Grades that shift substantially between assessments — trigger additional review. Innate ability bearers routinely produce anomalous assessments, as their augmented output frequently suggests a Grade higher than their innate pool, while their restoration rates suggest a Grade consistent with their actual innate capacity. This discrepancy is a standard identification signal in the MOD Assessment Unit.
+ 
+ Source capacity grows slowly over a hunter's career through repeated near-depletion cycles. This growth is not guaranteed — a hunter who never approaches Source exhaustion does not expand their pool. MOD training academies structure advancement programs to deliberately approach (but not reach) Source floor, on a schedule calibrated to the hunter's current Grade and recovery profile.
+ 
+@@ -183,8 +183,8 @@ Standard spellcasting is the most common dual-draw activity: the somatic compone
+ 
+ Other dual-draw systems:
+ 
+-- **Absolute Sigils:** The Soul Anchoring Sigil draws from both Sources to maintain its function during active contract enforcement attempts. The Compact Defiant case suggests this draw is significant but finite — the bearer did not appear to experience Source failure during the adjudication. What sustained the output is not documented.
+-- **Gaze suppression under extreme psychological load:** A bearer actively fighting their own Gaze (suppressing rather than using) draws continuously from Mental Source but produces Physical Source strain through the sustained tension of suppression, particularly over long durations.
++- **Innate soul-anchoring abilities:** The soul-anchoring trait draws from both Sources to maintain its function during active contract enforcement attempts. The Compact Defiant case suggests this draw is significant but finite — the bearer did not appear to experience Source failure during the adjudication. What sustained the output is not documented.
++- **Ability suppression under extreme psychological load:** A bearer actively fighting their own innate ability (suppressing rather than using) draws continuously from Mental Source but produces Physical Source strain through the sustained tension of suppression, particularly over long durations.
+ 
+ ### Cross-Source Failure
+ 
+@@ -200,7 +200,7 @@ Repeated dual-depletion events without sufficient recovery — as in Healer Cass
+ 
+ Physical and Cosmic Sources represent the two poles of a continuous gradient, not a binary distinction. The race hierarchy maps onto this gradient:
+ 
+-**Mortal Races** operate with finite Physical and Mental Sources. Their pools vary by individual and grow through training and near-depletion cycling. The upper bound for mortal Source capacity — absent Sigils, Gazes, or Essence interaction — is Grade VII on both scales. This ceiling is rarely reached; most mortal hunters plateau at Grade IV–V regardless of training.
++**Mortal Races** operate with finite Physical and Mental Sources. Their pools vary by individual and grow through training and near-depletion cycling. The upper bound for mortal Source capacity — absent innate abilities or Essence interaction — is Grade VII on both scales. This ceiling is rarely reached; most mortal hunters plateau at Grade IV–V regardless of training.
+ 
+ **Celestials** possess expanded finite Sources. Their pools operate on the same physical and mental principles but with a higher structural ceiling — the equivalent of a Grade VIII or IX if the current scale extended that far. Celestials still deplete and recover; they do not have infinite endurance. The difference is scale and recovery rate efficiency.
+ 
+@@ -228,4 +228,4 @@ This framing has several implications that MOD scholars have documented under se
+ 
+ - **Whether Entity Zero exists at all is unknown.** No documented interaction with Entity Zero exists in any accessible record. No instrument has detected it. No witness has reported contact. The Eternal Guard's cosmological archives describe the construct as "pre-intentional" — a theoretical state that precedes the distinction between purposeful action and inaction — but the description is noted as speculative. MOD classification of all Entity Zero research: [Sealed — Eternal Guard Authority Only].
+ 
+-**Cross-Reference:** *systems/sigils/Ethereal-Sigils.md; systems/arcane/Forbidden.md*
++**Cross-Reference:** *systems/arcane/Forbidden.md*
+diff --git a/systems/arcane/Echo-Enchantment.md b/systems/arcane/Echo-Enchantment.md
+index 073956c..0e2d970 100644
+--- a/systems/arcane/Echo-Enchantment.md
++++ b/systems/arcane/Echo-Enchantment.md
+@@ -46,7 +46,7 @@ The art of permanently imbuing objects with magical properties. It requires rare
+ - **Spatial Pocket:** Creates a small, extradimensional space within an object (like a bag or ring) for storage.
+ - **Hexline Key:** Allows the wielder to activate personal Hexlines for rapid transit across short distances (within a city).
+ - **Truth of the Observing One:** The enchanted object (often a book or crystal) cannot be altered by any known means; it perfectly records what is spoken to it.
+-- **Gaze-Bound:** An extremely rare and powerful enchantment that binds a lesser version of a Gaze's power to an object, like a crown that grants a weak form of the Gaze of Seduction.
++- **Ability-Bound:** An extremely rare and powerful enchantment that binds a lesser version of an innate ability to an object, like a crown that grants a weak form of a seduction-type ability.
+ 
+ ---
+ 
+@@ -137,10 +137,10 @@ Several forms of magical practice remain unconfirmed, theoretically proposed, or
+ 
+ **Status:** Rumored; no institutional confirmation
+ 
+-**Theoretical Framework:** Anecdotal reports of practitioners influencing dreams, implanting suggestions, or accessing shared dreamscape. Proposed mechanism: targeting the Mindscape Gaze bearer phenomenon rather than external reality.
++**Theoretical Framework:** Anecdotal reports of practitioners influencing dreams, implanting suggestions, or accessing shared dreamscape. Proposed mechanism: targeting the unconscious mind rather than external reality.
+ 
+ **Evidence:** Unverified reports from hunter logs and subjective accounts; no scientific replication.
+ 
+-**Scholarly Debate:** Some theorists align Dream-Weaving with Mindscape Gaze abilities rather than independent magic. Others argue they represent distinct disciplines — one innate, one learned. Further research restricted pending clarification.
++**Scholarly Debate:** Some theorists align Dream-Weaving with innate mental abilities rather than independent magic. Others argue they represent distinct disciplines — one innate, one learned. Further research restricted pending clarification.
+ 
+-**Cross-Reference:** `systems/gazes/Absolute-Gazes.md` — Absolute Gaze of Mindscape; `world/History.md` — The Sleeper Incident (sealed)
++**Cross-Reference:** `world/History.md` — The Sleeper Incident (sealed)
+diff --git a/systems/arcane/Forbidden.md b/systems/arcane/Forbidden.md
+index 4ea304f..2c0f4ef 100644
+--- a/systems/arcane/Forbidden.md
++++ b/systems/arcane/Forbidden.md
+@@ -56,7 +56,7 @@ A theoretical magic. If Nihility is nothingness, Nil Space is the prison for not
+ 
+ ## Shadow Magic (Deep Umbraturgy)
+ 
+-**Discovered:** Third Era, documented case of the Veiled Operations (cross-reference `world/History.md` — The Veiled Operations and `systems/gazes/Standard-Gazes.md` — Gaze of Seduction).
++**Discovered:** Third Era, documented case of the Veiled Operations (cross-reference `world/History.md` — The Veiled Operations).
+ 
+ **Summary:** Three documented practitioners across recorded history attempted communion with Void entities. **Case 1** (Third Era, *Practitioner Astrid Veyne*): possession, entity inhabitation resulted in reality distortion event localized to Ashenveil district, producing approximately four hundred casualties across a three-month active period before Eternal Guard containment. Veyne's body was recovered; the entity was not. **Case 2** (Mid-Era, *Subject Meridian*): partial mutation during uncontrolled Maltheryx-adjacent dimensional exposure. Meridian was retrieved and contained; the mutation to their Psyche structure was not reversible. Active research ongoing under seal. **Case 3** (Modern Era, identity sealed): practitioner attempted sustained Void entity communion using Shadow Magic as the contact medium. Outcome classified at Eternal Guard authority. The sealed file notation reads: *"Contact achieved. Entity designation unresolved. Practitioner status pending."*
+ 
+@@ -92,4 +92,4 @@ The art of tearing a soul apart and using its raw energy to power spells or ench
+ 
+ **Cross-Reference:** `world/History.md` — The Sixth Era Collapse (sealed); `world/Dimensions.md` — Temporal Fracture Zones (restricted access).
+ 
+-Attempting to do what only the Creating One or an Absolute Gaze can do. History records several catastrophes where powerful mages tried to rewrite a single event and instead created unstable parallel timelines that collapsed, causing widespread existential damage.
++Attempting to do what only the Creating One or similarly cosmic beings can do. History records several catastrophes where powerful mages tried to rewrite a single event and instead created unstable parallel timelines that collapsed, causing widespread existential damage.
+diff --git a/systems/arcane/Holy-Unholy.md b/systems/arcane/Holy-Unholy.md
+index cffc925..2620f75 100644
+--- a/systems/arcane/Holy-Unholy.md
++++ b/systems/arcane/Holy-Unholy.md
+@@ -19,7 +19,7 @@ The magic of Luminara, fueled by faith, purity, and the essence of creation. It
+ 
+ - **Saint Meridus the Radiant** (Third Era) — Pioneer of Celestial Luminancy; first documented practitioner of Resurrection outside direct divine intervention. Established the theoretical framework for reanimating souls across dimensional barriers. Posthumously canonized by the Eternal Guard for contributions to mortality studies and resurrection ethics.
+ - **Healer Cassian of the Ashenmoor** (Mid-Era) — Legendary field medic whose mastery of Greater Restoration saved over 3,000 lives during the Ashenmoor Campaigns. Developed rapid-deployment healing protocols still used by MOD emergency response teams.
+-- **Inquisitor Vaughn** (Modern Era) — Anonymous MOD investigator specializing in using Judgment's Gaze spell for guilt-determination interrogations. Amplitude: Supreme. Institutional sanctioning authority.
++- **Inquisitor Vaughn** (Modern Era) — Anonymous MOD investigator specializing in using the Judgment's Gaze spell for guilt-determination interrogations. Amplitude: Supreme. Institutional sanctioning authority.
+ 
+ ### Lesser Luminancy
+ 
+diff --git a/world/Culture.md b/world/Culture.md
+index d535501..0a6e344 100644
+--- a/world/Culture.md
++++ b/world/Culture.md
+@@ -6,7 +6,7 @@ aliases: [Society, Daily Life, Customs]
+ ---
+ # Culture & Daily Life
+ 
+-Hyperion is not only a world of hunters, dungeons, and cosmic hierarchies — it is a world where 15 billion people live ordinary lives, work ordinary jobs, and navigate the specific texture of a society that has adapted to the reality of magic, monsters, and millions of Gaze and Sigil bearers among its population. What follows is an overview of Hyperion's cultural landscape: how people live, what they value, and the rhythms that define daily existence outside the hunter's contract board.
++Hyperion is not only a world of hunters, dungeons, and cosmic hierarchies — it is a world where 15 billion people live ordinary lives, work ordinary jobs, and navigate the specific texture of a society that has adapted to the reality of magic, monsters, and a population that includes magical beings alongside non-magical humans. What follows is an overview of Hyperion's cultural landscape: how people live, what they value, and the rhythms that define daily existence outside the hunter's contract board.
+ 
+ ---
+ 
+@@ -22,7 +22,7 @@ The average urban resident lives in multi-story residential buildings served by
+ 
+ Beyond established settlement perimeters, the world changes. Frontier towns exist in a constant state of low-grade readiness. Buildings are reinforced against monster incursion. Aetheric draw stations are fewer and less reliable. Medical care depends on what the local clinic can manage without a major hospital's Luminancy-trained staff. The hunter presence in frontier regions is heavier — guild outposts, MOD regional offices, and independent contractors working the contracts that urban hunters find inconvenient.
+ 
+-The frontier breeds a specific kind of person: self-reliant, institutionally wary, and accustomed to solving problems without waiting for a response from a regional MOD desk three days' travel away. Frontier communities are tight-knit by necessity. The person who runs the general store is also the person who handles monster carcass processing and the person who knows which unregistered Gaze bearer in the next settlement over can be trusted in an emergency.
++The frontier breeds a specific kind of person: self-reliant, institutionally wary, and accustomed to solving problems without waiting for a response from a regional MOD desk three days' travel away. Frontier communities are tight-knit by necessity. The person who runs the general store is also the person who handles monster carcass processing and the person who knows which unregistered magical practitioner in the next settlement over can be trusted in an emergency.
+ 
+ ### Rural and Agricultural Life
+ 
+@@ -99,7 +99,7 @@ Voidling society is contemplative and minimally hierarchical. They do not mainta
+ 
+ ### The Registry Cycle (All-Region, MOD-Administered)
+ 
+-Twice yearly, MOD regional offices open for mass hunter registration and rank re-assessment. The event has evolved from a bureaucratic necessity into a cultural festival: cities host Registry Fairs with equipment vendors, guild recruitment booths, Essence appraisal stations, and public Gaze and Sigil demonstrations. For non-hunters, the Registry Cycle is a spectator event — a chance to see A-rank and S-rank hunters in person, watch rank-up ceremonies, and participate in the broader hunter culture without being part of it.
++Twice yearly, MOD regional offices open for mass hunter registration and rank re-assessment. The event has evolved from a bureaucratic necessity into a cultural festival: cities host Registry Fairs with equipment vendors, guild recruitment booths, Essence appraisal stations, and public combat demonstrations. For non-hunters, the Registry Cycle is a spectator event — a chance to see A-rank and S-rank hunters in person, watch rank-up ceremonies, and participate in the broader hunter culture without being part of it.
+ 
+ ### The Luminance Festival (Holy Tradition)
+ 
+@@ -115,7 +115,7 @@ When a vampire House admits a new member — whether by birth, turning, or contr
+ 
+ ### The First Contract (Hunter Tradition)
+ 
+-A hunter's first successful solo contract is a rite of passage across all hunter subcultures. The tradition varies regionally: some communities hold a formal ceremony where the hunter's contract token is displayed; others mark it with a tattoo or Sigil-adjacent brand; others simply buy the hunter a drink and acknowledge nothing further. The MOD does not officially recognize the tradition but maintains a "First Contract Registry" — a voluntary record that hunters may opt into, separate from official rank documentation.
++A hunter's first successful solo contract is a rite of passage across all hunter subcultures. The tradition varies regionally: some communities hold a formal ceremony where the hunter's contract token is displayed; others mark it with a tattoo or ceremonial brand; others simply buy the hunter a drink and acknowledge nothing further. The MOD does not officially recognize the tradition but maintains a "First Contract Registry" — a voluntary record that hunters may opt into, separate from official rank documentation.
+ 
+ ### Kitsune Season Festivals
+ 
+@@ -164,37 +164,11 @@ Key technologies:
+ - **Hexline network:** Stabilized Aetheric pathways enabling rapid continental transit. Developed by Archon Dravenmore. Maintained under House Dravenmore's lifetime MOD contract.
+ - **Wave-relay communication:** Long-distance voice and text transmission via radio-arcane hybrid signal networks. Coverage is reliable in settled regions, sparse on frontiers.
+ - **Enchanted appliances:** Domestic and industrial devices enhanced with low-grade enchantment — self-heating cookware, cold-storage units using minor Frost enchantments, water purification using filtration arrays.
+-- **Medical technology:** Mix of conventional medicine, Luminancy-based healing, and Vitalis monitoring equipment. Sigil-informed medical protocols are standard curriculum in medical training.
++- **Medical technology:** Mix of conventional medicine, Luminancy-based healing, and Vitalis monitoring equipment. Practitioner-informed medical protocols are standard curriculum in medical training.
+ 
+ What Hyperion does NOT have: digital computing, the internet, broadcast television, artificial intelligence, space travel (the dimensional hierarchy replaces the need for space-based exploration), or nuclear technology. The civilization's technological path diverged from ours at the point where magic became the more efficient solution to the problems technology was developing to address.
+ 
+ ---
+ 
+-## Gaze & Sigil in Daily Society
+-
+-With approximately 30 million Standard Gaze bearers and 15 million Standard Sigil bearers, these traits are a normal part of Hyperion's social landscape.
+-
+-### Infrastructure and Accommodation
+-
+-Public buildings in most urban centers include Gaze-dampening zones — architecturally designed spaces where psychic-interference Gazes (Inner Thought, Revelation, Spirits) are partially suppressed by embedded dampening materials. These zones are standard in hospitals, schools, government buildings, and courtrooms. Private businesses may choose to install dampening infrastructure or not; establishments that cater to Gaze bearers (social clubs, support networks, specialized medical practices) typically do not.
+-
+-Sigil-informed design is simpler: doorways and corridors are sized for Supremely-enhanced physical capabilities; sports facilities maintain separate divisions for Sigil-bearing competitors; public transit accommodates bearers whose Sigils produce ambient effects (heat from Fortitude exertion, light from active Vitality marks).
+-
+-### Employment and Discrimination
+-
+-Anti-discrimination laws prohibit employers from refusing to hire based on Gaze or Sigil status, but enforcement is inconsistent. A Standard Gaze of Inner Thought bearer applying for a position requiring confidentiality may face unstated resistance. A Sigil of Fortitude bearer applying for delicate manual work may be overqualified in ways that are difficult to litigate. Supreme-tier bearers face the opposite problem in many industries: they are actively recruited, sometimes for positions that do not require their abilities, because the prestige of employing a Supreme bearer carries marketing value.
+-
+-Unregistered Gaze and Sigil bearers — those who never disclosed their trait to MOD — exist at a legal disadvantage. They cannot claim anti-discrimination protection for a trait they have not formally acknowledged, and exposure can trigger mandatory MOD evaluation. The underground economy of unregistered employment is significant, particularly among Voidling, Dark Elf, and frontier populations.
+-
+-### Social Status and Celebrity
+-
+-High-tier Gaze bearers — Supreme and Absolute — occupy a specific social stratum. They are celebrities, strategic assets, and potential threats depending on context. A Supreme Gaze bearer who registers with MOD and pursues guild contracts is treated as a public figure. A Supreme Gaze bearer who does not register attracts institutional attention. The tension between "recognized for exceptional ability" and "monitored for exceptional threat" is a constant feature of Supreme-tier social experience.
+-
+-Standard-tier bearers experience the least institutional pressure but the most daily friction. Their abilities are notable but not strategically significant, which means they receive neither the protections of celebrity nor the anonymity of ordinariness.
+-
+----
+-
+ *→ `world/Overview.md` — World overview and power systems*
+ *→ `world/Races.md` — Race hierarchy and detailed race descriptions*
+-*→ `systems/Gazes.md` — Gaze registry and tier structure*
+-*→ `systems/Sigils.md` — Sigil registry and tier structure*
+diff --git a/world/Dimensions.md b/world/Dimensions.md
+index ef45e2a..f176b1b 100644
+--- a/world/Dimensions.md
++++ b/world/Dimensions.md
+@@ -156,7 +156,7 @@ The most severe recorded Aetheric disruption occurred during the Sixth Era Colla
+ ### Dreamveil (Spirit World)
+ 
+ - **Nature:** Ethereal Spirit World
+-- **Accessibility:** Accessible to spiritual races through meditation, rituals, or spirit projection. Limited access for Spirits and Dream Gaze bearers under documented thresholds.
++- **Accessibility:** Accessible to spiritual races through meditation, rituals, or spirit projection. Limited access for practitioners with demonstrated spiritual perception under documented thresholds.
+ - **MOD Classification:** Monitored (partial operational protocols for Dream-class Keystone events)
+ 
+ Dreamveil is the echo of the mortal world, a misty, ever-shifting landscape where thoughts and memories take form. It is the final resting place for most souls and the home of spiritual beings. The geography of Dreamveil mirrors Hyperion but is distorted by emotion; areas of great joy are vibrant and solid, while places of tragedy are bleak and fractured. Here, spirits like the peaceful Nephryx and the vengeful Maltheryx play out their eternal dramas. The Seraphon walk these mists to heal tormented souls, while the Xenysian project their spirits here to commune with the dead and seek wisdom, always wary of the dangers that lurk in the gloom.
+@@ -167,18 +167,18 @@ Dreamveil functions as the primary transitional state for souls departing Hyperi
+ 
+ The Maltheryx documented in the Ashenveil Shadow case were active in Dreamveil-adjacent space. Whether their manifestation on Hyperion constituted a breach from Dreamveil or originated from within Hyperion's dimensional fabric is a point currently under seal in the Dungeon Division.
+ 
+-**Gaze Bearer Access**
++**Practitioner Access**
+ 
+-Spirits Gaze bearers at sufficient Amplitude can perceive Dreamveil overlaid onto the mortal world without entering it directly. At higher tiers, sustained projection into Dreamveil has been documented in two confirmed cases. Ghastward of Ashenveil, a Sixth Era Spirits Gaze bearer operating as a paranormal investigator, maintained periodic Dreamveil access for over four decades without documented adverse cognitive effects — a duration MOD's Assessment Unit considers anomalous for a mortal-tier bearer.
++Practitioners with sufficient spiritual perception can perceive Dreamveil overlaid onto the mortal world without entering it directly. At higher tiers of mastery, sustained projection into Dreamveil has been documented in two confirmed cases. Ghastward of Ashenveil, a Sixth Era practitioner operating as a paranormal investigator, maintained periodic Dreamveil access for over four decades without documented adverse cognitive effects — a duration MOD considers anomalous for a mortal-tier practitioner.
+ 
+-Dream Gaze bearers experience Dreamveil differently: access appears involuntary during sleep states, with clarity and control scaling with tier. MOD's Assessment Unit classifies Dream Gaze as a monitored-access vector, not an operational one.
++Dream-specialist practitioners experience Dreamveil differently: access appears involuntary during sleep states, with clarity and control scaling with mastery. MOD classifies dream-access techniques as a monitored-access vector, not an operational one.
+ 
+ **Documented Disruption: The Dreaming of Valcrest**
+ 
+ During the Fifth Era, a Dream-class Keystone specimen designated NKS-1 was encountered in the Valcrest region. Seventeen civilians entered comatose states during the engagement period. Three hunters involved in the neutralization attempt were permanently displaced into what post-incident assessment characterized as a Dream-adjacent substrate accessible via the specimen's field. Whether this substrate is a region of Dreamveil, an extension of it, or a separate dimension adjacent to it is unresolved. The displaced hunters are confirmed living by Source readings taken remotely; full recovery has not been achieved. Engagement standards for Dream-class Keystones were revised following this incident.
+ 
+ *→ `world/Races.md` — Nephryx | Maltheryx | Seraphon | Xenysian*
+-*→ `systems/Gazes.md` — Spirits Gaze | Dream Gaze*
++*→ `systems/arcane/Forbidden.md` — Shadow Magic (Deep Umbraturgy)*
+ *→ `world/History.md` — Ghastward of Ashenveil | The Dreaming of Valcrest | Shadow Magic Case II (Maltheryx)*
+ *→ `organizations/Organizations.md` — Dungeon Division*
+ 
+@@ -218,7 +218,7 @@ The Void is not connected to the soul-passage infrastructure of Dreamveil or Mou
+ Umbraxan hunters registered with MOD carry a restricted classification that requires disclosure of Void-affinity abilities under Section 14. The volume of undisclosed Void-adjacent ability use is considered significant by the Assessment Unit; exact figures are not published.
+ 
+ *→ `world/Races.md` — Voidlings | Umbraxans*
+-*→ `systems/Gazes.md` — Void Gaze*
++*→ `systems/Arcane.md` — Forbidden Magic: Nil Space Magic*
+ *→ `organizations/Organizations.md` — MOD Regulatory Framework (Section 14)*
+ 
+ ---
+@@ -237,12 +237,11 @@ Gehenna is a dimension of torment and corruption, a twisted reflection of creati
+ 
+ The primary documented interaction between Hyperion and Gehenna involves the infernal contract system maintained by Devils within Gehenna's bureaucratic structures. These contracts bind mortal souls in exchange for power, longevity, or conditions negotiated at the time of signing. They fall into a jurisdictional gap that MOD has acknowledged but not resolved: the contracts are not prohibited under MOD's Regulatory Framework, but the enforcement mechanism operates through Gehenna's internal systems rather than Hyperion's.
+ 
+-The most significant precedent in this area arose from the Second Era: the case known as the Compact Defiant Adjudication, in which a Devil-signed contract was contested before MOD authorities on the grounds that the bearer's Soul Anchoring Sigil constituted a physical impossibility of contract fulfillment. The MOD panel's ruling — that the Sigil legitimately overrode the contractual obligation — remains the only affirmative ruling in this category. It has not been successfully challenged.
++The most significant precedent in this area arose from the Second Era: the case known as the Compact Defiant Adjudication, in which a Devil-signed contract was contested before MOD authorities on the grounds that the bearer's innate soul-anchoring ability constituted a physical impossibility of contract fulfillment. The MOD panel's ruling — that the ability legitimately overrode the contractual obligation — remains the only affirmative ruling in this category. It has not been successfully challenged.
+ 
+ *→ `world/Races.md` — Devils | Demons*
+ *→ `organizations/Organizations.md` — Institutional Precedents: The Compact Defiant Adjudication*
+ *→ `world/History.md` — The Compact Defiant Adjudication*
+-*→ `systems/Sigils.md` — Absolute Tier: Soul Anchoring*
+ 
+ ---
+ 
+@@ -271,7 +270,7 @@ The relationship between Mournveil and the infernal contract system in Gehenna i
+ 
+ If Mournveil is the library of souls, Memoire is the endless film reel of everything that has ever happened. It is a dimension where every moment, every event, every whispered word and fleeting thought is recorded and stored. The Observing One, Phariah, is its sole curator and occupant, forever watching the endless flow of memories without interaction or judgment. The realm itself is a chaotic, non-linear storm of sensory information — flashing images, echoing sounds, and fragmented sensations from across all of time and space — all perfectly organized and accessible only to its silent warden.
+ 
+-Petitioner attempts to contact Phariah through dimensional projection or Spirits Gaze techniques are documented in older records. None resulted in confirmed contact. MOD's position is that Phariah does not respond, and that what some practitioners interpret as acknowledgment is an artifact of heightened perceptual states near the dimensional boundary.
++Petitioner attempts to contact Phariah through dimensional projection or spiritual perception techniques are documented in older records. None resulted in confirmed contact. MOD's position is that Phariah does not respond, and that what some practitioners interpret as acknowledgment is an artifact of heightened perceptual states near the dimensional boundary.
+ 
+ *→ `world/Races.md` — Higher Ones (The Observing One / Phariah)*
+ *→ `world/History.md` — Pre-Record: Observing One reference*
+@@ -310,7 +309,7 @@ No documented case shows MOD involved in a Nihility imprisonment decision. The k
+ 
+ The Wall of Nihility is a pre-existing boundary structure at the edge of dimensional reality — not constructed by any known entity, not derived from any known power Source. It is the point at which existence itself runs out, the edge of the framework within which all Sources, all dimensions, and all known forms of power operate. Whether it emerged naturally as a boundary condition of dimensional expansion or was put in place by a force that predates the current cosmological order is unknown.
+ 
+-The Higher Ones did not build it. They used it — as a prison for the beings they could not kill and could not leave uncontained. The Keepers of Nil, having spent centuries assembling the means to breach it, performed a dimensional resonance ritual in the Modern Era using The Breach Configuration — the divine activation key unlocked by Gaelira from *The Soul of the First*. The breach succeeded. A figure walked out: Artem — the original creator of gazes and sigils, imprisoned there approximately 3,500 years ago. This is the first and only confirmed case of anything emerging from the Wall. The traditional zero-engagement policy has not been formally revised, but the premise that the Wall cannot be studied has been contradicted by the existence of someone who studied it from the inside.
++The Higher Ones did not build it. They used it — as a prison for the beings they could not kill and could not leave uncontained. The Keepers of Nil, having spent centuries assembling the means to breach it, performed a dimensional resonance ritual in the Modern Era using The Breach Configuration — the divine activation key unlocked by Gaelira from *The Soul of the First*. The breach succeeded. A figure walked out: Artem — the original creator of the biological-arcane architecture that produces innate magical traits, imprisoned there approximately 3,500 years ago. This is the first and only confirmed case of anything emerging from the Wall. The traditional zero-engagement policy has not been formally revised, but the premise that the Wall cannot be studied has been contradicted by the existence of someone who studied it from the inside.
+ 
+ **Research Outcomes and Policy**
+ 
+@@ -320,7 +319,7 @@ The Eternal Guard holds sealed research authority over all Wall-adjacent files.
+ 
+ **Unconfirmed Sighting Record**
+ 
+-One claim of direct Wall observation by a mortal-tier being exists in the record: a sealed report filed with MOD's Theoretical Research Division during the Seventh Era. The claimant identified themselves as an Ethereal-tier Gaze bearer. No corroborating testimony was obtained. The report was accepted into the record, reviewed by Eternal Guard representatives, and sealed. The claimant's subsequent status is not noted in the accessible portion of the file.
++One claim of direct Wall observation by a mortal-tier being exists in the record: a sealed report filed with MOD's Theoretical Research Division during the Seventh Era. The claimant identified themselves as bearing an extremely rare innate ability. No corroborating testimony was obtained. The report was accepted into the record, reviewed by Eternal Guard representatives, and sealed. The claimant's subsequent status is not noted in the accessible portion of the file.
+ 
+ **The Entity Zero Hypothesis**
+ 
+diff --git a/world/History.md b/world/History.md
+index 9955efb..6e6d835 100644
+--- a/world/History.md
++++ b/world/History.md
+@@ -10,7 +10,7 @@ Hyperion's historical record is incomplete by design. The oldest events predate
+ 
+ Events are noted with their institutional status where available. Sealed entries appear with classification tags. Contested entries reflect scholarly disagreement rather than institutional ambiguity.
+ 
+-**Era Note:** The Eastern Era (EE) date system appears in some Gaze and Arcane records as supplementary sourcing (e.g., 264 EE = Mid-Era approximate). Modern MOD documentation uses the Era designation system exclusively.
++**Era Note:** The Eastern Era (EE) date system appears in some Arcane records as supplementary sourcing (e.g., 264 EE = Mid-Era approximate). Modern MOD documentation uses the Era designation system exclusively.
+ 
+ ---
+ 
+@@ -34,15 +34,15 @@ Events are noted with their institutional status where available. Sealed entries
+ 
+ ## Era Summaries
+ 
+-**Cosmological Origins** — Artem creates gazes and sigils; residual substrate contaminates groundwater; Higher Ones imprison him in the Wall of Nihility. Events reconstructed from theoretical sources and the Artem case; no documentary record.
++**Cosmological Origins** — Artem creates the original biological-arcane architecture that produces innate magical traits; residual substrate contaminates groundwater; Higher Ones imprison him in the Wall of Nihility. Events reconstructed from theoretical sources and the Artem case; no documentary record.
+ 
+-**First Era** — Magic transitions from feared aberration to accepted force; gazes and sigils spread through populations along trade routes and river systems; first primitive ability registries appear. No complete documentary record survives; reconstructed from archaeological evidence and registry fragments.
++**First Era** — Magic transitions from feared aberration to accepted force; innate magical traits spread through populations along trade routes and river systems; first primitive ability registries appear. No complete documentary record survives; reconstructed from archaeological evidence and registry fragments.
+ 
+ **Pre-Record** — Events before the Era numbering system. Physical evidence only; no living witnesses. Major events: The Second Weave, Cataclysm of Yggdra, Fracturing of the Eastern Rift, Collapse of the Crimson Tower, First Documentation of the Wall of Nihility.
+ 
+ **Second Era** — First institutional records. The Compact Defiant Adjudication (Soul Anchoring origin case). Establishment of what would become the Keepers of Nil.
+ 
+-**Third Era** — MOD registry formalized. Key events: The Veiled Operations, Shadow Magic Case I (Ashenveil Disturbance), Investigation of Malachar, Terthas Clearseeing (Revelation Gaze), The Dual Sigil Incident, The Ironfield Surge.
++**Third Era** — MOD registry formalized. Key events: The Veiled Operations, Shadow Magic Case I (Ashenveil Disturbance), Investigation of Malachar, Terthas Clearseeing (revelation ability), The Dual Trait Incident, The Ironfield Surge.
+ 
+ **Fourth Era** — The Callax Abomination: Soul Forging Case Origin. Eternal Guard forbidden magic protocols set.
+ 
+@@ -52,6 +52,6 @@ Events are noted with their institutional status where available. Sealed entries
+ 
+ **Sixth Era** — The Sixth Era Collapse: Reality Fabrication Catastrophe (Thessalyn/Korven, 47 timelines, 4,000 km² fracture). The Caldenmere Void Reacher (never neutralized; presumed displaced by Collapse).
+ 
+-**Seventh Era** — Siege of Irenmere Pass (Valdren Ashcrast). The Stormcalm Trials (Kinesis→Omnikinesis evolution). Archon Dravenmore: Hexline System Architecture. The Sleeper Incident (sealed/ongoing).
++**Seventh Era** — Siege of Irenmere Pass (Valdren Ashcrast). The Stormcalm Trials (kinetic ability evolution event). Archon Dravenmore: Hexline System Architecture. The Sleeper Incident (sealed/ongoing).
+ 
+ **Modern Era** — Events within living institutional memory. The Stormstep Operations, The Voss Suppression Case, The Scroll Retrieval Attempt (Keepers of Nil / Gaelira / *The Soul of the First*).
+diff --git a/world/Layers/Layer-Minus-1.md b/world/Layers/Layer-Minus-1.md
+index b664ef1..4967eca 100644
+--- a/world/Layers/Layer-Minus-1.md
++++ b/world/Layers/Layer-Minus-1.md
+@@ -58,7 +58,9 @@ Human-hosted tournaments on Layer 0 — the entertainment-sport variant — are
+ 
+ Layer -1 is governed by four lords, each embodying a fundamental aspect of the layer's character. The four have held their positions for varying lengths of time — the Lord of Stone, the Lord of Decay, and the Lord of the Sea are all original bearers who have never been replaced; the Lord of Fire has been replaced multiple times, the current bearer being the most recent in a succession of ambitious challengers. The contrast between the unreplaced three and the frequently-replaced one is itself a fact about the embodiments: stone, decay, and the sea do not tempt challengers; fire does.
+ 
+-The four lords are not equal in power. The gradient is roughly Stone > Sea > Fire > Decay in terms of raw combat strength, though the rankings shift depending on the terrain and the nature of the engagement. The Lord of Decay is the weakest in direct combat but the most dangerous to challenge, because the transformation price of his embodiment deters all but the most determined challengers. The Lord of Stone is the strongest but the least aggressive; he has never sought conflict with the other three. The Lord of the Sea is the most honorable and the most respected. The Lord of Fire is the most volatile and the most often replaced.
++The four lords are not equal in power. The gradient runs from the Lord of Fire, the weakest, upward through the Lord of Stone and the Lord of Decay to the Lord of the Sea, the strongest of the four. The ranking is not accidental; it reflects the structural role each lord plays on the layer. The Lord of the Sea guards the passage to Layer -2, and the demands of that power require a lord capable of contesting anything that might attempt unauthorized passage in either direction. A weaker Sea Lord would be a liability to the entire layer's trade economy and to the deeper layers' isolation. The gradient scales accordingly: the Lord of Decay, who governs a sparsely-populated and largely avoided territory, needs only to be stronger than what his environment produces; the Lord of Stone, who governs the layer's principal mineral economy, must be stronger still to deter the kind of organized acquisition attempts his wealth invites; and the Lord of Fire, whose kingdom is the most active and most visited of the four, is paradoxically the weakest because the embodiment of fire attracts ambition without producing the corresponding power floor that the other three embodiments establish.
++
++The Lord of Fire is the most volatile and the most often replaced. The Lord of Stone is patient and stable. The Lord of Decay is unreachable, not because he is the strongest but because the transformation price of his embodiment deters all but the most determined challengers. The Lord of the Sea is the most honorable, the most respected, and the most dangerous to challenge — three properties that reinforce each other.
+ 
+ The four lords maintain a loose diplomatic relationship. They are not friends, exactly, but they are neighbors, and they have lived together for a long time. Messengers move between their courts. Alliances shift slowly. Disputes are resolved through tournament champions rather than direct conflict. The arrangement is stable because none of the four has anything to gain from destabilizing it, and because all four are aware that deeper-layer lords take a dim view of layer -1 instability.
+ 
+@@ -78,11 +80,13 @@ The Fire Lord's appearance is distinctive and has been consistent across every b
+ 
+ In combat, the Lord of Fire is aggressive. The embodiment encourages directness; the inherited wisdom of previous bearers argues for overwhelming force. The weapons traditionally associated with the lordship — a pair of ornamental sabers, curved blades forged in the volcano's heat — reflect this style. The sabers are not mere weapons but extensions of the lord's embodiment: they take flame in his hands, conduct heat that would melt conventional steel, and are wielded in patterns that emphasize aggression and directness over defense. The combination of melee ferocity and the Fire Lord's command of his element makes him one of the most dangerous duelists on Layer -1, when he can be induced to fight on his own terms.
+ 
+-The Lord of Fire commands the Obsidian Army — a force of obsidian constructs that defend the Fire Kingdom and the volcano. The Army serves the office, not the bearer; when the lordship transfers, the Army transfers with it. The Army is not unlimited — it is replenished slowly by the lair itself, which produces new constructs over time — but in sufficient numbers it constitutes a strategic deterrent that discourages direct assault on the volcano. The Army does not leave the volcano's perimeter; it is a defensive force, and the lord who would project military force beyond his borders must do so through champions and messengers rather than through his constructs.
++The Lord of Fire commands the Obsidian Army — a force of obsidian constructs that defend the Fire Kingdom and the volcano. The Army serves the power, not the bearer; when the lordship transfers, the Army transfers with it. The Army is not unlimited — it is replenished slowly by the lair itself, which produces new constructs over time — but in sufficient numbers it constitutes a strategic deterrent that discourages direct assault on the volcano. The Army does not leave the volcano's perimeter; it is a defensive force, and the lord who would project military force beyond his borders must do so through champions and messengers rather than through his constructs.
+ 
+ The Lord of Fire's power is not unlimited either. He can create and manipulate fire on a large scale, but sustained exertion at the upper end of his range destabilizes the layer's magical balance. The other Layer -1 lords notice when the Fire Lord pushes too hard; if the imbalance persists, lords from Layer -2 or deeper may intervene. The Fire Lord's fear of deeper-layer intervention is the principal check on his ambition. A Fire Lord who forgot this check would not remain Fire Lord for long; the historical record includes at least two bearers whose reigns ended not at the hands of Layer -1 challengers but at the hands of visitors from below who came up specifically to remove an embarrassment.
+ 
+-The position has been replaced more times than any other lordship on Layer -1. The embodiment of fire attracts ambitious challengers — those who seek power for its own sake, those who believe they can wield fire better than the current bearer, those who want the Obsidian Army and the strategic position it commands. The turnover produces, on average, worse lords: each new bearer inherits the wisdom of his predecessors but also their ambitions, and the inherited wisdom does not always argue against the next aggressive action. The current bearer is recent; how long he will hold the position is an open question, and one that the other three lords watch with studied patience.
++The position has been replaced more times than any other lordship on Layer -1. The reason is structural rather than incidental: the Lord of Fire is the weakest of the four lords, which makes the position the most realistically attainable for an ambitious challenger. Defeating the Lord of Stone requires defeating a patient, mineral-hardened combatant whose lair is the most defensible on the layer; defeating the Lord of Decay requires accepting a transformation price most challengers will not pay; defeating the Lord of the Sea requires defeating the strongest of the four in his own coastal territory, with the Sea Court and the passage to Layer -2 both at stake. Defeating the Lord of Fire requires only that the challenger be stronger than the current bearer — and the current bearer is, by layer standards, the floor.
++
++The embodiment of fire attracts ambitious challengers — those who seek power for its own sake, those who believe they can wield fire better than the current bearer, those who want the Obsidian Army and the strategic position it commands. The turnover produces, on average, worse lords: each new bearer inherits the wisdom of his predecessors but also their ambitions, and the inherited wisdom does not always argue against the next aggressive action. The current bearer is recent; how long he will hold the position is an open question, and one that the other three lords watch with studied patience.
+ 
+ ---
+ 
+@@ -94,7 +98,7 @@ The position has been replaced more times than any other lordship on Layer -1. T
+ **Traditional Weapons:** His fists
+ **Kingdom:** The Crystal Kingdom, built into the mountain's interior and surrounding slopes
+ 
+-The Lord of Stone is the embodiment of stone, crystal, and the mineral wealth of the layer. His lair is the Crystal Caverns — a mountain-interior cave system of remarkable beauty, where crystalline formations grow from floor, ceiling, and walls in patterns that respond to the lord's presence. The caverns are defended by crystal golems — constructs of living stone and crystal that the Lord of Stone creates and controls, and that obey the office of the lord rather than any individual bearer. The golems are not aggressive; they defend the caverns against intrusion and otherwise remain dormant, standing in alcoves and along corridors like statues until they are needed.
++The Lord of Stone is the embodiment of stone, crystal, and the mineral wealth of the layer. His lair is the Crystal Caverns — a mountain-interior cave system of remarkable beauty, where crystalline formations grow from floor, ceiling, and walls in patterns that respond to the lord's presence. The caverns are defended by crystal golems — constructs of living stone and crystal that the Lord of Stone creates and controls, and that obey the power of the lord rather than any individual bearer. The golems are not aggressive; they defend the caverns against intrusion and otherwise remain dormant, standing in alcoves and along corridors like statues until they are needed.
+ 
+ The Lord of Stone's appearance is consistent with his embodiment. His body is made of stone and crystal — not in the sense of being covered by them, but in the sense of being composed of them. His skin is rock-hard; his fists, his primary weapons, are dense crystalline masses capable of shattering conventional armor. He does not wield weapons because he does not need to. He is, in his person, a weapon. The crystal structures embedded in his body pulse with a faint inner light when he is active and dim when he is at rest, and the patterns of the light shift with his mood in ways that the Crystal Kingdom's inhabitants have learned to read.
+ 
+@@ -142,7 +146,7 @@ The Lord of the Sea's appearance is a hybrid of human and fish. The transformati
+ 
+ In temperament, the Lord of the Sea is honorable and merciful. He is the only one of the four Layer -1 lords who regularly grants treasures to visitors without requiring combat. A traveler who approaches the Sea Court with respect and a legitimate request may receive what they ask for, particularly if the request is for something the sea can provide — pearls, coral, sunken treasure, passage across the sea. The Lord of the Sea values courtesy and returns it; he values dishonesty and returns that too, in a different form. Travelers who have lied to the Lord of the Sea and been discovered typically do not lie to him again, and the specifics of what happened to them are not always shared in polite company.
+ 
+-The Lord of the Sea has never been replaced. The reason is different from the reasons that apply to Stone and Decay: it is not that challengers do not want the position, but that challengers do not emerge. The Lord of the Sea is widely respected, widely liked, and widely understood to be doing the job well. A challenger who defeated him would inherit the embodiment and the lair and the Sea Court, but would also inherit the resentment of every being on the layer who depended on the previous lord's honor. The social cost of replacing the Lord of the Sea is, for most potential challengers, not worth the power gained. The few who have considered it seriously have typically concluded that they could not do the job better, and that doing it worse would be catastrophic for the layer's trade economy.
++The Lord of the Sea has never been replaced. The reasons are layered. He is the strongest of the four Layer -1 lords — a structural property of the embodiment, not a property of the current bearer — which makes him the hardest target on the layer by a meaningful margin. He is the guardian of the passage to Layer -2, and that power requires a lord strong enough to contest any being that might attempt unauthorized passage in either direction; a weaker Sea Lord would compromise the layer's trade economy and the deeper layers' carefully maintained isolation. He is widely respected, widely liked, and widely understood to be doing the job well. A challenger who defeated him would inherit the embodiment, the lair, the Sea Court, and the gatekeeping function — but would also inherit the resentment of every being on the layer who depended on the previous lord's honor, and the suspicion of the deeper-layer lords whose isolation the new Sea Lord now controls. The few who have considered challenging him seriously have typically concluded that they could not do the job better, that doing it worse would be catastrophic for the layer, and that the fight itself is unlikely to be winnable.
+ 
+ The Lord of the Sea's most important function is the guardianship of the passage to Layer -2. The passage is located within his lair, and access to it requires his permission. He grants that permission selectively — to champions on commissioned expeditions, to messengers on diplomatic errands, to lords visiting from other layers, and occasionally to particularly determined travelers who have convinced him of their worthiness. The gatekeeping function gives the Lord of Sea significant influence over cross-layer traffic, which he exercises judiciously. He is the principal point of contact between Layer -1 and the deeper layers, and his continued stability is essential to the layer's economy. A Lord of the Sea who denied all passage would starve the champion economy; a Lord of the Sea who granted passage too freely would flood Layer -1 with beings who should not be there. The current lord's calibration of the gatekeeping function is widely regarded as the layer's principal institutional achievement.
+ 
+@@ -156,7 +160,7 @@ Layer -1 is the most accessible of the negative layers and the most densely inte
+ 
+ The layer is not safe. It is not designed to be safe. It is designed to be navigable — by the prepared, the powerful, and the prudent — and to reward those who navigate it successfully. Those who are unprepared, powerless, or imprudent do not return, and the layer does not apologize. The Gates of Shadows exist; MOD regulates them; the lords tolerate them; the trade flows. That is the arrangement, and it has held for longer than any current inhabitant of the layer has been alive.
+ 
+-The four lords have held their positions for varying lengths of time and for varying reasons. Three have never been replaced. One is replaced regularly. The pattern is not a coincidence; it is a property of the embodiments themselves, and of the kind of being each embodiment attracts. Fire attracts ambition. Stone attracts patience. Decay attracts nothing — the position is shunned. The Sea attracts honor. The pattern has held for as long as the four lordships have existed, and is expected to hold for as long as they continue to exist. Whether it will hold indefinitely is a question that the lords themselves do not seem to find interesting, and that no one else is in a position to answer.
++The four lords have held their positions for varying lengths of time and for varying reasons. Three have never been replaced. One is replaced regularly. The pattern is not a coincidence; it is a property of the embodiments themselves, of the structural role each lord plays on the layer, and of the kind of being each embodiment attracts. Fire attracts ambition, and the Lord of Fire is the weakest of the four — the most attainable target for a challenger with more confidence than patience. Stone attracts patience, and the Lord of Stone is strong enough to deter all but the most determined. Decay attracts nothing — the position is shunned, and the Lord of Decay is unreachable by virtue of his transformation price rather than his combat strength. The Sea attracts honor, and the Lord of the Sea is the strongest — the gatekeeper, who must possess the power to contest anything that might attempt the passage to Layer -2. The pattern has held for as long as the four lordships have existed, and is expected to hold for as long as they continue to exist. Whether it will hold indefinitely is a question that the lords themselves do not seem to find interesting, and that no one else is in a position to answer.
+ 
+ ---
+ 
+diff --git a/world/Overview.md b/world/Overview.md
+index 9b2b617..1cfb611 100644
+--- a/world/Overview.md
++++ b/world/Overview.md
+@@ -46,7 +46,7 @@ Between the mortal plane and the divine sit the Spiritual Races — beings whose
+ 
+ ## Mortal Races
+ 
+-On Hyperion's surface, the mortal races build their lives at the intersection of the ancient and the modern. The Astrae — rare Elven offshoots marked with glowing divine sigils — are treated as holy offspring and receive priority MOD Assessment Unit review upon every registration. Elves, born exclusively female from the sacred Trees of Life, live in forest communities where architecture is grown rather than built, their culture valuing preservation and deep-rooted calm above expansion. The Dark Elves, severed from the Trees generations ago, occupy dimensional margins in tight, self-reliant communities; their magical affinity runs toward Umbraturgy and void-adjacent schools rather than their kin's nature enchantments.
++On Hyperion's surface, the mortal races build their lives at the intersection of the ancient and the modern. The Astrae — rare Elven offshoots marked with glowing divine marks — are treated as holy offspring and receive priority MOD review upon every registration. Elves, born exclusively female from the sacred Trees of Life, live in forest communities where architecture is grown rather than built, their culture valuing preservation and deep-rooted calm above expansion. The Dark Elves, severed from the Trees generations ago, occupy dimensional margins in tight, self-reliant communities; their magical affinity runs toward Umbraturgy and void-adjacent schools rather than their kin's nature enchantments.
+ 
+ Humans, lacking innate magic, have mastered Techno-Magic — the fusion of science and arcane engineering that powers Hyperion's cities — and constitute the largest hunter population in the MOD Registry. Arcanians, the magically gifted subset of Humanity, dominate the Arcane Registry and drive magical innovation across a single lifespan's urgency. The Kitsune, free-spirited natives of the wilds with expressive animal ears and a culture built around emotional honesty, appear more often in support and intelligence roles than direct monster engagement. And the Vampires, immortal and powerful, structure their society through three great Houses — the politically entrenched Noctaris, the martial Morvayne, and the scholarly Dravenmore — each wielding centuries of accumulated influence over mortal and institutional life.
+ 
+diff --git a/world/Races.md b/world/Races.md
+index dc30f5a..ff916b0 100644
+--- a/world/Races.md
++++ b/world/Races.md
+@@ -88,13 +88,13 @@ Though the Higher Ones rarely interact with the mortal plane directly, several i
+ 
+ - **The Creating One** has no confirmed direct intervention in recorded history. Its influence is inferred from aspects of Hyperion's development: the emergence of new monster species in response to environmental pressures, the adaptation of the Trees of Life to dimensional contamination, and the apparent resilience of Hyperion's ecosystem to events that should have caused permanent collapse. Whether these represent Creating One action or natural systemic resilience amplified by the Creator's passive influence is unresolved.
+ 
+-- **The Destroying One** is credited with the Cataclysm of Yggdra by several scholarly traditions, though the attribution is contested. The Oblivion Gaze — wielded by the Destroying One — has produced confirmed mortal manifestations (Karthyn the Undoing, three active Eternal Guard cases), suggesting the Destroying One's power channel operates independently of the Destroying One's direct involvement.
++- **The Destroying One** is credited with the Cataclysm of Yggdra by several scholarly traditions, though the attribution is contested. The Destroying One's power channel — the force of Oblivion — has produced confirmed mortal manifestations (Karthyn the Undoing, three active Eternal Guard cases), suggesting the Destroying One's power operates independently of the Destroying One's direct involvement.
+ 
+-- **The Observing One (Phariah)** maintains the archive of Memoire and is the only Higher One whose domain is theoretically accessible to petitioners. Several documented attempts to contact Phariah through dimensional projection or Spirits Gaze techniques are on record. None resulted in confirmed contact. MOD's position is that Phariah does not respond to petitions.
++- **The Observing One (Phariah)** maintains the archive of Memoire and is the only Higher One whose domain is theoretically accessible to petitioners. Several documented attempts to contact Phariah through dimensional projection or spiritual perception techniques are on record. None resulted in confirmed contact. MOD's position is that Phariah does not respond to petitions.
+ 
+ - **The Intervening One** has no confirmed interventions on record but is widely believed — by scholars who track the pattern — to have acted at least twice: once during the Cataclysm of Yggdra, when an unexplained structural preservation occurred at a Tree of Life that should have been destroyed, and once during the Ironfield Surge (Third Era), when the 12,000-monster emergence unexpectedly halted without a corresponding neutralization event. No documentation confirms either attribution.
+ 
+-- **The Balancing One** has no directly attributed interventions, though its influence is inferred from the persistent tendency of asymmetric power concentrations on Hyperion to generate counterbalancing forces — the emergence of the Eternal Guard as a check on Nebular Tyrants, the development of the Null Gaze as a counter to Gaze-based power escalation, and the consistent pattern of institutional overreach producing institutional correction within a single generation.
++- **The Balancing One** has no directly attributed interventions, though its influence is inferred from the persistent tendency of asymmetric power concentrations on Hyperion to generate counterbalancing forces — the emergence of the Eternal Guard as a check on Nebular Tyrants, and the consistent pattern of institutional overreach producing institutional correction within a single generation.
+ 
+ - **The One, The Outer One, The Nonexistent One, The Forgotten One, and The Nameless One** have no confirmed or credibly attributed interventions in mortal-plane records.
+ 
+@@ -173,20 +173,20 @@ Nephryx, Maltheryx, Seraphon, and Xenysian cannot hold standard hunter licenses.
+ 
+ **Middle Races — Standard and Special Registration:**
+ 
+-- **Astrae, Aetherian, Voidling, Elf, Dark Elf:** Standard registration. Astrae receive priority Gaze and Sigil assessment upon registration due to elevated documented incidence of high-tier abilities in their population. Dark Elf registration rates are below average; Assessment Unit files on Dark Elf Gaze bearer incidence are acknowledged internally as incomplete.
++- **Astrae, Aetherian, Voidling, Elf, Dark Elf:** Standard registration. Astrae receive priority assessment upon registration due to elevated documented incidence of high-tier abilities in their population. Dark Elf registration rates are below average; Assessment Unit files on Dark Elf ability bearer incidence are acknowledged internally as incomplete.
+ 
+-**Gaze and Sigil Prevalence Notes:** With 30 million Standard Gaze bearers and 15 million Standard Sigil bearers across Hyperion, the Assessment Unit processes registration at population scale. Gaze identification typically occurs during childhood medical screenings through partnerships with pediatric health networks. The following prevalence patterns are documented in Assessment Unit data:
++**Innate Ability Prevalence Notes:** The Assessment Unit processes registration at population scale. Identification of significant innate abilities typically occurs during childhood medical screenings through partnerships with pediatric health networks. The following prevalence patterns are documented in Assessment Unit data:
+ 
+-- **Astrae:** Highest documented Gaze and Sigil incidence of any Middle or Mortal race. Standard-tier manifestation in approximately 1 in 80 births; Supreme-tier in 1 in 3,000. Astrae hunters with Supreme Gazes are disproportionately represented in S-rank and X-rank files relative to population share.
+-- **Arcanians:** Largest single racial category in the Gaze Registry by volume. Standard Gaze incidence at the population baseline (~1:500), but Supreme Gaze incidence elevated at ~1:7,000. Arcanian practitioners account for the highest volume of Gaze evolution case files in Assessment Unit records.
+-- **Elves:** Above-average Standard Gaze incidence (~1:300), with a documented tendency toward harmony, perception, and spiritual-class Gazes. Elven Gaze bearers who also carry Sigils appear at approximately double the expected rate, a phenomenon under active Assessment Unit study. The Elven Tree archive system provides the most complete multi-millennia Gaze lineage records of any racial institution.
+-- **Dark Elves:** Below-average registration rates, but Assessment Unit sampling suggests Standard Gaze incidence at or above baseline when adjusted for suspected unregistered populations. Binding, Void, and darkness-adjacent Gaze variations predominate. Umbra Shroud affiliation correlates with higher-than-average Supreme-tier incidence among registered Dark Elf hunters.
+-- **Humans:** Largest single racial category in the MOD hunter registry by raw numbers, but Gaze incidence at the population baseline (~1:500). Human Gaze bearers who also develop Sigils are statistically underrepresented relative to other races — the Assessment Unit's position is that Human Source architecture responds to the dual burden less efficiently than longer-lived races.
+-- **Kitsune:** Standard Gaze incidence slightly below baseline (~1:650), but natural social-perception and emotional calibration abilities occasionally flag as Gaze-adjacent during registration review, complicating accurate counts. Echo and enchantment affinity compounds interestingly with certain Gaze types in Assessment Unit monitoring data.
+-- **Voidlings:** Standard Gaze incidence at baseline but extremely low registration compliance. Psychic and dimensional Gaze affinities (Inner Thought, Binding, void-adjacent variations) predominate. Combined with cultural preference for non-disclosure, Voidling Gaze bearers represent the largest estimated unregistered population.
+-- **Vampires:** Gaze and Sigil incidence varies by house. House Dravenmore's genealogical records suggest elevated rates within specific bloodlines maintained through selective partnership practices over centuries. The immortality factor introduces a complication MOD demographers continue to debate: whether apparent elevated incidence reflects genuine biological predisposition or superior multi-century recordkeeping. The strain threshold for Sigil awakening may compound differently across centuries than across decades; House Dravenmore's research on this question is not published.
+-- **Draconians:** Elevated Sigil incidence — attributed theoretically to the Vitalis demands of dual-form physiology — at approximately 1 in 400 births for Standard tier. Dual-form capability assessment introduces registration complexity not present in single-form races.
+-- **Angels and Arch-Angels:** Standard Gaze incidence at baseline, with a documented clustering toward Holy-adjacent Gaze types. Arch-Angel Gaze bearers are rare but exclusively Supreme-tier or above; no Standard Gaze Arch-Angel exists in Assessment Unit records.
++- **Astrae:** Highest documented innate ability incidence of any Middle or Mortal race. Standard-tier manifestation in approximately 1 in 80 births; high-tier in 1 in 3,000. Astrae hunters with high-tier abilities are disproportionately represented in S-rank and X-rank files relative to population share.
++- **Arcanians:** Largest single racial category in the Arcane Registry by volume. Standard ability incidence at the population baseline (~1:500), but high-tier incidence elevated at ~1:7,000. Arcanian practitioners account for the highest volume of ability evolution case files in Assessment Unit records.
++- **Elves:** Above-average Standard ability incidence (~1:300), with a documented tendency toward harmony, perception, and spiritual-class abilities. The Elven Tree archive system provides the most complete multi-millennia lineage records of any racial institution.
++- **Dark Elves:** Below-average registration rates, but Assessment Unit sampling suggests Standard ability incidence at or above baseline when adjusted for suspected unregistered populations. Binding, Void, and darkness-adjacent ability variations predominate. Umbra Shroud affiliation correlates with higher-than-average high-tier incidence among registered Dark Elf hunters.
++- **Humans:** Largest single racial category in the MOD hunter registry by raw numbers, but innate ability incidence at the population baseline (~1:500). Human ability bearers are statistically underrepresented relative to other races — the Assessment Unit's position is that Human Source architecture responds to the dual burden of innate ability and standard training less efficiently than longer-lived races.
++- **Kitsune:** Standard ability incidence slightly below baseline (~1:650), but natural social-perception and emotional calibration abilities occasionally flag as ability-adjacent during registration review, complicating accurate counts. Echo and enchantment affinity compounds interestingly with certain ability types in Assessment Unit monitoring data.
++- **Voidlings:** Standard ability incidence at baseline but extremely low registration compliance. Psychic and dimensional ability affinities (Inner Thought, Binding, void-adjacent variations) predominate. Combined with cultural preference for non-disclosure, Voidling ability bearers represent the largest estimated unregistered population.
++- **Vampires:** Innate ability incidence varies by house. House Dravenmore's genealogical records suggest elevated rates within specific bloodlines maintained through selective partnership practices over centuries. The immortality factor introduces a complication MOD demographers continue to debate: whether apparent elevated incidence reflects genuine biological predisposition or superior multi-century recordkeeping. The strain threshold for ability awakening may compound differently across centuries than across decades; House Dravenmore's research on this question is not published.
++- **Draconians:** Elevated innate ability incidence — attributed theoretically to the Vitalis demands of dual-form physiology — at approximately 1 in 400 births for Standard tier. Dual-form capability assessment introduces registration complexity not present in single-form races.
++- **Angels and Arch-Angels:** Standard ability incidence at baseline, with a documented clustering toward Holy-adjacent ability types. Arch-Angel ability bearers are rare but exclusively high-tier or above; no Standard-tier Arch-Angel exists in Assessment Unit records.
+ - **Vampires:** House-level contracts with MOD predate the current individual registration framework. Vampire hunters register through house affiliation; the three houses (Noctaris, Morvayne, Dravenmore) maintain individual institutional agreements with MOD not published in public regulatory filings. Vampires operating outside house affiliation register as independent contractors with standard requirements plus an infernal-contract disclosure provision.
+ 
+ **Mortal Races — Standard Registration:**
+@@ -266,7 +266,7 @@ The return from projection is not always clean. A Xenysian who projects for too
+ 
+ **Permanent Spirit Awareness:** All Xenysian possess permanent awareness of spirits in their vicinity. This is not a trained skill but a background reality — the spiritual equivalent of peripheral vision. A Xenysian registers spirit density, the presence of trailing entities (ancestral spirits, territorial guardians), and contested spiritual ground the way a Human registers ambient temperature. The awareness is passive but constant, and its psychological toll varies by individual. Xenysian who spend extended periods in high-spirit-density environments — battlefields, ancient burial sites, Dreamveil boundary zones — require regular isolation periods to prevent awareness fatigue, a condition that presents as progressive emotional detachment and difficulty distinguishing physical-world stimuli from spiritual noise.
+ 
+-**MOD Status:** Xenysian occupy a unique position in MOD's registration framework. They cannot hold standard hunter licenses due to their Spiritual race classification, but their projection capability makes them operationally valuable. Contracted Xenysian individuals may hold limited conditional registrations for specific engagement types — typically advisory roles during Unholy breach events, Maltheryx-adjacent hauntings, and dimensional boundary assessments. The conditions of registration include mandatory projection duration limits, mandatory return-threshold monitoring, and a standing requirement that no Xenysian project without a physical-world anchor present. These conditions are enforced by the Assessment Unit, which maintains a separate Xenysian registry distinct from the standard Gaze and Sigil Registry.
++**MOD Status:** Xenysian occupy a unique position in MOD's registration framework. They cannot hold standard hunter licenses due to their Spiritual race classification, but their projection capability makes them operationally valuable. Contracted Xenysian individuals may hold limited conditional registrations for specific engagement types — typically advisory roles during Unholy breach events, Maltheryx-adjacent hauntings, and dimensional boundary assessments. The conditions of registration include mandatory projection duration limits, mandatory return-threshold monitoring, and a standing requirement that no Xenysian project without a physical-world anchor present. These conditions are enforced by the Assessment Unit, which maintains a separate Xenysian registry distinct from the standard ability registry.
+ 
+ Kaelen — the Xenysian member of the Echo Breakers — operates under such a conditional registration. His permanent spirit awareness, combined with his projection capability, makes him uniquely suited to group support and reconnaissance roles where the threats are spiritual rather than physical.
+ 
+@@ -280,7 +280,7 @@ Aetherions are the pinnacle of the Aetherian race, supreme masters of the Aether
+ 
+ Devils are cunning, malevolent beings from Gehenna (Hell) who exclusively appear male. Unlike chaotic demons, devils rely on intellect, manipulation, and infernal contracts. They appear as horned, refined humanoids, often dressed elegantly to deceive and persuade mortals into signing magical pacts that always hide disastrous fine print. They are masters of long-term schemes and political intrigue, thriving on the corruption of souls rather than mindless destruction.
+ 
+-The Compact Defiant Adjudication (Second Era) established the legal precedent that Soul Anchoring Sigil bearers are exempt from infernal contractual provisions — a ruling that arose directly from a Devil house's attempt to enforce a soul extraction contract. The ruling has been cited in contract law forty-three times since and has never been successfully challenged. *→ `world/history/Second-Era.md` — The Compact Defiant Adjudication | `systems/sigils/Absolute-Sigils.md` — Soul Anchoring*
++The Compact Defiant Adjudication (Second Era) established the legal precedent that bearers of innate soul-anchoring abilities are exempt from infernal contractual provisions — a ruling that arose directly from a Devil house's attempt to enforce a soul extraction contract. The ruling has been cited in contract law forty-three times since and has never been successfully challenged. *→ `world/history/Second-Era.md` — The Compact Defiant Adjudication*
+ 
+ ### Arch-Angel
+ 
+@@ -290,7 +290,7 @@ Arch-Angels are the elite warriors of Luminara (Heaven), a superior class of Ang
+ 
+ Draconians are powerful beings with the innate ability to transform into dragons. This is a fixed path of growth; their strength and abilities in both forms are determined by the type of dragon they are linked to (frost, blaze, terra, and others). They cannot naturally progress beyond this form unless they undergo a special transformation to change their type of dragon.
+ 
+-MOD registration requires both forms to be independently assessed for capability. A Draconian whose dragon form substantially exceeds their registered output is subject to re-assessment and rank recalibration; failure to disclose transformation capability is sanctionable under Field Operations Code, Section 14. Physical Sigils manifest in Draconian hunters at higher rates than most other High Races — attributed theoretically to the intensive Vitalis demands of dual-form physiology. *→ `systems/Sigils.md` — Sigil Awakening | `systems/Power-Sources.md` — Physical Source*
++MOD registration requires both forms to be independently assessed for capability. A Draconian whose dragon form substantially exceeds their registered output is subject to re-assessment and rank recalibration; failure to disclose transformation capability is sanctionable under Field Operations Code, Section 14. Physical innate abilities manifest in Draconian hunters at higher rates than most other High Races — attributed theoretically to the intensive Vitalis demands of dual-form physiology. *→ `systems/Power-Sources.md` — Physical Source*
+ 
+ **Culture:** Draconian society is organized around dragon-type lineages — a Draconian identifies by their linked dragon type (Frost, Blaze, Terra, etc.) before they identify by family or region. Dragon-type communities are culturally distinct: Frost Draconians tend toward isolationism and environmental stewardship of cold regions; Blaze Draconians value directness, competition, and demonstrated strength; Terra Draconians are the most institutionally integrated, maintaining stable relationships with MOD, guild structures, and continental governance. Cross-type partnerships are uncommon but not prohibited; children born to such partnerships inherit one parent's dragon type in a mechanism Draconian scholars understand but do not share with non-Draconian researchers. The transformation itself — the shift between humanoid and dragon form — is culturally framed as a natural function rather than a dramatic event; experienced Draconians transform as casually as other races change clothing, and consider non-Draconian fascination with the process mildly amusing.
+ 
+@@ -310,13 +310,13 @@ The Solaris Vanguard maintains documented historical relationships with Angel po
+ 
+ Umbraxans are a variant of the Voidlings, born from the enigmatic Void dimension. They possess a deeper connection to the Void's energies and are more aggressive and powerful than their peaceful predecessors. They are skilled warriors who use the Void's power for combat and manipulation, often venturing into physical worlds to expand their influence or seek resources that strengthen their bond to their dark home.
+ 
+-Umbraxan hunters register under restricted MOD protocols. Their Void-adjacent power profile creates classification overlap with certain Gaze categories that the Assessment Unit monitors actively. Umbra Shroud affiliation among Umbraxan hunters is common and is noted in Registry files without implication. *→ `organizations/Organizations.md` — The Umbra Shroud; MOD Racial Registration Framework*
++Umbraxan hunters register under restricted MOD protocols. Their Void-adjacent power profile creates classification overlap with certain ability categories that the Assessment Unit monitors actively. Umbra Shroud affiliation among Umbraxan hunters is common and is noted in Registry files without implication. *→ `organizations/Organizations.md` — The Umbra Shroud; MOD Racial Registration Framework*
+ 
+ ### Astrae
+ 
+ Astrae are a rare and revered offshoot of Elves, considered holy offspring. They are distinguished by intricate, glowing markings on their faces that signify their divine connection. They possess access to higher-tier magic and celestial crafting techniques beyond the reach of normal Elves, allowing them to create powerful artifacts and commune with divine beings. They are seen as spiritual leaders and prophets within Elven society.
+ 
+-Astrae have the highest documented incidence of Gaze and Sigil manifestation of any mortal or middle race in MOD Assessment Unit records. All Astrae registrations trigger priority review from the Gaze and Sigil Assessment Unit as a matter of standard protocol — not as a sanction, but as a resource allocation the Unit considers too reliably productive to skip. *→ `systems/Gazes.md` — MOD Registry Overview | `systems/Sigils.md` — MOD Classification | `organizations/Organizations.md` — Gaze and Sigil Assessment Unit*
++Astrae have the highest documented incidence of innate magical ability of any mortal or middle race in MOD Assessment Unit records. All Astrae registrations trigger priority review from the Assessment Unit as a matter of standard protocol — not as a sanction, but as a resource allocation the Unit considers too reliably productive to skip. *→ `organizations/Organizations.md` — Innate Ability Assessment Unit*
+ 
+ ### Aetherian
+ 
+@@ -326,17 +326,17 @@ Aetherians are a race closely resembling Humans but with a natural connection to
+ 
+ Voidlings are a peaceful race originating from the Void. They resemble Elves with pointed ears, black hair often tinged with purple, and dark, mysterious eyes. They lack the glowing markings of Umbraxans. Their connection to the Void is used for utilitarian purposes and daily life rather than combat. They are contemplative beings who prefer the serene nothingness of their home dimension, rarely venturing outward and avoiding conflict.
+ 
+-Gaze manifestations in Voidling hunters tend toward psychic and dimensional affinities — Inner Thought, Binding, and occasionally void-adjacent Gaze variations. Combined with their naturally low profile and cultural preference for non-disclosure, Voidling Gaze bearers are among the most likely to go unidentified for extended periods. *→ `systems/Gazes.md` — Gaze Registration*
++Innate magical abilities in Voidling hunters tend toward psychic and dimensional affinities — Inner Thought, Binding, and occasionally void-adjacent variations. Combined with their naturally low profile and cultural preference for non-disclosure, Voidling ability bearers are among the most likely to go unidentified for extended periods.
+ 
+-**Culture:** Voidling society is contemplative and minimally hierarchical. They maintain no formal governance structures — community decisions are reached through extended consensus processes that prioritize thoroughness over speed. Family bonds are expressed through shared silence and proximity rather than verbal communication; a Voidling who spends an afternoon sitting quietly in the same room as a loved one considers this a fully meaningful social interaction. Voidlings who leave the Void for Hyperion (like Lyra) are viewed as unusual but are not judged for it — the Void does not distinguish between temporary absence and permanent departure; it simply remains, and the Voidling's connection to it persists regardless of physical location. Voidling humor is dry, understated, and frequently missed by non-Voidlings, who mistake deadpan delivery for genuine disinterest. Among themselves, Voidlings are more expressive — the shared cultural baseline allows communication through register shifts that non-Voidlings do not detect. Their cultural preference for non-disclosure extends beyond Gaze registration: Voidlings generally do not volunteer personal information, consider direct questions about family or history intrusive, and require significantly longer trust-building periods than most other races.
++**Culture:** Voidling society is contemplative and minimally hierarchical. They maintain no formal governance structures — community decisions are reached through extended consensus processes that prioritize thoroughness over speed. Family bonds are expressed through shared silence and proximity rather than verbal communication; a Voidling who spends an afternoon sitting quietly in the same room as a loved one considers this a fully meaningful social interaction. Voidlings who leave the Void for Hyperion (like Lyra) are viewed as unusual but are not judged for it — the Void does not distinguish between temporary absence and permanent departure; it simply remains, and the Voidling's connection to it persists regardless of physical location. Voidling humor is dry, understated, and frequently missed by non-Voidlings, who mistake deadpan delivery for genuine disinterest. Among themselves, Voidlings are more expressive — the shared cultural baseline allows communication through register shifts that non-Voidlings do not detect. Their cultural preference for non-disclosure extends beyond ability registration: Voidlings generally do not volunteer personal information, consider direct questions about family or history intrusive, and require significantly longer trust-building periods than most other races.
+ 
+ ### Elf
+ 
+ The Elves of Hyperion are a graceful, all-female race born from sacred Trees of Life, the most revered being the Home Tree, Iloni. They are deeply connected to nature and are master enchanters and artisans, known for their longevity and wisdom. Their society is matriarchal and spiritual, centered around the preservation of their forests and the magic that flows through them.
+ 
+-Elven Gaze manifestations historically cluster around harmony, spiritual, and perception-based categories. Several of the most significant Gaze bearers in the historical record are Elven: Karthyn the Undoing (Destruction Gaze, Pre-Record), Serene of the Ashenveil (probable Harmony Gaze, Mid-Era), Ghastward of Ashenveil (probable Spirits Gaze, Mid-Era). Whether this reflects genuinely elevated incidence or the superior recordkeeping of long-lived Elven Tree archives is a question the Assessment Unit has not formally resolved. The Solaris Vanguard's historical composition and culture skew Elven; the guild was founded in the aftermath of the Cataclysm of Yggdra by individuals who had survived it.
++Elven innate magical abilities historically cluster around harmony, spiritual, and perception-based categories. Several of the most significant ability bearers in the historical record are Elven: Karthyn the Undoing (Destruction ability, Pre-Record), Serene of the Ashenveil (probable Harmony ability, Mid-Era), Ghastward of Ashenveil (probable Spirits ability, Mid-Era). Whether this reflects genuinely elevated incidence or the superior recordkeeping of long-lived Elven Tree archives is a question the Assessment Unit has not formally resolved. The Solaris Vanguard's historical composition and culture skew Elven; the guild was founded in the aftermath of the Cataclysm of Yggdra by individuals who had survived it.
+ 
+-The oldest surviving document referencing the Second Weave is held in a sealed archive of an Elven Tree of Life. It has not been made available to MOD. *→ `world/history/Pre-Record.md` — The Second Weave; The Cataclysm of Yggdra | `systems/gazes/Standard-Gazes.md` — Gaze of Harmony; Gaze of Spirits | `organizations/Organizations.md` — Solaris Vanguard*
++The oldest surviving document referencing the Second Weave is held in a sealed archive of an Elven Tree of Life. It has not been made available to MOD. *→ `world/history/Pre-Record.md` — The Second Weave; The Cataclysm of Yggdra | `organizations/Organizations.md` — Solaris Vanguard*
+ 
+ ### Dark Elf
+ 
+@@ -348,11 +348,11 @@ The most significant consequence of this separation is biological. Elves are bor
+ 
+ **Culture:** Dark Elf cultures vary considerably by region and history, but the most consistent throughline is institutional wariness. Communities that survived long-term separation from the Trees typically developed strong internal cohesion and significant caution toward external authorities — including MOD. Dark Elf settlements tend toward defensible, low-profile locations: underground networks, deep forest margins, dimensional border zones. They do not universally seek conflict but have historically operated in spaces where institutional oversight is thin.
+ 
+-**Magical Affinity:** The loss of Tree of Life connection and the environments Dark Elves subsequently occupied produced a shift in magical affinity over generations. Where Elves naturally tend toward nature enchantment, Elven healing, and perceptive magic, Dark Elves more frequently develop ability in Umbraturgy, shadow-adjacent schools, and dimensional manipulation. Gaze manifestations in Dark Elf hunters tend toward Binding, Void, Spirits, and Darkness-adjacent variations — documented as a statistical trend in Assessment Unit data, not a universal trait.
++**Magical Affinity:** The loss of Tree of Life connection and the environments Dark Elves subsequently occupied produced a shift in magical affinity over generations. Where Elves naturally tend toward nature enchantment, Elven healing, and perceptive magic, Dark Elves more frequently develop ability in Umbraturgy, shadow-adjacent schools, and dimensional manipulation. Innate abilities in Dark Elf hunters tend toward Binding, Void, Spirits, and Darkness-adjacent variations — documented as a statistical trend in Assessment Unit data, not a universal trait.
+ 
+-**In Hyperion:** Dark Elves who engage with MOD structures most commonly do so through the Umbra Shroud. The guild's invite-only recruitment, operational secrecy, and specialization in threat categories where Dark Elf abilities are most applicable make the affiliation practical. Dark Elves who register with MOD directly do so at below-average rates; the Assessment Unit's files on Dark Elf Gaze bearer incidence are acknowledged internally as incomplete.
++**In Hyperion:** Dark Elves who engage with MOD structures most commonly do so through the Umbra Shroud. The guild's invite-only recruitment, operational secrecy, and specialization in threat categories where Dark Elf abilities are most applicable make the affiliation practical. Dark Elves who register with MOD directly do so at below-average rates; the Assessment Unit's files on Dark Elf ability bearer incidence are acknowledged internally as incomplete.
+ 
+-*→ `world/Races.md` — Elf; Astrae | `organizations/Organizations.md` — The Umbra Shroud | `systems/arcane/Holy-Unholy.md` — Umbraturgy | `systems/Gazes.md` — Gaze Registration*
++*→ `world/Races.md` — Elf; Astrae | `organizations/Organizations.md` — The Umbra Shroud | `systems/arcane/Holy-Unholy.md` — Umbraturgy*
+ 
+ ### Vampire
+ 
+@@ -360,11 +360,11 @@ Vampires are an immortal race sustained by consuming blood, which grants them en
+ 
+ **House Noctaris** functions as a manipulative aristocracy — patient, politically entrenched, preferring to rule through economic and informational leverage rather than direct force. They have infiltrated political and corporate structures across Hyperion over centuries and are the most institutionally opaque of the three houses.
+ 
+-**House Morvayne** builds and maintains power through demonstrated force. They take contracts, hold territory, and make their presence known. The Third Era Dual Sigil Incident involved a Morvayne vassal — the only confirmed case of dual-Sigil coexistence in documented history. Valdren Ashcrast declined a Morvayne contract offer following the Siege of Irenmere Pass. Both records suggest Morvayne actively acquires exceptional individuals. *→ `world/history/Third-Era.md` — The Dual Sigil Incident | `world/history/Seventh-Era.md` — Siege of Irenmere Pass*
++**House Morvayne** builds and maintains power through demonstrated force. They take contracts, hold territory, and make their presence known. The Third Era Dual Trait Incident involved a Morvayne vassal — the only confirmed case of dual innate-ability coexistence in documented history. Valdren Ashcrast declined a Morvayne contract offer following the Siege of Irenmere Pass. Both records suggest Morvayne actively acquires exceptional individuals. *→ `world/history/Third-Era.md` — The Dual Trait Incident | `world/history/Seventh-Era.md` — Siege of Irenmere Pass*
+ 
+-**House Dravenmore** are mystic scholars, focused on understanding and perfecting the vampire condition through research. Their genealogical registry of Sigil bearers is the most complete private record in existence. Archon Dravenmore — the preeminent Spatial Magic practitioner of the Seventh Era, architect of the Hexline System, and the only individual to hold a lifetime MOD contract — was a Dravenmore vampire. Their institutional relationship with MOD's Assessment Unit, though not in any public document, has persisted across multiple eras. *→ `organizations/Organizations.md` — House Dravenmore | `world/history/Seventh-Era.md` — Archon Dravenmore: Hexline System Architecture*
++**House Dravenmore** are mystic scholars, focused on understanding and perfecting the vampire condition through research. Their genealogical registry of magically-gifted lineages is the most complete private record in existence. Archon Dravenmore — the preeminent Spatial Magic practitioner of the Seventh Era, architect of the Hexline System, and the only individual to hold a lifetime MOD contract — was a Dravenmore vampire. Their institutional relationship with MOD's Assessment Unit, though not in any public document, has persisted across multiple eras. *→ `organizations/Organizations.md` — House Dravenmore | `world/history/Seventh-Era.md` — Archon Dravenmore: Hexline System Architecture*
+ 
+-Vampire immortality interacts with the Sigil and Gaze manifestation timeline in ways that are not fully understood. The strain threshold for Sigil awakening may compound differently across centuries than across decades. House Dravenmore's research on this question is not published. *→ `systems/Sigils.md` — Sigil Strain | `systems/Power-Sources.md` — Physical Source*
++Vampire immortality interacts with the awakening timeline of innate magical abilities in ways that are not fully understood. The strain threshold for ability awakening may compound differently across centuries than across decades. House Dravenmore's research on this question is not published. *→ `systems/Power-Sources.md` — Physical Source*
+ 
+ ### Arcanian
+ 
+@@ -380,7 +380,7 @@ Kitsune are a charismatic race native to the wilds of Hyperion, resembling Human
+ 
+ **Tails and Growth:** Kitsune are born with three tails. At significant life milestones — mastery of a craft, survival of a defining trial, or profound emotional transformation — additional tails manifest in sets of three. Six-tailed Kitsune possess noticeably enhanced pheromones and a naturally more striking, ethereal appearance. Nine-tailed Kitsune are vanishingly rare — fewer than two hundred are documented in MOD's files. Their pheromones are potent enough to influence entire crowds, though most learn to suppress this. Their tails can be used for practical magic: shielding, spellcasting amplification, and manipulation of ambient energy. The ninth tail in particular is understood within Kitsune tradition to represent something specific, though Kitsune do not explain the significance to non-Kitsune.
+ 
+-Kitsune register with MOD at standard rates but rarely pursue Dungeon-focused hunting as a primary career. They appear more commonly in support, intelligence, and civilian-adjacent contract roles. Their natural affinity for social perception and emotional calibration — occasionally flagged as Gaze-adjacent by the Assessment Unit during registration review — makes them effective in contexts that do not require direct monster engagement.
++Kitsune register with MOD at standard rates but rarely pursue Dungeon-focused hunting as a primary career. They appear more commonly in support, intelligence, and civilian-adjacent contract roles. Their natural affinity for social perception and emotional calibration — occasionally flagged as ability-adjacent by the Assessment Unit during registration review — makes them effective in contexts that do not require direct monster engagement.
+ 
+ **Culture:** Kitsune social structures are the most fluid of any major race on Hyperion. Pair-bonding is common but rarely formalized into permanent legal arrangements; children are raised communally within extended social groups that form and reform organically as relationships shift. A Kitsune's "family" is defined by current emotional proximity rather than legal or blood connection — the people she is currently choosing to be with, not the people she is obligated to remain with. This fluidity often creates friction in cross-racial relationships, particularly with Humans and Elves, whose family structures are more legally and biologically defined. Performance arts — music, dance, storytelling — are central to Kitsune cultural identity; the ability to hold an audience's attention through presence rather than technique is considered a fundamental social skill. Nine-tailed Kitsune (like Nyari) are rare and culturally significant — the ninth tail is understood within Kitsune tradition to represent something specific, though Kitsune do not explain the significance to non-Kitsune. Kitsune festivals are seasonal, unprogrammed, and open to all — the hallmark is the absence of formal structure, with events emerging organically as individuals decide to perform, cook, dance, or simply be present.
+ 
+@@ -388,6 +388,6 @@ Kitsune register with MOD at standard rates but rarely pursue Dungeon-focused hu
+ 
+ Humans are the technologically adept race of Hyperion, lacking innate magic but mastering science and engineering to an unmatched degree. Their crowning achievement is Techno-Magic, a fusion of technology and arcane energy that powers their cities, vehicles, and weapons. Their ambition, adaptability, and innovative spirit have made them a major political and economic force, though they often rely on magical races like Arcanians or Angels to deal with supernatural threats.
+ 
+-By raw numbers, Humans constitute the largest registered hunter population in MOD's Registry. The Techno-Magic advantage equalizes capability gaps against magically superior races in many engagement scenarios: well-equipped Human hunters regularly operate at ranks that pure biological assessment would not predict. Their shorter lifespans compared to most other races produce a distinctive career arc — faster advancement windows and a cultural relationship with risk that diverges significantly from longer-lived races. Valdren Ashcrast is the most widely cited Human hunter in MOD's Sigil identification training materials. *→ `world/history/Seventh-Era.md` — Siege of Irenmere Pass | `systems/sigils/Standard-Sigils.md` — Sigil of Fortitude*
++By raw numbers, Humans constitute the largest registered hunter population in MOD's Registry. The Techno-Magic advantage equalizes capability gaps against magically superior races in many engagement scenarios: well-equipped Human hunters regularly operate at ranks that pure biological assessment would not predict. Their shorter lifespans compared to most other races produce a distinctive career arc — faster advancement windows and a cultural relationship with risk that diverges significantly from longer-lived races. Valdren Ashcrast is the most widely cited Human hunter in MOD's innate ability identification training materials. *→ `world/history/Seventh-Era.md` — Siege of Irenmere Pass*
+ 
+ **Culture:** Human society is the most politically and culturally varied on Hyperion, spanning city-states, regional federations, and independent territories with distinct legal traditions. The dominant political structure across Human-majority regions is representative governance — elected councils, mayoral systems, and parliamentary bodies — though significant variation exists. Human culture places high value on innovation, individual achievement, and social mobility; the concept that one's birth should not determine one's ceiling is a distinctly Human value that shapes everything from education policy to hunter recruitment. Humans marry across racial lines more frequently than any other race, producing Half-Elves (Elf-Human pairings, like Sersey), Half-Kitsune (increasingly common in mixed-settlement regions), and other hybrid populations. Hybrid individuals face varying degrees of social acceptance depending on the specific pairing and regional cultural norms; Half-Elves raised in Elven communities, in particular, occupy a liminal social space that is neither fully included nor fully excluded.
