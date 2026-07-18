@@ -187,6 +187,7 @@
   "active": "c04ca0005e03e3bd",
   "lastOpenFiles": [
     "foe-remove-gazes-sigils (1).patch",
+    "foe-undergates-rename.patch",
     "world/Layers/Layer-Minus-1.md",
     "world/Layers",
     "systems/Cosmology.md",
@@ -220,7 +221,6 @@
     "assets",
     "organizations/guilds",
     "organizations/institutions",
-    "stories/politics-of-blood",
-    "stories/nyaris-rise-of-fame"
+    "stories/politics-of-blood"
   ]
 }

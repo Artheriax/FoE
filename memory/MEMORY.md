@@ -41,7 +41,7 @@ aliases: [AI Rulebook, State Tracker, Core Memory]
 
 - **Layer 0:** Material universe (Hyperion + other worlds)
 - **Layer +N:** Dimensions outside the universe (Luminara, Gehenna, Dreamveil, The Void, etc.). Not all have lords.
-- **Layer -N:** Strata deeper within the universe. Deeper = darker, more powerful, more valuable, fewer sane visitors. Gates of Shadows = canonical entrances to Layer -1.
+- **Layer -N:** Strata deeper within the universe. Deeper = darker, more powerful, more valuable, fewer sane visitors. The Undergates = canonical entrances to Layer -1.
 - See `systems/Cosmology.md` for full system rules and `world/Layers/Layer-Minus-1.md` for the first negative layer.
 
 ---

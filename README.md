@@ -53,6 +53,6 @@ Worldbuilding documentation for *Fragments of Eternity*, a fantasy RPG setting b
 
 Power flows from three **Sources**: the body (Vitalis), the mind (Psyche), and for the Higher Ones only, the cosmos itself (Aeterium).
 
-The cosmos is structured as a **layered universe**: Layer 0 (the material universe), Layer +N (dimensions outside the universe — Luminara, Gehenna, Dreamveil, etc.), and Layer -N (strata deeper within the universe — accessible through the Gates of Shadows). Each layer may have **lords** who embody concepts or elements; lords can be challenged, and their successors inherit their souls and embodiment.
+The cosmos is structured as a **layered universe**: Layer 0 (the material universe), Layer +N (dimensions outside the universe — Luminara, Gehenna, Dreamveil, etc.), and Layer -N (strata deeper within the universe — accessible through the Undergates). Each layer may have **lords** who embody concepts or elements; lords can be challenged, and their successors inherit their souls and embodiment.
 
 At the top of existence sit the **Higher Ones** — cosmic forces of creation, destruction, judgment, and more, classified as Upper Lords on the positive layers. Above even them is the mystery of **Entity Zero**, whose origin is deeper than the laws of reality itself.

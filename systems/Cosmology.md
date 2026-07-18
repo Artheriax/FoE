@@ -32,7 +32,7 @@ The distinction between a + layer and a − layer is not moral. It is positional
 
 ### Layer -N — Strata Deeper Within the Universe
 
-Negative layers are not outside the universe; they are inside it, in the same way that the deep web is inside the internet. They are ever-present but not visible from Layer 0, accessible only through specific passages — the most famous of which are the Gates of Shadows, the canonical entrances to Layer -1. Deeper layers are progressively darker, more dangerous, and more powerful. The inhabitants are stronger. The artifacts are more valuable. The lords are older, more settled into their embodiments, and less tolerant of visitors.
+Negative layers are not outside the universe; they are inside it, in the same way that the deep web is inside the internet. They are ever-present but not visible from Layer 0, accessible only through specific passages — the most famous of which are the Undergates, the canonical entrances to Layer -1. Deeper layers are progressively darker, more dangerous, and more powerful. The inhabitants are stronger. The artifacts are more valuable. The lords are older, more settled into their embodiments, and less tolerant of visitors.
 
 The messengers and champions who make their living in the deeper strata are a small and specific population, and their services are priced accordingly.
 
@@ -40,13 +40,13 @@ The "deeper = stronger" gradient is not arbitrary. It is a documented structural
 
 ---
 
-## Gates of Shadows
+## The Undergates
 
-The Gates of Shadows are the canonical passages between Layer 0 and Layer -1. They are not the only passages — there are smaller, less stable routes used by experienced traders and desperate smugglers — but they are the only passages whose use is sanctioned, monitored, and taxed by MOD. Each Gate is a physical structure on the Layer 0 side (typically a standing stone arch in a remote location, marked by wards that identify it to those who know what they are looking for) and a metaphysical threshold on the Layer -1 side. Crossing through a Gate requires either MOD descent licensing, a lord's mark of passage, or sufficient power to ignore the institutional framework entirely. The last option is inadvisable for anyone who plans to return.
+The Undergates are the canonical passages between Layer 0 and Layer -1. They are not the only passages — there are smaller, less stable routes used by experienced traders and desperate smugglers — but they are the only passages whose use is sanctioned, monitored, and taxed by MOD. Each Undergate is a physical structure on the Layer 0 side (typically a standing stone arch in a remote location, marked by wards that identify it to those who know what they are looking for) and a metaphysical threshold on the Layer -1 side. Crossing through an Undergate requires either MOD descent licensing, a lord's mark of passage, or sufficient power to ignore the institutional framework entirely. The last option is inadvisable for anyone who plans to return.
 
-The Gates are old. Their architects are unknown. MOD maintains that they are natural dimensional weak points that have been reinforced for safe passage; older research organizations with a historical interest in cross-layer structure maintain that the Gates were built deliberately by parties whose identity has been erased from accessible record. The question is unresolved and MOD has no official position beyond the practical: the Gates work, and that is enough.
+The Undergates are old. Their architects are unknown. MOD maintains that they are natural dimensional weak points that have been reinforced for safe passage; older research organizations with a historical interest in cross-layer structure maintain that the Undergates were built deliberately by parties whose identity has been erased from accessible record. The question is unresolved and MOD has no official position beyond the practical: the Undergates work, and that is enough.
 
-A traveler crossing through a Gate experiences the transition as a momentary darkness — a brief absence of sensation, longer than a blink, shorter than a breath — followed by the environment of the destination layer. The transition is disorienting the first few times; experienced travelers barely notice it. The Gates are bidirectional but not symmetric: the descent is smooth, the ascent is harder, and a traveler carrying heavy artifacts or wounded companions may find the return crossing significantly more taxing than the outbound one. MOD maintains medical and recovery facilities at each Gate's Layer 0 side for exactly this reason.
+A traveler crossing through an Undergate experiences the transition as a momentary darkness — a brief absence of sensation, longer than a blink, shorter than a breath — followed by the environment of the destination layer. The transition is disorienting the first few times; experienced travelers barely notice it. The Undergates are bidirectional but not symmetric: the descent is smooth, the ascent is harder, and a traveler carrying heavy artifacts or wounded companions may find the return crossing significantly more taxing than the outbound one. MOD maintains medical and recovery facilities at each Undergate's Layer 0 side for exactly this reason.
 
 ---
 
