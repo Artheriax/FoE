@@ -75,15 +75,6 @@ Governing this dangerous world of hunters and monsters is the Monster Oversight 
 
 ---
 
-## Gazes and Sigils
-
-A person's potential is not defined by race alone. Some are born with Sigils, physical marks that enhance their bodies to superhuman levels, from the Standard Sigils of Agility and Fortitude to the Ethereal tier. Others carry Gazes, innate ocular abilities of immense power ranging from the Gaze of Destruction to the Gaze of Binding. With roughly 30 million Standard Gaze bearers and 15 million Standard Sigil bearers across Hyperion, these traits are a familiar part of daily life — about as common as distinct birthmarks. Most families know someone with a Gaze or Sigil. Schools run separate athletic divisions for Sigil-bearing children. Public buildings include Gaze-dampening zones as standard architectural practice. The MOD's Assessment Unit, one of the institution's largest divisions, maintains regional registration centers across all major population zones. Absolute and Ethereal Gazes exist at the edge of institutional acknowledgment — the subject of sealed files, scholarly debate, and Eternal Guard authority.
-
-*→ `systems/Sigils.md` — Standard through Ethereal Tiers | MOD Classification*
-*→ `systems/Gazes.md` — Standard through Ethereal Tiers | MOD Registry Overview*
-
----
-
 ## Travel and Exploration
 
 The vastness of Hyperion is navigated via Hexlines, a system of magical fast travel developed by Archon Dravenmore and maintained under a lifetime MOD contract — the only such agreement in the Registry's history. Those seeking power often form Guilds and small Strike Teams to tackle dungeons, the mysterious sources from which monsters spawn. For blessings and boons, many turn to Temples dedicated to the Celestials or Primordials, whose favor can grant specific enhancements.
