@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "world/Races.md",
+                "file": "world/Layers/Layer-Minus-3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Races"
+              "title": "Layer-Minus-3"
             }
           }
         ]
@@ -186,9 +186,15 @@
   },
   "active": "c04ca0005e03e3bd",
   "lastOpenFiles": [
+    "world/Layers/Layer-Minus-2.md",
+    "world/Layers/Layer-Minus-1.md",
+    "world/Layers/Layer-Minus-3.md",
+    "world/Dimensions.md",
+    "world/Culture.md",
+    "world/Overview.md",
+    "world/Races.md",
     "foe-remove-gazes-sigils (1).patch",
     "foe-undergates-rename.patch",
-    "world/Layers/Layer-Minus-1.md",
     "world/Layers",
     "systems/Cosmology.md",
     "v6/README.md",
@@ -211,16 +217,10 @@
     "stories/characters/Thorne.md",
     "stories/characters/Sersey.md",
     "stories/characters/Rook.md",
-    "stories/characters/Nyari.md",
-    "stories/characters/Lyra.md",
-    "stories/characters/Kaelen.md",
-    "stories/characters/Gaelira.md",
-    "stories/characters/Artem.md",
     "assets/maps",
     "assets/images",
     "assets",
     "organizations/guilds",
-    "organizations/institutions",
-    "stories/politics-of-blood"
+    "organizations/institutions"
   ]
 }

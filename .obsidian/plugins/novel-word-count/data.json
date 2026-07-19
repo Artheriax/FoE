@@ -68,105 +68,433 @@
     "debugMode": false
   },
   "cachedCounts": {
+    "world/Races.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 8971,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 29.903333333333332,
+      "characterCount": 64203,
+      "nonWhitespaceCharacterCount": 54397,
+      "newlineCount": 389,
+      "readingTimeInMinutes": 33.85283018867924,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "Species",
+        "Racial Hierarchy"
+      ],
+      "createdDate": 1784397647585,
+      "modifiedDate": 1784397647586,
+      "sizeInBytes": 64637,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 29.903333333333332,
+        "wordCount": 8971,
+        "characterCount": 64203,
+        "nonWhitespaceCharacterCount": 54397,
+        "newlineCount": 389
+      },
+      "frontmatter": {
+        "type": "world-lore",
+        "category": "biology",
+        "tags": [
+          "races",
+          "hierarchy",
+          "worldbuilding"
+        ],
+        "aliases": [
+          "Species",
+          "Racial Hierarchy"
+        ]
+      }
+    },
+    "world/Overview.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1399,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.663333333333333,
+      "characterCount": 9839,
+      "nonWhitespaceCharacterCount": 8321,
+      "newlineCount": 89,
+      "readingTimeInMinutes": 5.279245283018868,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "Hyperion Overview",
+        "World Summary"
+      ],
+      "createdDate": 1784397647585,
+      "modifiedDate": 1784418072008,
+      "sizeInBytes": 10054,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 4.663333333333333,
+        "wordCount": 1399,
+        "characterCount": 9927,
+        "nonWhitespaceCharacterCount": 8321,
+        "newlineCount": 89
+      },
+      "frontmatter": {
+        "type": "world-overview",
+        "aliases": [
+          "Hyperion Overview",
+          "World Summary"
+        ],
+        "tags": [
+          "worldbuilding",
+          "hyperion",
+          "lore-primer"
+        ]
+      }
+    },
+    "world/Layers/Layer-Minus-1.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 6062,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 20.206666666666667,
+      "characterCount": 37461,
+      "nonWhitespaceCharacterCount": 31219,
+      "newlineCount": 166,
+      "readingTimeInMinutes": 22.87547169811321,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "The Magical Layer",
+        "First Underworld Layer",
+        "Layer -1"
+      ],
+      "createdDate": 1784397647584,
+      "modifiedDate": 1784422929631,
+      "sizeInBytes": 37814,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 20.206666666666667,
+        "wordCount": 6062,
+        "characterCount": 37626,
+        "nonWhitespaceCharacterCount": 31219,
+        "newlineCount": 166
+      },
+      "frontmatter": {
+        "type": "layer",
+        "category": "layer-minus-1",
+        "tags": [
+          "layer",
+          "magical-layer",
+          "lords",
+          "fire",
+          "stone",
+          "decay",
+          "sea",
+          "rewrite-v6"
+        ],
+        "aliases": [
+          "The Magical Layer",
+          "First Underworld Layer",
+          "Layer -1"
+        ]
+      }
+    },
+    "world/Layers/Layer-Minus-3.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 8778,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 29.26,
+      "characterCount": 50255,
+      "nonWhitespaceCharacterCount": 41233,
+      "newlineCount": 164,
+      "readingTimeInMinutes": 33.12452830188679,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "The Primal Magic Layer",
+        "The Third Negative Layer",
+        "Layer -3"
+      ],
+      "createdDate": 1784397647585,
+      "modifiedDate": 1784422737567,
+      "sizeInBytes": 50737,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 29.34,
+        "wordCount": 8802,
+        "characterCount": 50603,
+        "nonWhitespaceCharacterCount": 41388,
+        "newlineCount": 169
+      },
+      "frontmatter": {
+        "type": "layer",
+        "category": "layer-minus-3",
+        "tags": [
+          "layer",
+          "primal",
+          "desert",
+          "war",
+          "fear",
+          "chaos",
+          "lords",
+          "rewrite-v6"
+        ],
+        "aliases": [
+          "The Primal Magic Layer",
+          "The Third Negative Layer",
+          "Layer -3"
+        ]
+      }
+    },
+    "world/Layers/Layer-Minus-2.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 7912,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 26.373333333333335,
+      "characterCount": 47775,
+      "nonWhitespaceCharacterCount": 39631,
+      "newlineCount": 198,
+      "readingTimeInMinutes": 29.856603773584904,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "The Dark Magic Layer",
+        "The Cursed Layer",
+        "The Second Negative Layer",
+        "Layer -2"
+      ],
+      "createdDate": 1784397647584,
+      "modifiedDate": 1784423057051,
+      "sizeInBytes": 48232,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 26.466666666666665,
+        "wordCount": 7940,
+        "characterCount": 48194,
+        "nonWhitespaceCharacterCount": 39819,
+        "newlineCount": 203
+      },
+      "frontmatter": {
+        "type": "layer",
+        "category": "layer-minus-2",
+        "tags": [
+          "layer",
+          "horror",
+          "cursed",
+          "dark-magic",
+          "lords",
+          "darkness",
+          "evil",
+          "illusion",
+          "rewrite-v6"
+        ],
+        "aliases": [
+          "The Dark Magic Layer",
+          "The Cursed Layer",
+          "The Second Negative Layer",
+          "Layer -2"
+        ]
+      }
+    },
+    "world/Dimensions.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 4253,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 14.176666666666666,
+      "characterCount": 30826,
+      "nonWhitespaceCharacterCount": 26171,
+      "newlineCount": 349,
+      "readingTimeInMinutes": 16.049056603773586,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "Realms",
+        "Planes of Existence"
+      ],
+      "createdDate": 1784397647583,
+      "modifiedDate": 1784421291211,
+      "sizeInBytes": 31192,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 14.176666666666666,
+        "wordCount": 4253,
+        "characterCount": 31174,
+        "nonWhitespaceCharacterCount": 26171,
+        "newlineCount": 349
+      },
+      "frontmatter": {
+        "type": "world-lore",
+        "category": "cosmology",
+        "tags": [
+          "dimensions",
+          "realms",
+          "cosmology",
+          "universe"
+        ],
+        "aliases": [
+          "Realms",
+          "Planes of Existence"
+        ]
+      }
+    },
+    "world/History.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 492,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.64,
+      "characterCount": 4487,
+      "nonWhitespaceCharacterCount": 3853,
+      "newlineCount": 53,
+      "readingTimeInMinutes": 1.8566037735849057,
+      "linkCount": 11,
+      "embedCount": 0,
+      "aliases": [
+        "Eras",
+        "Ages"
+      ],
+      "createdDate": 1784397647584,
+      "modifiedDate": 1784397647584,
+      "sizeInBytes": 4627,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.64,
+        "wordCount": 492,
+        "characterCount": 4487,
+        "nonWhitespaceCharacterCount": 3853,
+        "newlineCount": 53
+      },
+      "frontmatter": {
+        "type": "index",
+        "category": "history",
+        "tags": [
+          "history",
+          "eras",
+          "timeline",
+          "worldbuilding"
+        ],
+        "aliases": [
+          "Eras",
+          "Ages"
+        ]
+      }
+    },
+    "world/Culture.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2819,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 9.396666666666667,
+      "characterCount": 21148,
+      "nonWhitespaceCharacterCount": 18142,
+      "newlineCount": 170,
+      "readingTimeInMinutes": 10.637735849056604,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "Society",
+        "Daily Life",
+        "Customs"
+      ],
+      "createdDate": 1784397647583,
+      "modifiedDate": 1784418076033,
+      "sizeInBytes": 21377,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 9.396666666666667,
+        "wordCount": 2819,
+        "characterCount": 21317,
+        "nonWhitespaceCharacterCount": 18142,
+        "newlineCount": 170
+      },
+      "frontmatter": {
+        "type": "world-lore",
+        "category": "culture",
+        "tags": [
+          "culture",
+          "society",
+          "daily-life",
+          "economy",
+          "festivals"
+        ],
+        "aliases": [
+          "Society",
+          "Daily Life",
+          "Customs"
+        ]
+      }
+    },
     "README.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 473,
+      "wordCount": 471,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.5766666666666667,
-      "characterCount": 5059,
-      "nonWhitespaceCharacterCount": 4409,
+      "pageCount": 1.57,
+      "characterCount": 5053,
+      "nonWhitespaceCharacterCount": 4405,
       "newlineCount": 59,
-      "readingTimeInMinutes": 1.7849056603773585,
+      "readingTimeInMinutes": 1.7773584905660378,
       "linkCount": 24,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1784337417672,
-      "modifiedDate": 1784337417672,
-      "sizeInBytes": 5081,
+      "createdDate": 1784397647576,
+      "modifiedDate": 1784397647576,
+      "sizeInBytes": 5075,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.8533333333333333,
-        "wordCount": 556,
-        "characterCount": 6681,
-        "nonWhitespaceCharacterCount": 5945,
-        "newlineCount": 79
-      }
-    },
-    "000-Dashboard.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 261,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.87,
-      "characterCount": 2503,
-      "nonWhitespaceCharacterCount": 2164,
-      "newlineCount": 38,
-      "readingTimeInMinutes": 0.9849056603773585,
-      "linkCount": 18,
-      "embedCount": 0,
-      "aliases": [
-        "Home",
-        "Start Here",
-        "Root Index"
-      ],
-      "createdDate": 1773684561222,
-      "modifiedDate": 1782944994390,
-      "sizeInBytes": 2637,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.87,
-        "wordCount": 261,
-        "characterCount": 2503,
-        "nonWhitespaceCharacterCount": 2164,
-        "newlineCount": 38
-      },
-      "frontmatter": {
-        "type": "dashboard",
-        "tags": [
-          "dashboard",
-          "map-of-content",
-          "MOC",
-          "root"
-        ],
-        "aliases": [
-          "Home",
-          "Start Here",
-          "Root Index"
-        ]
+        "pageCount": 1.57,
+        "wordCount": 471,
+        "characterCount": 5053,
+        "nonWhitespaceCharacterCount": 4405,
+        "newlineCount": 59
       }
     },
     "systems/Monsters.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 3859,
+      "wordCount": 3857,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 12.863333333333333,
-      "characterCount": 29413,
-      "nonWhitespaceCharacterCount": 25244,
+      "pageCount": 12.856666666666667,
+      "characterCount": 29592,
+      "nonWhitespaceCharacterCount": 25169,
       "newlineCount": 259,
-      "readingTimeInMinutes": 14.562264150943395,
+      "readingTimeInMinutes": 14.554716981132076,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [
         "Bestiary",
         "Creatures"
       ],
-      "createdDate": 1773602040439,
-      "modifiedDate": 1773776945422,
-      "sizeInBytes": 29709,
+      "createdDate": 1784397647581,
+      "modifiedDate": 1784397647581,
+      "sizeInBytes": 29889,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 12.863333333333333,
-        "wordCount": 3859,
-        "characterCount": 29413,
-        "nonWhitespaceCharacterCount": 25244,
+        "pageCount": 12.856666666666667,
+        "wordCount": 3857,
+        "characterCount": 29592,
+        "nonWhitespaceCharacterCount": 25169,
         "newlineCount": 259
       },
       "frontmatter": {
@@ -189,29 +517,29 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 342,
+      "wordCount": 344,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.14,
-      "characterCount": 2977,
-      "nonWhitespaceCharacterCount": 2591,
+      "pageCount": 1.1466666666666667,
+      "characterCount": 3043,
+      "nonWhitespaceCharacterCount": 2624,
       "newlineCount": 32,
-      "readingTimeInMinutes": 1.290566037735849,
+      "readingTimeInMinutes": 1.2981132075471697,
       "linkCount": 5,
       "embedCount": 0,
       "aliases": [
         "Magic Schools",
         "Spells"
       ],
-      "createdDate": 1773601069020,
-      "modifiedDate": 1773685143552,
-      "sizeInBytes": 3096,
+      "createdDate": 1784397647580,
+      "modifiedDate": 1784397647580,
+      "sizeInBytes": 3167,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.14,
-        "wordCount": 342,
-        "characterCount": 2977,
-        "nonWhitespaceCharacterCount": 2591,
+        "pageCount": 1.1466666666666667,
+        "wordCount": 344,
+        "characterCount": 3043,
+        "nonWhitespaceCharacterCount": 2624,
         "newlineCount": 32
       },
       "frontmatter": {
@@ -226,6 +554,53 @@
         "aliases": [
           "Magic Schools",
           "Spells"
+        ]
+      }
+    },
+    "systems/Cosmology.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 4403,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 14.676666666666666,
+      "characterCount": 27691,
+      "nonWhitespaceCharacterCount": 22958,
+      "newlineCount": 154,
+      "readingTimeInMinutes": 16.61509433962264,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "Layered Universe",
+        "The Strata",
+        "FoE Cosmology"
+      ],
+      "createdDate": 1784397647580,
+      "modifiedDate": 1784397647580,
+      "sizeInBytes": 27985,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 14.676666666666666,
+        "wordCount": 4403,
+        "characterCount": 27691,
+        "nonWhitespaceCharacterCount": 22958,
+        "newlineCount": 154
+      },
+      "frontmatter": {
+        "type": "cosmology",
+        "category": "structure",
+        "tags": [
+          "cosmology",
+          "layers",
+          "lords",
+          "universe",
+          "rewrite-v6"
+        ],
+        "aliases": [
+          "Layered Universe",
+          "The Strata",
+          "FoE Cosmology"
         ]
       }
     },
@@ -244,8 +619,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1773600326450,
-      "modifiedDate": 1773685538633,
+      "createdDate": 1784397647582,
+      "modifiedDate": 1784397647583,
       "sizeInBytes": 3823,
       "sessionStart": {
         "noteCount": 1,
@@ -268,6 +643,45 @@
         ]
       }
     },
+    "systems/arcane/Holy-Unholy.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 589,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.9633333333333334,
+      "characterCount": 4448,
+      "nonWhitespaceCharacterCount": 3720,
+      "newlineCount": 67,
+      "readingTimeInMinutes": 2.2226415094339624,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1784397647582,
+      "modifiedDate": 1784397647582,
+      "sizeInBytes": 4572,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.9633333333333334,
+        "wordCount": 589,
+        "characterCount": 4448,
+        "nonWhitespaceCharacterCount": 3720,
+        "newlineCount": 67
+      },
+      "frontmatter": {
+        "type": "magic-school",
+        "category": "arcane",
+        "tags": [
+          "magic",
+          "arcane",
+          "holy",
+          "unholy",
+          "luminancy",
+          "umbraturgy"
+        ]
+      }
+    },
     "systems/arcane/Elemental.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -276,23 +690,23 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 2.3233333333333333,
-      "characterCount": 5722,
-      "nonWhitespaceCharacterCount": 4941,
-      "newlineCount": 86,
+      "characterCount": 5811,
+      "nonWhitespaceCharacterCount": 4944,
+      "newlineCount": 87,
       "readingTimeInMinutes": 2.630188679245283,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1773600326244,
-      "modifiedDate": 1782947060421,
-      "sizeInBytes": 5837,
+      "createdDate": 1784397647581,
+      "modifiedDate": 1784397647581,
+      "sizeInBytes": 5926,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 2.3233333333333333,
         "wordCount": 697,
-        "characterCount": 5722,
-        "nonWhitespaceCharacterCount": 4941,
-        "newlineCount": 86
+        "characterCount": 5811,
+        "nonWhitespaceCharacterCount": 4944,
+        "newlineCount": 87
       },
       "frontmatter": {
         "type": "magic-school",
@@ -309,28 +723,28 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1261,
+      "wordCount": 1256,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 4.203333333333333,
-      "characterCount": 9729,
-      "nonWhitespaceCharacterCount": 8386,
+      "pageCount": 4.1866666666666665,
+      "characterCount": 9768,
+      "nonWhitespaceCharacterCount": 8341,
       "newlineCount": 91,
-      "readingTimeInMinutes": 4.758490566037736,
+      "readingTimeInMinutes": 4.739622641509434,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [
         "Forbidden Schools"
       ],
-      "createdDate": 1773600326885,
-      "modifiedDate": 1782947198511,
-      "sizeInBytes": 9887,
+      "createdDate": 1784397647582,
+      "modifiedDate": 1784397647582,
+      "sizeInBytes": 9929,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 4.203333333333333,
-        "wordCount": 1261,
-        "characterCount": 9729,
-        "nonWhitespaceCharacterCount": 8386,
+        "pageCount": 4.1866666666666665,
+        "wordCount": 1256,
+        "characterCount": 9768,
+        "nonWhitespaceCharacterCount": 8341,
         "newlineCount": 91
       },
       "frontmatter": {
@@ -347,69 +761,30 @@
         ]
       }
     },
-    "systems/arcane/Holy-Unholy.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 588,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.96,
-      "characterCount": 4444,
-      "nonWhitespaceCharacterCount": 3717,
-      "newlineCount": 67,
-      "readingTimeInMinutes": 2.218867924528302,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1773600326086,
-      "modifiedDate": 1773685538629,
-      "sizeInBytes": 4568,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.96,
-        "wordCount": 588,
-        "characterCount": 4444,
-        "nonWhitespaceCharacterCount": 3717,
-        "newlineCount": 67
-      },
-      "frontmatter": {
-        "type": "magic-school",
-        "category": "arcane",
-        "tags": [
-          "magic",
-          "arcane",
-          "holy",
-          "unholy",
-          "luminancy",
-          "umbraturgy"
-        ]
-      }
-    },
     "systems/arcane/Echo-Enchantment.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1095,
+      "wordCount": 1087,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 3.65,
-      "characterCount": 9099,
-      "nonWhitespaceCharacterCount": 7879,
+      "pageCount": 3.6233333333333335,
+      "characterCount": 9169,
+      "nonWhitespaceCharacterCount": 7816,
       "newlineCount": 143,
-      "readingTimeInMinutes": 4.132075471698113,
+      "readingTimeInMinutes": 4.10188679245283,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1773600326646,
-      "modifiedDate": 1782947050672,
-      "sizeInBytes": 9216,
+      "createdDate": 1784397647581,
+      "modifiedDate": 1784397647581,
+      "sizeInBytes": 9288,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 3.65,
-        "wordCount": 1095,
-        "characterCount": 9099,
-        "nonWhitespaceCharacterCount": 7879,
+        "pageCount": 3.6233333333333335,
+        "wordCount": 1087,
+        "characterCount": 9169,
+        "nonWhitespaceCharacterCount": 7816,
         "newlineCount": 143
       },
       "frontmatter": {
@@ -424,253 +799,33 @@
         ]
       }
     },
-    "world/Overview.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1401,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 4.67,
-      "characterCount": 9856,
-      "nonWhitespaceCharacterCount": 8336,
-      "newlineCount": 89,
-      "readingTimeInMinutes": 5.286792452830189,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "Hyperion Overview",
-        "World Summary"
-      ],
-      "createdDate": 1773516088682,
-      "modifiedDate": 1784332265993,
-      "sizeInBytes": 10071,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 5.236666666666666,
-        "wordCount": 1571,
-        "characterCount": 11070,
-        "nonWhitespaceCharacterCount": 9366,
-        "newlineCount": 98
-      },
-      "frontmatter": {
-        "type": "world-overview",
-        "aliases": [
-          "Hyperion Overview",
-          "World Summary"
-        ],
-        "tags": [
-          "worldbuilding",
-          "hyperion",
-          "lore-primer"
-        ]
-      }
-    },
-    "world/Races.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 9055,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 30.183333333333334,
-      "characterCount": 64393,
-      "nonWhitespaceCharacterCount": 54873,
-      "newlineCount": 389,
-      "readingTimeInMinutes": 34.16981132075472,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "Species",
-        "Racial Hierarchy"
-      ],
-      "createdDate": 1773611912119,
-      "modifiedDate": 1782943188990,
-      "sizeInBytes": 64842,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 30.183333333333334,
-        "wordCount": 9055,
-        "characterCount": 64393,
-        "nonWhitespaceCharacterCount": 54873,
-        "newlineCount": 389
-      },
-      "frontmatter": {
-        "type": "world-lore",
-        "category": "biology",
-        "tags": [
-          "races",
-          "hierarchy",
-          "worldbuilding"
-        ],
-        "aliases": [
-          "Species",
-          "Racial Hierarchy"
-        ]
-      }
-    },
-    "world/History.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 486,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.62,
-      "characterCount": 4423,
-      "nonWhitespaceCharacterCount": 3795,
-      "newlineCount": 53,
-      "readingTimeInMinutes": 1.8339622641509434,
-      "linkCount": 11,
-      "embedCount": 0,
-      "aliases": [
-        "Eras",
-        "Ages"
-      ],
-      "createdDate": 1773601117220,
-      "modifiedDate": 1782943245351,
-      "sizeInBytes": 4565,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.62,
-        "wordCount": 486,
-        "characterCount": 4423,
-        "nonWhitespaceCharacterCount": 3795,
-        "newlineCount": 53
-      },
-      "frontmatter": {
-        "type": "index",
-        "category": "history",
-        "tags": [
-          "history",
-          "eras",
-          "timeline",
-          "worldbuilding"
-        ],
-        "aliases": [
-          "Eras",
-          "Ages"
-        ]
-      }
-    },
-    "world/Dimensions.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 4255,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 14.183333333333334,
-      "characterCount": 30726,
-      "nonWhitespaceCharacterCount": 26066,
-      "newlineCount": 350,
-      "readingTimeInMinutes": 16.056603773584907,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "Realms",
-        "Planes of Existence"
-      ],
-      "createdDate": 1773687593351,
-      "modifiedDate": 1782944994450,
-      "sizeInBytes": 31096,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 14.183333333333334,
-        "wordCount": 4255,
-        "characterCount": 30726,
-        "nonWhitespaceCharacterCount": 26066,
-        "newlineCount": 350
-      },
-      "frontmatter": {
-        "type": "world-lore",
-        "category": "cosmology",
-        "tags": [
-          "dimensions",
-          "realms",
-          "cosmology",
-          "universe"
-        ],
-        "aliases": [
-          "Realms",
-          "Planes of Existence"
-        ]
-      }
-    },
-    "world/Culture.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 3220,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 10.733333333333333,
-      "characterCount": 24155,
-      "nonWhitespaceCharacterCount": 20721,
-      "newlineCount": 196,
-      "readingTimeInMinutes": 12.150943396226415,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "Society",
-        "Daily Life",
-        "Customs"
-      ],
-      "createdDate": 1779902584884,
-      "modifiedDate": 1779902584884,
-      "sizeInBytes": 24402,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 10.733333333333333,
-        "wordCount": 3220,
-        "characterCount": 24155,
-        "nonWhitespaceCharacterCount": 20721,
-        "newlineCount": 196
-      },
-      "frontmatter": {
-        "type": "world-lore",
-        "category": "culture",
-        "tags": [
-          "culture",
-          "society",
-          "daily-life",
-          "economy",
-          "festivals"
-        ],
-        "aliases": [
-          "Society",
-          "Daily Life",
-          "Customs"
-        ]
-      }
-    },
     "organizations/Organizations.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 675,
+      "wordCount": 671,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.25,
-      "characterCount": 5630,
-      "nonWhitespaceCharacterCount": 4868,
+      "pageCount": 2.236666666666667,
+      "characterCount": 5721,
+      "nonWhitespaceCharacterCount": 4861,
       "newlineCount": 103,
-      "readingTimeInMinutes": 2.547169811320755,
+      "readingTimeInMinutes": 2.5320754716981133,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [
         "Guilds",
         "Hyperion Organizations"
       ],
-      "createdDate": 1773601892194,
-      "modifiedDate": 1782944994407,
-      "sizeInBytes": 5785,
+      "createdDate": 1784397647578,
+      "modifiedDate": 1784397647578,
+      "sizeInBytes": 5881,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 2.25,
-        "wordCount": 675,
-        "characterCount": 5630,
-        "nonWhitespaceCharacterCount": 4868,
+        "pageCount": 2.236666666666667,
+        "wordCount": 671,
+        "characterCount": 5721,
+        "nonWhitespaceCharacterCount": 4861,
         "newlineCount": 103
       },
       "frontmatter": {
@@ -689,33 +844,79 @@
         ]
       }
     },
+    "organizations/institutions/Project-Crimson.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1272,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.24,
+      "characterCount": 9731,
+      "nonWhitespaceCharacterCount": 8305,
+      "newlineCount": 66,
+      "readingTimeInMinutes": 4.8,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "Crimson",
+        "Project Crimson"
+      ],
+      "createdDate": 1784397647580,
+      "modifiedDate": 1784397647580,
+      "sizeInBytes": 9981,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 4.24,
+        "wordCount": 1272,
+        "characterCount": 9731,
+        "nonWhitespaceCharacterCount": 8305,
+        "newlineCount": 66
+      },
+      "frontmatter": {
+        "type": "organization",
+        "category": "mod-division",
+        "status": "Active / Classified",
+        "tags": [
+          "organization",
+          "MOD",
+          "project-crimson",
+          "vampires",
+          "classified"
+        ],
+        "aliases": [
+          "Crimson",
+          "Project Crimson"
+        ]
+      }
+    },
     "organizations/institutions/MOD.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 2460,
+      "wordCount": 2433,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 8.2,
-      "characterCount": 19575,
-      "nonWhitespaceCharacterCount": 16918,
+      "pageCount": 8.11,
+      "characterCount": 19618,
+      "nonWhitespaceCharacterCount": 16804,
       "newlineCount": 186,
-      "readingTimeInMinutes": 9.283018867924529,
+      "readingTimeInMinutes": 9.181132075471698,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [
         "Magic Oversight Division"
       ],
-      "createdDate": 1773609948110,
-      "modifiedDate": 1784333584623,
-      "sizeInBytes": 19818,
+      "createdDate": 1784397647579,
+      "modifiedDate": 1784397647579,
+      "sizeInBytes": 19865,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 8.2,
-        "wordCount": 2460,
-        "characterCount": 19576,
-        "nonWhitespaceCharacterCount": 16918,
-        "newlineCount": 187
+        "pageCount": 8.11,
+        "wordCount": 2433,
+        "characterCount": 19618,
+        "nonWhitespaceCharacterCount": 16804,
+        "newlineCount": 186
       },
       "frontmatter": {
         "type": "organization",
@@ -729,6 +930,96 @@
         ],
         "aliases": [
           "Magic Oversight Division"
+        ]
+      }
+    },
+    "organizations/institutions/Keepers-of-Nil.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2183,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 7.276666666666666,
+      "characterCount": 15288,
+      "nonWhitespaceCharacterCount": 12809,
+      "newlineCount": 154,
+      "readingTimeInMinutes": 8.237735849056603,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "The Keepers",
+        "Keepers"
+      ],
+      "createdDate": 1784397647579,
+      "modifiedDate": 1784397647579,
+      "sizeInBytes": 15534,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 7.276666666666666,
+        "wordCount": 2183,
+        "characterCount": 15288,
+        "nonWhitespaceCharacterCount": 12809,
+        "newlineCount": 154
+      },
+      "frontmatter": {
+        "type": "organization",
+        "category": "anomalous",
+        "status": "Active",
+        "tags": [
+          "organization",
+          "secret",
+          "immortal",
+          "keepers-of-nil",
+          "wall-of-nihility",
+          "unregistered"
+        ],
+        "aliases": [
+          "The Keepers",
+          "Keepers"
+        ]
+      }
+    },
+    "organizations/institutions/House-Dravenmore.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 610,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.033333333333333,
+      "characterCount": 4619,
+      "nonWhitespaceCharacterCount": 3932,
+      "newlineCount": 35,
+      "readingTimeInMinutes": 2.30188679245283,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "Dravenmore"
+      ],
+      "createdDate": 1784397647579,
+      "modifiedDate": 1784397647579,
+      "sizeInBytes": 4796,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.033333333333333,
+        "wordCount": 610,
+        "characterCount": 4619,
+        "nonWhitespaceCharacterCount": 3932,
+        "newlineCount": 35
+      },
+      "frontmatter": {
+        "type": "organization",
+        "category": "noble-house",
+        "status": "Active",
+        "tags": [
+          "organization",
+          "noble-house",
+          "dravenmore",
+          "research"
+        ],
+        "aliases": [
+          "Dravenmore"
         ]
       }
     },
@@ -749,15 +1040,15 @@
       "aliases": [
         "The Guard"
       ],
-      "createdDate": 1784335794039,
-      "modifiedDate": 1784335794039,
+      "createdDate": 1784397647578,
+      "modifiedDate": 1784397647578,
       "sizeInBytes": 7365,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 3.19,
-        "wordCount": 957,
-        "characterCount": 7180,
-        "nonWhitespaceCharacterCount": 6150,
+        "pageCount": 3.1533333333333333,
+        "wordCount": 946,
+        "characterCount": 7132,
+        "nonWhitespaceCharacterCount": 6066,
         "newlineCount": 49
       },
       "frontmatter": {
@@ -776,139 +1067,85 @@
         ]
       }
     },
-    "organizations/institutions/Keepers-of-Nil.md": {
+    "000-Dashboard.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 2280,
+      "wordCount": 249,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 7.6,
-      "characterCount": 15804,
-      "nonWhitespaceCharacterCount": 13378,
-      "newlineCount": 156,
-      "readingTimeInMinutes": 8.60377358490566,
-      "linkCount": 0,
+      "pageCount": 0.83,
+      "characterCount": 2288,
+      "nonWhitespaceCharacterCount": 1969,
+      "newlineCount": 33,
+      "readingTimeInMinutes": 0.939622641509434,
+      "linkCount": 15,
       "embedCount": 0,
       "aliases": [
-        "The Keepers",
-        "Keepers"
+        "Home",
+        "Start Here",
+        "Root Index"
       ],
-      "createdDate": 1773686600033,
-      "modifiedDate": 1782943279413,
-      "sizeInBytes": 16048,
+      "createdDate": 1784397647575,
+      "modifiedDate": 1784397647576,
+      "sizeInBytes": 2424,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 7.6,
-        "wordCount": 2280,
-        "characterCount": 15804,
-        "nonWhitespaceCharacterCount": 13378,
-        "newlineCount": 156
+        "pageCount": 0.83,
+        "wordCount": 249,
+        "characterCount": 2288,
+        "nonWhitespaceCharacterCount": 1969,
+        "newlineCount": 33
       },
       "frontmatter": {
-        "type": "organization",
-        "category": "anomalous",
-        "status": "Active",
+        "type": "dashboard",
         "tags": [
-          "organization",
-          "secret",
-          "immortal",
-          "keepers-of-nil",
-          "wall-of-nihility",
-          "unregistered"
+          "dashboard",
+          "map-of-content",
+          "MOC",
+          "root"
         ],
         "aliases": [
-          "The Keepers",
-          "Keepers"
+          "Home",
+          "Start Here",
+          "Root Index"
         ]
       }
     },
-    "organizations/institutions/Project-Crimson.md": {
+    "obsidian-templates/Character-Template.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1262,
+      "wordCount": 96,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 4.206666666666667,
-      "characterCount": 9591,
-      "nonWhitespaceCharacterCount": 8240,
-      "newlineCount": 66,
-      "readingTimeInMinutes": 4.7622641509433965,
+      "pageCount": 0.32,
+      "characterCount": 805,
+      "nonWhitespaceCharacterCount": 655,
+      "newlineCount": 26,
+      "readingTimeInMinutes": 0.3622641509433962,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [
-        "Crimson",
-        "Project Crimson"
-      ],
-      "createdDate": 1782942928478,
-      "modifiedDate": 1782944994416,
-      "sizeInBytes": 9835,
+      "aliases": null,
+      "createdDate": 1784397647577,
+      "modifiedDate": 1784397647577,
+      "sizeInBytes": 920,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 4.206666666666667,
-        "wordCount": 1262,
-        "characterCount": 9591,
-        "nonWhitespaceCharacterCount": 8240,
-        "newlineCount": 66
+        "pageCount": 0.32,
+        "wordCount": 96,
+        "characterCount": 805,
+        "nonWhitespaceCharacterCount": 655,
+        "newlineCount": 26
       },
       "frontmatter": {
-        "type": "organization",
-        "category": "mod-division",
-        "status": "Active / Classified",
+        "type": "character",
+        "name": "{{title}}",
+        "race": "Unknown",
+        "status": "Alive",
         "tags": [
-          "organization",
-          "MOD",
-          "project-crimson",
-          "vampires",
-          "classified"
-        ],
-        "aliases": [
-          "Crimson",
-          "Project Crimson"
-        ]
-      }
-    },
-    "organizations/institutions/House-Dravenmore.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 608,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.026666666666667,
-      "characterCount": 4650,
-      "nonWhitespaceCharacterCount": 3995,
-      "newlineCount": 35,
-      "readingTimeInMinutes": 2.2943396226415094,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "Dravenmore"
-      ],
-      "createdDate": 1773601829967,
-      "modifiedDate": 1782943139740,
-      "sizeInBytes": 4829,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.026666666666667,
-        "wordCount": 608,
-        "characterCount": 4650,
-        "nonWhitespaceCharacterCount": 3995,
-        "newlineCount": 35
-      },
-      "frontmatter": {
-        "type": "organization",
-        "category": "noble-house",
-        "status": "Active",
-        "tags": [
-          "organization",
-          "noble-house",
-          "dravenmore",
-          "research"
-        ],
-        "aliases": [
-          "Dravenmore"
+          "character",
+          "_wip"
         ]
       }
     },
@@ -927,8 +1164,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1773684576162,
-      "modifiedDate": 1773684600303,
+      "createdDate": 1784397647578,
+      "modifiedDate": 1784397647578,
       "sizeInBytes": 992,
       "sessionStart": {
         "noteCount": 1,
@@ -946,43 +1183,6 @@
         "tags": [
           "organization",
           "faction",
-          "_wip"
-        ]
-      }
-    },
-    "obsidian-templates/Character-Template.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 97,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.3233333333333333,
-      "characterCount": 792,
-      "nonWhitespaceCharacterCount": 642,
-      "newlineCount": 26,
-      "readingTimeInMinutes": 0.3660377358490566,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1773684576119,
-      "modifiedDate": 1773684599538,
-      "sizeInBytes": 907,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.3233333333333333,
-        "wordCount": 97,
-        "characterCount": 792,
-        "nonWhitespaceCharacterCount": 642,
-        "newlineCount": 26
-      },
-      "frontmatter": {
-        "type": "character",
-        "name": "{{title}}",
-        "race": "Unknown",
-        "status": "Alive",
-        "tags": [
-          "character",
           "_wip"
         ]
       }
@@ -1006,15 +1206,15 @@
         "State Tracker",
         "Core Memory"
       ],
-      "createdDate": 1784338530957,
-      "modifiedDate": 1784338530958,
+      "createdDate": 1784397647577,
+      "modifiedDate": 1784397647577,
       "sizeInBytes": 2535,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.6866666666666666,
-        "wordCount": 206,
-        "characterCount": 1704,
-        "nonWhitespaceCharacterCount": 1426,
+        "pageCount": 0.9633333333333334,
+        "wordCount": 289,
+        "characterCount": 2391,
+        "nonWhitespaceCharacterCount": 1989,
         "newlineCount": 46
       },
       "frontmatter": {
@@ -1029,103 +1229,6 @@
           "AI Rulebook",
           "State Tracker",
           "Core Memory"
-        ]
-      }
-    },
-    "systems/Cosmology.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 4408,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 14.693333333333333,
-      "characterCount": 27666,
-      "nonWhitespaceCharacterCount": 22928,
-      "newlineCount": 154,
-      "readingTimeInMinutes": 16.633962264150945,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "Layered Universe",
-        "The Strata",
-        "FoE Cosmology"
-      ],
-      "createdDate": 1784332161091,
-      "modifiedDate": 1784332161092,
-      "sizeInBytes": 27960,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      },
-      "frontmatter": {
-        "type": "cosmology",
-        "category": "structure",
-        "tags": [
-          "cosmology",
-          "layers",
-          "lords",
-          "universe",
-          "rewrite-v6"
-        ],
-        "aliases": [
-          "Layered Universe",
-          "The Strata",
-          "FoE Cosmology"
-        ]
-      }
-    },
-    "world/Layers/Layer-Minus-1.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 5634,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 18.78,
-      "characterCount": 35014,
-      "nonWhitespaceCharacterCount": 29045,
-      "newlineCount": 162,
-      "readingTimeInMinutes": 21.260377358490565,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "The Magical Layer",
-        "First Underworld Layer",
-        "Layer -1"
-      ],
-      "createdDate": 1784332161092,
-      "modifiedDate": 1784332161092,
-      "sizeInBytes": 35358,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      },
-      "frontmatter": {
-        "type": "layer",
-        "category": "layer-minus-1",
-        "tags": [
-          "layer",
-          "magical-layer",
-          "lords",
-          "fire",
-          "stone",
-          "decay",
-          "sea",
-          "rewrite-v6"
-        ],
-        "aliases": [
-          "The Magical Layer",
-          "First Underworld Layer",
-          "Layer -1"
         ]
       }
     }
