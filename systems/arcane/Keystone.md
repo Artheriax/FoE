@@ -13,14 +13,6 @@ High-tier practitioners require MOD licensing and periodic evaluation. Keystone 
 
 ---
 
-## Notable Practitioners
-
-- **Chronomancer Timerion** (Second Era) — Temporal Magic pioneer; developed the theoretical framework for Moment's Recall and demonstrated feasibility of Hasten/Slow at scale. Disappeared during unauthorized Temporal Stasis experiment. Status: Presumed lost to temporal fracture.
-- **Archon Dravenmore** (Mid–Modern Era) — Spatial Magic master; principal designer of the Hexline system spanning all major cities. Amplitude: Archmage — lifetime institutional contract. Currently active on classified research involving Nil Space mechanics (cross-reference `systems/arcane/Forbidden.md` — Nil Space Magic).
-- **Sage Stellarion** (Seventh Era) — Cosmic Magic theorist; pioneered Starfall targeting protocols for elite hunter support. Attempted unauthorized Fateweave research; case terminated with immediate incarceration. Status: Sealed.
-
----
-
 ## Temporal Magic
 
 Manipulation of time. Even minor spells are incredibly draining.

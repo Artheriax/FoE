@@ -15,12 +15,6 @@ The two primary metaphysical schools — Luminancy drawing from Luminara and the
 
 The magic of Luminara, fueled by faith, purity, and the essence of creation. It is anathema to corruption and decay.
 
-### Notable Practitioners
-
-- **Saint Meridus the Radiant** (Third Era) — Pioneer of Celestial Luminancy; first documented practitioner of Resurrection outside direct divine intervention. Established the theoretical framework for reanimating souls across dimensional barriers. Posthumously canonized by the Eternal Guard for contributions to mortality studies and resurrection ethics.
-- **Healer Cassian of the Ashenmoor** (Mid-Era) — Legendary field medic whose mastery of Greater Restoration saved over 3,000 lives during the Ashenmoor Campaigns. Developed rapid-deployment healing protocols still used by MOD emergency response teams.
-- **Inquisitor Vaughn** (Modern Era) — Anonymous MOD investigator specializing in using the Judgment's Gaze spell for guilt-determination interrogations. Amplitude: Supreme. Institutional sanctioning authority.
-
 ### Lesser Luminancy
 
 - **Luminous Orb:** Creates a ball of harmless, bright light.

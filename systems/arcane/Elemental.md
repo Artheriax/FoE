@@ -11,17 +11,6 @@ The manipulation of the world's fundamental forces. Power is drawn from internal
 
 ---
 
-## Notable Practitioners by School
-
-- **Pyromancer Helios** (Sixth Era) — Master of Blaze Magic; demonstrated plasma generation for industrial applications in Hexline Tower construction. Documented 94 major constructions across three continents. Amplitude: Archmage (provisional).
-- **Glaciarch Frostweaver** (Fourth Era) — Pioneering Cryomancy theorist; developed the absolute zero field preservation technique used in MOD evidence storage. Work forms the basis of all modern cryo-containment protocols for dangerous essences and artifacts.
-- **Conductor Voltrix** (Modern Era) — Fulminancy specialist; serves as lead architect for Hexline Tower maintenance protocols. Amplitude: Supreme. Institutional critical role — cannot be reassigned or retired without Ministry approval.
-- **Geomancer Kael Stoneheart** (Fifth Era) — Terra Magic master; responsible for subterranean city infrastructure in three major settlements. Posthumously identified as practitioner after death; underground structures remain operational and stable.
-- **Illuminator Prism** (Modern Era) — Photomancy researcher (anonymous); experimental hard-light construct development for MOD weaponization. Project status: Ongoing. Amplitude: Greater, classified.
-- **Shadowweaver Lykaios** (Seventh Era) — Umbrakinesis specialist; elite hunter known for shadow-phase evasion tactics. Amplitude: Supreme. Sealed institutional access logs.
-
----
-
 ## Elemental Schools
 
 ### Blaze Magic (Pyromancy)

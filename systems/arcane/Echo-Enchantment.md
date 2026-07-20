@@ -15,11 +15,6 @@ Covering Echo Magic, the art of permanent enchantment, institutional application
 
 The ability to generate sound and music out of nothing can be both beautiful and painful, dominating too. It is said the music generated with this brings a message into the souls of every being who listens to it, but it can also be used wrongly to create darkness or sadness inside someone's soul.
 
-### Notable Practitioners
-
-- **Songweaver Lyric** (Fifth Era) — Pioneering Echo Magic theorist; developed harmonic resonance frameworks used in modern Hexline Tower stabilization protocols. Music-based containment fields proved superior to conventional magical barriers for certain essence types.
-- **The Silenced One** (Modern Era) — Anonymous Echo Magic practitioner; institutional role unknown; sealed file access. Amplitude: Unknown. Note: All documentation purged per Eternal Guard directive following [REDACTED] incident.
-
 ---
 
 ## Enchantments
