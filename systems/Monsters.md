@@ -49,19 +49,6 @@ MOD Dungeon Surveyors use a five-class rating system based on monster output tie
 
 Class V designations have occurred [**12 confirmed, 3 contested**] across recorded history. Of these, [**4 remain active**] under continuous MOD monitoring.
 
-### Notable Breach Events
-
-**The Ashenveil Deep Breach** *(Third Era, Pre-Record contested)*
-A Class III dungeon in the Ashenveil district underwent unmonitored escalation and breached during a period of institutional disorder. The resulting emergence event involved primarily Umbral Monsters and contributed to the population instability later documented in the Ashenveil Disturbance records. Dungeon was sealed following the breach. Sealing method classification: [Classified].
-
-**The Ashenmoor Campaign Escalations** *(Mid-Era)*
-Several Class II and III dungeons in the Ashenmoor region underwent simultaneous pulse surges during the Ashenmoor Campaigns, contributing to sustained multi-front engagement conditions. MOD post-campaign analysis attributed the synchronization to an unidentified subsurface rift network. Network status: [Partially Sealed / Monitoring Ongoing].
-
-**The Northern Face Keystone Emergence** *(Seventh Era)*
-A Class IV dungeon in the northern mountain territories underwent unexpected escalation to Class V status. A Temporal Weaver emerged as the primary Keystone specimen. Full incident record: [Classified — Standing Order K14 Sealed File].
-
----
-
 ## Lesser Monsters
 
 The most common and widespread type of monster. They are often the first challenge for new hunters and can be found in nearly every environment, from city sewers to deep forests.
@@ -70,7 +57,6 @@ The most common and widespread type of monster. They are often the first challen
 - **Examples:** Goblins, Kobolds, Giant Rats, Feral Wolves, Carrion Birds, Giant Insects.
 - **Behavior:** Predatory, territorial, or driven by a simple, destructive instinct. They are a constant nuisance and danger to rural settlements and untamed lands.
 - **Essence:** Upon death, they leave behind faint, unaspected Energy Fragments.
-- **Notable Case — The Ironfield Surge** *(Third Era)* — A synchronized emergence of an estimated 12,000 Carrion Birds and Giant Insects from a Class II dungeon in the Ironfield valley overwhelmed the local hunter population and required MOD intervention. Cause of synchronization: undetermined. The Ironfield dungeon was reclassified to Class III following the event.
 
 ---
 
@@ -82,7 +68,6 @@ Dire monsters are the natural apex predators of Hyperion. They lack an elemental
 - **Examples:** Orcs, Trolls, Ogres, Cave Bears, Sabertooth Cats, Giants.
 - **Behavior:** Highly territorial and aggressive. They often establish lairs and dominate a large area, challenging all who enter. Some, like Orcs, can form primitive tribal societies.
 - **Essence:** They yield larger, more potent Energy Fragments due to their significant life force.
-- **Notable Case — The Ashenmoor Colossus** *(Mid-Era)* — A Dire Giant of exceptional size, designated Specimen AD-7 in post-engagement records, was documented in the Ashenmoor region during the Campaigns. It was responsible for eleven confirmed settlement destructions before a coordinated A-rank team engaged and neutralized it. Physical measurements exceeded all prior Dire Giant records by approximately 40%. Registry classification note: [Aberrant — Cause Undetermined].
 
 ---
 
@@ -96,7 +81,6 @@ Manifestations of pure fire and heat. They are born from volcanic rifts, great f
 - **Examples:** Salamanders, Hellhounds, Magma Elementals, Fire Imps, Phoenixes (lesser variants).
 - **Behavior:** Inherently destructive and volatile. They seek to consume fuel and spread, often leaving scorched earth in their wake. They are drawn to sources of heat.
 - **Essence:** They drop Fire Core Essences, burning orbs that contain concentrated thermal energy.
-- **Notable Specimen — The Emberscar** *(Sixth Era)* — A Magma Elemental of unusual size that emerged from a volcanic dungeon in the southern territories. Its core temperature exceeded standard Fire Core Essence yield by an estimated factor of eight. Engaged and neutralized by the pyromancer Helios and a six-hunter team. Essence extracted: Grade Exceptional — MOD Repository. Cross-Reference: *systems/Arcane.md — Pyromancy*.
 
 ### Frost Monsters
 
@@ -106,7 +90,6 @@ Beings of absolute cold and ice, originating from glacial dungeons, high mountai
 - **Examples:** Ice Elementals, Wendigos, Frost Trolls, Yeti, Winter Wolves, Frozen Wraiths.
 - **Behavior:** Not necessarily aggressive, but their mere presence lowers the temperature to deadly levels. They are patient hunters, using blizzards and icy terrain to ambush prey.
 - **Essence:** They leave behind Frost Core Essences, crystalline shards that radiate intense cold.
-- **Notable Specimen — The Glacial Sovereign of Narmheld** *(Fourth Era)* — An Ice Elemental that occupied the Narmheld mountain pass for what local records suggest was several decades. Notable for its ability to animate lesser Frost creatures as extensions of itself — a behavior not observed in any other documented Frost specimen. Neutralized during the early Ashenmoor Campaigns by Glaciarch Frostweaver's team as part of a northern pass clearance operation. Cross-Reference: *systems/arcane/Elemental.md — Cryomancy; world/history/Mid-Era.md — Glaciarch Frostweaver*.
 
 ### Terra Monsters
 
@@ -116,7 +99,6 @@ Monsters of earth, stone, and flora. They are the guardians of the deepest caves
 - **Examples:** Rock Golems, Treants, Basilisks (whose petrifying gaze is earth-aspected), Giant Scorpions, Burrowers, Sporekin.
 - **Behavior:** Often defensive and territorial. They attack those who disturb their domain, whether it's a sacred grove or a mineral-rich cave. They are typically slow but immensely powerful and resilient.
 - **Essence:** They yield Terra Core Essences, dense, earthen chunks pulsating with geomantic energy.
-- **Notable Specimen — The Rootfather of Ash Grove** *(Pre-Record, contested)* — A Treant of substantial age, believed by some scholars to predate the Second Weave. MOD archival records on the creature are incomplete; local oral traditions describe it as having never been neutralized, only persuaded to withdraw. Current status: [Unconfirmed — No Active Sighting in Three Eras]. Registry classification: [Historical — Presumed Dormant or Non-Extant].
 
 ### Shock Monsters
 
@@ -126,7 +108,6 @@ Embodiments of lightning, storm, and raw electromagnetic energy. They are born f
 - **Examples:** Lightning Drakes, Storm Elementals, Thunderbirds, Jellyfish-like Floaters that generate charge, Volt-Hounds.
 - **Behavior:** Erratic, unpredictable, and blindingly fast. Their attacks are swift and shocking, often prioritizing disruption and paralysis.
 - **Essence:** They drop Shock Core Essences, buzzing spheres or forks of captured lightning.
-- **Notable Specimen — "Stormcore" (Specimen Vel-7)** *(Seventh Era)* — A Lightning Drake recovered alive during the Stormcalm Trials for study in conjunction with Kinesis evolution research. Held in MOD controlled conditions for fourteen months before being neutralized upon containment failure. Findings from the study period contributed to Fulminancy practitioner training revisions. Full research notes: [Sealed — Arcane Division]. Cross-Reference: *systems/arcane/Elemental.md — Fulminancy; world/history/Seventh-Era.md — The Stormcalm Trials*.
 
 ### Radiant Monsters
 
@@ -136,7 +117,6 @@ Beings of concentrated light. Unlike Holy monsters, their light is not divine bu
 - **Examples:** Light Elementals, Prismatic Beasts, Solar Hawks, Gleaming Sentinels.
 - **Behavior:** They are drawn to and often amplify existing light sources. Their energy can be purifying to the touch but is more often used as a devastating laser-like weapon. They are common in deserts and at high altitudes.
 - **Essence:** They leave behind Radiant Core Essences, glowing, warm orbs that are painful to look at directly.
-- **Notable Specimen — The High Prism** *(Sixth Era)* — A Prismatic Beast of exceptional luminosity documented in the high-altitude research stations above the Caldenmere Plateau. Responsible for the permanent blinding of three researchers and the destruction of a survey station before targeted neutralization. Core Essence extracted post-engagement rated Grade Exceptional. MOD subsequently reclassified Prismatic Beasts from Elemental (Radiant) — Standard to Elemental (Radiant) — Elevated in response to the incident.
 
 ### Umbral Monsters
 
@@ -146,7 +126,6 @@ Creatures of darkness and shadow. They are not inherently evil but are manifesta
 - **Examples:** Shadow Stalkers, Umbral Hounds, Darkness Elementals, Nightmare Creepers.
 - **Behavior:** Predators of the night and deep places. They are stealthy, ambushing prey from the shadows. Their presence is often accompanied by a drop in temperature and a feeling of dread.
 - **Essence:** They yield Umbral Core Essences, small spheres of perfect blackness that seem to absorb the light around them.
-- **Notable Specimen — The Ashenveil Shadow** *(Third Era)* — An Umbral Hound of unusual intelligence, documented as operating in the Ashenveil district for years before formal identification. Behavioral analysis post-neutralization indicated possible Dungeon-independent origins — it may not have emerged from a registered rift. This remains one of two on-record cases of suspected non-Dungeon monster origin. Full case file: [Sealed — Dungeon Division].
 
 ---
 
@@ -167,9 +146,6 @@ Holy Monsters present a threat assessment challenge distinct from all other tier
 
 Documentation of Holy Monster communication is contested. In three separate historical incidents, individual specimens were reported to have transmitted meaning to hunters — not in language, but as direct impression. None of these accounts are officially credited in the Registry. All three reporting hunters were subject to standard post-encounter psychological evaluation. Results: [Sealed].
 
-**Notable Case — The Irenmere Sentinels** *(Seventh Era)*
-During the Siege of Irenmere Pass, a pair of Divine Lions were documented in the vicinity of the pass fortifications. Field reports submitted by Valdren Ashcrast's unit note that the lions did not participate in combat but were observed pacing the perimeter of the defensive line throughout the 31-hour engagement. They withdrew immediately upon the siege's conclusion. No engagement was made. MOD classification of the sighting: [Acknowledged — Under Review]. Cross-Reference: *world/history/Seventh-Era.md — Siege of Irenmere Pass*.
-
 ### Unholy Monsters
 
 The antithesis of Holy monsters, born from corrupted energy, negative emotions, or infernal influences from Gehenna.
@@ -184,9 +160,6 @@ The antithesis of Holy monsters, born from corrupted energy, negative emotions, 
 Unholy Monsters carry a secondary hazard designation beyond their physical threat rating: **essence contamination**. Their concentration of necrotic energy can spoil surrounding soil, sicken non-adapted organisms through prolonged exposure, and in documented cases attract secondary Unholy emergence events to locations where a significant Unholy concentration was neutralized. MOD Field Operations Code requires post-engagement site assessment for any engagement involving six or more Unholy specimens, or any single specimen rated above standard threshold.
 
 Revenant-class Undead carry an additional flag in the Registry: **re-emergence risk**. Unlike standard undead, Revenants neutralized without essence extraction have, in documented cases, reconsolidated at their original neutralization site within 48 to 72 hours at reduced power. Standard protocol mandates full essence extraction prior to disengagement from Revenant engagement sites.
-
-**Notable Case — The Ashenveil Breach Aftermath** *(Third Era)*
-Following the Ashenveil Deep Breach, MOD field teams documented a secondary emergence of Corrupted Beasts in areas surrounding the original breach site — despite the breach dungeon having been sealed. Analysis concluded that residual Unholy essence concentration from the initial engagement had reached sufficient density to trigger spontaneous emergence. The area was designated a Type II Contamination Zone and remained under restricted access for [duration sealed]. This incident established the foundational evidence base for current post-engagement contamination assessment protocols. Cross-Reference: *world/history/Third-Era.md — Shadow Magic Case I: Ashenveil Disturbance*.
 
 ---
 
@@ -204,38 +177,23 @@ No X-rank hunter has ever been recorded as fatally neutralized engaging a Keysto
 
 Beings that can age targets to dust or revert them to infancy. Temporal Keystone specimens exhibit a property unique among all classified monsters: their threat rating cannot be fully assessed until after neutralization. Mid-engagement fluctuations in local time flow make real-time assessment unreliable, and hunter-reported engagement duration frequently diverges from external observer-recorded duration by factors ranging from 1.3 to 14. MOD Strike Teams engaging Temporal specimens operate under a dedicated protocol that includes a synchronized external timekeeper stationed outside the engagement zone.
 
-**Documented Case — The Northern Face Temporal Weaver** *(Seventh Era)*
-Classification: [Sealed — Standing Order K14]. Available summary (S-rank and above): A Temporal Weaver emerged from an escalated Class V dungeon in the northern mountain territories. Specimen neutralized. Fourteen Strike Team personnel reported post-engagement temporal displacement symptoms — fragmented memory, apparent age variance, and in two cases partial de-synchronization from current timeline. Six of the fourteen required permanent institutional care. Two resolved without medical intervention. Remaining six: [status sealed]. Cross-Reference: *systems/Monsters.md — Dungeon System, The Northern Face Keystone Emergence*.
-
 ### Space — Void Reachers, Gravitational Anomalies
 
 Monsters that can warp space to create portals or crush enemies with gravity. Spatial Keystone specimens are the most tactically dangerous class for standard response teams due to their ability to instantaneously reposition, create traversal barriers, and alter local gravitational fields during engagement. Void Reachers in particular exhibit documented behavior of opening one-way spatial apertures mid-combat — hunters who have entered these apertures have not returned.
 
 Standard engagement protocol for Spatial specimens includes a minimum of two Spatial Magic practitioners on the Strike Team, whose primary function is aperture monitoring and closure. Archon Dravenmore's Hexline architecture is credited with reducing Spatial specimen fatalities since adoption. Cross-Reference: *systems/arcane/Keystone.md — Spatial Magic; world/history/Seventh-Era.md — Archon Dravenmore*.
 
-**Documented Case — The Caldenmere Void Reacher** *(Sixth Era)*
-A Void Reacher was documented operating in the Caldenmere Plateau region, coinciding with increased dimensional instability later linked to the Reality Fabrication Catastrophe. Whether the specimen's presence was a symptom of pre-existing dimensional stress or a contributing cause was not conclusively resolved. **It was never neutralized.** MOD records indicate it ceased appearing in the area following the Sixth Era Collapse. Current status: [Active Search — Low Priority / Presumed Displaced].
-
 ### Cosmic — Star-Born Horrors
 
 Entities that use miniature supernovas or black holes as attacks. Cosmic Keystone specimens are the rarest type in the Registry. Confirmed sightings: [**6 across all recorded history**]. Confirmed neutralizations: [**3**]. Their power output does not follow established Essence amplitude models; MOD theoretical researchers suspect Cosmic specimens draw partially from extra-dimensional sources the current framework does not account for.
-
-**Documented Case — The Stellarion Incident** *(Seventh Era)*
-Classification: [Sealed]. A Star-Born Horror was documented in the same operational territory as the arcane theorist Stellarion during the Seventh Era. Whether direct contact between the two occurred is [classified]. Stellarion's theoretical work on Cosmic Magic expanded dramatically in scope and ambition following the period in question. MOD's position: the temporal correlation is noted and under review. No formal link has been established. Cross-Reference: *systems/Arcane.md — Cosmic Magic, Stellarion*.
 
 ### Mind — Psionic Leeches, Brain Burrowers
 
 Monsters that attack directly with psychic energy, causing madness or seizing control of the mind. Psionic Keystone specimens pose a classification challenge unique in the Registry: **hunter assessment post-engagement cannot be considered fully reliable**. All hunters engaging a Mind-tier Keystone specimen are subject to mandatory 72-hour cognitive sequestration and evaluation before any field report is accepted. This protocol was established following an incident in which a post-engagement hunter report was determined, through cross-referencing with external observer accounts, to have been substantially fabricated — not through deliberate dishonesty, but through involuntary memory reconstruction.
 
-**Documented Case — The Sleeper Incident** *(Seventh Era, Ongoing)*
-Classification: [Sealed — Ongoing Status]. A Psionic Keystone specimen designated The Sleeper is currently the subject of a contained monitoring operation. All Registry details beyond the existence of this designation are sealed at X-rank access. MOD public communication on this matter: none. Cross-Reference: *world/history/Seventh-Era.md — The Sleeper Incident*.
-
 ### Dream/Nightmare — Sandmen, Nightmare Architects
 
 Creatures that attack victims in their sleep, draining mental energy or trapping them in eternal nightmares. Dream Keystone specimens operate almost exclusively in non-physical engagement space. Standard combat protocols are ineffective; hunters engaging Dream specimens report that physical attacks produce inconsistent results, and that the primary battlefield is the hunter's own mental landscape. Engagement teams require at minimum one practitioner with demonstrated psychic resistance or comparable innate mental capability.
-
-**Documented Case — The Dreaming of Valcrest** *(Fifth Era)*
-A Nightmare Architect designated Specimen NKS-1 was documented in the Valcrest administrative district following a surge in civilian comatose incidents — individuals who entered sleep and did not wake. Seventeen civilians and three hunters were incapacitated before engagement was achieved. The engaging team consisted of four hunters with varying psychic resistance and one practitioner with demonstrated innate mental capability operating as primary combatant. Engagement duration (external): 4 hours, 11 minutes. Engagement duration (subjective, averaged across team): 14 days. Specimen neutralized. All incapacitated civilians recovered, with varying degrees of memory loss. The three hunters did not recover. MOD classification of the hunters' condition: [Permanent Psychic Displacement — Sealed].
 
 ### Behavior & Essence
 
