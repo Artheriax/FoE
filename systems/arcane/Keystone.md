@@ -17,7 +17,7 @@ High-tier practitioners require MOD licensing and periodic evaluation. Keystone 
 
 Manipulation of time. Even minor spells are incredibly draining.
 
-**Institutional Application:** Highly restricted; used only in Eternal Guard consultation for historical validation. No standing MOD licenses issued for offensive Temporal applications.
+**Institutional Application:** Highly restricted; used only in classified consultation for historical validation. No standing MOD licenses issued for offensive Temporal applications.
 
 - **Hasten/Slow:** Affects the flow of time for a single target or small area.
 - **Moment's Recall:** Allows the caster to rewind time by a few seconds for themselves only, effectively giving them a second chance at a single action. Extremely disorienting.

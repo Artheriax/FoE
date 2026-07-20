@@ -41,7 +41,7 @@ The magic of Gehenna and the Void, fueled by ambition, pain, and the essence of 
 
 ### Notable Practitioners
 
-- **Magister Valdross the Profane** (Pre-Third Era) — Mastered Profane Umbraturgy; attempted to create a permanent plague-zone in the Nardec district using Mass Enthrall thralls as vectors. Operation halted by Eternal Guard intervention at cost of 4,000+ lives. Validation Date: Executed by celestial fire, year of Judging. Case remains classified but referenced in forbidden magic restriction ordinances.
+- **Magister Valdross the Profane** (Pre-Third Era) — Mastered Profane Umbraturgy; attempted to create a permanent plague-zone in the Nardec district using Mass Enthrall thralls as vectors. Operation halted by institutional intervention at cost of 4,000+ lives. Validation Date: Executed by celestial fire, year of Judging. Case remains classified but referenced in forbidden magic restriction ordinances.
 - **Corvus Nightwhisper** (Fifth Era) — Anonymous Soul Shackle specialist under MOD contract for paranormal containment. Amplitude: Greater. Active 47 years, sealed institutional record.
 - **The Void-Touched Collective** (Modern Era) — Underground network of Greater Umbraturgy practitioners. MOD active surveillance, 3 known cells eliminated since Seventh Era. Location: Sealed.
 

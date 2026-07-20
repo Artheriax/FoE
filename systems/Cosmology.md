@@ -152,7 +152,8 @@ The upper layers (+N) and lower layers (-N) are not in formal conflict. There is
 
 ---
 
-*→ `Layer-Minus-1.md` — The Magical Layer and its Four Lords*
-*→ `Layer-Minus-2.md` — [Pending]*
+*→ `world/Layers/Layer-Minus-1.md` — The Magical Layer and its Four Lords*
+*→ `world/Layers/Layer-Minus-2.md` — The Dark Magic Layer*
+*→ `world/Layers/Layer-Minus-3.md` — The Primal Magic Layer*
+*→ `world/Layers/Layer-Minus-4.md` — The Abyssal Magic Layer*
 *→ `Layer-Plus-1.md` — [Pending]*
-*→ `Organizations-MOD.md` — [Pending]*

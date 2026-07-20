@@ -76,7 +76,7 @@ Arcane practitioners serve critical roles across MOD operations and civilian inf
 
 **Keystone Magic**
 
-- Temporal Magic: Highly restricted; used only in Eternal Guard consultation for historical validation
+- Temporal Magic: Highly restricted; used only in classified consultation for historical validation
 - Spatial Magic: Hexline system (Archon Dravenmore active oversight), interdimensional containment, pocket dimension management
 - Cosmic Magic: Strategic starfall support for elite hunters, gravitic manipulation for containment structures
 
@@ -102,7 +102,7 @@ Several forms of magical practice remain unconfirmed, theoretically proposed, or
 
 **Scholarly Debate:** Some theorists argue Fateweave is impossible for mortals to wield without immediate divine punishment. Others propose that sufficiently skilled practitioners (Archmage tier) might achieve limited scrying of likely futures without manipulation. MOD stance: Research forbidden; all theorists registered and monitored.
 
-**Cross-Reference:** `world/History.md` — Sage Stellarion (sealed); `systems/arcane/Keystone.md` — Cosmic Magic
+**Cross-Reference:** `systems/arcane/Keystone.md` — Cosmic Magic
 
 ### Synthesis Magic (Proposed)
 
@@ -126,7 +126,7 @@ Several forms of magical practice remain unconfirmed, theoretically proposed, or
 
 **Scholarly Debate:** If possible, Soul-Resonance Magic would represent the inverse of Soul Forging — healing and alignment rather than destruction. Debate centers on whether this is a legitimate magical discipline or a metaphysical impossibility for beings with finite understanding.
 
-**MOD Status:** No official recognition; discussion marked as speculative pseudoscience. Further theoretical proposals require Eternal Guard approval.
+**MOD Status:** No official recognition; discussion marked as speculative pseudoscience. Further theoretical proposals require senior institutional approval.
 
 ### Dream-Weaving (Rumored)
 
@@ -138,4 +138,4 @@ Several forms of magical practice remain unconfirmed, theoretically proposed, or
 
 **Scholarly Debate:** Some theorists align Dream-Weaving with innate mental abilities rather than independent magic. Others argue they represent distinct disciplines — one innate, one learned. Further research restricted pending clarification.
 
-**Cross-Reference:** `world/History.md` — The Sleeper Incident (sealed)
+**Cross-Reference:** The Sleeper Incident (sealed)

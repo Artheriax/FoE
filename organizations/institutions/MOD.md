@@ -50,7 +50,7 @@ The alphanumeric Rank (E–X) is both a competency certification and an operatio
 | D–C | Established | Regional contract access |
 | B–A | Advanced | Multi-dungeon and breach authorization |
 | S | Strategic asset | Continental recognition; standing breach response designation |
-| X | Exceptional | Direct Eternal Guard coordination on sealed-classification engagements |
+| X | Exceptional | Direct coordination on sealed-classification engagements |
 
 An A-rank hunter holds regional strategic significance. S-rank hunters are tracked individually by The Bastion independent of guild affiliation. X-rank hunters are a standing population of fewer than fifty confirmed individuals at any given time; their assignments are coordinated at a level above standard MOD chain of command.
 
@@ -66,8 +66,6 @@ The auditing and investigative division. Internal Review's mandate covers compli
 
 Internal Review operates in numbered cycles; each cycle corresponds to a rotating senior caseload period. Maelen Voss held a senior analyst position in Internal Review's 22nd Cycle, producing an unmatched case-resolution record across thirty years before her innate sensory ability was disclosed following her retirement. The procedural review of her prior casework — not disputing factual outcomes, but auditing identification methodology — has not yet concluded. Internal Review's legal division cites the Voss case as standing precedent on the question of retroactive procedural validity, without a consensus resolution.
 
-**Cross-Reference:** `world/history/Modern-Era.md` — The Voss Suppression Case
-
 ### Dungeon Division
 
 The monitoring and classification authority for all active Dungeon sites. The Dungeon Division maintains the official Class I–V Dungeon Registry, conducts structural surveys, and issues breach risk assessments. It holds sealed incident archives on Dungeon events whose causes or outcomes have not been publicly resolved.
@@ -76,7 +74,7 @@ Notable sealed holdings include the investigation file for the Ashenveil Shadow 
 
 The Ironfield Surge (Third Era) is the foundational case in Dungeon Division training for survey blindspot failure. It contributed to the protocol shift from quarterly manual Dungeon assessment to continuous passive monitoring for all Class II and above sites.
 
-**Cross-Reference:** `systems/Monsters.md` — Dungeon System; `world/history/Third-Era.md` — The Ironfield Surge
+**Cross-Reference:** `systems/Monsters.md` — Dungeon System
 
 ### Arcane Registry
 
@@ -84,7 +82,7 @@ The licensing and oversight body for all arcane practitioners. The Arcane Regist
 
 Practitioners are required to register prior to public practice. Arcane activity that falls within or adjacent to any forbidden school triggers mandatory Registry notification and review. Registry authority extends to the issuance of research licenses for restricted study areas and the revocation of practice credentials for violations of Arcane Code.
 
-The Registry does not hold independent authority over forbidden magic prosecutions; those actions pass to Field Operations for containment and to the Eternal Guard for final disposition in extinction-level cases.
+The Registry does not hold independent authority over forbidden magic prosecutions; those actions pass to Field Operations for containment and to specialized enforcement divisions for final disposition in extinction-level cases.
 
 **Cross-Reference:** `systems/Arcane.md` — MOD Arcane Registry Overview
 
@@ -98,21 +96,11 @@ Practitioners whose abilities are fully passive occupy a more complex regulatory
 
 **Operational Scale:** The Assessment Unit's monitoring infrastructure is concentrated at the higher tiers, where abilities present meaningful regulatory concern. Lower-tier bearers are largely self-managed after initial registration, with periodic re-evaluation required only upon racial evolution or documented ability escalation. The Assessment Unit employs statistical sampling, automated amplitude flagging via Hexline-network sensor arrays, and mandatory self-reporting requirements as primary oversight mechanisms.
 
-**Sealed Tier Files:** The Assessment Unit's sealed population files for high-tier ability bearers are maintained at a classification level requiring senior Eternal Guard authorization to access. Active file count: approximately 7,500 high-tier cases on record — the vast majority flagged as theoretical, unconfirmed, historical, or deceased. Fewer than 200 are confirmed active bearers with demonstrated operational output at that tier. The X-rank cap of approximately fifty reflects that rank requires sustained, verifiable combat deployment, not merely bearing a high-tier ability. Many high-tier bearers never reach X-rank due to Source limitations, absence of combat application, or institutional restriction. Top-tier files are numbered in the single digits, all unresolved.
+**Sealed Tier Files:** The Assessment Unit's sealed population files for high-tier ability bearers are maintained at a classification level requiring senior authorization to access. Active file count: approximately 7,500 high-tier cases on record — the vast majority flagged as theoretical, unconfirmed, historical, or deceased. Fewer than 200 are confirmed active bearers with demonstrated operational output at that tier. The X-rank cap of approximately fifty reflects that rank requires sustained, verifiable combat deployment, not merely bearing a high-tier ability. Many high-tier bearers never reach X-rank due to Source limitations, absence of combat application, or institutional restriction. Top-tier files are numbered in the single digits, all unresolved.
 
-Additionally, MOD operates classified divisions not publicly acknowledged in the Registry. **Project Crimson** — MOD's vampire population control and blood supply regulation operation — exists outside the public organizational chart. Its mandate, personnel, and operational history are maintained at Director-level classification. Cross-reference: `organizations/institutions/Project-Crimson.md`.
+Additionally, MOD operates classified divisions not publicly acknowledged in the Registry.
 
 **Cross-Reference:** `systems/Arcane.md` — MOD Arcane Registry Overview
-
-### Theoretical Research Division
-
-MOD's internal research arm, focusing on phenomena that fall outside current explanatory frameworks. The Theoretical Division produces internal briefings not made available to the general Registry; its findings are classified by default and declassified selectively.
-
-The Division's position on the Wall of Nihility is documented: no meaningful research interaction has been achieved, and requests for authorized proximity study have been denied. Staff who have approached research in this area have been removed from active assignment on an indefinite basis. The Division's current policy recommendation is zero engagement, zero research authorization, and zero documentation of interaction attempts.
-
-The Theoretical Division has a partial overlap with the Eternal Guard's research mandate in the domain of pre-record phenomena and sealed entity studies. The operational boundary between them is not publicly defined.
-
-**Cross-Reference:** `stories/Story-Arcs.md` — FoE: Politics of Blood; `organizations/institutions/Keepers-of-Nil.md` — Research Holdings
 
 ---
 
@@ -138,7 +126,7 @@ MOD's official response has been characterized by low institutional priority des
 
 This gap has direct operational consequences. An unregistered ability wielder can operate continuously within MOD jurisdiction without identification. An unregistered victim can be held indefinitely by a trafficker operating in jurisdictional gaps. The boundary between MOD authority and civilian jurisdiction — intended as a limit on institutional overreach — functions as a practical immunity for organized trafficking networks.
 
-**Cross-Reference:** `world/history/Modern-Era.md` — The Unregistered Trade Network; `world/Races.md` — Social Status and Exploitation Vectors
+**Cross-Reference:** `world/Races.md` — Social Status and Exploitation Vectors
 
 ---
 
@@ -159,14 +147,14 @@ MOD regulatory authority operates on a tiered system of disclosed obligations an
 - Misclassification of a monster threat tier (Section 14)
 - Failure to report a power breakthrough for re-assessment (Registration Code, Section 3)
 - Unauthorized arcane practice above Novice amplitude without registration
-- Operation in sealed or quarantined zones without Eternal Guard authorization
+- Operation in sealed or quarantined zones without authorization
 - Black market Essence transactions (23 active investigation networks as of current cycle)
 
-**Sealed Prohibitions** (Eternal Guard authority):
+**Sealed Prohibitions** (classified authority):
 
 - Any research into or attempted use of forbidden magic schools
 - Unauthorized access to sealed classification records
-- Expeditions into Eternal Guard-designated permanent quarantine zones
+- Expeditions into designated permanent quarantine zones
 
 ---
 
@@ -174,13 +162,13 @@ MOD regulatory authority operates on a tiered system of disclosed obligations an
 
 Several MOD legal and procedural rulings are actively cited in ongoing policy debates without consensus resolution:
 
-- **The Voss Suppression Case** — Whether an ability bearer's undisclosed passive trait retroactively compromises the procedural validity of their professional work. Internal Review cites it in both directions. No ruling. *→ `world/history/Modern-Era.md` — The Voss Suppression Case*
+- **The Voss Suppression Case** — Whether an ability bearer's undisclosed passive trait retroactively compromises the procedural validity of their professional work. Internal Review cites it in both directions. No ruling.
 
-- **The Compact Defiant Adjudication** — Whether an innate soul-anchoring ability constitutes grounds for infernal contract exemption under MOD contract law. Panel ruling: affirmative. Precedent has not been challenged since. *→ `world/history/Second-Era.md` — The Compact Defiant Adjudication*
+- **The Compact Defiant Adjudication** — Whether an innate soul-anchoring ability constitutes grounds for infernal contract exemption under MOD contract law. Panel ruling: affirmative. Precedent has not been challenged since.
 
-- **The Callax Protocols** — Origin case for MOD classification of Soul Forging as an extinction-level forbidden practice, with practitioners subject to execution on identification rather than trial. Eternal Guard authority invoked at case conclusion. *→ `systems/arcane/Forbidden.md` — Soul Forging; `world/history/Fourth-Era.md` — The Callax Abomination*
+- **The Callax Protocols** — Origin case for MOD classification of Soul Forging as an extinction-level forbidden practice, with practitioners subject to execution on identification rather than trial. *→ `systems/arcane/Forbidden.md` — Soul Forging*
 
-- **The Valcrest Engagement Standards** — Origin case for mandatory subjective-duration disclosure in Keystone engagement after-action reports. Three hunters classified [Psychic Displacement — Sealed]; cited in training materials on acceptable engagement trade-offs without detail. *→ `systems/Monsters.md` — Keystone Monsters: Dream/Nightmare; `world/history/Fifth-Era.md` — The Dreaming of Valcrest*
+- **The Valcrest Engagement Standards** — Origin case for mandatory subjective-duration disclosure in Keystone engagement after-action reports. Three hunters classified [Psychic Displacement — Sealed]; cited in training materials on acceptable engagement trade-offs without detail. *→ `systems/Monsters.md` — Keystone Monsters: Dream/Nightmare*
 
 ---
 

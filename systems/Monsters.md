@@ -181,7 +181,7 @@ Beings that can age targets to dust or revert them to infancy. Temporal Keystone
 
 Monsters that can warp space to create portals or crush enemies with gravity. Spatial Keystone specimens are the most tactically dangerous class for standard response teams due to their ability to instantaneously reposition, create traversal barriers, and alter local gravitational fields during engagement. Void Reachers in particular exhibit documented behavior of opening one-way spatial apertures mid-combat — hunters who have entered these apertures have not returned.
 
-Standard engagement protocol for Spatial specimens includes a minimum of two Spatial Magic practitioners on the Strike Team, whose primary function is aperture monitoring and closure. Archon Dravenmore's Hexline architecture is credited with reducing Spatial specimen fatalities since adoption. Cross-Reference: *systems/arcane/Keystone.md — Spatial Magic; world/history/Seventh-Era.md — Archon Dravenmore*.
+Standard engagement protocol for Spatial specimens includes a minimum of two Spatial Magic practitioners on the Strike Team, whose primary function is aperture monitoring and closure. Archon Dravenmore's Hexline architecture is credited with reducing Spatial specimen fatalities since adoption. Cross-Reference: *systems/arcane/Keystone.md — Spatial Magic*.
 
 ### Cosmic — Star-Born Horrors
 
