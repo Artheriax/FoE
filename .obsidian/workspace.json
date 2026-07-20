@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "world/Layers/Layer-Minus-3.md",
+                "file": "world/Layers/Layer-Minus-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Layer-Minus-3"
+              "title": "Layer-Minus-1"
             }
           }
         ]
@@ -186,9 +186,9 @@
   },
   "active": "c04ca0005e03e3bd",
   "lastOpenFiles": [
+    "world/Layers/Layer-Minus-3.md",
     "world/Layers/Layer-Minus-2.md",
     "world/Layers/Layer-Minus-1.md",
-    "world/Layers/Layer-Minus-3.md",
     "world/Dimensions.md",
     "world/Culture.md",
     "world/Overview.md",

@@ -68,6 +68,33 @@
     "debugMode": false
   },
   "cachedCounts": {
+    "README.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 471,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.57,
+      "characterCount": 5053,
+      "nonWhitespaceCharacterCount": 4405,
+      "newlineCount": 59,
+      "readingTimeInMinutes": 1.7773584905660378,
+      "linkCount": 24,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1784397647576,
+      "modifiedDate": 1784397647576,
+      "sizeInBytes": 5075,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.57,
+        "wordCount": 471,
+        "characterCount": 5053,
+        "nonWhitespaceCharacterCount": 4405,
+        "newlineCount": 59
+      }
+    },
     "world/Races.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -76,7 +103,7 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 29.903333333333332,
-      "characterCount": 64203,
+      "characterCount": 63815,
       "nonWhitespaceCharacterCount": 54397,
       "newlineCount": 389,
       "readingTimeInMinutes": 33.85283018867924,
@@ -87,13 +114,13 @@
         "Racial Hierarchy"
       ],
       "createdDate": 1784397647585,
-      "modifiedDate": 1784397647586,
-      "sizeInBytes": 64637,
+      "modifiedDate": 1784418071631,
+      "sizeInBytes": 64244,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 29.903333333333332,
         "wordCount": 8971,
-        "characterCount": 64203,
+        "characterCount": 63815,
         "nonWhitespaceCharacterCount": 54397,
         "newlineCount": 389
       },
@@ -136,7 +163,7 @@
         "noteCount": 1,
         "pageCount": 4.663333333333333,
         "wordCount": 1399,
-        "characterCount": 9927,
+        "characterCount": 9839,
         "nonWhitespaceCharacterCount": 8321,
         "newlineCount": 89
       },
@@ -153,68 +180,18 @@
         ]
       }
     },
-    "world/Layers/Layer-Minus-1.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 6062,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 20.206666666666667,
-      "characterCount": 37461,
-      "nonWhitespaceCharacterCount": 31219,
-      "newlineCount": 166,
-      "readingTimeInMinutes": 22.87547169811321,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "The Magical Layer",
-        "First Underworld Layer",
-        "Layer -1"
-      ],
-      "createdDate": 1784397647584,
-      "modifiedDate": 1784422929631,
-      "sizeInBytes": 37814,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 20.206666666666667,
-        "wordCount": 6062,
-        "characterCount": 37626,
-        "nonWhitespaceCharacterCount": 31219,
-        "newlineCount": 166
-      },
-      "frontmatter": {
-        "type": "layer",
-        "category": "layer-minus-1",
-        "tags": [
-          "layer",
-          "magical-layer",
-          "lords",
-          "fire",
-          "stone",
-          "decay",
-          "sea",
-          "rewrite-v6"
-        ],
-        "aliases": [
-          "The Magical Layer",
-          "First Underworld Layer",
-          "Layer -1"
-        ]
-      }
-    },
     "world/Layers/Layer-Minus-3.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 8778,
+      "wordCount": 9635,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 29.26,
-      "characterCount": 50255,
-      "nonWhitespaceCharacterCount": 41233,
-      "newlineCount": 164,
-      "readingTimeInMinutes": 33.12452830188679,
+      "pageCount": 32.11666666666667,
+      "characterCount": 54975,
+      "nonWhitespaceCharacterCount": 45080,
+      "newlineCount": 179,
+      "readingTimeInMinutes": 36.35849056603774,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [
@@ -223,15 +200,15 @@
         "Layer -3"
       ],
       "createdDate": 1784397647585,
-      "modifiedDate": 1784422737567,
-      "sizeInBytes": 50737,
+      "modifiedDate": 1784482198818,
+      "sizeInBytes": 55477,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 29.34,
-        "wordCount": 8802,
-        "characterCount": 50603,
-        "nonWhitespaceCharacterCount": 41388,
-        "newlineCount": 169
+        "pageCount": 32.11666666666667,
+        "wordCount": 9635,
+        "characterCount": 54975,
+        "nonWhitespaceCharacterCount": 45080,
+        "newlineCount": 179
       },
       "frontmatter": {
         "type": "layer",
@@ -240,9 +217,9 @@
           "layer",
           "primal",
           "desert",
+          "hunger",
           "war",
-          "fear",
-          "chaos",
+          "brutality",
           "lords",
           "rewrite-v6"
         ],
@@ -278,11 +255,11 @@
       "sizeInBytes": 48232,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 26.466666666666665,
-        "wordCount": 7940,
-        "characterCount": 48194,
-        "nonWhitespaceCharacterCount": 39819,
-        "newlineCount": 203
+        "pageCount": 26.373333333333335,
+        "wordCount": 7912,
+        "characterCount": 47775,
+        "nonWhitespaceCharacterCount": 39631,
+        "newlineCount": 198
       },
       "frontmatter": {
         "type": "layer",
@@ -303,6 +280,56 @@
           "The Cursed Layer",
           "The Second Negative Layer",
           "Layer -2"
+        ]
+      }
+    },
+    "world/Layers/Layer-Minus-1.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 6062,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 20.206666666666667,
+      "characterCount": 37461,
+      "nonWhitespaceCharacterCount": 31219,
+      "newlineCount": 166,
+      "readingTimeInMinutes": 22.87547169811321,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "The Magical Layer",
+        "First Underworld Layer",
+        "Layer -1"
+      ],
+      "createdDate": 1784397647584,
+      "modifiedDate": 1784422929631,
+      "sizeInBytes": 37814,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 20.206666666666667,
+        "wordCount": 6062,
+        "characterCount": 37461,
+        "nonWhitespaceCharacterCount": 31219,
+        "newlineCount": 166
+      },
+      "frontmatter": {
+        "type": "layer",
+        "category": "layer-minus-1",
+        "tags": [
+          "layer",
+          "magical-layer",
+          "lords",
+          "fire",
+          "stone",
+          "decay",
+          "sea",
+          "rewrite-v6"
+        ],
+        "aliases": [
+          "The Magical Layer",
+          "First Underworld Layer",
+          "Layer -1"
         ]
       }
     },
@@ -331,7 +358,7 @@
         "noteCount": 1,
         "pageCount": 14.176666666666666,
         "wordCount": 4253,
-        "characterCount": 31174,
+        "characterCount": 30826,
         "nonWhitespaceCharacterCount": 26171,
         "newlineCount": 349
       },
@@ -420,7 +447,7 @@
         "noteCount": 1,
         "pageCount": 9.396666666666667,
         "wordCount": 2819,
-        "characterCount": 21317,
+        "characterCount": 21148,
         "nonWhitespaceCharacterCount": 18142,
         "newlineCount": 170
       },
@@ -438,364 +465,6 @@
           "Society",
           "Daily Life",
           "Customs"
-        ]
-      }
-    },
-    "README.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 471,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.57,
-      "characterCount": 5053,
-      "nonWhitespaceCharacterCount": 4405,
-      "newlineCount": 59,
-      "readingTimeInMinutes": 1.7773584905660378,
-      "linkCount": 24,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1784397647576,
-      "modifiedDate": 1784397647576,
-      "sizeInBytes": 5075,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.57,
-        "wordCount": 471,
-        "characterCount": 5053,
-        "nonWhitespaceCharacterCount": 4405,
-        "newlineCount": 59
-      }
-    },
-    "systems/Monsters.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 3857,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 12.856666666666667,
-      "characterCount": 29592,
-      "nonWhitespaceCharacterCount": 25169,
-      "newlineCount": 259,
-      "readingTimeInMinutes": 14.554716981132076,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "Bestiary",
-        "Creatures"
-      ],
-      "createdDate": 1784397647581,
-      "modifiedDate": 1784397647581,
-      "sizeInBytes": 29889,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 12.856666666666667,
-        "wordCount": 3857,
-        "characterCount": 29592,
-        "nonWhitespaceCharacterCount": 25169,
-        "newlineCount": 259
-      },
-      "frontmatter": {
-        "type": "system",
-        "category": "mechanics",
-        "tags": [
-          "monsters",
-          "beasts",
-          "essence",
-          "forced-growth",
-          "bestiary"
-        ],
-        "aliases": [
-          "Bestiary",
-          "Creatures"
-        ]
-      }
-    },
-    "systems/Arcane.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 344,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.1466666666666667,
-      "characterCount": 3043,
-      "nonWhitespaceCharacterCount": 2624,
-      "newlineCount": 32,
-      "readingTimeInMinutes": 1.2981132075471697,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": [
-        "Magic Schools",
-        "Spells"
-      ],
-      "createdDate": 1784397647580,
-      "modifiedDate": 1784397647580,
-      "sizeInBytes": 3167,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.1466666666666667,
-        "wordCount": 344,
-        "characterCount": 3043,
-        "nonWhitespaceCharacterCount": 2624,
-        "newlineCount": 32
-      },
-      "frontmatter": {
-        "type": "system",
-        "category": "magic",
-        "tags": [
-          "magic",
-          "arcane",
-          "schools",
-          "mechanics"
-        ],
-        "aliases": [
-          "Magic Schools",
-          "Spells"
-        ]
-      }
-    },
-    "systems/Cosmology.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 4403,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 14.676666666666666,
-      "characterCount": 27691,
-      "nonWhitespaceCharacterCount": 22958,
-      "newlineCount": 154,
-      "readingTimeInMinutes": 16.61509433962264,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "Layered Universe",
-        "The Strata",
-        "FoE Cosmology"
-      ],
-      "createdDate": 1784397647580,
-      "modifiedDate": 1784397647580,
-      "sizeInBytes": 27985,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 14.676666666666666,
-        "wordCount": 4403,
-        "characterCount": 27691,
-        "nonWhitespaceCharacterCount": 22958,
-        "newlineCount": 154
-      },
-      "frontmatter": {
-        "type": "cosmology",
-        "category": "structure",
-        "tags": [
-          "cosmology",
-          "layers",
-          "lords",
-          "universe",
-          "rewrite-v6"
-        ],
-        "aliases": [
-          "Layered Universe",
-          "The Strata",
-          "FoE Cosmology"
-        ]
-      }
-    },
-    "systems/arcane/Keystone.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 468,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.56,
-      "characterCount": 3699,
-      "nonWhitespaceCharacterCount": 3126,
-      "newlineCount": 53,
-      "readingTimeInMinutes": 1.7660377358490567,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1784397647582,
-      "modifiedDate": 1784397647583,
-      "sizeInBytes": 3823,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.56,
-        "wordCount": 468,
-        "characterCount": 3699,
-        "nonWhitespaceCharacterCount": 3126,
-        "newlineCount": 53
-      },
-      "frontmatter": {
-        "type": "magic-school",
-        "category": "arcane",
-        "tags": [
-          "magic",
-          "arcane",
-          "keystone",
-          "temporal",
-          "spatial",
-          "cosmic"
-        ]
-      }
-    },
-    "systems/arcane/Holy-Unholy.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 589,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.9633333333333334,
-      "characterCount": 4448,
-      "nonWhitespaceCharacterCount": 3720,
-      "newlineCount": 67,
-      "readingTimeInMinutes": 2.2226415094339624,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1784397647582,
-      "modifiedDate": 1784397647582,
-      "sizeInBytes": 4572,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.9633333333333334,
-        "wordCount": 589,
-        "characterCount": 4448,
-        "nonWhitespaceCharacterCount": 3720,
-        "newlineCount": 67
-      },
-      "frontmatter": {
-        "type": "magic-school",
-        "category": "arcane",
-        "tags": [
-          "magic",
-          "arcane",
-          "holy",
-          "unholy",
-          "luminancy",
-          "umbraturgy"
-        ]
-      }
-    },
-    "systems/arcane/Elemental.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 697,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.3233333333333333,
-      "characterCount": 5811,
-      "nonWhitespaceCharacterCount": 4944,
-      "newlineCount": 87,
-      "readingTimeInMinutes": 2.630188679245283,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1784397647581,
-      "modifiedDate": 1784397647581,
-      "sizeInBytes": 5926,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.3233333333333333,
-        "wordCount": 697,
-        "characterCount": 5811,
-        "nonWhitespaceCharacterCount": 4944,
-        "newlineCount": 87
-      },
-      "frontmatter": {
-        "type": "magic-school",
-        "category": "arcane",
-        "tags": [
-          "magic",
-          "arcane",
-          "elemental",
-          "basic-schools"
-        ]
-      }
-    },
-    "systems/arcane/Forbidden.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1256,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 4.1866666666666665,
-      "characterCount": 9768,
-      "nonWhitespaceCharacterCount": 8341,
-      "newlineCount": 91,
-      "readingTimeInMinutes": 4.739622641509434,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "Forbidden Schools"
-      ],
-      "createdDate": 1784397647582,
-      "modifiedDate": 1784397647582,
-      "sizeInBytes": 9929,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 4.1866666666666665,
-        "wordCount": 1256,
-        "characterCount": 9768,
-        "nonWhitespaceCharacterCount": 8341,
-        "newlineCount": 91
-      },
-      "frontmatter": {
-        "type": "magic-school",
-        "category": "arcane",
-        "tags": [
-          "magic",
-          "arcane",
-          "forbidden",
-          "sealed"
-        ],
-        "aliases": [
-          "Forbidden Schools"
-        ]
-      }
-    },
-    "systems/arcane/Echo-Enchantment.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1087,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.6233333333333335,
-      "characterCount": 9169,
-      "nonWhitespaceCharacterCount": 7816,
-      "newlineCount": 143,
-      "readingTimeInMinutes": 4.10188679245283,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1784397647581,
-      "modifiedDate": 1784397647581,
-      "sizeInBytes": 9288,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 3.6233333333333335,
-        "wordCount": 1087,
-        "characterCount": 9169,
-        "nonWhitespaceCharacterCount": 7816,
-        "newlineCount": 143
-      },
-      "frontmatter": {
-        "type": "magic-school",
-        "category": "arcane",
-        "tags": [
-          "magic",
-          "arcane",
-          "echo",
-          "enchantment",
-          "utilities"
         ]
       }
     },
@@ -1067,123 +736,334 @@
         ]
       }
     },
-    "000-Dashboard.md": {
+    "systems/Monsters.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 249,
+      "wordCount": 3857,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.83,
-      "characterCount": 2288,
-      "nonWhitespaceCharacterCount": 1969,
-      "newlineCount": 33,
-      "readingTimeInMinutes": 0.939622641509434,
-      "linkCount": 15,
+      "pageCount": 12.856666666666667,
+      "characterCount": 29592,
+      "nonWhitespaceCharacterCount": 25169,
+      "newlineCount": 259,
+      "readingTimeInMinutes": 14.554716981132076,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": [
-        "Home",
-        "Start Here",
-        "Root Index"
+        "Bestiary",
+        "Creatures"
       ],
-      "createdDate": 1784397647575,
-      "modifiedDate": 1784397647576,
-      "sizeInBytes": 2424,
+      "createdDate": 1784397647581,
+      "modifiedDate": 1784397647581,
+      "sizeInBytes": 29889,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.83,
-        "wordCount": 249,
-        "characterCount": 2288,
-        "nonWhitespaceCharacterCount": 1969,
-        "newlineCount": 33
+        "pageCount": 12.856666666666667,
+        "wordCount": 3857,
+        "characterCount": 29592,
+        "nonWhitespaceCharacterCount": 25169,
+        "newlineCount": 259
       },
       "frontmatter": {
-        "type": "dashboard",
+        "type": "system",
+        "category": "mechanics",
         "tags": [
-          "dashboard",
-          "map-of-content",
-          "MOC",
-          "root"
+          "monsters",
+          "beasts",
+          "essence",
+          "forced-growth",
+          "bestiary"
         ],
         "aliases": [
-          "Home",
-          "Start Here",
-          "Root Index"
+          "Bestiary",
+          "Creatures"
         ]
       }
     },
-    "obsidian-templates/Character-Template.md": {
+    "systems/Cosmology.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 96,
+      "wordCount": 4403,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.32,
-      "characterCount": 805,
-      "nonWhitespaceCharacterCount": 655,
-      "newlineCount": 26,
-      "readingTimeInMinutes": 0.3622641509433962,
+      "pageCount": 14.676666666666666,
+      "characterCount": 27691,
+      "nonWhitespaceCharacterCount": 22958,
+      "newlineCount": 154,
+      "readingTimeInMinutes": 16.61509433962264,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1784397647577,
-      "modifiedDate": 1784397647577,
-      "sizeInBytes": 920,
+      "aliases": [
+        "Layered Universe",
+        "The Strata",
+        "FoE Cosmology"
+      ],
+      "createdDate": 1784397647580,
+      "modifiedDate": 1784397647580,
+      "sizeInBytes": 27985,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.32,
-        "wordCount": 96,
-        "characterCount": 805,
-        "nonWhitespaceCharacterCount": 655,
-        "newlineCount": 26
+        "pageCount": 14.676666666666666,
+        "wordCount": 4403,
+        "characterCount": 27691,
+        "nonWhitespaceCharacterCount": 22958,
+        "newlineCount": 154
       },
       "frontmatter": {
-        "type": "character",
-        "name": "{{title}}",
-        "race": "Unknown",
-        "status": "Alive",
+        "type": "cosmology",
+        "category": "structure",
         "tags": [
-          "character",
-          "_wip"
+          "cosmology",
+          "layers",
+          "lords",
+          "universe",
+          "rewrite-v6"
+        ],
+        "aliases": [
+          "Layered Universe",
+          "The Strata",
+          "FoE Cosmology"
         ]
       }
     },
-    "obsidian-templates/Organization-Template.md": {
+    "systems/Arcane.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 90,
+      "wordCount": 344,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.3,
-      "characterCount": 826,
-      "nonWhitespaceCharacterCount": 684,
-      "newlineCount": 25,
-      "readingTimeInMinutes": 0.33962264150943394,
+      "pageCount": 1.1466666666666667,
+      "characterCount": 3043,
+      "nonWhitespaceCharacterCount": 2624,
+      "newlineCount": 32,
+      "readingTimeInMinutes": 1.2981132075471697,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": [
+        "Magic Schools",
+        "Spells"
+      ],
+      "createdDate": 1784397647580,
+      "modifiedDate": 1784397647580,
+      "sizeInBytes": 3167,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.1466666666666667,
+        "wordCount": 344,
+        "characterCount": 3043,
+        "nonWhitespaceCharacterCount": 2624,
+        "newlineCount": 32
+      },
+      "frontmatter": {
+        "type": "system",
+        "category": "magic",
+        "tags": [
+          "magic",
+          "arcane",
+          "schools",
+          "mechanics"
+        ],
+        "aliases": [
+          "Magic Schools",
+          "Spells"
+        ]
+      }
+    },
+    "systems/arcane/Holy-Unholy.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 589,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.9633333333333334,
+      "characterCount": 4448,
+      "nonWhitespaceCharacterCount": 3720,
+      "newlineCount": 67,
+      "readingTimeInMinutes": 2.2226415094339624,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1784397647578,
-      "modifiedDate": 1784397647578,
-      "sizeInBytes": 992,
+      "createdDate": 1784397647582,
+      "modifiedDate": 1784397647582,
+      "sizeInBytes": 4572,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.3,
-        "wordCount": 90,
-        "characterCount": 826,
-        "nonWhitespaceCharacterCount": 684,
-        "newlineCount": 25
+        "pageCount": 1.9633333333333334,
+        "wordCount": 589,
+        "characterCount": 4448,
+        "nonWhitespaceCharacterCount": 3720,
+        "newlineCount": 67
       },
       "frontmatter": {
-        "type": "organization",
-        "name": "{{title}}",
-        "faction-type": "Guild/Governing Body/Noble House",
-        "status": "Active",
+        "type": "magic-school",
+        "category": "arcane",
         "tags": [
-          "organization",
-          "faction",
-          "_wip"
+          "magic",
+          "arcane",
+          "holy",
+          "unholy",
+          "luminancy",
+          "umbraturgy"
+        ]
+      }
+    },
+    "systems/arcane/Keystone.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 468,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.56,
+      "characterCount": 3699,
+      "nonWhitespaceCharacterCount": 3126,
+      "newlineCount": 53,
+      "readingTimeInMinutes": 1.7660377358490567,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1784397647582,
+      "modifiedDate": 1784397647583,
+      "sizeInBytes": 3823,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.56,
+        "wordCount": 468,
+        "characterCount": 3699,
+        "nonWhitespaceCharacterCount": 3126,
+        "newlineCount": 53
+      },
+      "frontmatter": {
+        "type": "magic-school",
+        "category": "arcane",
+        "tags": [
+          "magic",
+          "arcane",
+          "keystone",
+          "temporal",
+          "spatial",
+          "cosmic"
+        ]
+      }
+    },
+    "systems/arcane/Forbidden.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1256,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.1866666666666665,
+      "characterCount": 9768,
+      "nonWhitespaceCharacterCount": 8341,
+      "newlineCount": 91,
+      "readingTimeInMinutes": 4.739622641509434,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "Forbidden Schools"
+      ],
+      "createdDate": 1784397647582,
+      "modifiedDate": 1784397647582,
+      "sizeInBytes": 9929,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 4.1866666666666665,
+        "wordCount": 1256,
+        "characterCount": 9768,
+        "nonWhitespaceCharacterCount": 8341,
+        "newlineCount": 91
+      },
+      "frontmatter": {
+        "type": "magic-school",
+        "category": "arcane",
+        "tags": [
+          "magic",
+          "arcane",
+          "forbidden",
+          "sealed"
+        ],
+        "aliases": [
+          "Forbidden Schools"
+        ]
+      }
+    },
+    "systems/arcane/Elemental.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 697,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.3233333333333333,
+      "characterCount": 5807,
+      "nonWhitespaceCharacterCount": 4941,
+      "newlineCount": 86,
+      "readingTimeInMinutes": 2.630188679245283,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1784397647581,
+      "modifiedDate": 1784397647581,
+      "sizeInBytes": 5926,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.3233333333333333,
+        "wordCount": 697,
+        "characterCount": 5807,
+        "nonWhitespaceCharacterCount": 4941,
+        "newlineCount": 86
+      },
+      "frontmatter": {
+        "type": "magic-school",
+        "category": "arcane",
+        "tags": [
+          "magic",
+          "arcane",
+          "elemental",
+          "basic-schools"
+        ]
+      }
+    },
+    "systems/arcane/Echo-Enchantment.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1087,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.6233333333333335,
+      "characterCount": 9169,
+      "nonWhitespaceCharacterCount": 7816,
+      "newlineCount": 143,
+      "readingTimeInMinutes": 4.10188679245283,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1784397647581,
+      "modifiedDate": 1784397647581,
+      "sizeInBytes": 9288,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 3.6233333333333335,
+        "wordCount": 1087,
+        "characterCount": 9169,
+        "nonWhitespaceCharacterCount": 7816,
+        "newlineCount": 143
+      },
+      "frontmatter": {
+        "type": "magic-school",
+        "category": "arcane",
+        "tags": [
+          "magic",
+          "arcane",
+          "echo",
+          "enchantment",
+          "utilities"
         ]
       }
     },
@@ -1229,6 +1109,126 @@
           "AI Rulebook",
           "State Tracker",
           "Core Memory"
+        ]
+      }
+    },
+    "obsidian-templates/Organization-Template.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 90,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.3,
+      "characterCount": 826,
+      "nonWhitespaceCharacterCount": 684,
+      "newlineCount": 25,
+      "readingTimeInMinutes": 0.33962264150943394,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1784397647578,
+      "modifiedDate": 1784397647578,
+      "sizeInBytes": 992,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.3,
+        "wordCount": 90,
+        "characterCount": 826,
+        "nonWhitespaceCharacterCount": 684,
+        "newlineCount": 25
+      },
+      "frontmatter": {
+        "type": "organization",
+        "name": "{{title}}",
+        "faction-type": "Guild/Governing Body/Noble House",
+        "status": "Active",
+        "tags": [
+          "organization",
+          "faction",
+          "_wip"
+        ]
+      }
+    },
+    "obsidian-templates/Character-Template.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 96,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.32,
+      "characterCount": 805,
+      "nonWhitespaceCharacterCount": 655,
+      "newlineCount": 26,
+      "readingTimeInMinutes": 0.3622641509433962,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1784397647577,
+      "modifiedDate": 1784397647577,
+      "sizeInBytes": 920,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.32,
+        "wordCount": 96,
+        "characterCount": 805,
+        "nonWhitespaceCharacterCount": 655,
+        "newlineCount": 26
+      },
+      "frontmatter": {
+        "type": "character",
+        "name": "{{title}}",
+        "race": "Unknown",
+        "status": "Alive",
+        "tags": [
+          "character",
+          "_wip"
+        ]
+      }
+    },
+    "000-Dashboard.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 249,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.83,
+      "characterCount": 2288,
+      "nonWhitespaceCharacterCount": 1969,
+      "newlineCount": 33,
+      "readingTimeInMinutes": 0.939622641509434,
+      "linkCount": 15,
+      "embedCount": 0,
+      "aliases": [
+        "Home",
+        "Start Here",
+        "Root Index"
+      ],
+      "createdDate": 1784397647575,
+      "modifiedDate": 1784397647576,
+      "sizeInBytes": 2424,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.83,
+        "wordCount": 249,
+        "characterCount": 2288,
+        "nonWhitespaceCharacterCount": 1969,
+        "newlineCount": 33
+      },
+      "frontmatter": {
+        "type": "dashboard",
+        "tags": [
+          "dashboard",
+          "map-of-content",
+          "MOC",
+          "root"
+        ],
+        "aliases": [
+          "Home",
+          "Start Here",
+          "Root Index"
         ]
       }
     }
